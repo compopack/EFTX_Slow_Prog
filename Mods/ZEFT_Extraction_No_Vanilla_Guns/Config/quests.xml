@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Extraction>
+<set xpath="//reward[@id='questRewardPipePistolBundle']/@id">questRewardEFTPistolBundle</set>
+<set xpath="//reward[@id='questRewardPipeShotgunBundle']/@id">questRewardEFTShotgunBundle</set>
+<set xpath="//reward[@id='questRewardPipeRifleBundle']/@id">questRewardEFTRifleBundle</set>
+<set xpath="//reward[@id='questRewardPipeMachineGunBundle']/@id">questRewardEFTMachineGunBundle</set>
+<set xpath="//reward[@id='questRewardPipeBatonBundle']/@id">questRewardAmmoBundle</set>
+</Extraction>

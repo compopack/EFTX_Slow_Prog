@@ -1,0 +1,29 @@
+<configs>
+	<insertAfter xpath="//crafting_skill[@name='craftingMachineGuns']">
+		<crafting_skill name="craftingAlcoholics" max_level="60" parent="attCrafting" name_key="crafting Alcoholics" desc_key="craftingAlcoholicsDesc" long_desc_key="craftingAlcoholicsLongDesc" icon="ui_game_symbol_tool_smithing">
+			<display_entry icon="liquorPevkoBeer" name_key="Pevko Beer" has_quality="false" unlock_level="10">
+				<unlock_entry item="liquorPevkoBeer" unlock_tier="1" />
+			</display_entry>
+			<display_entry icon="liquorVodka" name_key="Vodka" has_quality="false" unlock_level="20">
+				<unlock_entry item="liquorVodka" unlock_tier="1" />
+			</display_entry>
+			<display_entry icon="liquorDanJackiel" name_key="JD" has_quality="false" unlock_level="30">
+				<unlock_entry item="liquorDanJackiel" unlock_tier="1" />
+			</display_entry>
+			<display_entry icon="liquorMoonshine" name_key="Moonshine" has_quality="false" unlock_level="40">
+				<unlock_entry item="liquorMoonshine" unlock_tier="1" />
+			</display_entry>
+			<display_entry icon="drinkKvass" name_key="Kvass" has_quality="false" unlock_level="60">
+				<unlock_entry item="drinkKvass" unlock_tier="1" />
+			</display_entry>
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="10,60" value="1" tags="liquorPevkoBeer"/> 
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="20,60" value="1" tags="liquorVodka"/> 
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="30,60" value="1" tags="liquorDanJackiel"/> 
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="40,60" value="1" tags="liquorMoonshine"/> 
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="60,60" value="1" tags="drinkKvass"/>
+				</effect_group>		
+		</crafting_skill>
+		
+</insertAfter>	
+</configs>

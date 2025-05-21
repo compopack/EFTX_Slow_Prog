@@ -1,0 +1,2765 @@
+Key,english
+firemode_fa,"[D3CE1D]Full Auto[-]"
+firemode_2rb,"[D3CE1D]2-Round Burst[-]"
+firemode_3rb,"[D3CE1D]3-Round Burst[-]"
+firemode_5rb,"[D3CE1D]5-Round Burst[-]"
+firemode_sa,"[D3CE1D]Semi Auto[-]"
+
+gunppsh41,"PPSh-41"
+gunppsh41Desc,"PPSh-41 Submachine Gun\n\nUses Ammo Type: [D3CE1D]7.62×25[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunpp9klin,"PP-9 'Klin'"
+gunpp9klinDesc,"PP-9 'Klin' Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×18[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp5k,"MP5K"
+gunmp5kDesc,"HK MP5K Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp5,"[09FF00]MP5[-]"
+gunmp5Desc,"HK MP5 Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers and C-Mag."
+gunuzi,"[09FF00]UZI[-]"
+gunuziDesc,"IWI UZI Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunpp19vityaz,"[09FF00]PP-19-01 'Vityaz'[-]"
+gunpp19vityazDesc,"PP-19-01 'Vityaz' Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunmp9,"[004CFF]MP9-N[-]"
+gunmp9Desc,"B&T MP9-N Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunuziprosmg,"[004CFF]UZI PRO[-]"
+gunuziprosmgDesc,"IWI UZI PRO Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp5sd,"[004CFF]MP5SD[-]"
+gunmp5sdDesc,"HK MP5SD Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunvector9,"[BB00FF]Vector 9×19[-]"
+gunvector9Desc,"TDI KRISS Vector Gen.2 Submachine Gun (9mm)\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmpx,"[BB00FF]SIG MPX[-]"
+gunmpxDesc,"SIG MPX Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunstm9,"[BB00FF]STM-9[-]"
+gunstm9Desc,"Soyuz-TM STM-9 Gen.2 Carbine\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunsr2mveresk,"[004CFF]SR-2M 'Veresk'[-]"
+gunsr2mvereskDesc,"SR-2M 'Veresk' Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×21[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunpp19bizon,"[09FF00]PP-19 'Bizon'[-]"
+gunpp19bizonDesc,"PP-19 'Bizon' Submachine Gun\n\nUses Ammo Type: [D3CE1D]9×18[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunump45,"[09FF00]UMP 45[-]"
+gunump45Desc,"HK UMP 45 Submachine Gun\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunthompson,"[004CFF]Thompson[-]"
+gunthompsonDesc,"Colt Thompson Submachine Gun\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunvector45,"[BB00FF]Vector .45 ACP[-]"
+gunvector45Desc,"TDI KRISS Vector Gen.2 Submachine Gun (.45ACP)\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp7,"[004CFF]MP7A1[-]"
+gunmp7Desc,"HK MP7A1 Submachine Gun\n\nUses Ammo Type: [D3CE1D]4.6×30[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunp90,"[004CFF]P90[-]"
+gunp90Desc,"FN P90 Submachine Gun\n\nUses Ammo Type: [D3CE1D]5.7×28[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+guntokarevtt,"TT-33"
+guntokarevttDesc,"Tokarev TT-33 Pistol\n\nUses Ammo Type: [D3CE1D]7.62×25[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+guntokarevgold,"[FFDB1A]TT-33 Golden Pistol[-]"
+guntokarevgoldDesc,"Tokarev TT-33 Pistol [FFDB1A]Golden Version[-]\n\nUses Ammo Type: [D3CE1D]7.62×25[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\n[FFDB1A]One tap, two rounds.[-]"
+guntokarevmachine,"TT-33 Automatic"
+guntokarevmachineDesc,"Tokarev TT-33 Pistol Machine Pistol\n\nUses Ammo Type: [D3CE1D]7.62×25[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunpb,"PB"
+gunpbDesc,"PB Silenced Pistol\n\nUses Ammo Type: [D3CE1D]9×18[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunpmalphadog,"PM"
+gunpmalphadogDesc,"Makarov PM Alphadog Pistol\n\nUses Ammo Type: [D3CE1D]9×18[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunstechkin,"Stechkin APS"
+gunstechkinDesc,"Stechkin APS Machine Pistol\n\nUses Ammo Type: [D3CE1D]9×18[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunglock17,"Glock 17"
+gunglock17Desc,"Glock 17 Pistol\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunp226,"P226R"
+gunp226Desc,"SIG P226R Pistol\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm9a3,"M9A3"
+gunm9a3Desc,"Beretta M9A3 Pistol\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunglock18c,"Glock 18C"
+gunglock18cDesc,"Glock 18C Machine Pistol\n\nUses Ammo Type: [D3CE1D]9×19[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunsr1mp,"SR-1MP"
+gunsr1mpDesc,"Serdyukov SR-1MP Gyurza Pistol\n\nUses Ammo Type: [D3CE1D]9×21[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunusp45tac,"USP 45"
+gunusp45tacDesc,"HK USP 45 Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm1911,"M1911"
+gunm1911Desc,"Colt M1911A1 Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm45,"M45A1"
+gunm45Desc,"Colt M45A1 Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunusp45match,"USP 45"
+gunusp45matchDesc,"HK USP Match Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunfiveseven,"FN Five-SeveN"
+gunfivesevenDesc,"FN Five-SeveN MK2 Pistol\n\nUses Ammo Type: [D3CE1D]5.7×28[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gundeserteagle,"Desert Eagle L6"
+gundeserteagleDesc,"Desert Eagle Pistol\n\nUses Ammo Type: [D3CE1D].50AE[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunrsh12,"RSh-12"
+gunrsh12Desc,"RSh-12 Revolver\n\nUses Ammo Type: [D3CE1D]12.7×55[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+gunks23,"[004CFF]KS-23M[-]"
+gunks23Desc,"TOZ KS-23M Pump-Action Shotgun\n\nUses Ammo Type: [D3CE1D]23×75[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp43,"MP-43-1C"
+gunmp43Desc,"MP-43-1C Double-Barrel Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmts255,"MTs-255-12"
+gunmts255Desc,"MTs-255-12 Revolver Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm590,"[09FF00]M590A1[-]"
+gunm590Desc,"Mossberg 590A1 Pump-Action Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm870,"[09FF00]M870[-]"
+gunm870Desc,"Remington Model 870 Pump-Action Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunksg12,"[09FF00]KSG-12[-]"
+gunksg12Desc,"Kel-Tec KSG Pump-Action Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp153,"[004CFF]MP-153[-]"
+gunmp153Desc,"MP-153 Semi-Automatic Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm3benelli,"[004CFF]M3 Benelli[-]"
+gunm3benelliDesc,"Benelli M3 Semi-Automatic Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunsaiga12,"[BB00FF]Saiga-12K[-]"
+gunsaiga12Desc,"Saiga-12K Semi-Automatic Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunAA12,"[BB00FF]AA-12[-]"
+gunAA12Desc,"MPS Auto Assault-12 Gen 2 Automatic Shotgun\n\nUses Ammo Type: [D3CE1D]12/70[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+gunadar,"[09FF00]ADAR[-]"
+gunadarDesc,"ADAR 2-15 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunauga3,"[004CFF]AUG A3[-]"
+gunauga3Desc,"STEYR AUG A3 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gung36kv2,"[004CFF]G36 KV2[-]"
+gung36kv2Desc,"HK G36 KV2 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm4a1,"[004CFF]M4A1[-]"
+gunm4a1Desc,"Colt M4A1 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunm16a4,"[004CFF]M16A4[-]"
+gunm16a4Desc,"Colt M16A4 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunl85a2,"[004CFF]L85A2[-]"
+gunl85a2Desc,"L85A2 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunmdr556,"[004CFF]MDR 5.56×45[-]"
+gunmdr556Desc,"Desert Tech MDR Assault Rifle (5.56)\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunhk416,"[BB00FF]HK416A5[-]"
+gunhk416Desc,"HK416A5 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunIWItavorx95,"[BB00FF]Tavor X95[-]"
+gunIWItavorx95Desc,"IWI Tavor X95 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunIWIcarmel,"[BB00FF]Carmel[-]"
+gunIWIcarmelDesc,"IWI Carmel Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunak300velociraptor,"[09FF00]Velociraptor[-]"
+gunak300velociraptorDesc,"Aklys Defense Velociraptor Assault Rifle\n\nUses Ammo Type: [D3CE1D].300 blackout[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunstar15,"[09FF00]ST AR-15[-]"
+gunstar15Desc,"ST AR-15 Assault Rifle\n\nUses Ammo Type: [D3CE1D].300 blackout[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunhoneybadger,"[004CFF]Honey Badger[-]"
+gunhoneybadgerDesc,"AAC Honey Badger Assault Rifle\n\nUses Ammo Type: [D3CE1D].300 blackout[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmcx,"[BB00FF]SIG MCX[-]"
+gunmcxDesc,"SIG MCX Assault Rifle\n\nUses Ammo Type: [D3CE1D].300 blackout[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm700,"[09FF00]M700[-]"
+gunm700Desc,"Remington Model 700 Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nSniper Bonus: Deals [4FBE28]50%[-] extra damage."
+gundvl10,"[004CFF]DVL-10 'Saboteur'[-]"
+gundvl10Desc,"DVL-10 'Saboteur' Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nSniper Bonus: Deals [4FBE28]100%[-] extra damage."
+gunt5000,"[004CFF]T-5000[-]"
+gunt5000Desc,"Orsis T-5000 Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nSniper Bonus: Deals [4FBE28]100%[-] extra damage."
+gunFALsa58dmr,"[004CFF]FN FAL[-]"
+gunFALsa58dmrDesc,"FN FAL Marksman Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunm1aEBR,"[004CFF]M1A EBR[-]"
+gunm1aEBRDesc,"Springfield Armory M1A Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunrfb,"[004CFF]RFB[-]"
+gunrfbDesc,"Kel-Tec RFB Marksman Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunsr25,"[BB00FF]SR-25[-]"
+gunsr25Desc,"KAC SR-25 Marksman Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunrsass,"[BB00FF]RSASS[-]"
+gunrsassDesc,"Remington R11 RSASS Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunhkg28,"[BB00FF]G28[-]"
+gunhkg28Desc,"HK G28 Marksman Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunFALsa58br,"[004CFF]FN FAL[-]"
+gunFALsa58brDesc,"FN FAL Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmdr762,"[004CFF]MDR 7.62×51[-]"
+gunmdr762Desc,"Desert Tech MDR Assault Rifle (7.62)\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunscarh,"[BB00FF]SCAR-H[-]"
+gunscarhDesc,"FN SCAR-H Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunhk417,"[BB00FF]HK417[-]"
+gunhk417Desc,"HK 417 Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm14sass,"[FFD700]M14 SASS[-]"
+gunm14sassDesc,"Springfield Armory M14 Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmcxspear,"[FFD700]SIG MCX Spear[-]"
+gunmcxspearDesc,"SIG MCX Spear Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmp18,"MP-18"
+gunmp18Desc,"MP-18 Single-Shot Rifle\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmosin,"[09FF00]Mosin-Nagant[-]"
+gunmosinDesc,"Mosin-Nagant Sniper\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nSniper Bonus: Deals [4FBE28]50%[-] extra damage."
+gunsv98,"[004CFF]SV-98[-]"
+gunsv98Desc,"SV-98 Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nSniper Bonus: Deals [4FBE28]100%[-] extra damage."
+gunsvt,"[004CFF]SVT-40[-]"
+gunsvtDesc,"Tokarev SVT-40 Sniper\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunsvd,"[004CFF]SVDS 'Dragunow'[-]"
+gunsvdDesc,"SVDS Dragunow Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage."
+gunash12,"[BB00FF]ASh-12[-]"
+gunash12Desc,"ASh-12 Assault Rifle\n\nUses Ammo Type: [D3CE1D]12.7×55[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunrpk16,"[BB00FF]RPK-16[-]"
+gunrpk16Desc,"RPK-16 Light Machine Gun\n\nUses Ammo Type: [D3CE1D]5.45×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunfnminimi,"[FFD700]FN Minimi[-]"
+gunfnminimiDesc,"FN Minimi Light Machine Gun\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunrpd,"[BB00FF]RPD[-]"
+gunrpdDesc,"Degtyarev RPD Machine Gun\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a B-25U grip to equip flashlights/lasers."
+gunm60e6,"[FFD700]M60E6[-]"
+gunm60e6Desc,"M60E6 Machine Gun\n\nUses Ammo Type: [D3CE1D]7.62×51[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunpkp,"[FFD700]PKP Pecheneg[-]"
+gunpkpDesc,"Kalashnikov PKP Infantry Machine Gun\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunaks74un,"[09FF00]AKS-74UN[-]"
+gunaks74unDesc,"Kalashnikov AKS-74UN Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.45×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunak74n,"[09FF00]AK-74N[-]"
+gunak74nDesc,"Kalashnikov AK-74N Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.45×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunak74m,"[004CFF]AK-74M[-]"
+gunak74mDesc,"Kalashnikov AK-74M Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.45×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunak12,"[BB00FF]AK-12[-]"
+gunak12Desc,"Kalashnikov AK-12 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.45×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunak107,"[BB00FF]AK-107[-]"
+gunak107Desc,"Kalashniswoop AK-107 Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.45×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunsks,"[09FF00]SKS[-]"
+gunsksDesc,"Simonov SKS Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunakmn,"[09FF00]AKMN[-]"
+gunakmnDesc,"Kalashnikov AKMN Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunak103,"[004CFF]AK-103[-]"
+gunak103Desc,"Kalashnikov AK-103 Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers."
+gunak109,"[BB00FF]AK-109[-]"
+gunak109Desc,"Kalashniswoop AK-109 Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunrd704,"[BB00FF]RD-704[-]"
+gunrd704Desc,"Rifle Dynamics RD-704 Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunmk47,"[BB00FF]Mk47 'Mutant'[-]"
+gunmk47Desc,"CMMG Mk47 Mutant Assault Rifle\n\nUses Ammo Type: [D3CE1D]7.62×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gun9a91,"[09FF00]9A-91[-]"
+gun9a91Desc,"9A-91 Assault Rifle\n\nUses Ammo Type: [D3CE1D]9×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunvss,"[004CFF]VSS Vintorez[-]"
+gunvssDesc,"VSS Vintorez Assault Rifle\n\nUses Ammo Type: [D3CE1D]9×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunasval,"[BB00FF]AS VAL[-]"
+gunasvalDesc,"AS VAL Assault Rifle\n\nUses Ammo Type: [D3CE1D]9×39[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunaxmc,"[BB00FF]AXMC[-]"
+gunaxmcDesc,"Accuracy International AXMC Sniper Rifle\n\nUses Ammo Type: [D3CE1D].338 Lapua Magnum[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nSniper Bonus: Deals [4FBE28]100%[-] extra damage."
+gunswordmk18,"[FFD700]Mk-18[-]"
+gunswordmk18Desc,"SWORD International Mk-18 Marksman Rifle\n\nUses Ammo Type: [D3CE1D].338 Lapua Magnum[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]100%[-] extra damage."
+
+gunfn40gl,"[09FF00]FN40GL[-]"
+gunfn40glDesc,"FN40GL Mk2 Grenade Launcher\n\nUses Ammo Type: [D3CE1D]40×46mm[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunchinalake,"[004CFF]China Lake[-]"
+gunchinalakeDesc,"NAWS China Lake Grenade Launcher\n\nUses Ammo Type: [D3CE1D]40×46mm[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+gunm32a1mgl,"[BB00FF]M32A1[-]"
+gunm32a1mglDesc,"Milkor M32A1 MSGL Grenade Launcher\n\nUses Ammo Type: [D3CE1D]40×46mm[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+modArmorHelmetLight,"Old Helmet Light"
+modArmorHelmetLight2,"Helmet Light"
+modArmorHelmetLight3,"[09FF00]'Lumen' Helmet Light[-]"
+modArmorHelmetLightDesc,"A old weak light source that can be installed into any head armor.\n\nUse the Light Source ([action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]) action to activate."
+modArmorHelmetLight2Desc,"A light source that can be installed into any head armor.\n\nUse the Light Source ([action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]) action to activate."
+modArmorHelmetLight3Desc,"A very bright light source that can be installed into any head armor.\n\nUse the Light Source ([action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]) action to activate."
+
+modbipodrailRexana,"[BB00FF]BT10 V8 Atlas Bipod[-]"
+modbipodrailRexanaDesc,"Weight: [4FBE28]0.310kg[-]\nErgonomics: [FF4F33]-10%[-] / [4FBE28]+25%[-] when deployed\nHipfire Accuracy: [FF4F33]-12%[-]\nRecoil: [4FBE28]-95%[-] when deployed\n\nCompatibility: most firearms"
+modgriphksturmgriff,"[09FF00]HK Sturmgriff[-]"
+modgriphksturmgriffDesc,"Weight: [4FBE28]0.070kg[-]\nErgonomics: [4FBE28]+7.5%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: General grip fits on most firearms. Some guns without a rail system require a rail handguard to equip grips."
+modgripmagpulrvg,"[004CFF]Magpul RVG[-]"
+modgripmagpulrvgDesc,"Weight: [4FBE28]0.080kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\n\nCompatibility: General grip fits on most firearms. Some guns without a rail system require a rail handguard to equip grips."
+modgripzenitrk1,"[BB00FF]Zenit RK-1 VG[-]"
+modgripzenitrk1Desc,"Weight: [4FBE28]0.170kg[-]\nErgonomics: [4FBE28]+30%[-]\nHipfire Accuracy: [4FBE28]+30%[-]\n\nCompatibility: General grip fits on most firearms. Some guns without a rail system require a rail handguard to equip grips."
+modgripzenitb25urk1,"[BB00FF]Zenit RK-1 (B-25U)[-]"
+modgripzenitb25urk1Desc,"Weight: [4FBE28]0.180kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+35%[-]\n\nCompatibility: General grip fits on most firearms. Some guns without a rail system require a rail handguard to equip grips."
+
+modscopePU3_5x,"[09FF00]PU 3.5x Scope[-]"
+modscopePU3_5xDesc,"Weight: [4FBE28]0.440kg[-]\n\nCompatibility: most firearms"
+modscopeaimpointAcroP1,"[09FF00]Aimpoint ACRO P-1 Reflex Sight[-]"
+modscopeaimpointAcroP1Desc,"Weight: [4FBE28]0.130kg[-]\n\nCompatibility: most firearms"
+modscopeaimpointMicroH2,"[09FF00]Aimpoint Micro H2 Reflex Sight[-]"
+modscopeaimpointMicroH2Desc,"Weight: [4FBE28]0.109kg[-]\n\nCompatibility: most firearms"
+modscopeaimpointMicroT1,"[09FF00]Aimpoint Micro T1 Reflex Sight[-]"
+modscopeaimpointMicroT1Desc,"Weight: [4FBE28]0.099kg[-]\n\nCompatibility: most firearms"
+modscopeBelOMOpk06,"[09FF00]BelOMO PK-06 Reflex Sight[-]"
+modscopeBelOMOpk06Desc,"Weight: [4FBE28]0.090kg[-]\n\nCompatibility: most firearms"
+modscopeburrisfastfire,"[09FF00]Burris Fastfire Reflex 3 Sight[-]"
+modscopeburrisfastfireDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms"
+modscopeSIGromeo4,"[09FF00]SIG SAUER ROMEO 4 Reflex Sight[-]"
+modscopeSIGromeo4Desc,"Weight: [4FBE28]0.104kg[-]\n\nCompatibility: most firearms"
+modscopeRMR,"[09FF00]Trijicon RMR Reflex Sight[-]"
+modscopeRMRDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms"
+modscopeleupolddeltapoint,"[09FF00]Leupold DeltaPoint Reflex Sight[-]"
+modscopeleupolddeltapointDesc,"Weight: [4FBE28]0.098kg[-]\n\nCompatibility: most firearms"
+modscopeAimPointCompM4,"[09FF00]AimPoint CompM4 Reflex Sight[-]"
+modscopeAimPointCompM4Desc,"Weight: [4FBE28]0.445kg[-]\n\nCompatibility: most firearms"
+modscopeAimPointPro,"[09FF00]AimPoint PRO Reflex Sight[-]"
+modscopeAimPointProDesc,"Weight: [4FBE28]0.345kg[-]\n\nCompatibility: most firearms"
+modscopeaksionEKP818,"[09FF00]Aksion Kobra EKP-8-18 Reflex Sight[-]"
+modscopeaksionEKP818Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: most firearms"
+modscopeaksionEKP1s03,"[09FF00]Aksion Kobra EKP-1S-03 Reflex Sight Dovetail[-]"
+modscopeaksionEKP1s03Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: most firearms"
+modscopeaksionEKP802,"[09FF00]Aksion Kobra EKP-8-02 Reflex Sight Dovetail[-]"
+modscopeaksionEKP802Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: most firearms"
+modscopeBelOMOdovetailPKAA,"[09FF00]BelOMO PK-AA Reflex Sight Dovetail[-]"
+modscopeBelOMOdovetailPKAADesc,"Weight: [4FBE28]0.450kg[-]\n\nCompatibility: most firearms"
+modscopeElcanSpecterHCO,"[09FF00]Elcan Specter HCO Holographic Sight[-]"
+modscopeElcanSpecterHCODesc,"Weight: [4FBE28]0.433kg[-]\n\nCompatibility: most firearms"
+modscopeLeapersUTG,"[09FF00]Leapers UTG Reflex Sight[-]"
+modscopeLeapersUTGDesc,"Weight: [4FBE28]0.227kg[-]\n\nCompatibility: most firearms"
+modscopeNPZPK1,"[09FF00]NPZ PK-1 Obzor Reflex Sight Dovetail[-]"
+modscopeNPZPK1Desc,"Weight: [4FBE28]0.520kg[-]\n\nCompatibility: most firearms"
+modscopeOKP7dovetail,"[09FF00]OKP-7 Reflex Sight Dovetail[-]"
+modscopeOKP7dovetailDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: most firearms"
+modscopeSIGRomeo8T,"[09FF00]SIG Sauer ROMEO8T Reflex Sight[-]"
+modscopeSIGRomeo8TDesc,"Weight: [4FBE28]0.388kg[-]\n\nCompatibility: most firearms"
+modscopeSRS02,"[09FF00]Trijicon SRS 02 Reflex Sight[-]"
+modscopeSRS02Desc,"Weight: [4FBE28]0.390kg[-]\n\nCompatibility: most firearms"
+modscopeValdayKrechet,"[09FF00]Valday Krechet Reflex Sight[-]"
+modscopeValdayKrechetDesc,"Weight: [4FBE28]0.350kg[-]\n\nCompatibility: most firearms"
+modscopeValdayPK120,"[09FF00]Valday PK-120 Reflex Sight[-]"
+modscopeValdayPK120Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms"
+modscopeVOMZPiladP1,"[09FF00]VOMZ Pilad P1x42 Reflex Sight[-]"
+modscopeVOMZPiladP1Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms"
+modscopeVortexRazorAMGUH1,"[09FF00]Vortex Razor AMG UH-1 Reflex Sight[-]"
+modscopeVortexRazorAMGUH1Desc,"Weight: [4FBE28]0.160kg[-]\n\nCompatibility: most firearms"
+modscopewalthermrsreflex,"[09FF00]Walther MRS Reflex Sight[-]"
+modscopewalthermrsreflexDesc,"Weight: [4FBE28]0.113kg[-]\n\nCompatibility: most firearms"
+modscopeWilcoxBossXeHP,"[09FF00]Wilcox BOSS Xe Reflex Sight[-]"
+modscopeWilcoxBossXeHPDesc,"Weight: [4FBE28]0.250kg[-]\n\nCompatibility: most firearms"
+modscopeokp7reflex,"[09FF00]OKP-7 Reflex Sight[-]"
+modscopeokp7reflexDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: most firearms"
+modscopeEOTech553holo,"[09FF00]EOTech 553[-]"
+modscopeEOTech553holoDesc,"Weight: [4FBE28]0.349kg[-]\n\nCompatibility: most firearms"
+modscopeFNP90ringreflex,"[004CFF]P90 Ring Reflex Sight[-]"
+modscopeFNP90ringreflexDesc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms"
+
+modscopeElcanSpecterDR,"[004CFF]ELCAN SpecterDR 1x/4x Scope[-]"
+modscopeElcanSpecterDRDesc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: most firearms"
+modscopeKibaArmsPrism,"[004CFF]Primary Arms Compact Prism 2.5x[-]"
+modscopeKibaArmsPrismDesc,"Weight: [4FBE28]0.432kg[-]\n\nCompatibility: most firearms"
+modscopeNPZ1p78,"[09FF00]NPZ 1P78-1 2.8x Scope Dovetail[-]"
+modscopeNPZ1p78Desc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: most firearms"
+???modscopeNPZ1p29,"NPZ 1P29 4x Scope Dovetail"
+modscopeNPZ1p29Desc,"Weight: [4FBE28]0.500kg[-]\n\nCompatibility: most firearms"
+modscopeBelOMOPSO1M2,"[09FF00]BelOMO PSO-1M2-1 4x24 Scope Dovetail[-]"
+modscopeBelOMOPSO1M2Desc,"Weight: [4FBE28]0.600kg[-]\n\nCompatibility: most firearms"
+modscopemonstrumcompact,"[09FF00]Monstrum Compact Scope[-]"
+modscopemonstrumcompactDesc,"Weight: [4FBE28]0.425kg[-]\n\nCompatibility: most firearms"
+modscopeSwampFoxPrism,"[09FF00]SwampFox Trihawk Prism 3x30 Scope[-]"
+modscopeSwampFoxPrismDesc,"Weight: [4FBE28]0.436kg[-]\n\nCompatibility: most firearms"
+modscopeeotechhhshybrid,"[004CFF]EOTech HHS Hybrid Sight[-]"
+modscopeeotechhhshybridDesc,"Weight: [4FBE28]0.635kg[-]\n\nCompatibility: most firearms"
+modscopeacogta01NSN4x32,"[004CFF]Trijicon ACOG TA01NSN 4x32 Scope[-]"
+modscopeacogta01NSN4x32Desc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms"
+modscopeacogta11D35x,"[004CFF]Trijicon ACOG TA11D 3.5x35 Scope[-]"
+modscopeacogta11D35xDesc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms"
+modscopeLeupoldMark4Hamr,"[004CFF]Leupold Mark 4 HAMR 4x24 Hybrid Scope[-]"
+modscopeLeupoldMark4HamrDesc,"Weight: [4FBE28]0.411kg[-]\n\nCompatibility: most firearms"
+modscopeSIGBravo4,"[004CFF]SIG Sauer BRAVO4 4x30 Scope[-]"
+modscopeSIGBravo4Desc,"Weight: [4FBE28]0.419kg[-]\n\nCompatibility: most firearms"
+modscopeValdayPS320,"[004CFF]Valday PS-320 1/6x Scope[-]"
+modscopeValdayPS320Desc,"Weight: [4FBE28]0.570kg[-]\n\nCompatibility: most firearms"
+modscopeSBPMII18x2430mm,"[004CFF]Schmidt & Bender PM II 1-8x24 Scope[-]"
+modscopeSBPMII18x2430mmDesc,"Weight: [4FBE28]1.139kg[-]\n\nCompatibility: most firearms"
+modscopeSBPMII320x5034mm,"[004CFF]Schmid & Bender PM II 3-20x50 Scope[-]"
+modscopeSBPMII320x5034mmDesc,"Weight: [4FBE28]1.240kg[-]\n\nCompatibility: most firearms"
+modscopeSBPMII525x5634mm,"[004CFF]Schmidt & Bender PM II 5-25x56 Scope[-]"
+modscopeSBPMII525x5634mmDesc,"Weight: [4FBE28]1.420kg[-]\n\nCompatibility: most firearms"
+modscopeBFTac3014x2430mm,"[004CFF]Burris Fullfield TAC30 1-4x24 Scope[-]"
+modscopeBFTac3014x2430mmDesc,"Weight: [4FBE28]0.726kg[-]\n\nCompatibility: most firearms"
+modscopeEOTVudu16x2430mm,"[004CFF]EOTech Vudu 1-6x24 Scope[-]"
+modscopeEOTVudu16x2430mmDesc,"Weight: [4FBE28]0.816kg[-]\n\nCompatibility: most firearms"
+modscopeLeupoldMark4LR30mm,"[004CFF]Leupold Mark4 LR 6.5-20x50 Scope[-]"
+modscopeLeupoldMark4LR30mmDesc,"Weight: [4FBE28]0.870kg[-]\n\nCompatibility: most firearms"
+modscopeMarchTactical30mm,"[004CFF]March Tactical 3-24x42 Scope[-]"
+modscopeMarchTactical30mmDesc,"Weight: [4FBE28]0.890kg[-]\n\nCompatibility: most firearms"
+modscopeSIGTango6T16x2430mm,"[004CFF]SIG Sauer TANGO6T 1-6x24 Scope[-]"
+modscopeSIGTango6T16x2430mmDesc,"Weight: [4FBE28]0.876kg[-]\n\nCompatibility: most firearms"
+modscopeRazorHDGen216x2430mm,"[004CFF]Vortex Razor HD Gen.2 1-6x24 Scope[-]"
+modscopeRazorHDGen216x2430mmDesc,"Weight: [4FBE28]0.820kg[-]\n\nCompatibility: most firearms"
+modscopeNFATACR735x5634mm,"[004CFF]Nightforce ATACR 7-35x56 Scope[-]"
+modscopeNFATACR735x5634mmDesc,"Weight: [4FBE28]1.363kg[-]\n\nCompatibility: most firearms"
+modscopeHensoldtFF416x5634mm,"[004CFF]Hensoldt FF 4-16x56 Scope[-]"
+modscopeHensoldtFF416x5634mmDesc,"Weight: [4FBE28]1.150kg[-]\n\nCompatibility: most firearms"
+modscopeNCStarADO,"[004CFF]NcSTAR ADO P4 3-9x42 Hybrid Scope[-]"
+modscopeNCStarADODesc,"Weight: [4FBE28]0.595kg[-]\n\nCompatibility: most firearms"
+modscopeKMZ1p69Weaver,"[004CFF]KMZ 1P69 3-10x Scope Weaver[-]"
+modscopeKMZ1p69WeaverDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: most firearms"
+modscopeKMZ1p69Dovetail,"[004CFF]KMZ 1P69 3-10x Scope Dovetail[-]"
+modscopeKMZ1p69DovetailDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: most firearms"
+
+modmagppsh41drum71,"PPSh-41 71-Round Drum Magazine"
+modmagttcustomdrum75,"TT-33 75-Round Drum Magazine"
+modmagpmmakeshiftdrum84,"PM/PB 84-Round Drum Magazine"
+modmagpp9extended30,"PP-9 30-Round Magazine"
+modmagpp9snaildrum90,"PP-9 90-Round Drum Magazine"
+modmagpp19vityazdrum50,"[004CFF]Vityaz 50-Round Drum Magazine[-]"
+modmagsr2mtape60,"[004CFF]SR-2M 60-Round Taped Magazine[-]"
+modmaguzi50std,"[004CFF]UZI 50-Round Magazine[-]"
+modmagmp5std30,"MP5 30-Round Magazine"
+modmagmp5xproductdrum50,"[004CFF]MP5 50-Round Drum Magazine[-]"
+modmagmp5Cmag100,"[BB00FF]MP5 100-Round C-Mag[-]"
+modmagmp9Cmag100,"[BB00FF]MP9 100-Round C-Mag[-]"
+modmagglock9x19bigstick33,"'Big Stick' Glock 33-Round Magazine (9mm)"
+modmagglock9x19sgmtdrum50,"[004CFF]Glock 50-Round Drum Magazine (9mm)[-]"
+modmagglock9x19Cmag100,"[BB00FF]Glock 100-Round C-Mag (9mm)[-]"
+modmagmpxbasepad41,"[BB00FF]MPX 41-Round Magazine[-]"
+modmagmpxf5mfgdrum50,"[BB00FF]MPX 50-Round Drum Magazine[-]"
+modmagmpxCmag100,"[BB00FF]MPX 100-Round C-Mag[-]"
+modmagump45casket60,"[004CFF]UMP 60-Round Casket Magazine[-]"
+modmagump45customCmag100,"[BB00FF]UMP 100-Round C-Mag[-]"
+modmagthompsondrum100,"[BB00FF]Thompson 100-Round Drum Magazine[-]"
+modmagglock45drum60,"[BB00FF]Glock 60-Round Drum Magazine (.45acp)[-]"
+modmagglock45Cmag100,"[BB00FF]Glock 100-Round C-Mag (.45acp)[-]"
+modmagmp7std40,"[004CFF]MP7 40-Round Standard Magazine[-]"
+modmagmp7box70,"[BB00FF]MP7 70-Round Box Magazine[-]"
+
+modmagak74std30,"[09FF00]AK-74 30-Round Magazine[-]"
+modmagAK74extended45,"[004CFF]AK-74 45-Round Magazine[-]"
+modmagAK74_6L31_60,"[BB00FF]AK-74 6L31 60-Round Magazine[-]"
+modmagRPK16drum95,"[FFD700]RPK-16 95-Round Drum Magazine[-]"
+modmagSKSextended35,"[09FF00]SKS 35-Round Magazine[-]"
+modmagSKSdrum75,"[BB00FF]SKS 75-Round Drum Magazine[-]"
+modmagakmstd30,"[09FF00]AK-47 30-Round Magazine[-]"
+modmagAK762extended40,"[004CFF]AK-47 40-Round Magazine[-]"
+modmagAK762molotdrum75,"[BB00FF]AK-47 Molot 75-Round Drum Magazine[-]"
+modmagAK762steeldrum100,"[FFD700]AK-47 100-Round Magazine[-]"
+modmag762x39RPDBox200,"[FFD700]RPD 200-Round Box Magazine[-]"
+modmag762NATOjunglefighter35,"[004CFF]Jungle Fighter 35-Round Magazine (7.62×51)[-]"
+modmagSA58FAL30,"[004CFF]SA58/FAL/SLR 30-Round Magazine (7.62×51)[-]"
+modmagSA58FALXproduct50,"[BB00FF]SA58/FAL X-FAL 50-Round Drum Magazine (7.62×51)[-]"
+modmag762NATOM14xproduct50,"[BB00FF]M14 X-14 50-Round Drum Magazine (7.62×51)[-]"
+modmag762NATOX25drum50,"[BB00FF]AR-10 X-25 50-Round Drum Magazine (7.62×51)[-]"
+modmag762NATOCmag100,"[FFD700]100-Round C-Mag (7.62×51)[-]"
+modmagM60TriBoxWelded250,"[FFD700]M60 250-Round Welded TriBox Magazine[-]"
+modmagAUGextended42,"[004CFF]AUG 42-Round Magazine[-]"
+modmagAUGdrum60,"[BB00FF]AUG 60-Round Drum Magazine[-]"
+modmagstanagstd30,"[09FF00]STANAG 30-Round Magazine[-]"
+modmagstanag556x45pmag40,"[004CFF]STANAG 40-Round Magazine[-]"
+modmagstanag556x45pmagd60,"[BB00FF]STANAG D-60 Drum Magazine[-]"
+modmagstanag556x45sf60,"[BB00FF]STANAG SureFire 60-Round Magazine[-]"
+modmagstanag556x45sf100,"[FFD700]STANAG SureFire 100-Round Magazine[-]"
+modmag556AKmolot45,"[004CFF]AK 5.56 Molot Arms 45-Round Magazine[-]"
+modmag762x54RPKBox200,"[FFD700]PKP 200-Round Box Magazine[-]"
+modmagSVDstd20,"[004CFF]SVDS 20-Round Magazine[-]"
+modmagSVDmakeshiftdrum50,"[BB00FF]SVDS 50-Round Magazine[-]"
+modmagvssval30,"[004CFF]AS VAL 30-Round Magazine[-]"
+modmagvssval45,"[BB00FF]AS VAL 45-Round Magazine[-]"
+modmagAsh12extended40,"[BB00FF]ASh-12 40-Round Magazine[-]"
+modmagAsh12extended60,"[FFD700]ASh-12 60-Round Magazine[-]"
+modmag338SwordMK18Pmag20,"[FFD700]Sword Mk-18 20-Round Magazine[-]"
+
+modmag_870_remington_magazine_extension_12g_10,"[09FF00]M870 11-Shell Magazine[-]"
+modmag_m3_benelli_std_12g_7,"[004CFF]M3 Benelli 7-Shell Magazine[-]"
+modmag_m3_tonisystem_magazine_extension_12g_13,"[004CFF]M3 Benelli 13-Shell Magazine[-]"
+modmag_mr153_izhmeh_12g_8,"[004CFF]MP-153 9-Shell Magazine[-]"
+modmag_saiga12_maxrounds_powermag_20_12x76_20,"[BB00FF]Saiga-12K 20-Shell Drum Magazine[-]"
+modmag_aa12_mps_aa12_drum_mag_12g_20,"[BB00FF]AA-12 20-Shell Drum Magazine[-]"
+modmag_aa12_drum_mag_12g_32,"[FFD700]AA-12 32-Shell Drum Magazine[-]"
+
+modmagppsh41drum71Desc,"Weight: [4FBE28]0.900kg[-]\nMagazine Size: [4FBE28]71[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: PPSH-41"
+modmagttcustomdrum75Desc,"Weight: [4FBE28]0.750kg[-]\nMagazine Size: [4FBE28]75[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: TT-33"
+modmagpmmakeshiftdrum84Desc,"Weight: [4FBE28]0.364kg[-]\nMagazine Size: [4FBE28]84[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: PB, PM"
+modmagpp9extended30Desc,"Weight: [4FBE28]0.128kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: PP-9 'Klin'"
+modmagpp9snaildrum90Desc,"Weight: [4FBE28]0.471kg[-]\nMagazine Size: [4FBE28]90[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: PP-9 'Klin'"
+modmagpp19vityazdrum50Desc,"Weight: [4FBE28]0.460kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: PP-19-01"
+modmagsr2mtape60Desc,"Weight: [4FBE28]0.323kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: SR-2M"
+modmaguzi50stdDesc,"Weight: [4FBE28]0.300kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: UZI"
+modmagmp5std30Desc,"Weight: [4FBE28]0.170kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: MP5K"
+modmagmp5xproductdrum50Desc,"Weight: [4FBE28]0.640kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: MP5K, MP5, MP5SD"
+modmagmp5Cmag100Desc,"Weight: [4FBE28]1.180kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: MP5, MP5SD\nRequires tactical grip to be equipped on a gun."
+modmagmp9Cmag100Desc,"Weight: [4FBE28]1.180kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: MP-9N"
+modmagglock9x19bigstick33Desc,"Weight: [4FBE28]0.150kg[-]\nMagazine Size: [4FBE28]33[-]\n\nCompatibility: Glock 17, Glock 18C"
+modmagglock9x19sgmtdrum50Desc,"Weight: [4FBE28]0.600kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: Glock 17, Glock 18C, Vector 9, STM-9"
+modmagglock9x19Cmag100Desc,"Weight: [4FBE28]1.100kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Glock 17, Glock 18C, Vector 9, STM-9"
+modmagmpxbasepad41Desc,"Weight: [4FBE28]0.300kg[-]\nMagazine Size: [4FBE28]41[-]\n\nCompatibility: SIG MPX"
+modmagmpxf5mfgdrum50Desc,"Weight: [4FBE28]0.650kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: SIG MPX"
+modmagmpxCmag100Desc,"Weight: [4FBE28]1.250kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: SIG MPX"
+modmagump45casket60Desc,"Weight: [4FBE28]0.800kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: UMP 45"
+modmagump45customCmag100Desc,"Weight: [4FBE28]1.270kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: UMP 45"
+modmagthompsondrum100Desc,"Weight: [4FBE28]1.950kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Thompson"
+modmagglock45drum60Desc,"Weight: [4FBE28]0.750kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+10%[-]\n\nCompatibility: Vector 45"
+modmagglock45Cmag100Desc,"Weight: [4FBE28]1.200kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Vector 45"
+modmagmp7std40Desc,"Weight: [4FBE28]0.200kg[-]\nMagazine Size: [4FBE28]40[-]\n\nCompatibility: MP7A1"
+modmagmp7box70Desc,"Weight: [4FBE28]0.440kg[-]\nMagazine Size: [4FBE28]70[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: MP7A1"
+
+modmagak74std30Desc,"Weight: [4FBE28]0.215kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: AKS-74UN, AK-74N"
+modmagAK74extended45Desc,"Weight: [4FBE28]0.300kg[-]\nMagazine Size: [4FBE28]45[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: Firearms chambered in 5.45×39"
+modmagAK74_6L31_60Desc,"Weight: [4FBE28]0.400kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Firearms chambered in 5.45×39"
+modmagRPK16drum95Desc,"Weight: [4FBE28]0.680kg[-]\nMagazine Size: [4FBE28]95[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Firearms chambered in 5.45×39"
+modmagSKSextended35Desc,"Weight: [4FBE28]0.185kg[-]\nMagazine Size: [4FBE28]35[-]\n\nCompatibility: SKS"
+modmagSKSdrum75Desc,"Weight: [4FBE28]1.043kg[-]\nMagazine Size: [4FBE28]75[-]\n\nCompatibility: SKS"
+modmagakmstd30Desc,"Weight: [4FBE28]0.370kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: AKMN"
+modmagAK762extended40Desc,"Weight: [4FBE28]0.460kg[-]\nMagazine Size: [4FBE28]40[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: Firearms chambered in 7.62×39"
+modmagAK762molotdrum75Desc,"Weight: [4FBE28]0.900kg[-]\nMagazine Size: [4FBE28]75[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Firearms chambered in 7.62×39"
+modmagAK762steeldrum100Desc,"Weight: [4FBE28]1.364kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Firearms chambered in 7.62×39"
+modmag762x39RPDBox200Desc,"Weight: [4FBE28]1.600kg[-]\nMagazine Size: [4FBE28]200[-]\nReload Time: [FF4F33]+25%[-]\n\nCompatibility: RPD"
+modmag762NATOjunglefighter35Desc,"Weight: [4FBE28]0.444kg[-]\nMagazine Size: [4FBE28]35[-]\nReload Time: [FF4F33]+12%[-]\n\nCompatibility: SR-25, RSASS, G28, MDR 7.62, HK417"
+modmagSA58FAL30Desc,"Weight: [4FBE28]0.460kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: FN FAL, RFB"
+modmagSA58FALXproduct50Desc,"Weight: [4FBE28]0.670kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: FN FAL"
+modmag762NATOM14xproduct50Desc,"Weight: [4FBE28]0.794kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: M1A EBR, M14 SASS"
+modmag762NATOX25drum50Desc,"Weight: [4FBE28]0.660kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: SR-25, RSASS, MDR 7.62, SCAR-H, SIG MCX Spear"
+modmag762NATOCmag100Desc,"Weight: [4FBE28]1.540kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: M1A EBR, SR-25, RSASS, G28, MDR 7.62, SCAR-H, HK417, M14 SASS, SIG MCX Spear"
+modmagM60TriBoxWelded250Desc,"Weight: [4FBE28]2.500kg[-]\nMagazine Size: [4FBE28]250[-]\nReload Time: [FF4F33]+26%[-]\n\nCompatibility: M60E6"
+modmagSVDstd20Desc,"Weight: [4FBE28]0.112kg[-]\nMagazine Size: [4FBE28]20[-]\n\nCompatibility: SVDS 'Dragunow'"
+modmagSVDmakeshiftdrum50Desc,"Weight: [4FBE28]0.530kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: SVDS 'Dragunow'"
+modmag762x54RPKBox200Desc,"Weight: [4FBE28]2.700kg[-]\nMagazine Size: [4FBE28]200[-]\nReload Time: [FF4F33]+25%[-]\n\nCompatibility: PKP Pecheneg"
+modmagAUGextended42Desc,"Weight: [4FBE28]0.142kg[-]\nMagazine Size: [4FBE28]42[-]\n\nCompatibility: AUG A3"
+modmagAUGdrum60Desc,"Weight: [4FBE28]0.515kg[-]\nMagazine Size: [4FBE28]60[-]\n\nCompatibility: AUG A3"
+modmagstanagstd30Desc,"Weight: [4FBE28]0.117kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: ADAR & ST AR-15"
+modmagstanag556x45pmag40Desc,"Weight: [4FBE28]0.200kg[-]\nMagazine Size: [4FBE28]40[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: Firearms chambered in 5.56×45 & .300blk"
+modmagstanag556x45pmagd60Desc,"Weight: [4FBE28]0.580kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Firearms chambered in 5.56×45 & .300blk"
+modmagstanag556x45sf60Desc,"Weight: [4FBE28]0.180kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: Firearms chambered in 5.56×45 & .300blk"
+modmagstanag556x45sf100Desc,"Weight: [4FBE28]0.270kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Firearms chambered in 5.56×45 & .300blk"
+modmag556AKmolot45Desc,"Weight: [4FBE28]0.300kg[-]\nMagazine Size: [4FBE28]45[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: Velociraptor"
+
+modmagvssval30Desc,"Weight: [4FBE28]0.254kg[-]\nMagazine Size: [4FBE28]30[-]\n\nCompatibility: VSS Vintorez & AS VAL"
+modmagvssval45Desc,"Weight: [4FBE28]0.397kg[-]\nMagazine Size: [4FBE28]40[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: VSS Vintorez & AS VAL"
+modmagAsh12extended40Desc,"Weight: [4FBE28]0.800kg[-]\nMagazine Size: [4FBE28]40[-]\nReload Time: [FF4F33]+16%[-]\n\nCompatibility: ASh-12"
+modmagAsh12extended60Desc,"Weight: [4FBE28]1.000kg[-]\nMagazine Size: [4FBE28]60[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: ASh-12"
+modmag338SwordMK18Pmag20Desc,"Weight: [4FBE28]0.800kg[-]\nMagazine Size: [4FBE28]20[-]\nReload Time: [FF4F33]+15%[-]\n\nCompatibility: Mk-18"
+
+modmag_870_remington_magazine_extension_12g_10Desc,"Weight: [4FBE28]0.400kg[-]\nMagazine Size: [4FBE28]11[-]\n\nCompatibility: M870"
+modmag_m3_benelli_std_12g_7Desc,"Weight: [4FBE28]0.300kg[-]\nMagazine Size: [4FBE28]8[-]\n\nCompatibility: M3 Benelli"
+modmag_m3_tonisystem_magazine_extension_12g_13Desc,"Weight: [4FBE28]0.600kg[-]\nMagazine Size: [4FBE28]14[-]\n\nCompatibility: M3 Benelli"
+modmag_mr153_izhmeh_12g_8Desc,"Weight: [4FBE28]0.300kg[-]\nMagazine Size: [4FBE28]9[-]\n\nCompatibility: MP-153 & MP-155"
+modmag_saiga12_maxrounds_powermag_20_12x76_20Desc,"Weight: [4FBE28]0.660kg[-]\nMagazine Size: [4FBE28]20[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: Saiga-12K"
+modmag_aa12_mps_aa12_drum_mag_12g_20Desc,"Weight: [4FBE28]1.130kg[-]\nMagazine Size: [4FBE28]20[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: AA-12"
+modmag_aa12_drum_mag_12g_32Desc,"Weight: [4FBE28]1.450kg[-]\nMagazine Size: [4FBE28]32[-]\nReload Time: [FF4F33]+25%[-]\n\nCompatibility: AA-12"
+
+
+modsilencertt33makeshift,"TT-33 Sound Supressor"
+modmuzzlettlaserdtk,"TT Laser DTK"
+modsilencerstechkinstd,"Stechkin Silencer"
+modsilencerpp9klin,"PP-9 Klin Silencer"
+modmuzzlemp5btqdbrake,"[09FF00]MP5 B&T QD Brake[-]"
+modmuzzlemp5noveske,"[09FF00]MP5 Noveske[-]"
+modsilencerco46multi,"SilencerCo 46 Multi"
+modsilencerco9osprey,"[09FF00]SilencerCo Osprey 9[-]"
+modsilencersigsrd9,"[004CFF]SIG SRD 9×19 Sound Supressor[-]"
+modmuzzlevityazbrakecompensator,"[09FF00]Vityaz Brake Compensator[-]"
+modsilencermpxsd,"[BB00FF]MPX-SD[-]"
+modmuzzlestm9brake,"[BB00FF]STM-9 Brake[-]"
+modmuzzlegl17carver4port,"Glock 17 Carver 4-Port"
+modmuzzlep226tjcustom,"P226 TJ Custom"
+modsilencersr1mpstd,"SR-1MP Silencer"
+modsilencersr2msv1381,"[004CFF]SR-2M Sound Supressor (SV-1381)[-]"
+modsilencerco45komega,"[BB00FF]SilencerCo 45K Omega[-]"
+modsilencerump45bt,"[09FF00]UMP-45 B&T Sound Supressor[-]"
+modmuzzle1911anarchyoutdoors,"1911 Anarchy Outdoors"
+modsilencermp7rotex2,"[004CFF]MP7 Rotex-II[-]"
+modsilencerp90attenuator,"[004CFF]P90 Attenuator Sound Supressor[-]"
+modsilencer57gemtech,"Gemtech SFN-57"
+
+
+modsilencertt33makeshiftDesc,"Weight: [4FBE28]0.320kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: TT-33"
+modmuzzlettlaserdtkDesc,"Weight: [4FBE28]0.036kg[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: TT-33"
+modsilencerstechkinstdDesc,"Weight: [4FBE28]0.490kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-12%[-]\nHipfire Accuracy: [FF4F33]-12%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Stechkin APS"
+modsilencerpp9klinDesc,"Weight: [4FBE28]0.200kg[-]\nRecoil: [4FBE28]-5%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: PP-9"
+modmuzzlemp5btqdbrakeDesc,"Weight: [4FBE28]0.128kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: MP5"
+modmuzzlemp5noveskeDesc,"Weight: [4FBE28]0.380kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: MP5"
+modsilencerco46multiDesc,"Weight: [4FBE28]0.490kg[-]\nRecoil: [4FBE28]-5%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most Firearms chambered in 9×19, 5.45×39, 5.56×45, 7.62×39 & 7.62×51"
+modsilencerco9ospreyDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, STM-9, Glock 17, P226R, M9A3"
+modsilencersigsrd9Desc,"Weight: [4FBE28]0.255kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-9%[-]\nHipfire Accuracy: [FF4F33]-9%[-]\nDurability Burn: [FF4F33]+20%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, STM-9, Glock 17, P226R, M9A3"
+modmuzzlevityazbrakecompensatorDesc,"Weight: [4FBE28]0.070kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: PP-19-01"
+modsilencermpxsdDesc,"Weight: [4FBE28]0.600kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-16%[-]\nHipfire Accuracy: [FF4F33]-16%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SIG MPX"
+modmuzzlestm9brakeDesc,"Weight: [4FBE28]0.084kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: STM-9"
+modmuzzlegl17carver4portDesc,"Weight: [4FBE28]0.063kg[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: Glock 17"
+modmuzzlep226tjcustomDesc,"Weight: [4FBE28]0.036kg[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: P226R"
+modsilencersr1mpstdDesc,"Weight: [4FBE28]0.490kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SR-1MP"
+modsilencersr2msv1381Desc,"Weight: [4FBE28]0.575kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SR-2M"
+modsilencerco45komegaDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Vector 45, M45A1, M1911, USP 45"
+modsilencerump45btDesc,"Weight: [4FBE28]0.453kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: UMP-45"
+modmuzzle1911anarchyoutdoorsDesc,"Weight: [4FBE28]0.100kg[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: M1911, M45A1"
+modsilencermp7rotex2Desc,"Weight: [4FBE28]0.607kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: MP7A1"
+modsilencerp90attenuatorDesc,"Weight: [4FBE28]0.677kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: P90"
+modsilencer57gemtechDesc,"Weight: [4FBE28]0.150kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: FN FiveSeven"
+
+
+09FF00 2
+004CFF 3
+BB00FF 4
+FFD700 5
+4FBE28 green
+FF4F33 red
+
+modsilencerak74tgpa,"[09FF00]AK-74 TGP-A[-]"
+modmuzzleak74hexagonreactor,"[004CFF]AK Hexagon Reactor[-]"
+modsilencerak74hexagonwaffle,"[004CFF]AK-74 Hexagon Wafflemaker[-]"
+modmuzzleak74jetmbr,"[BB00FF]AK-74 SRVV MBR Jet Muzzle Brake[-]"
+modmuzzleak74zenitdtk1,"[BB00FF]AK Zenit DTK-1[-]"
+modsilencerhexagonAK,"[BB00FF]AK-74 Hexagon[-]"
+modmuzzleak12std,"[BB00FF]AK-12 Muzzle Brake[-]"
+modsilencerak12std,"[BB00FF]AK-12 Silencer[-]"
+modmuzzlerpdbrakecompensator,"[BB00FF]RPD Brake-Compensator[-]"
+modmuzzle_mosin_tacfire_tanker_style_762x54r,"[09FF00]Mosin Tacfire Tanker Muzzle Brake[-]"
+modsilencerSV98std,"[004CFF]SV-98 Sound Supressor[-]"
+modmuzzleSV98mk2SRVV,"[004CFF]SV-98 SRVV Brake-Compensator[-]"
+modSVDmuzzlebrakecompensator,"[004CFF]SVDS Brake-Compensator[-]"
+modsilencerSVDrotor43,"[004CFF]Rotor 43 Sound Supressor[-]"
+modmuzzlepkzenitdtk,"[FFD700]PK Zenit DTK-1P Muzzle Brake[-]"
+modmuzzleash12std,"[BB00FF]ASH-12 Muzzle Brake[-]"
+modsilencerash12std,"[BB00FF]ASH-12 Silencer[-]"
+modsilencergriffinm4sdk,"[09FF00]Griffin M4SD-K[-]"
+modsilencersocomrc2,"[004CFF]SOCOM556-RC2[-]"
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45,"[09FF00]AR-15 Ferfrans CQB[-]"
+modmuzzle_ar15_double_star_carlson_tac_comp_556x45,"[004CFF]AR-15 DoubleStar CTC Compensator[-]"
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45,"[BB00FF]AR-15 AlienTech[-]"
+modmuzzleAR10thunderbeast30cb,"[004CFF]AR-10 Thunder Beast 30CB[-]"
+modmuzzleAR15thunderbeast223cb,"[004CFF]AR-15 Thunder Beast 223CB[-]"
+modsilencerthunderbeastultra5,"[004CFF]Thunder Beast Ultra 5 Sound Supressor[-]"
+modsilencersdnaacmulti,"[FFD700]AAC SDN-6 Sound Supressor[-]"
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51,"[004CFF]AR-10 PA M11 Severe-Duty[-]"
+modmuzzleAR10kacqdc,"[BB00FF]AR-10 KAC QDC[-]"
+modsilencerprskacqdc,"[BB00FF]KAC PRS/QDC Sound Supressor[-]"
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51,"[FFD700]AR-10 Lantac Dragon Brake-Compensator[-]"
+modsilencerbtg28qd762,"[BB00FF]HK G28 B&T QD Sound Supressor[-]"
+modsilencerSIGclutchlokQD,"[FFD700]MCX-SPEAR SLX68-MG-QD Sound Supressor[-]"
+modmuzzlesigtwoportbrake,"[BB00FF]SIG Two Port Brake[-]"
+modsilencersigsrd762ti,"[BB00FF]SIG SRD762Ti Sound Supressor[-]"
+modmuzzleAI338LMtactical,"[FFD700]AI .338 LM Muzzle Brake[-]"
+modsilencerAI338LMsoundmoderator,"[FFD700]AI .338 LM Sound Supressor[-]"
+
+Weight: [4FBE28]kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]
+Weight: [4FBE28]kg[-]\nRecoil: [4FBE28]-10%[-]
+
+modsilencerak74tgpaDesc,"Weight: [4FBE28]0.700kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-20%[-]\nHipfire Accuracy: [FF4F33]-20%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-74N/M, AKS-74UN, AK-107"
+modmuzzleak74hexagonreactorDesc,"Weight: [4FBE28]0.095kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: AK-74N/M, AK-107\n\nActs as an adapter for 'AK-74 Hexagon Wafflemaker'"
+modsilencerak74hexagonwaffleDesc,"Weight: [4FBE28]0.290kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-74N/M\n\nRequires adapter: 'AK Hexagon Reactor'"
+modmuzzleak74jetmbrDesc,"Weight: [4FBE28]0.110kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: AKS-74UN, AK-74N/M, RPK-16, AK-107"
+modmuzzleak74zenitdtk1Desc,"Weight: [4FBE28]0.128kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: AKS-74UN, AK-74N/M, RPK-16, AK-107, SKS, AKMN, AK-109"
+modsilencerhexagonAKDesc,"Weight: [4FBE28]0.462kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-74N/M, RPK-16, AK-107, SKS, AKMN, AK-103, AK-109"
+modmuzzleak12stdDesc,"Weight: [4FBE28]0.100kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: AK-12"
+modsilencerak12stdDesc,"Weight: [4FBE28]0.450kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-12"
+modmuzzlerpdbrakecompensatorDesc,"Weight: [4FBE28]0.124kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: RPD"
+modmuzzle_mosin_tacfire_tanker_style_762x54rDesc,"Weight: [4FBE28]0.250kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: Mosin-Nagant"
+modsilencer_mosin_bramit_std_762x54rDesc,"Weight: [4FBE28]1.100kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-28%[-]\nHipfire Accuracy: [FF4F33]-28%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Mosin-Nagant"
+modsilencerSV98stdDesc,"Weight: [4FBE28]0.330kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SV-98"
+modmuzzleSV98mk2SRVVDesc,"Weight: [4FBE28]0.460kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: SV-98"
+modSVDmuzzlebrakecompensatorDesc,"Weight: [4FBE28]0.080kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: SVDS 'Dragunow'\n\nActs as an adapter for 'Rotor 43'"
+modsilencerSVDrotor43Desc,"Weight: [4FBE28]0.180kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SVDS 'Dragunow'\n\nRequires adapter: 'SVDS Brake-Compensator'"
+modmuzzlepkzenitdtkDesc,"Weight: [4FBE28]0.124kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: PKP Pecheneg"
+modmuzzleash12stdDesc,"Weight: [4FBE28]0.150kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: ASh-12"
+modsilencerash12stdDesc,"Weight: [4FBE28]0.700kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: ASh-12"
+modsilencergriffinm4sdkDesc,"Weight: [4FBE28]0.397kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+30%[-]\n\nCompatibility: Firearms chambered in 5.56×45"
+modsilencersocomrc2Desc,"Weight: [4FBE28]0.546kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Firearms chambered in 5.56×45"
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45Desc,"Weight: [4FBE28]0.150kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: Firearms chambered in 5.56×45"
+modmuzzle_ar15_double_star_carlson_tac_comp_556x45Desc,"Weight: [4FBE28]0.208kg[-]\nRecoil: [4FBE28]-40%[-]\n\nCompatibility: Firearms chambered in 5.56×45"
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45Desc,"Weight: [4FBE28]0.085kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: Firearms chambered in 5.56×45"
+modmuzzleAR15thunderbeast223cbDesc,"Weight: [4FBE28]0.109kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: Firearms chambered in 5.56×45\n\nActs as an adapter for 'Thunder Beast Ultra 5'"
+modmuzzleAR10thunderbeast30cbDesc,"Weight: [4FBE28]0.109kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: Firearms chambered in 7.62×39 & 7.62×51\n\nActs as an adapter for 'Thunder Beast Ultra 5'"
+modsilencerthunderbeastultra5Desc,"Weight: [4FBE28]0.210kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-5%[-]\nHipfire Accuracy: [FF4F33]-5%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Firearms chambered in 5.56×45, 7.62×39 & 7.62×51\n\nRequires adapter: 'Thunder Beast (30CB: AR10 7.62 / 223CB: AR15 5.56)'"
+modsilencersdnaacmultiDesc,"Weight: [4FBE28]0.689kg[-]\nRecoil: [4FBE28]-30%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Firearms chambered in 5.56×45, 7.62×39 & 7.62×51"
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51Desc,"Weight: [4FBE28]0.120kg[-]\nRecoil: [4FBE28]-35%[-]\n\nCompatibility: Firearms chambered in 7.62×39 & 7.62×51"
+modmuzzleAR10kacqdcDesc,"Weight: [4FBE28]0.145kg[-]\nRecoil: [4FBE28]-45%[-]\n\nCompatibility: Firearms chambered in 7.62×39 & 7.62×51\n\nActs as an adapter for 'KAC PRS/QDC'"
+modsilencerprskacqdcDesc,"Weight: [4FBE28]0.453kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Firearms chambered in 7.62×39 & 7.62×51\n\nRequires adapter: 'AR-10 KAC QDC'"
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51Desc,"Weight: [4FBE28]0.090kg[-]\nRecoil: [4FBE28]-55%[-]\n\nCompatibility: Firearms chambered in 7.62×39 & 7.62×51"
+modsilencerbtg28qd762Desc,"Weight: [4FBE28]0.577kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: HK417 & G28"
+modsilencerSIGclutchlokQDDesc,"Weight: [4FBE28]0.711kg[-]\nRecoil: [4FBE28]-35%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SIG MCX Spear"
+modmuzzlesigtwoportbrakeDesc,"Weight: [4FBE28]0.095kg[-]\nRecoil: [4FBE28]-40%[-]\n\nCompatibility: Firearms chambered in .300blk, 7.62×39 & 7.62×51"
+modsilencersigsrd762tiDesc,"Weight: [4FBE28]0.460kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Firearms chambered in .300blk, 7.62×39 & 7.62×51"
+modmuzzleAI338LMtacticalDesc,"Weight: [4FBE28]0.230kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: AXMC, Mk-18\n\nActs as an adapter for 'AI .338 LM Sound Supressor'"
+modsilencerAI338LMsoundmoderatorDesc,"Weight: [4FBE28]0.665kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AXMC, Mk-18\n\nRequires adapter: 'AI .338 LM Muzzle Brake'"
+
+
+modsilencerSGhexagon12k,"[004CFF]Hexagon 12K Sound Supressor[-]"
+modsilencercoSalvo12,"[BB00FF]SilencerCo Salvo 12 Sound Supressor[-]"
+modchokeremingtontactical,"[09FF00]Remington Tactical Choke[-]"
+modmuzzleSGgk02muzzlebrake,"[004CFF]GK-02 12ga Muzzle Brake[-]"
+modmuzzletromixmonsterclaw,"[BB00FF]Tromix Monster Claw 12ga Muzzle Brake[-]"
+modchokeAA12,"[BB00FF]AA-12 12ga Choke[-]"
+modsilencerAA12marauder,"[BB00FF]AA-12 12ga Marauder Silencer[-]"
+
+modsilencerSGhexagon12kDesc,"Weight: [4FBE28]0.493kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-20%[-]\nHipfire Accuracy: [FF4F33]-20%[-]\nDurability Burn: [FF4F33]+50%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K"
+modsilencercoSalvo12Desc,"Weight: [4FBE28]0.970kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-25%[-]\nHipfire Accuracy: [FF4F33]-25%[-]\nDurability Burn: [FF4F33]+40%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K"
+modchokeremingtontacticalDesc,"Weight: [4FBE28]0.101kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli"
+modmuzzleSGgk02muzzlebrakeDesc,"Weight: [4FBE28]0.233kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K"
+modmuzzletromixmonsterclawDesc,"Weight: [4FBE28]0.340kg[-]\nRecoil: [4FBE28]-50%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K"
+modchokeAA12Desc,"Weight: [4FBE28]0.101kg[-]\nRecoil: [4FBE28]-25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: AA-12"
+modsilencerAA12marauderDesc,"Weight: [4FBE28]0.570kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-20%[-]\nHipfire Accuracy: [FF4F33]-20%[-]\nDurability Burn: [FF4F33]+40%[-]\n\nCompatibility: AA-12"
+
+
+modstockttmachinecustom,"TT-33 Custom Stock"
+modstockstechkinwire,"Stechkin Wire Stock"
+modstockglockfdglr17,"Glock FAB Defense GLR-17"
+modstockmp5kpdw,"MP5K PDW"
+modstockmp5a2,"[09FF00]MP5 A2[-]"
+modstockp90dibuttpad,"[004CFF]P90 DI Buttpad[-]"
+modstockakzenitpt1,"[09FF00]AK Zenit PT-1[-]"
+modstockakzenitpt3,"[004CFF]AK Zenit PT-3[-]"
+modstockakzhukovmagpul,"[BB00FF]AKM/AK-74 Zhukov-S stock[-]"
+modstocka2ar15prsgen2tan,"[004CFF]A2 AR-15 PRS Gen 2 Tan[-]"
+modstocka2ar15prsgen3,"[BB00FF]A2 AR-15 PRS Gen 3[-]"
+modstockar15b5precision,"[FFD700]AR-15 B5 Precision[-]"
+modstockar15troym7a1,"[09FF00]AR-15 Troy M7A1[-]"
+modstockar15glcore,"[BB00FF]AR-15 GL-Core[-]"
+modstockar15acesocomgen4,"[FFD700]AR-15 ACE SOCOM Gen 4[-]"
+modstockar15hke1,"[004CFF]AR-15 HK E1[-]"
+modstockar15ergof93pro,"[BB00FF]AR-15 Ergo F93 Pro[-]"
+modstockfnminimilightweight,"[FFD700]FN Minimi Lightweight[-]"
+modstocksigtelescoping,"[FFD700]SIG Telescoping[-]"
+modstockmaximcqb,"[FFD700]Maxim CQB[-]"
+modstockpmmulss,"[FFD700]PMM ULSS[-]"
+modstockSA58paraSPR,"[004CFF]SA58 SPR[-]"
+modstockSA58paraBRS,"[004CFF]SA58 BRS[-]"
+modstockVLtorVSS11,"[BB00FF]FN SCAR VSS-11[-]"
+modstock417hke2,"[BB00FF]HK417 E2[-]"
+modstockpkzenitpt2,"[FFD700]PK Zenit PT-2[-]"
+
+modstockttmachinecustomDesc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: TT-33 Automatic"
+modstockstechkinwireDesc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: Stechkin APS"
+modstockglockfdglr17Desc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: Glock 17 & Glock 18C"
+modstockmp5kpdwDesc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: MP5K"
+modstockmp5a2Desc,"Weight: [4FBE28]0.400kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: MP5 & MP5SD"
+modstockp90dibuttpadDesc,"Weight: [4FBE28]0.060kg[-]\nErgonomics: [4FBE28]+13%[-]\nHipfire Accuracy: [4FBE28]+13%[-]\n\nCompatibility: P90"
+modstockakzenitpt1Desc,"Weight: [4FBE28]0.480kg[-]\nErgonomics: [4FBE28]+6%[-]\nHipfire Accuracy: [4FBE28]+6%[-]\n\nCompatibility: PP-19-01, AKS-74UN, AK-74N/M, AK-107, AKMN, Saiga-12K"
+modstockakzenitpt3Desc,"Weight: [4FBE28]0.250kg[-]\nErgonomics: [4FBE28]+22%[-]\nHipfire Accuracy: [4FBE28]+22%[-]\n\nCompatibility: PP-19-01, AKS-74UN, AK-74N/M, AK-107, AKMN, Saiga-12K"
+modstockakzhukovmagpulDesc,"Weight: [4FBE28]0.430kg[-]\nErgonomics: [4FBE28]+24%[-]\nHipfire Accuracy: [4FBE28]+24%[-]\n\nCompatibility: AK-74N, AKMN & AK-103"
+modstocka2ar15prsgen2tanDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+5%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\nRecoil: [4FBE28]-2.5%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstocka2ar15prsgen3Desc,"Weight: [4FBE28]0.970kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-5%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockar15b5precisionDesc,"Weight: [4FBE28]0.350kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: Vector 9/45, STM-9, MP7A1, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, AK-12, RPK-16, AK-107, AK-103, RD-704, Mk47, AK-109, 9A-91, AS VAL, M590A1, M870, MP-153, Saiga-12K"
+modstockar15troym7a1Desc,"Weight: [4FBE28]0.400kg[-]\nErgonomics: [4FBE28]+7%[-]\nHipfire Accuracy: [4FBE28]+7%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockar15glcoreDesc,"Weight: [4FBE28]0.461kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: Vector 9/45, MP7A1, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, AK-12, RPK-16, AK-107, AK-103, RD-704, Mk47, AK-109, 9A-91, AS VAL, M590A1, M870, MP-153, Saiga-12K"
+modstockar15acesocomgen4Desc,"Weight: [4FBE28]0.470kg[-]\nErgonomics: [4FBE28]+40%[-]\nHipfire Accuracy: [4FBE28]+40%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockar15hke1Desc,"Weight: [4FBE28]0.520kg[-]\nErgonomics: [4FBE28]+12%[-]\nHipfire Accuracy: [4FBE28]+12%[-]\n\nCompatibility: Vector 9/45, STM-9, MP7A1, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, AK-12, AK-107, AK-103, RD-704, Mk47, AK-109, 9A-91, AS VAL, M590A1, M870, MP-153, Saiga-12K"
+modstockar15ergof93proDesc,"Weight: [4FBE28]0.590kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockfnminimilightweightDesc,"Weight: [4FBE28]0.300kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: FN Minimi"
+modstocksigtelescopingDesc,"Weight: [4FBE28]0.340kg[-]\nErgonomics: [4FBE28]+45%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H"
+modstockmaximcqbDesc,"Weight: [4FBE28]0.500kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H"
+modstockpmmulssDesc,"Weight: [4FBE28]0.460kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+35%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H"
+modstockSA58paraSPRDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: FN FAL"
+modstockSA58paraBRSDesc,"Weight: [4FBE28]0.810kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: FN FAL"
+modstockVLtorVSS11Desc,"Weight: [4FBE28]0.630kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\n\nCompatibility: SCAR-H"
+modstock417hke2Desc,"Weight: [4FBE28]0.550kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: HK417 & G28"
+modstockpkzenitpt2Desc,"Weight: [4FBE28]0.640kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: PKP Pecheneg"
+
+modm203grenadelaunchers,"[BB00FF]M203 40mm Underbarrel Grenade Launcher[-]"
+modm203grenadelaunchersDesc,"Weight: [4FBE28]1.360kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: most firearms"
+modgp25grenadelauncher,"[BB00FF]GP-25 40mm Underbarrel Grenade Launcher[-]"
+modgp25grenadelauncherDesc,"Weight: [4FBE28]1.400kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: AK-74N/M, AK-12, AK-107, AKMN, AK-103, AK-109"
+modm203grenadelaunchersSchematic,"[BB00FF]M203 GL[-] Schematic"
+modgp25grenadelauncherSchematic,"[BB00FF]GP-25 GL[-] Schematic"
+
+mag_mr153_izhmeh_12g_8,"[004CFF]MP-153 8-Shell Magazine[-]"
+mag_mr153_izhmeh_12g_8Desc,"Increases your total magazine size to [4FBE28]9[-] rounds.\n[FF4F33]10%[-] worse hipfire accuracy.\n\nCompatibility: MP-153, MP-155 'Ultima'. Blocks silencers from MP-155 'Ultima'."
+modmag_870_remington_magazine_extension_12g_10,"[004CFF]M870 10-shell Magazine[-]"
+modmag_870_remington_magazine_extension_12g_10,"Increases your total magazine size to [4FBE28]11[-] rounds.\n[FF4F33]10%[-] worse hipfire accuracy.\n\nCompatibility: M870."
+modmag_saiga12_maxrounds_powermag_20_12x76_20,"[BB00FF]Saiga12K MaxRounds Powermag 20-round magazine[-]"
+modmag_saiga12_maxrounds_powermag_20_12x76_20Desc,"Increases your total magazine size to [4FBE28]20[-] rounds.\n[FF4F33]15%[-] worse hipfire accuracy.\n\nCompatibility: Saiga 12K."
+modmag_aa12_mps_aa12_drum_mag_12g_20,"[BB00FF]AA-12 20-round Drum Magazine[-]"
+modmag_aa12_mps_aa12_drum_mag_12g_20Desc,"Increases your total magazine size to [4FBE28]20[-] rounds.\n[FF4F33]15%[-] worse hipfire accuracy.\n\nCompatibility: AA-12."
+modmag_aa12_drum_mag_12g_32,"[FFD700]AA-12 32-round Drum Magazine[-]"
+modmag_aa12_drum_mag_12g_32Desc,"Increases your total magazine size to [4FBE28]32[-] rounds.\n[FF4F33]20%[-] worse hipfire accuracy.\n\nCompatibility: AA-12."
+modmag_m3_tonisystem_magazine_extension_12g_13,"[004CFF]M3 Tonisystem 13-shell Magazine[-]"
+modmag_m3_tonisystem_magazine_extension_12g_13Desc,"Increases your total magazine size to [4FBE28]14[-] rounds.\n[FF4F33]13%[-] worse hipfire accuracy.\n\nCompatibility: M3 Benelli. Blocks silencers from M3 Benelli."
+modmag_m3_benelli_std_12g_7,"[004CFF]M3 standard 7-shell Magazine[-]"
+modmag_m3_benelli_std_12g_7Desc,"Increases your total magazine size to [4FBE28]8[-] rounds.\n[FF4F33]5%[-] worse hipfire accuracy.\n\nCompatibility: M3 Benelli."
+
+resourceCellulosePowder,"Cellulose Powder"
+resourceCellulosePowderDesc,"Cellulose powder constitutes one-eighth of the total composition in the production of nitrocellulose powder.\nCrafted in lots of [D3CE1D]8[-]."
+resourceNitricAcid,"HNO₃ (~68%)"
+resourceNitricAcidDesc,"Nitric Acid constitutes three-eighth of the total composition in the production of nitrocellulose powder."
+resourceSulfuricAcid,"H₂SO₄ (~98%)"
+resourceSulfuricAcidDesc,"Sulfuric Acid constitutes four-eighth of the total composition in the production of nitrocellulose powder."
+
+resourceWeaponRepairKit,"Weapon Repair Kit"
+resourceWeaponRepairKitDesc,"Weapon repair kits are used to repair all kinds of ranged firearms.\nCrafted in lots of [D3CE1D]4[-]."
+resourceArmorRepairKit,"Armor Repair Kit"
+resourcePrinterPaper,"Printer Paper"
+resourcePrinterPaperDesc,"Printer paper can be scrapped to get important resources."
+resourceToiletPaper,"Toilet Paper"
+resourceToiletPaperDesc,"Toilet paper can be scrapped to get important resources."
+resourceClassicMatches,"Matches"
+resourceClassicMatchesDesc,"Matches can be crafted to makeshift gunpowder. Is useful for making pipe bombs with the gunpowder or making sulfuric acid."
+resourceBottleOfHydrogenPeroxide,"Bottle Of Hydrogen Peroxide"
+resourceBottleOfHydrogenPeroxideDesc,"Hydrogen peroxide can be used to make water drinkable and is useful in many other ways."
+resourceCanisterWithPurifiedWater,"Canister With Purified Water"
+resourceCanisterWithPurifiedWaterDesc,"This canister contains a lot of valuable water. It can be used in chemical crafting too."
+resourceCanOfWhiteSalt,"Can Of White Salt"
+resourceCanOfWhiteSaltDesc,"Salt has been used for hundreds of years. Can be useful for food and crafting chemical items."
+resourceOxBbleach,"Ox Bleach"
+resourceOxBbleachDesc,"Bleach can be used to disinfect water. Is an useful ingredient in chemical crafting."
+resourceSmokedChimneyDrainCleaner,"Drain Cleaner"
+resourceSmokedChimneyDrainCleanerDesc,"Is an useful ingredient for crafting chemicals."
+
+resourceWeaponParts,"[09FF00]Weapon Parts[-]"
+resourceWeaponPartsDesc,"Weapon parts are a valuable resource, especially in armaments crafting."
+resourceWD40,"WD40 (100ml)"
+resourceWD40Desc,"A rare resource with many uses."
+resourceMultitool,"[09FF00]Leatherman Multitool[-]"
+resourceMultitoolDesc,"A rare tool with many different applications.\n\nUsed to craft T1 & T2 schematics and T2 items & modifiers."
+resourceToolset,"[FFD700]Toolset[-]"
+resourceToolsetDesc,"A repairman's bag with a set of different tools.\n\nUsed to craft T3/4/5 schematics and T5 items & modifiers."
+resourceDisposableSyringe,"Disposable Syringe"
+resourceDisposableSyringeDesc,"You wouldn't want to use it, but it is how it is."
+resourcePileOfMeds,"Pile Of Meds"
+resourcePileOfMedsDesc,"Useful for crafting medicals."
+resourceSalineSolution,"Saline Solution (NaCi)"
+resourceSalineSolutionDesc,"Useful for crafting a various spectrum of medical useables."
+
+medicalInjectorAdrenaline,"Adrenaline Injector"
+medicalInjectorAdrenalineDesc,"Ideal for situations, where quick movement is essential.\n\nCompatibility: [D3CE1D]Perftoran[-] or [D3CE1D]Morphine[-].\nUsing incompatible injectors can lead to very negative and even [FF4F33]lethal[-] effects.\n\nCrafted in lots of [D3CE1D]3[-]."
+medicalInjectorMorphine,"Morphine Injector"
+medicalInjectorMorphineDesc,"Ideal for situations, where your health is critical. The strong painkillers reduce incomming damage and allow you to fight through injuries.\n\nCompatibility: [D3CE1D]Adrenaline[-]\nUsing incompatible injectors can lead to very negative and even [FF4F33]lethal[-] effects.\n\nCrafted in lots of [D3CE1D]3[-]."
+medicalInjectorPerfortran,"Perfotoran Injector"
+medicalInjectorPerfortranDesc,"Prevents bleedings. Your maximum health is decreased temporarily, but your health regeneration is significantly boosted.\n\nCompatibility: [D3CE1D]Adrenaline[-]\nUsing incompatible injectors can lead to very negative and even [FF4F33]lethal[-] effects.\n\nCrafted in lots of [D3CE1D]3[-]."
+medicalInjectorPropitalRegenerativeStim,"Propital Regenerative Injector"
+medicalInjectorPropitalRegenerativeStimDesc,"Increases your maximum health and accelerates health regeneration over time.\n\nCompatibility: [D3CE1D]Trimadol[-]\nUsing incompatible injectors can lead to very negative and even [FF4F33]lethal[-] effects.\n\nCrafted in lots of [D3CE1D]3[-]."
+medicalInjectorSJ12,"Trimadol Stimulant Injector"
+medicalInjectorSJ12Desc,"Ideal for situations, where physical strenght and stamina are crucial. Strong painkiller, that allow you to sustain heavy physical activities.\n\nCompatibility: [D3CE1D]Propital[-]\nUsing incompatible injectors can lead to very negative and even [FF4F33]lethal[-] effects.\n\nCrafted in lots of [D3CE1D]3[-]."
+medicalInjector2A2,"2A2-(b-TG) Stimulant Injector"
+medicalInjector2A2Desc,"Ideal for situations, where you need absolute recoil control and enhanced gun-handling abilities.\n\nCompatibility: Anything besides [D3CE1D]Adrenaline[-] is deadly.\nUsing incompatible injectors can lead to very negative and even [FF4F33]lethal[-] effects.\n\nCrafted in lots of [D3CE1D]3[-]."
+
+buffTooltipTrip1,"[FF4F33]Oh Shit.. What's Going On..[-]"
+buffTooltipTrip2,"[FF4F33]Fuck.. Shit.. Shit..[-]"
+medicalInjectorMULE,"M.U.L.E. Injector"
+medicalInjectorMULEDesc,"Is used to expant the body's abilities before long marches.\n\nCompatibility: No known cross-reactions with other active ingredients.\n\nCrafted in lots of [D3CE1D]1[-]"
+
+medicalIFAK,"IFAK"
+medicalIFAKDesc,"Individual first aid kit. Can heal your wounds, but can't heal your soul."
+medicalSalewa,"Salewa"
+medicalSalewaDesc,"A first aid kit containing various types of helpful medicals."
+medicalCMS,"CMS Surgical Kit"
+medicalCMSDesc,"Compact surgical kid, perfectly suited to gain lost health due to death penalty."
+medicalSurv12,"[BB00FF]Surv12 Field Surgical Kit[-]"
+medicalSurv12Desc,"Advanced surgical kid with high quality tools to gain back great amounts of lost health from death penalty."
+
+bundleEftResourceNitricAcid,"HNO₃ (1950)"
+bundleEftResourceNitricAcid_2,"HNO₃ (780)"
+bundleEftResourceSulfuricAcid,"H₂SO₄ (10000)"
+bundleEftResourceSulfuricAcid_2,"H₂SO₄ (1250)"
+
+bundleWeaponsCaseT2_1,"Weapons Case"
+bundleWeaponsCaseT2_2,"Weapons Case"
+
+bundlePistolCaseGoldenTT,"[FFD700]Golden Pistol Case[-]"
+bundlePistolCaseTT,"Pistol Case"
+bundlePistolCaseTTM,"Pistol Case"
+bundlePistolCasePB,"Pistol Case"
+bundlePistolCasePM,"Pistol Case"
+bundlePistolCaseAPS,"Pistol Case"
+bundlePistolCaseG17,"Pistol Case"
+bundlePistolCaseP226,"Pistol Case"
+bundlePistolCaseM9A3,"Pistol Case"
+bundlePistolCaseG18C,"Pistol Case"
+bundlePistolCaseSR1MP,"Pistol Case"
+bundlePistolCaseUSP45T,"Pistol Case"
+bundlePistolCase1911,"Pistol Case"
+bundlePistolCaseUSP45M,"Pistol Case"
+bundlePistolCaseM45,"Pistol Case"
+bundlePistolCaseFS,"Pistol Case"
+bundlePistolCaseRSH,"Pistol Case"
+bundleMoneyCase,"[FFD700]Money Case[-]"
+bundleMoneyCaseDesc,"Money cases contain large amounts of cash."
+bundleWallet,"Wallet"
+bundleWalletDesc,"Wallets contain cash."
+resourceNewspaper,"Newspaper"
+resourceNewspaperDesc,"Newspapers can be scrapped to obtain paper."
+resourceOldBook,"Old Book"
+resourceOldBookDesc,"Books can be scrapped to obtain paper."
+bundleCraftableRouble,"Rouble Bundle (10.000)"
+bundleCraftableRoubleDesc,"You can craft these bundles from Roubles to minimise the space, which they take up in your inventory."
+bundleFoodContainer,"Food Container"
+bundleFoodContainerDesc,"Food containers contain food and drinks."
+bundleMedics,"Medicine Case"
+bundleMedicsDesc,"Medicine cases contain medical items."
+bundleInjectorCase,"Injector Case"
+bundleInjectorCaseDesc,"Injector cases contain medical injectors."
+bundlePistolCaseGroupDesc,"Pistol cases contain random pistols and their respective ammunition."
+
+medicalT1-2,"Tier 1: Infantry First Aid Kit"
+medicalT1-3,"Tier 1: Adrenaline Injector"
+medicalT1-4,"Tier 1: Morphine Injector"
+medicalT2-3,"Tier 2: Perfotoran Injector"
+medicalT2-4,"Tier 2: Propital Injector"
+medicalT3-3,"Tier 3: Salewa First Aid Kit"
+medicalT3-4,"Tier 3: Trimadol & 2A2-(b-TG) Injectors"
+
+modCrosshairOnAim,item_modifiers,mod,,,Crosshair On Aim
+
+perkAdrenalineRushName,"Combat Stimulant"
+perkAdrenalineRushDesc,"Increases injector efficiency and adrenaline rush survivability."
+perkAdrenalineRush1LongDesc,"Adrenaline rush effect is [4FBE28]100%[-] more effective and now has a cooldown-phase.\nIf your health drops below [4FBE28]20hp[-], your attack and run speed are [4FBE28]30%[-] faster, you loose [4FBE28]50%[-] less stamina, and your reload speed is [4FBE28]doubled[-]. Your regeneration rate heals [4FBE28]1[-] health every [4FBE28]4[-] seconds.\nCooldown Phase: Between [4FBE28]20hp[-] and [4FBE28]25hp[-], those stats keep going, while being [4FBE28]25%[-] less effective.\n\nInjectors last [4FBE28]10%[-] longer."
+perkAdrenalineRush2LongDesc,"Adrenaline rush buff is now starting below [4FBE28]35hp[-].\n\nInjectors last [4FBE28]25%[-] longer."
+perkAdrenalineRush3LongDesc,"Adrenaline rush buff is now starting below [4FBE28]45hp[-].\n\nInjectors last [4FBE28]50%[-] longer."
+perkAdrenalineRush4LongDesc,"Adrenaline rush buff is now starting below [4FBE28]60hp[-].\n\nInjectors last [4FBE28]100%[-] longer.\nBonus: All injectors require one less saline solution to craft."
+
+09FF00 2
+004CFF 3
+BB00FF 4
+FFD700 5
+
+modpistolscopemount,"Pistol Scope/Tactical Mount"
+modpistolscopemountDesc,"This attachment enables optics/laser/light on these pistols: PM Alphadog, M9A3, FN-57, P226R."
+modrailhandguard,"Rail System Handguard"
+modrailhandguardDesc,"This attachment adds a rail-system to some guns without picatinny rails, allowing the installation of additional attachments on your guns like: underbarrel, canted sight, foregrip, laser/light, bipod...; Guns with shorter handguards/rail platform (examples: M4A1, MP5, AKM) would require a 'foregrip' as a pre-requirement before laser/light could be installed. "
+modm203grenadelaunchersDesc,"Weight: [4FBE28]1.360kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: many Rifles, some SMGs and Saiga 12K. "
+modgp25grenadelauncherDesc,"Weight: [4FBE28]1.400kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: All AK variants and not AKS-74UN. "
+
+modscopePU3_5x,"[09FF00]PU 3.5x Scope[-]"
+modscopePU3_5xDesc,"Weight: [4FBE28]0.440kg[-]\n\nCompatibility: Mosin Nagant, SVT-40"
+modscopeaimpointAcroP1,"[09FF00]Aimpoint ACRO P-1 Reflex Sight[-]"
+modscopeaimpointAcroP1Desc,"Weight: [4FBE28]0.130kg[-]\n\nCompatibility: most firearms"
+modscopeaimpointMicroH2,"[09FF00]Aimpoint Micro H2 Reflex Sight[-]"
+modscopeaimpointMicroH2Desc,"Weight: [4FBE28]0.109kg[-]\n\nCompatibility: most firearms"
+modscopeaimpointMicroT1,"[09FF00]Aimpoint Micro T1 Reflex Sight[-]"
+modscopeaimpointMicroT1Desc,"Weight: [4FBE28]0.099kg[-]\n\nCompatibility: most firearms"
+modscopeBelOMOpk06,"[09FF00]BelOMO PK-06 Reflex Sight[-]"
+modscopeBelOMOpk06Desc,"Weight: [4FBE28]0.090kg[-]\n\nCompatibility: most firearms"
+modscopeburrisfastfire,"[09FF00]Burris Fastfire Reflex 3 Sight[-]"
+modscopeburrisfastfireDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms"
+modscopeSIGromeo4,"[09FF00]SIG SAUER ROMEO 4 Reflex Sight[-]"
+modscopeSIGromeo4Desc,"Weight: [4FBE28]0.104kg[-]\n\nCompatibility: most firearms"
+modscopeRMR,"[09FF00]Trijicon RMR Reflex Sight[-]"
+modscopeRMRDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms"
+modscopeleupolddeltapoint,"[09FF00]Leupold DeltaPoint Reflex Sight[-]"
+modscopeleupolddeltapointDesc,"Weight: [4FBE28]0.098kg[-]\n\nCompatibility: most firearms"
+modscopeAimPointCompM4,"[09FF00]AimPoint CompM4 Reflex Sight[-]"
+modscopeAimPointCompM4Desc,"Weight: [4FBE28]0.445kg[-]\n\nCompatibility: most firearms"
+modscopeAimPointPro,"[09FF00]AimPoint PRO Reflex Sight[-]"
+modscopeAimPointProDesc,"Weight: [4FBE28]0.345kg[-]\n\nCompatibility: most firearms"
+modscopeaksionEKP818,"[09FF00]Aksion Kobra EKP-8-18 Reflex Sight[-]"
+modscopeaksionEKP818Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: most firearms"
+modscopeaksionEKP1s03,"[09FF00]Aksion Kobra EKP-1S-03 Reflex Sight Dovetail[-]"
+modscopeaksionEKP1s03Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeaksionEKP802,"[09FF00]Aksion Kobra EKP-8-02 Reflex Sight Dovetail[-]"
+modscopeaksionEKP802Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeBelOMOdovetailPKAA,"[09FF00]BelOMO PK-AA Reflex Sight Dovetail[-]"
+modscopeBelOMOdovetailPKAADesc,"Weight: [4FBE28]0.450kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeElcanSpecterHCO,"[09FF00]Elcan Specter HCO Holographic Sight[-]"
+modscopeElcanSpecterHCODesc,"Weight: [4FBE28]0.433kg[-]\n\nCompatibility: most firearms"
+modscopeLeapersUTG,"[09FF00]Leapers UTG Reflex Sight[-]"
+modscopeLeapersUTGDesc,"Weight: [4FBE28]0.227kg[-]\n\nCompatibility: most firearms"
+modscopeNPZPK1,"[09FF00]NPZ PK-1 Obzor Reflex Sight Dovetail[-]"
+modscopeNPZPK1Desc,"Weight: [4FBE28]0.520kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeOKP7dovetail,"[09FF00]OKP-7 Reflex Sight Dovetail[-]"
+modscopeOKP7dovetailDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeSIGRomeo8T,"[09FF00]SIG Sauer ROMEO8T Reflex Sight[-]"
+modscopeSIGRomeo8TDesc,"Weight: [4FBE28]0.388kg[-]\n\nCompatibility: most firearms"
+modscopeSRS02,"[09FF00]Trijicon SRS 02 Reflex Sight[-]"
+modscopeSRS02Desc,"Weight: [4FBE28]0.390kg[-]\n\nCompatibility: most firearms"
+modscopeValdayKrechet,"[09FF00]Valday Krechet Reflex Sight[-]"
+modscopeValdayKrechetDesc,"Weight: [4FBE28]0.350kg[-]\n\nCompatibility: most firearms"
+modscopeValdayPK120,"[09FF00]Valday PK-120 Reflex Sight[-]"
+modscopeValdayPK120Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms"
+modscopeVOMZPiladP1,"[09FF00]VOMZ Pilad P1x42 Reflex Sight[-]"
+modscopeVOMZPiladP1Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms"
+modscopeVortexRazorAMGUH1,"[09FF00]Vortex Razor AMG UH-1 Reflex Sight[-]"
+modscopeVortexRazorAMGUH1Desc,"Weight: [4FBE28]0.160kg[-]\n\nCompatibility: most firearms"
+modscopewalthermrsreflex,"[09FF00]Walther MRS Reflex Sight[-]"
+modscopewalthermrsreflexDesc,"Weight: [4FBE28]0.113kg[-]\n\nCompatibility: most firearms"
+modscopeWilcoxBossXeHP,"[09FF00]Wilcox BOSS Xe Reflex Sight[-]"
+modscopeWilcoxBossXeHPDesc,"Weight: [4FBE28]0.250kg[-]\n\nCompatibility: most firearms"
+modscopeokp7reflex,"[09FF00]OKP-7 Reflex Sight[-]"
+modscopeokp7reflexDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: most firearms"
+modscopeEOTech553holo,"[09FF00]EOTech 553[-]"
+modscopeEOTech553holoDesc,"Weight: [4FBE28]0.349kg[-]\n\nCompatibility: most firearms"
+modscopeFNP90ringreflex,"[004CFF]P90 Ring Reflex Sight[-]"
+modscopeFNP90ringreflexDesc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: P90"
+
+modscopeElcanSpecterDR,"[004CFF]ELCAN SpecterDR 1x/4x Scope[-]"
+modscopeElcanSpecterDRDesc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: most firearms"
+modscopeKibaArmsPrism,"[004CFF]Primary Arms Compact Prism 2.5x[-]"
+modscopeKibaArmsPrismDesc,"Weight: [4FBE28]0.432kg[-]\n\nCompatibility: most firearms"
+modscopeNPZ1p78,"[004CFF]NPZ 1P78-1 2.8x Scope Dovetail[-]"
+modscopeNPZ1p78Desc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeNPZ1p29,"NPZ 1P29 4x Scope Dovetail"
+modscopeNPZ1p29Desc,"Weight: [4FBE28]0.500kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopeBelOMOPSO1M2,"[09FF00]BelOMO PSO-1M2-1 4x24 Scope Dovetail[-]"
+modscopeBelOMOPSO1M2Desc,"Weight: [4FBE28]0.600kg[-]\n\nCompatibility: firearms with dovetail platform"
+modscopemonstrumcompact,"[09FF00]Monstrum Compact Scope[-]"
+modscopemonstrumcompactDesc,"Weight: [4FBE28]0.425kg[-]\n\nCompatibility: most firearms"
+modscopeSwampFoxPrism,"[09FF00]SwampFox Trihawk Prism 3x30 Scope[-]"
+modscopeSwampFoxPrismDesc,"Weight: [4FBE28]0.436kg[-]\n\nCompatibility: most firearms"
+modscopeeotechhhshybrid,"[004CFF]EOTech HHS Hybrid Sight[-]"
+modscopeeotechhhshybridDesc,"Weight: [4FBE28]0.635kg[-]\n\nCompatibility: most firearms"
+modscopeacogta01NSN4x32,"[004CFF]Trijicon ACOG TA01NSN 4x32 Scope[-]"
+modscopeacogta01NSN4x32Desc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms"
+modscopeacogta11D35x,"[004CFF]Trijicon ACOG TA11D 3.5x35 Scope[-]"
+modscopeacogta11D35xDesc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms"
+modscopeLeupoldMark4Hamr,"[004CFF]Leupold Mark 4 HAMR 4x24 Hybrid Scope[-]"
+modscopeLeupoldMark4HamrDesc,"Weight: [4FBE28]0.411kg[-]\n\nCompatibility: most firearms"
+modscopeSIGBravo4,"[004CFF]SIG Sauer BRAVO4 4x30 Scope[-]"
+modscopeSIGBravo4Desc,"Weight: [4FBE28]0.419kg[-]\n\nCompatibility: most firearms"
+modscopeValdayPS320,"[004CFF]Valday PS-320 1/6x Scope[-]"
+modscopeValdayPS320Desc,"Weight: [4FBE28]0.570kg[-]\n\nCompatibility: most firearms"
+modscopeSBPMII18x2430mm,"[004CFF]Schmidt & Bender PM II 1-8x24 Scope[-]"
+modscopeSBPMII18x2430mmDesc,"Weight: [4FBE28]1.139kg[-]\n\nCompatibility: most firearms"
+modscopeSBPMII320x5034mm,"[004CFF]Schmid & Bender PM II 3-20x50 Scope[-]"
+modscopeSBPMII320x5034mmDesc,"Weight: [4FBE28]1.240kg[-]\n\nCompatibility: most firearms"
+modscopeSBPMII525x5634mm,"[004CFF]Schmidt & Bender PM II 5-25x56 Scope[-]"
+modscopeSBPMII525x5634mmDesc,"Weight: [4FBE28]1.420kg[-]\n\nCompatibility: most firearms"
+modscopeBFTac3014x2430mm,"[004CFF]Burris Fullfield TAC30 1-4x24 Scope[-]"
+modscopeBFTac3014x2430mmDesc,"Weight: [4FBE28]0.726kg[-]\n\nCompatibility: most firearms"
+modscopeEOTVudu16x2430mm,"[004CFF]EOTech Vudu 1-6x24 Scope[-]"
+modscopeEOTVudu16x2430mmDesc,"Weight: [4FBE28]0.816kg[-]\n\nCompatibility: most firearms"
+modscopeLeupoldMark4LR30mm,"[004CFF]Leupold Mark4 LR 6.5-20x50 Scope[-]"
+modscopeLeupoldMark4LR30mmDesc,"Weight: [4FBE28]0.870kg[-]\n\nCompatibility: most firearms"
+modscopeMarchTactical30mm,"[004CFF]March Tactical 3-24x42 Scope[-]"
+modscopeMarchTactical30mmDesc,"Weight: [4FBE28]0.890kg[-]\n\nCompatibility: most firearms"
+modscopeSIGTango6T16x2430mm,"[004CFF]SIG Sauer TANGO6T 1-6x24 Scope[-]"
+modscopeSIGTango6T16x2430mmDesc,"Weight: [4FBE28]0.876kg[-]\n\nCompatibility: most firearms"
+modscopeRazorHDGen216x2430mm,"[004CFF]Vortex Razor HD Gen.2 1-6x24 Scope[-]"
+modscopeRazorHDGen216x2430mmDesc,"Weight: [4FBE28]0.820kg[-]\n\nCompatibility: most firearms"
+modscopeNFATACR735x5634mm,"[004CFF]Nightforce ATACR 7-35x56 Scope[-]"
+modscopeNFATACR735x5634mmDesc,"Weight: [4FBE28]1.363kg[-]\n\nCompatibility: most firearms"
+modscopeHensoldtFF416x5634mm,"[004CFF]Hensoldt FF 4-16x56 Scope[-]"
+modscopeHensoldtFF416x5634mmDesc,"Weight: [4FBE28]1.150kg[-]\n\nCompatibility: most firearms"
+modscopeNCStarADO,"[004CFF]NcSTAR ADO P4 3-9x42 Hybrid Scope[-]"
+modscopeNCStarADODesc,"Weight: [4FBE28]0.595kg[-]\n\nCompatibility: most firearms"
+modscopeKMZ1p69Weaver,"[004CFF]KMZ 1P69 3-10x Scope Weaver[-]"
+modscopeKMZ1p69WeaverDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: most firearms"
+modscopeKMZ1p69Dovetail,"[004CFF]KMZ 1P69 3-10x Scope Dovetail[-]"
+modscopeKMZ1p69DovetailDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: firearms with dovetail platform"
+
+modscopeaimpointAcroP1canted,[09FF00]Aimpoint ACRO P-1 reflex sight (Canted)[-]
+modscopeaimpointAcroP1cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeaimpointMicroH2canted,[09FF00]Aimpoint Micro H-2 reflex sight (Canted)[-]
+modscopeaimpointMicroH2cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeaimpointMicroT1canted,[09FF00]Aimpoint Micro T-1 reflex sight (Canted)[-]
+modscopeaimpointMicroT1cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeBelOMOpk06canted,[09FF00]BelOMO PK-06 reflex sight (Canted)[-]
+modscopeBelOMOpk06cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeburrisfastfirecanted,[09FF00]Burris FastFire 3 reflex sight (Canted)[-]
+modscopeburrisfastfirecantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeleupolddeltapointcanted,[09FF00]Leupold DeltaPoint reflex sight (Canted)[-]
+modscopeleupolddeltapointcantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeSIGromeo4canted,[09FF00]SIG Sauer ROMEO4 reflex sight (Canted)[-]
+modscopeSIGromeo4cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+modscopeRMRcanted,[09FF00]Trijicon RMR reflex sight (Canted)[-]
+modscopeRMRcantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. "
+
+
+modSKStactickit, [09FF00]SKS Tactical Upgrade Kit[-]
+modSKStactickitDesc,"Parts to upgrade your SKS. Allowing the installation of some AR-15 styled stocks, foregrip, bipod, laser/light and canted sight. "
+modmagP90ZakuPlate, [BB00FF]P90 'Zaku' 100-rd magazine[-]
+modmagP90ZakuPlateDesc,"Weight: [4FBE28]1.180kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: FN P90"
+modstockIWICarmelErgo, [004CFF]IWI Carmel Ergo Stock[-]
+modstockIWICarmelErgoDesc,"Weight: [4FBE28]0.630kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: IWI Carmel"
+
+modstock_ak_hera_arms_cqr47, [09FF00]AK Hera Arms Kit[-]
+modstock_ak_hera_arms_cqr47Desc,"Parts to upgrade your AK. not fully implemented yet. "
+modstock_ak_promag_archangel_opfor_aa47, [09FF00]AK Promag Archangel Kit[-]
+modstock_ak_promag_archangel_opfor_aa47Desc,"Parts to upgrade your AK. not fully implemented yet. "
+modstock_ak_izhmash_ak_evo, [09FF00]AK Izhmash Evo Kit[-]
+modstock_ak_izhmash_ak_evoDesc,"Parts to upgrade your AK. not fully implemented yet. "
+
+modmagmp9Cmag100,"[BB00FF]UZI/MP9 Custom 100-Round C-Mag[-]"
+modmagmp9Cmag100Desc,"Weight: [4FBE28]1.180kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: MP-9N, UZI, UZI Pro SMG"
+
+modhandguardUziRailedForegrip, [09FF00]UZI Railed Vertical Foregrip[-]
+modhandguardUziRailedForegripDesc,"Allowing the installation of [4FBE28]Laser/Light[-] on the standard UZI\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: UZI"
+modstockm3benelliurbino, [004CFF]Benelli M3 Urbino Fixed Stock[-]
+modstockm3benelliurbinoDesc,"Weight: [4FBE28]1.043kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: Benelli M3"
+modsilencerUziPro, [004CFF]UZI Pro Reinforced Silencer[-]
+modsilencerUziProDesc,"Weight: [4FBE28]0.369kg[-]\nRecoil: [4FBE28]-25%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: UZI Pro SMG"
+
+modsilencerco9ospreyDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3"
+modsilencersigsrd9Desc,"Weight: [4FBE28]0.255kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-9%[-]\nHipfire Accuracy: [FF4F33]-9%[-]\nDurability Burn: [FF4F33]+20%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3"
+
+modsilencersigsrdqd, [FFD700]SIG SRD-QD Sound Suppressor[-]
+modsilencersigsrdqdDesc,"Weight: [4FBE28]0.460kg[-]\nRecoil: [4FBE28]-30%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Firearms chambered in .300blk, 7.62×39 & 7.62×51"
+
+gunusp45tac,"USP 45 Tactical"
+gunusp45tacDesc,"HK USP 45 Tactical Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-], can take a silencer.\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+gunusp45match,"USP 45 w Match Compensator"
+gunusp45matchDesc,"HK USP 45 Pistol with Match Compensator\n\nUses Ammo Type: [D3CE1D].45ACP[-], can't take silencers.\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+modsilencerco45komega,"[09FF00]SilencerCo 45K Omega[-]"
+modsilencerump45bt,"[09FF00]UMP-45 B&T Sound Suppressor[-]"
+modsilencerco45komegaDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+15%[-]\n\nCompatibility: Vector 45, M45A1, M1911, USP 45 Tactical "
+modsilencerump45btDesc,"Weight: [4FBE28]0.453kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+15%[-]\n\nCompatibility: UMP-45"
+
+modsilencertt33makeshift,"TT-33 Makeshift Sound Suppressor"
+modmuzzlettlaserdtk,"TT Laser DTK"
+modsilencerstechkinstd,"Stechkin Silencer"
+modsilencerpp9klin,"PP-9 Klin Silencer"
+modmuzzlemp5btqdbrake,"[09FF00]MP5 B&T QD Muzzle Brake[-]"
+modmuzzlemp5noveske,"[09FF00]MP5 Noveske-style Muzzle Brake[-]"
+modsilencerco46multi,"SilencerCo 46 Multi-caliber Sound Suppressor"
+modsilencerco9osprey,"[09FF00]SilencerCo Osprey 9x19 Sound Suppressor [-]"
+modsilencersigsrd9,"[004CFF]SIG SRD 9×19 Sound Suppressor[-]"
+modmuzzlevityazbrakecompensator,"[09FF00]Vityaz Muzzle Brake-Compensator[-]"
+modsilencermpxsd,"[BB00FF]MPX-SD Sound Suppressor[-]"
+modmuzzlestm9brake,"[BB00FF]STM-9 Muzzle Brake[-]"
+modmuzzlegl17carver4port,"Glock 17 Carver 4-Port Brake"
+modmuzzlep226tjcustom,"P226 TJ Custom Muzzle Brake"
+modsilencersr1mpstd,"SR-1MP Silencer"
+modsilencersr2msv1381,"[004CFF]SR-2M Sound Suppressor (SV-1381)[-]"
+modmuzzle1911anarchyoutdoors,"1911 Anarchy Outdoors Muzzle Brake"
+modsilencermp7rotex2,"[004CFF]MP7 Rotex-II Sound Suppressor[-]"
+modsilencerp90attenuator,"[004CFF]P90 Attenuator Sound Suppressor[-]"
+modsilencer57gemtech,"Gemtech SFN-57 Sound Suppressor"
+
+modsilencerak74tgpa,"[09FF00]AK-74 TGP-A Sound Suppressor[-]"
+modmuzzleak74hexagonreactor,"[004CFF]AK-74 Hexagon Reactor Muzzle Brake[-]"
+modsilencerak74hexagonwaffle,"[004CFF]AK-74 Hexagon Wafflemaker[-]"
+modmuzzleak74jetmbr,"[BB00FF]AK-74 SRVV MBR Jet Muzzle Brake[-]"
+modmuzzleak74zenitdtk1,"[BB00FF]AK Zenit DTK-1 Muzzle Brake[-]"
+modsilencerhexagonAK,"[BB00FF]AK Hexagon Multi-caliber Sound Suppressor[-]"
+modmuzzleak12std,"[BB00FF]AK-12 Muzzle Brake[-]"
+modsilencerak12std,"[BB00FF]AK-12 Silencer[-]"
+modmuzzlerpdbrakecompensator,"[BB00FF]RPD Muzzle Brake-Compensator[-]"
+modmuzzle_mosin_tacfire_tanker_style_762x54r,"[09FF00]Mosin Tacfire Tanker Muzzle Brake[-]"
+modsilencer_mosin_bramit_std_762x54r,"[09FF00]Mosin Bramit Sound Suppressor[-]"
+modsilencerSV98std,"[004CFF]SV-98 Sound Suppressor[-]"
+modmuzzleSV98mk2SRVV,"[004CFF]SV-98 SRVV Muzzle Brake-Compensator[-]"
+modSVDmuzzlebrakecompensator,"[004CFF]SVDS Muzzle Brake-Compensator[-]"
+modsilencerSVDrotor43,"[004CFF]SVDS Rotor 43 Sound Suppressor[-]"
+modmuzzlepkzenitdtk,"[FFD700]PK Zenit DTK-1P Muzzle Brake[-]"
+modmuzzleash12std,"[BB00FF]ASH-12 Muzzle Brake[-]"
+modsilencerash12std,"[BB00FF]ASH-12 Silencer[-]"
+modsilencergriffinm4sdk,"[09FF00]Griffin M4SD-K Sound Suppressor[-]"
+modsilencersocomrc2,"[004CFF]SOCOM556-RC2 Sound Suppressor[-]"
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45,"[09FF00]AR-15 Ferfrans CQB Muzzle Brake[-]"
+modmuzzle_ar15_double_star_carlson_tac_comp_556x45,"[004CFF]AR-15 DoubleStar CTC Compensator[-]"
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45,"[BB00FF]AR-15 AlienTech Muzzle Brake[-]"
+modmuzzleAR10thunderbeast30cb,"[004CFF]AR-10 Thunder Beast 30CB Muzzle Brake[-]"
+modmuzzleAR15thunderbeast223cb,"[004CFF]AR-15 Thunder Beast 223CB Muzzle Brake[-]"
+modsilencerthunderbeastultra5,"[004CFF]Thunder Beast Ultra 5 Sound Suppressor[-]"
+modsilencersdnaacmulti,"[FFD700]AAC SDN-6 Sound Suppressor[-]"
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51,"[004CFF]AR-10 PA M11 Severe-Duty Muzzle Brake[-]"
+modmuzzleAR10kacqdc,"[BB00FF]AR-10 KAC QDC Muzzle Brake[-]"
+modsilencerprskacqdc,"[BB00FF]KAC PRS/QDC Sound Suppressor[-]"
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51,"[FFD700]AR-10 Lantac Dragon Muzzle Brake-Compensator[-]"
+modsilencerbtg28qd762,"[BB00FF]HK G28 B&T QD Sound Suppressor[-]"
+modsilencerSIGclutchlokQD,"[FFD700]MCX-SPEAR SLX68-MG-QD Sound Suppressor[-]"
+modmuzzlesigtwoportbrake,"[BB00FF]SIG Two Port Brake[-]"
+modsilencersigsrd762ti,"[BB00FF]SIG SRD762Ti Sound Suppressor[-]"
+modmuzzleAI338LMtactical,"[FFD700]AI .338 LM Muzzle Brake[-]"
+modsilencerAI338LMsoundmoderator,"[FFD700]AI .338 LM Sound Suppressor[-]"
+
+gunFALsa58dmr,"[004CFF]FN FAL DMR[-]"
+
+gunrpg7,"[FFD700]RPG-7[-]"
+gunrpg7Desc,"RPG-7 Rocket Launcher\n\nUses Ammo Type: [D3CE1D]PG-7VL Warhead[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]"
+
+gunfamas,"[004CFF]FAMAS[-]"
+gunfamasDesc,"FAMAS Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip or under barrel to equip flashlights/lasers."
+
+modchokeremingtontactical,"[004CFF]Remington Tactical Choke[-]"
+modchokeremingtontacticalDesc,"Weight: [4FBE28]0.101kg[-]\nRecoil: [4FBE28]-15%[-]\nSpread: [4FBE28]-15%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli"
+
+modchokeAA12Desc,"Weight: [4FBE28]0.101kg[-]\nRecoil: [4FBE28]-25%[-]\nSpread: [4FBE28]-25%[-]\n\nCompatibility: AA-12"
+
+muzzle_mosin_tacfire_tanker_style_762x54rDesc,"Weight: [4FBE28]0.250kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: Mosin-Nagant"
+
+modstockakzenitpt1Desc,"Weight: [4FBE28]0.480kg[-]\nErgonomics: [4FBE28]+6%[-]\nHipfire Accuracy: [4FBE28]+6%[-]\n\nCompatibility: PP-19-01, AKS-74UN, AK-74N/M,AK-103,  AK-107, AK-109, AKMN, Saiga-12K, Velociraptor"
+
+modstockakzenitpt3Desc,"Weight: [4FBE28]0.250kg[-]\nErgonomics: [4FBE28]+22%[-]\nHipfire Accuracy: [4FBE28]+22%[-]\n\nCompatibility: PP-19-01, AKS-74UN, AK-74N/M,AK-103,  AK-107, AK-109, AKMN, Saiga-12K, Velociraptor"
+
+modstockakzhukovmagpulDesc,"Weight: [4FBE28]0.430kg[-]\nErgonomics: [4FBE28]+24%[-]\nHipfire Accuracy: [4FBE28]+24%[-]\n\nCompatibility: AK-74N & AKMN & AK-103"
+
+modstocka2ar15prsgen2tanDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-15%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1."
+
+modstocka2ar15prsgen3Desc,"Weight: [4FBE28]0.970kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns."
+
+modstockar15b5precisionDesc,"Weight: [4FBE28]0.350kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns."
+
+modstockar15troym7a1Desc,"Weight: [4FBE28]0.400kg[-]\nErgonomics: [4FBE28]+7%[-]\nHipfire Accuracy: [4FBE28]+7%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1."
+
+modstockar15glcoreDesc,"Weight: [4FBE28]0.461kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns."
+
+modstockar15acesocomgen4Desc,"Weight: [4FBE28]0.470kg[-]\nErgonomics: [4FBE28]+40%[-]\nHipfire Accuracy: [4FBE28]+40%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1."
+
+modstockar15hke1Desc,"Weight: [4FBE28]0.520kg[-]\nErgonomics: [4FBE28]+12%[-]\nHipfire Accuracy: [4FBE28]+12%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns."
+
+modstockar15ergof93proDesc,"Weight: [4FBE28]0.590kg[-]\nErgonomics: [4FBE28]+35%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1."
+
+modstockfnminimilightweightDesc,"Weight: [4FBE28]0.300kg[-]\nErgonomics: [4FBE28]+30%[-]\nHipfire Accuracy: [4FBE28]+30%[-]\n\nCompatibility: FN Minimi"
+
+modstockmaximcqbDesc,"Weight: [4FBE28]0.500kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+45%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H"
+
+modstockpmmulssDesc,"Weight: [4FBE28]0.460kg[-]\nErgonomics: [4FBE28]+45%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H"
+
+modstockSA58paraSPRDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\n\nCompatibility: FN FAL"
+
+modstockVLtorVSS11Desc,"Weight: [4FBE28]0.630kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: SCAR-H"
+
+modstock417hke2Desc,"Weight: [4FBE28]0.550kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\n\nCompatibility: HK417 & G28"
+
+modstockpkzenitpt2Desc,"Weight: [4FBE28]0.640kg[-]\nErgonomics: [4FBE28]+30%[-]\nHipfire Accuracy: [4FBE28]+30%[-]\n\nCompatibility: PKP Pecheneg"
+
+Gunppsh41SkillMagazine,"ppsh41 Magazine"
+Gunppsh41SkillMagazineDesc,"Crafting a ppsh41.\nImproves ppsh41 weapon crafting skill."
+craftinggunppsh41,"PPSH41"
+craftinggunppsh41Name,"ppsh41"
+craftinggunppsh41Desc,"Reading [DECEA3]PPSH41[-] enables you to craft PPSH."
+craftinggunppsh41LongDesc,"Long Desc"
+
+Gunpp9klinSkillMagazine,"pp9 klin Magazine"
+Gunpp9klinSkillMagazineDesc,"Crafting a pp9 klin.\nImproves pp9 klin weapon crafting skill."
+craftinggunpp9klin,"pp9 klin"
+craftinggunpp9klinName,"pp9 klin"
+craftinggunpp9klinDesc,"Reading [DECEA3]pp9 klin[-] enables you to craft pp9 klin."
+craftinggunpp9klinLongDesc,"Long Desc"
+
+Gunpp19bizonSkillMagazine,"pp19 bizon Magazine"
+Gunpp19bizonSkillMagazineDesc,"Crafting a pp19 bizon.\nImproves pp19 bizon weapon crafting skill."
+craftinggunpp19bizon,"pp19 bizon"
+craftinggunpp19bizonName,"pp19 bizon"
+craftinggunpp19bizonDesc,"Reading [DECEA3]pp19 bizon[-] enables you to craft pp19 bizon."
+craftinggunpp19bizonLongDesc,"Long Desc"
+
+Gunmp5kSkillMagazine,"mp5k Magazine"
+Gunmp5kSkillMagazineDesc,"Crafting a mp5k.\nImproves mp5k weapon crafting skill."
+craftinggunmp5k,"mp5k"
+craftinggunmp5kName,"mp5k"
+craftinggunmp5kDesc,"Reading [DECEA3]mp5k[-] enables you to craft mp5k."
+craftinggunmp5kLongDesc,"Long Desc"
+
+Gunmp5SkillMagazine,"mp5 Magazine"
+Gunmp5SkillMagazineDesc,"Crafting a mp5.\nImproves mp5 weapon crafting skill."
+craftinggunmp5,"mp5"
+craftinggunmp5Name,"mp5"
+craftinggunmp5Desc,"Reading [DECEA3]mp5[-] enables you to craft mp5."
+craftinggunmp5LongDesc,"Long Desc"
+
+GunuziSkillMagazine,"uzi Magazine"
+GunuziSkillMagazineDesc,"Crafting a uzi.\nImproves uzi weapon crafting skill."
+craftinggunuzi,"uzi"
+craftinggunuziName,"uzi"
+craftinggunuziDesc,"Reading [DECEA3]uzi[-] enables you to craft uzi."
+craftinggunuziLongDesc,"Long Desc"
+
+Gunpp19vityazSkillMagazine,"pp19 Vityaz Magazine"
+Gunpp19vityazSkillMagazineDesc,"Crafting a pp19 Vityaz.\nImproves pp19 Vityaz weapon crafting skill."
+craftinggunpp19vityaz,"pp19 Vityaz"
+craftinggunpp19vityazName,"pp19 Vityaz"
+craftinggunpp19vityazDesc,"Reading [DECEA3]pp19 Vityaz[-] enables you to craft pp19 Vityaz."
+craftinggunpp19vityazLongDesc,"Long Desc"
+
+Gunmp9SkillMagazine,"mp9 Magazine"
+Gunmp9SkillMagazineDesc,"Crafting a mp9.\nImproves mp9 weapon crafting skill."
+craftinggunmp9,"mp9"
+craftinggunmp9Name,"mp9"
+craftinggunmp9Desc,"Reading [DECEA3]mp9[-] enables you to craft mp9."
+craftinggunmp9LongDesc,"Long Desc"
+
+GunuziprosmgSkillMagazine,"uzi pro smg Magazine"
+GunuziprosmgSkillMagazineDesc,"Crafting a uzi pro smg.\nImproves uzi pro smg weapon crafting skill."
+craftinggunuziprosmg,"uzi pro smg"
+craftinggunuziprosmgName,"uzi pro smg"
+craftinggunuziprosmgDesc,"Reading [DECEA3]uzi pro smg[-] enables you to craft uzi pro smg."
+craftinggunuziprosmgLongDesc,"Long Desc"
+
+Gunmp5sdSkillMagazine,"gunmp5sd Magazine"
+Gunmp5sdSkillMagazineDesc,"Crafting a mp5 sd.\nImproves mp5 sd weapon crafting skill."
+craftinggunmp5sd,"mp5 sd"
+craftinggunmp5sdName,"mp5 sd"
+craftinggunmp5sdDesc,"Reading [DECEA3]mp5 sd[-] enables you to craft mp5 sd."
+craftinggunmp5sdLongDesc,"Long Desc"
+
+Gunvector9SkillMagazine,"Vector9 Magazine"
+Gunvector9SkillMagazineDesc,"Crafting a Vector9.\nImproves Vector9 weapon crafting skill."
+craftinggunvector9,"Vector9"
+craftinggunvector9Name,"Vector9"
+craftinggunvector9Desc,"Reading [DECEA3]Vector9[-] enables you to craft Vector9."
+craftinggunvector9LongDesc,"Long Desc"
+
+GunmpxSkillMagazine,"mpx Magazine"
+GunmpxSkillMagazineDesc,"Crafting a mpx.\nImproves mpx weapon crafting skill."
+craftinggunmpx,"mpx"
+craftinggunmpxName,"mpx"
+craftinggunmpxDesc,"Reading [DECEA3]mpx[-] enables you to craft mpx."
+craftinggunmpxLongDesc,"Long Desc"
+
+Gunstm9SkillMagazine,"stm9 Magazine"
+Gunstm9SkillMagazineDesc,"Crafting a stm9.\nImproves stm9 weapon crafting skill."
+craftinggunstm9,"stm9"
+craftinggunstm9Name,"stm9"
+craftinggunstm9Desc,"Reading [DECEA3]stm9[-] enables you to craft stm9."
+craftinggunstm9LongDesc,"Long Desc"
+
+Gunsr2mvereskSkillMagazine,"sr2 Mveresk Magazine"
+Gunsr2mvereskSkillMagazineDesc,"Crafting a sr2 Mveresk.\nImproves sr2 Mveresk weapon crafting skill."
+craftinggunsr2mveresk,"sr2 Mveresk"
+craftinggunsr2mvereskName,"sr2 Mveresk"
+craftinggunsr2mvereskDesc,"Reading [DECEA3]sr2 Mveresk[-] enables you to craft sr2 Mveresk."
+craftinggunsr2mvereskLongDesc,"Long Desc"
+
+Gunump45SkillMagazine,"ump45 Magazine"
+Gunump45SkillMagazineDesc,"Crafting a ump45.\nImproves ump45 weapon crafting skill."
+craftinggunump45,"ump45"
+craftinggunump45Name,"ump45"
+craftinggunump45Desc,"Reading [DECEA3]ump45[-] enables you to craft ump45."
+craftinggunump45LongDesc,"Long Desc"
+
+GunthompsonSkillMagazine,"thompson Magazine"
+GunthompsonSkillMagazineDesc,"Crafting a thompson.\nImproves thompson weapon crafting skill."
+craftinggunthompson,"thompson"
+craftinggunthompsonName,"thompson"
+craftinggunthompsonDesc,"Reading [DECEA3]thompson[-] enables you to craft thompson."
+craftinggunthompsonLongDesc,"Long Desc"
+
+Gunvector45SkillMagazine,"Vector45 Magazine"
+Gunvector45SkillMagazineDesc,"Crafting a Vector45.\nImproves Vector45 weapon crafting skill."
+craftinggunvector45,"Vector45"
+craftinggunvector45Name,"Vector45"
+craftinggunvector45Desc,"Reading [DECEA3]Vector45[-] enables you to craft Vector45."
+craftinggunvector45LongDesc,"Long Desc"
+
+Gunmp7SkillMagazine,"mp7 Magazine"
+Gunmp7SkillMagazineDesc,"Crafting a mp7.\nImproves mp7 weapon crafting skill."
+craftinggunmp7,"mp7"
+craftinggunmp7Name,"mp7"
+craftinggunmp7Desc,"Reading [DECEA3]mp7[-] enables you to craft mp7."
+craftinggunmp7LongDesc,"Long Desc"
+
+Gunp90SkillMagazine,"p90 Magazine"
+Gunp90SkillMagazineDesc,"Crafting a p90.\nImproves p90 weapon crafting skill."
+craftinggunp90,"p90"
+craftinggunp90Name,"p90"
+craftinggunp90Desc,"Reading [DECEA3]p90[-] enables you to craft p90."
+craftinggunp90LongDesc,"Long Desc"
+
+GuntokarevttSkillMagazine,"Tokarevtt Magazine"
+GuntokarevttSkillMagazineDesc,"Crafting a Tokarevtt.\nImproves Tokarevtt weapon crafting skill."
+craftingguntokarevtt,"Tokarevtt"
+craftingguntokarevttName,"Tokarevtt"
+craftingguntokarevttDesc,"Reading [DECEA3]Tokarevtt[-] enables you to craft Tokarevtt."
+craftingguntokarevttLongDesc,"Long Desc"
+
+GuntokarevgoldSkillMagazine,"Tokarev Gold Magazine"
+GuntokarevgoldSkillMagazineDesc,"Crafting a Tokarev Gold.\nImproves Tokarev Gold weapon crafting skill."
+craftingguntokarevgold,"Tokarev Gold"
+craftingguntokarevgoldName,"Tokarev Gold"
+craftingguntokarevgoldDesc,"Reading [DECEA3]Tokarev Gold[-] enables you to craft Tokarev Gold."
+craftingguntokarevgoldLongDesc,"Long Desc"
+
+GuntokarevmachineSkillMagazine,"Tokarev Machine Magazine"
+GuntokarevmachineSkillMagazineDesc,"Crafting a Tokarev Machine.\nImproves Tokarev Machine weapon crafting skill."
+craftingguntokarevmachine,"Tokarev Machine"
+craftingguntokarevmachineName,"Tokarev Machine"
+craftingguntokarevmachineDesc,"Reading [DECEA3]Tokarev Machine[-] enables you to craft Tokarev Machine."
+craftingguntokarevmachineLongDesc,"Long Desc"
+
+GunpbSkillMagazine,"PB Magazine"
+GunpbSkillMagazineDesc,"Crafting a PB.\nImproves PB weapon crafting skill."
+craftinggunpb,"PB"
+craftinggunpbName,"PB"
+craftinggunpbDesc,"Reading [DECEA3]PB[-] enables you to craft PB."
+craftinggunpbLongDesc,"Long Desc"
+
+GunpmalphadogSkillMagazine,"PM Alphadog Magazine"
+GunpmalphadogSkillMagazineDesc,"Crafting a PM Alphadog.\nImproves PM Alphadog weapon crafting skill."
+craftinggunpmalphadog,"PM Alphadog"
+craftinggunpmalphadogName,"PM Alphadog"
+craftinggunpmalphadogDesc,"Reading [DECEA3]PM Alphadog[-] enables you to craft PM Alphadog."
+craftinggunpmalphadogLongDesc,"Long Desc"
+
+GunstechkinSkillMagazine,"Stechkin Magazine"
+GunstechkinSkillMagazineDesc,"Crafting a Stechkin.\nImproves Stechkin weapon crafting skill."
+craftinggunstechkin,"Stechkin"
+craftinggunstechkinName,"Stechkin"
+craftinggunstechkinDesc,"Reading [DECEA3]Stechkin[-] enables you to craft Stechkin."
+craftinggunstechkinLongDesc,"Long Desc"
+
+Gunglock17SkillMagazine,"Glock17 Magazine"
+Gunglock17SkillMagazineDesc,"Crafting a Glock17.\nImproves Glock17 weapon crafting skill."
+craftinggunglock17,"Glock17"
+craftinggunglock17Name,"Glock17"
+craftinggunglock17Desc,"Reading [DECEA3]Glock17[-] enables you to craft Glock17."
+craftinggunglock17LongDesc,"Long Desc"
+
+Gunp226SkillMagazine,"P226 Magazine"
+Gunp226SkillMagazineDesc,"Crafting a P226.\nImproves P226 weapon crafting skill."
+craftinggunp226,"P226"
+craftinggunp226Name,"P226"
+craftinggunp226Desc,"Reading [DECEA3]P226[-] enables you to craft P226."
+craftinggunp226LongDesc,"Long Desc"
+
+Gunm9a3SkillMagazine,"M9a3 Magazine"
+Gunm9a3SkillMagazineDesc,"Crafting a M9a3.\nImproves M9a3 weapon crafting skill."
+craftinggunm9a3,"M9a3"
+craftinggunm9a3Name,"M9a3"
+craftinggunm9a3Desc,"Reading [DECEA3]M9a3[-] enables you to craft M9a3."
+craftinggunm9a3LongDesc,"Long Desc"
+
+Gunglock18cSkillMagazine,"Glock18c Magazine"
+Gunglock18cSkillMagazineDesc,"Crafting a Glock18c.\nImproves Glock18c weapon crafting skill."
+craftinggunglock18c,"Glock18c"
+craftinggunglock18cName,"Glock18c"
+craftinggunglock18cDesc,"Reading [DECEA3]Glock18c[-] enables you to craft Glock18c."
+craftinggunglock18cLongDesc,"Long Desc"
+
+Gunsr1mpSkillMagazine,"Sr1 MP Magazine"
+Gunsr1mpSkillMagazineDesc,"Crafting a Sr1 MP.\nImproves Sr1 MP weapon crafting skill."
+craftinggunsr1mp,"Sr1 MP"
+craftinggunsr1mpName,"Sr1 MP"
+craftinggunsr1mpDesc,"Reading [DECEA3]Sr1 MP[-] enables you to craft Sr1 MP."
+craftinggunsr1mpLongDesc,"Long Desc"
+
+Gunusp45tacSkillMagazine,"usp45 Tac Magazine"
+Gunusp45tacSkillMagazineDesc,"Crafting a usp45 Tac.\nImproves usp45 Tac weapon crafting skill."
+craftinggunusp45tac,"usp45 Tac"
+craftinggunusp45tacName,"usp45 Tac"
+craftinggunusp45tacDesc,"Reading [DECEA3]usp45 Tac[-] enables you to craft usp45 Tac."
+craftinggunusp45tacLongDesc,"Long Desc"
+
+Gunm1911SkillMagazine,"M1911 Magazine"
+Gunm1911SkillMagazineDesc,"Crafting a M1911.\nImproves M1911 weapon crafting skill."
+craftinggunm1911,"M1911"
+craftinggunm1911Name,"M1911"
+craftinggunm1911Desc,"Reading [DECEA3]M1911[-] enables you to craft M1911."
+craftinggunm1911LongDesc,"Long Desc"
+
+Gunm45SkillMagazine,"M45 Magazine"
+Gunm45SkillMagazineDesc,"Crafting a M45.\nImproves M45 weapon crafting skill."
+craftinggunm45,"M45"
+craftinggunm45Name,"M45"
+craftinggunm45Desc,"Reading [DECEA3]M45[-] enables you to craft M45."
+craftinggunm45LongDesc,"Long Desc"
+
+Gunusp45matchSkillMagazine,"usp45 Match Magazine"
+Gunusp45matchSkillMagazineDesc,"Crafting a usp45 Match.\nImproves usp45 Match weapon crafting skill."
+craftinggunusp45match,"usp45 Match"
+craftinggunusp45matchName,"usp45 Match"
+craftinggunusp45matchDesc,"Reading [DECEA3]usp45 Match[-] enables you to craft usp45 Match."
+craftinggunusp45matchLongDesc,"Long Desc"
+
+GunfivesevenSkillMagazine,"five Seven Magazine"
+GunfivesevenSkillMagazineDesc,"Crafting a five Seven.\nImproves five Seven weapon crafting skill."
+craftinggunfiveseven,"five Seven"
+craftinggunfivesevenName,"five Seven"
+craftinggunfivesevenDesc,"Reading [DECEA3]five Seven[-] enables you to craft five Seven."
+craftinggunfivesevenLongDesc,"Long Desc"
+
+GundeserteagleSkillMagazine,"Desert Eagle Magazine"
+GundeserteagleSkillMagazineDesc,"Crafting a Desert Eagle.\nImproves Desert Eagle weapon crafting skill."
+craftinggundeserteagle,"Desert Eagle"
+craftinggundeserteagleName,"Desert Eagle"
+craftinggundeserteagleDesc,"Reading [DECEA3]Desert Eagle[-] enables you to craft Desert Eagle."
+craftinggundeserteagleLongDesc,"Long Desc"
+
+Gunrsh12SkillMagazine,"rsh12 Magazine"
+Gunrsh12SkillMagazineDesc,"Crafting a rsh12.\nImproves rsh12 weapon crafting skill."
+craftinggunrsh12,"rsh12"
+craftinggunrsh12Name,"rsh12"
+craftinggunrsh12Desc,"Reading [DECEA3]rsh12[-] enables you to craft rsh12."
+craftinggunrsh12LongDesc,"Long Desc"
+
+Gunks23SkillMagazine,"ks23 Magazine"
+Gunks23SkillMagazineDesc,"Crafting a ks23.\nImproves ks23 weapon crafting skill."
+craftinggunks23,"ks23"
+craftinggunks23Name,"ks23"
+craftinggunks23Desc,"Reading [DECEA3]ks23[-] enables you to craft ks23."
+craftinggunks23LongDesc,"Long Desc"
+
+Gunmp43SkillMagazine,"mp43 Magazine"
+Gunmp43SkillMagazineDesc,"Crafting a mp43.\nImproves mp43 weapon crafting skill."
+craftinggunmp43,"mp43"
+craftinggunmp43Name,"mp43"
+craftinggunmp43Desc,"Reading [DECEA3]mp43[-] enables you to craft mp43."
+craftinggunmp43LongDesc,"Long Desc"
+
+Gunmts255SkillMagazine,"mts255 Magazine"
+Gunmts255SkillMagazineDesc,"Crafting a mts255.\nImproves mts255 weapon crafting skill."
+craftinggunmts255,"mts255"
+craftinggunmts255Name,"mts255"
+craftinggunmts255Desc,"Reading [DECEA3]mts255[-] enables you to craft mts255."
+craftinggunmts255LongDesc,"Long Desc"
+
+Gunm590SkillMagazine,"m590 Magazine"
+Gunm590SkillMagazineDesc,"Crafting a m590.\nImproves m590 weapon crafting skill."
+craftinggunm590,"m590"
+craftinggunm590Name,"m590"
+craftinggunm590Desc,"Reading [DECEA3]m590[-] enables you to craft m590."
+craftinggunm590LongDesc,"Long Desc"
+
+Gunm870SkillMagazine,"m870 Magazine"
+Gunm870SkillMagazineDesc,"Crafting a m870.\nImproves m870 weapon crafting skill."
+craftinggunm870,"m870"
+craftinggunm870Name,"m870"
+craftinggunm870Desc,"Reading [DECEA3]m870[-] enables you to craft m870."
+craftinggunm870LongDesc,"Long Desc"
+
+Gunksg12SkillMagazine,"ksg12 Magazine"
+Gunksg12SkillMagazineDesc,"Crafting a ksg12.\nImproves ksg12 weapon crafting skill."
+craftinggunksg12,"ksg12"
+craftinggunksg12Name,"ksg12"
+craftinggunksg12Desc,"Reading [DECEA3]ksg12[-] enables you to craft ksg12."
+craftinggunksg12LongDesc,"Long Desc"
+
+Gunmp153SkillMagazine,"mp153 Magazine"
+Gunmp153SkillMagazineDesc,"Crafting a mp153.\nImproves mp153 weapon crafting skill."
+craftinggunmp153,"mp153"
+craftinggunmp153Name,"mp153"
+craftinggunmp153Desc,"Reading [DECEA3]mp153[-] enables you to craft mp153."
+craftinggunmp153LongDesc,"Long Desc"
+
+Gunm3benelliSkillMagazine,"m3 benelli Magazine"
+Gunm3benelliSkillMagazineDesc,"Crafting a m3 benelli.\nImproves m3 benelli weapon crafting skill."
+craftinggunm3benelli,"m3 benelli"
+craftinggunm3benelliName,"m3 benelli"
+craftinggunm3benelliDesc,"Reading [DECEA3]m3 benelli[-] enables you to craft m3 benelli."
+craftinggunm3benelliLongDesc,"Long Desc"
+
+Gunsaiga12SkillMagazine,"saiga12 Magazine"
+Gunsaiga12SkillMagazineDesc,"Crafting a saiga12.\nImproves saiga12 weapon crafting skill."
+craftinggunsaiga12,"saiga12"
+craftinggunsaiga12Name,"saiga12"
+craftinggunsaiga12Desc,"Reading [DECEA3]saiga12[-] enables you to craft saiga12."
+craftinggunsaiga12LongDesc,"Long Desc"
+
+GunAA12SkillMagazine,"AA12 Magazine"
+GunAA12SkillMagazineDesc,"Crafting a AA12.\nImproves AA12 weapon crafting skill."
+craftinggunAA12,"AA12"
+craftinggunAA12Name,"AA12"
+craftinggunAA12Desc,"Reading [DECEA3]AA12[-] enables you to craft AA12."
+craftinggunAA12LongDesc,"Long Desc"
+
+Gunfn40glSkillMagazine,"fn40gl Magazine"
+Gunfn40glSkillMagazineDesc,"Crafting a fn40gl.\nImproves fn40gl weapon crafting skill."
+craftinggunfn40gl,"fn40gl"
+craftinggunfn40glName,"fn40gl"
+craftinggunfn40glDesc,"Reading [DECEA3]fn40gl[-] enables you to craft fn40gl."
+craftinggunfn40glLongDesc,"Long Desc"
+
+GunchinalakeSkillMagazine,"chinalake Magazine"
+GunchinalakeSkillMagazineDesc,"Crafting a chinalake.\nImproves chinalake weapon crafting skill."
+craftinggunchinalake,"chinalake"
+craftinggunchinalakeName,"chinalake"
+craftinggunchinalakeDesc,"Reading [DECEA3]chinalake[-] enables you to craft chinalake."
+craftinggunchinalakeLongDesc,"Long Desc"
+
+Gunm32a1mglSkillMagazine,"m32a1mgl Magazine"
+Gunm32a1mglSkillMagazineDesc,"Crafting a m32a1mgl.\nImproves m32a1mgl weapon crafting skill."
+craftinggunm32a1mgl,"m32a1mgl"
+craftinggunm32a1mglName,"m32a1mgl"
+craftinggunm32a1mglDesc,"Reading [DECEA3]m32a1mgl[-] enables you to craft m32a1mgl."
+craftinggunm32a1mglLongDesc,"Long Desc"
+
+Gunrpg7SkillMagazine,"rpg7 Magazine"
+Gunrpg7SkillMagazineDesc,"Crafting a rpg7.\nImproves rpg7 weapon crafting skill."
+craftinggunrpg7,"rpg7"
+craftinggunrpg7Name,"rpg7"
+craftinggunrpg7Desc,"Reading [DECEA3]rpg7[-] enables you to craft rpg7."
+craftinggunrpg7LongDesc,"Long Desc"
+
+GunadarSkillMagazine,"adar Magazine"
+GunadarSkillMagazineDesc,"Crafting a adar.\nImproves adar weapon crafting skill."
+craftinggunadar,"adar"
+craftinggunadarName,"adar"
+craftinggunadarDesc,"Reading [DECEA3]adar[-] enables you to craft adar."
+craftinggunadarLongDesc,"Long Desc"
+
+Gunauga3SkillMagazine,"auga3 Magazine"
+Gunauga3SkillMagazineDesc,"Crafting a auga3.\nImproves auga3 weapon crafting skill."
+craftinggunauga3,"auga3"
+craftinggunauga3Name,"auga3"
+craftinggunauga3Desc,"Reading [DECEA3]auga3[-] enables you to craft auga3."
+craftinggunauga3LongDesc,"Long Desc"
+
+Gung36kv2SkillMagazine,"g36kv2 Magazine"
+Gung36kv2SkillMagazineDesc,"Crafting a g36kv2.\nImproves g36kv2 weapon crafting skill."
+craftinggung36kv2,"g36kv2"
+craftinggung36kv2Name,"g36kv2"
+craftinggung36kv2Desc,"Reading [DECEA3]g36kv2[-] enables you to craft g36kv2."
+craftinggung36kv2LongDesc,"Long Desc"
+
+Gunm4a1SkillMagazine,"m4a1 Magazine"
+Gunm4a1SkillMagazineDesc,"Crafting a m4a1.\nImproves m4a1 weapon crafting skill."
+craftinggunm4a1,"m4a1"
+craftinggunm4a1Name,"m4a1"
+craftinggunm4a1Desc,"Reading [DECEA3]m4a1[-] enables you to craft m4a1."
+craftinggunm4a1LongDesc,"Long Desc"
+
+Gunm16a4SkillMagazine,"m16a4 Magazine"
+Gunm16a4SkillMagazineDesc,"Crafting a m16a4.\nImproves m16a4 weapon crafting skill."
+craftinggunm16a4,"m16a4"
+craftinggunm16a4Name,"m16a4"
+craftinggunm16a4Desc,"Reading [DECEA3]m16a4[-] enables you to craft m16a4."
+craftinggunm16a4LongDesc,"Long Desc"
+
+Gunl85a2SkillMagazine,"l85a2 Magazine"
+Gunl85a2SkillMagazineDesc,"Crafting a l85a2.\nImproves l85a2 weapon crafting skill."
+craftinggunl85a2,"l85a2"
+craftinggunl85a2Name,"l85a2"
+craftinggunl85a2Desc,"Reading [DECEA3]l85a2[-] enables you to craft l85a2."
+craftinggunl85a2LongDesc,"Long Desc"
+
+Gunmdr556SkillMagazine,"mdr556 Magazine"
+Gunmdr556SkillMagazineDesc,"Crafting a mdr556.\nImproves mdr556 weapon crafting skill."
+craftinggunmdr556,"mdr556"
+craftinggunmdr556Name,"mdr556"
+craftinggunmdr556Desc,"Reading [DECEA3]mdr556[-] enables you to craft mdr556."
+craftinggunmdr556LongDesc,"Long Desc"
+
+Gunhk416SkillMagazine,"hk416 Magazine"
+Gunhk416SkillMagazineDesc,"Crafting a hk416.\nImproves hk416 weapon crafting skill."
+craftinggunhk416,"hk416"
+craftinggunhk416Name,"hk416"
+craftinggunhk416Desc,"Reading [DECEA3]hk416[-] enables you to craft hk416."
+craftinggunhk416LongDesc,"Long Desc"
+
+GunIWItavorx95SkillMagazine,"IWI tavor x95 Magazine"
+GunIWItavorx95SkillMagazineDesc,"Crafting a IWI tavor x95.\nImproves IWI tavor x95 weapon crafting skill."
+craftinggunIWItavorx95,"IWI tavor x95"
+craftinggunIWItavorx95Name,"IWI tavor x95"
+craftinggunIWItavorx95Desc,"Reading [DECEA3]IWI tavor x95[-] enables you to craft IWI tavor x95."
+craftinggunIWItavorx95LongDesc,"Long Desc"
+
+GunIWIcarmelSkillMagazine,"IWI carmel Magazine"
+GunIWIcarmelSkillMagazineDesc,"Crafting a IWI carmel.\nImproves IWI carmel weapon crafting skill."
+craftinggunIWIcarmel,"IWI carmel"
+craftinggunIWIcarmelName,"IWI carmel"
+craftinggunIWIcarmelDesc,"Reading [DECEA3]IWI carmel[-] enables you to craft IWI carmel."
+craftinggunIWIcarmelLongDesc,"Long Desc"
+
+Gunak300velociraptorSkillMagazine,"ak300 velociraptor Magazine"
+Gunak300velociraptorSkillMagazineDesc,"Crafting a ak300 velociraptor.\nImproves ak300 velociraptor weapon crafting skill."
+craftinggunak300velociraptor,"ak300 velociraptor"
+craftinggunak300velociraptorName,"ak300 velociraptor"
+craftinggunak300velociraptorDesc,"Reading [DECEA3]ak300 velociraptor[-] enables you to craft ak300 velociraptor."
+craftinggunak300velociraptorLongDesc,"Long Desc"
+
+Gunstar15SkillMagazine,"star15 Magazine"
+Gunstar15SkillMagazineDesc,"Crafting a star15.\nImproves star15 weapon crafting skill."
+craftinggunstar15,"star15"
+craftinggunstar15Name,"star15"
+craftinggunstar15Desc,"Reading [DECEA3]star15[-] enables you to craft star15."
+craftinggunstar15LongDesc,"Long Desc"
+
+GunhoneybadgerSkillMagazine,"honey badger Magazine"
+GunhoneybadgerSkillMagazineDesc,"Crafting a honey badger.\nImproves honey badger weapon crafting skill."
+craftinggunhoneybadger,"honey badger"
+craftinggunhoneybadgerName,"honey badger"
+craftinggunhoneybadgerDesc,"Reading [DECEA3]honey badger[-] enables you to craft honey badger."
+craftinggunhoneybadgerLongDesc,"Long Desc"
+
+GunmcxSkillMagazine,"mcx Magazine"
+GunmcxSkillMagazineDesc,"Crafting a mcx.\nImproves mcx weapon crafting skill."
+craftinggunmcx,"mcx"
+craftinggunmcxName,"mcx"
+craftinggunmcxDesc,"Reading [DECEA3]mcx[-] enables you to craft mcx."
+craftinggunmcxLongDesc,"Long Desc"
+
+Gunm700SkillMagazine,"m700 Magazine"
+Gunm700SkillMagazineDesc,"Crafting a m700.\nImproves m700 weapon crafting skill."
+craftinggunm700,"m700"
+craftinggunm700Name,"m700"
+craftinggunm700Desc,"Reading [DECEA3]m700[-] enables you to craft m700."
+craftinggunm700LongDesc,"Long Desc"
+
+Gundvl10SkillMagazine,"dvl10 Magazine"
+Gundvl10SkillMagazineDesc,"Crafting a dvl10.\nImproves dvl10 weapon crafting skill."
+craftinggundvl10,"dvl10"
+craftinggundvl10Name,"dvl10"
+craftinggundvl10Desc,"Reading [DECEA3]dvl10[-] enables you to craft dvl10."
+craftinggundvl10LongDesc,"Long Desc"
+
+Gunt5000SkillMagazine,"t5000 Magazine"
+Gunt5000SkillMagazineDesc,"Crafting a t5000.\nImproves t5000 weapon crafting skill."
+craftinggunt5000,"t5000"
+craftinggunt5000Name,"t5000"
+craftinggunt5000Desc,"Reading [DECEA3]t5000[-] enables you to craft t5000."
+craftinggunt5000LongDesc,"Long Desc"
+
+GunFALsa58dmrSkillMagazine,"FALsa58dmr Magazine"
+GunFALsa58dmrSkillMagazineDesc,"Crafting a FALsa58dmr.\nImproves FALsa58dmr weapon crafting skill."
+craftinggunFALsa58dmr,"FALsa58dmr"
+craftinggunFALsa58dmrName,"FALsa58dmr"
+craftinggunFALsa58dmrDesc,"Reading [DECEA3]FALsa58dmr[-] enables you to craft FALsa58dmr."
+craftinggunFALsa58dmrLongDesc,"Long Desc"
+
+Gunm1aEBRSkillMagazine,"m1aEBR Magazine"
+Gunm1aEBRSkillMagazineDesc,"Crafting a m1aEBR.\nImproves m1aEBR weapon crafting skill."
+craftinggunm1aEBR,"m1aEBR"
+craftinggunm1aEBRName,"m1aEBR"
+craftinggunm1aEBRDesc,"Reading [DECEA3]m1aEBR[-] enables you to craft m1aEBR."
+craftinggunm1aEBRLongDesc,"Long Desc"
+
+GunrfbSkillMagazine,"rfb Magazine"
+GunrfbSkillMagazineDesc,"Crafting a rfb.\nImproves rfb weapon crafting skill."
+craftinggunrfb,"rfb"
+craftinggunrfbName,"rfb"
+craftinggunrfbDesc,"Reading [DECEA3]rfb[-] enables you to craft rfb."
+craftinggunrfbLongDesc,"Long Desc"
+
+Gunsr25SkillMagazine,"sr25 Magazine"
+Gunsr25SkillMagazineDesc,"Crafting a sr25.\nImproves sr25 weapon crafting skill."
+craftinggunsr25,"sr25"
+craftinggunsr25Name,"sr25"
+craftinggunsr25Desc,"Reading [DECEA3]sr25[-] enables you to craft sr25."
+craftinggunsr25LongDesc,"Long Desc"
+
+GunrsassSkillMagazine,"rsass Magazine"
+GunrsassSkillMagazineDesc,"Crafting a rsass.\nImproves rsass weapon crafting skill."
+craftinggunrsass,"rsass"
+craftinggunrsassName,"rsass"
+craftinggunrsassDesc,"Reading [DECEA3]rsass[-] enables you to craft rsass."
+craftinggunrsassLongDesc,"Long Desc"
+
+Gunhkg28SkillMagazine,"hkg28 Magazine"
+Gunhkg28SkillMagazineDesc,"Crafting a hkg28.\nImproves hkg28 weapon crafting skill."
+craftinggunhkg28,"hkg28"
+craftinggunhkg28Name,"hkg28"
+craftinggunhkg28Desc,"Reading [DECEA3]hkg28[-] enables you to craft hkg28."
+craftinggunhkg28LongDesc,"Long Desc"
+
+GunFALsa58brSkillMagazine,"FALsa58br Magazine"
+GunFALsa58brSkillMagazineDesc,"Crafting a FALsa58br.\nImproves FALsa58br weapon crafting skill."
+craftinggunFALsa58br,"FALsa58br"
+craftinggunFALsa58brName,"FALsa58br"
+craftinggunFALsa58brDesc,"Reading [DECEA3]FALsa58br[-] enables you to craft FALsa58br."
+craftinggunFALsa58brLongDesc,"Long Desc"
+
+Gunmdr762SkillMagazine,"mdr762 Magazine"
+Gunmdr762SkillMagazineDesc,"Crafting a mdr762.\nImproves mdr762 weapon crafting skill."
+craftinggunmdr762,"mdr762"
+craftinggunmdr762Name,"mdr762"
+craftinggunmdr762Desc,"Reading [DECEA3]mdr762[-] enables you to craft mdr762."
+craftinggunmdr762LongDesc,"Long Desc"
+
+GunscarhSkillMagazine,"scarh Magazine"
+GunscarhSkillMagazineDesc,"Crafting a scarh.\nImproves scarh weapon crafting skill."
+craftinggunscarh,"scarh"
+craftinggunscarhName,"scarh"
+craftinggunscarhDesc,"Reading [DECEA3]scarh[-] enables you to craft scarh."
+craftinggunscarhLongDesc,"Long Desc"
+
+Gunhk417SkillMagazine,"hk417 Magazine"
+Gunhk417SkillMagazineDesc,"Crafting a hk417.\nImproves hk417 weapon crafting skill."
+craftinggunhk417,"hk417"
+craftinggunhk417Name,"hk417"
+craftinggunhk417Desc,"Reading [DECEA3]hk417[-] enables you to craft hk417."
+craftinggunhk417LongDesc,"Long Desc"
+
+Gunm14sassSkillMagazine,"m14sass Magazine"
+Gunm14sassSkillMagazineDesc,"Crafting a m14sass.\nImproves m14sass weapon crafting skill."
+craftinggunm14sass,"m14sass"
+craftinggunm14sassName,"m14sass"
+craftinggunm14sassDesc,"Reading [DECEA3]m14sass[-] enables you to craft m14sass."
+craftinggunm14sassLongDesc,"Long Desc"
+
+GunmcxspearSkillMagazine,"mcx spear Magazine"
+GunmcxspearSkillMagazineDesc,"Crafting a mcx spear.\nImproves mcx spear weapon crafting skill."
+craftinggunmcxspear,"mcx spear"
+craftinggunmcxspearName,"mcx spear"
+craftinggunmcxspearDesc,"Reading [DECEA3]mcx spear[-] enables you to craft mcx spear."
+craftinggunmcxspearLongDesc,"Long Desc"
+
+Gunmp18SkillMagazine,"mp18 Magazine"
+Gunmp18SkillMagazineDesc,"Crafting a mp18.\nImproves mp18 weapon crafting skill."
+craftinggunmp18,"mp18"
+craftinggunmp18Name,"mp18"
+craftinggunmp18Desc,"Reading [DECEA3]mp18[-] enables you to craft mp18."
+craftinggunmp18LongDesc,"Long Desc"
+
+GunmosinSkillMagazine,"mosin Magazine"
+GunmosinSkillMagazineDesc,"Crafting a mosin.\nImproves mosin weapon crafting skill."
+craftinggunmosin,"mosin"
+craftinggunmosinName,"mosin"
+craftinggunmosinDesc,"Reading [DECEA3]mosin[-] enables you to craft mosin."
+craftinggunmosinLongDesc,"Long Desc"
+
+Gunsv98SkillMagazine,"sv98 Magazine"
+Gunsv98SkillMagazineDesc,"Crafting a sv98.\nImproves sv98 weapon crafting skill."
+craftinggunsv98,"sv98"
+craftinggunsv98Name,"sv98"
+craftinggunsv98Desc,"Reading [DECEA3]sv98[-] enables you to craft sv98."
+craftinggunsv98LongDesc,"Long Desc"
+
+GunsvtSkillMagazine,"svt Magazine"
+GunsvtSkillMagazineDesc,"Crafting a svt.\nImproves svt weapon crafting skill."
+craftinggunsvt,"svt"
+craftinggunsvtName,"svt"
+craftinggunsvtDesc,"Reading [DECEA3]svt[-] enables you to craft svt."
+craftinggunsvtLongDesc,"Long Desc"
+
+GunsvdSkillMagazine,"svd Magazine"
+GunsvdSkillMagazineDesc,"Crafting a svd.\nImproves svd weapon crafting skill."
+craftinggunsvd,"svd"
+craftinggunsvdName,"svd"
+craftinggunsvdDesc,"Reading [DECEA3]svd[-] enables you to craft svd."
+craftinggunsvdLongDesc,"Long Desc"
+
+Gunash12SkillMagazine,"ash12 Magazine"
+Gunash12SkillMagazineDesc,"Crafting a ash12.\nImproves ash12 weapon crafting skill."
+craftinggunash12,"ash12"
+craftinggunash12Name,"ash12"
+craftinggunash12Desc,"Reading [DECEA3]ash12[-] enables you to craft ash12."
+craftinggunash12LongDesc,"Long Desc"
+
+Gunrpk16SkillMagazine,"rpk16 Magazine"
+Gunrpk16SkillMagazineDesc,"Crafting a rpk16.\nImproves rpk16 weapon crafting skill."
+craftinggunrpk16,"rpk16"
+craftinggunrpk16Name,"rpk16"
+craftinggunrpk16Desc,"Reading [DECEA3]rpk16[-] enables you to craft rpk16."
+craftinggunrpk16LongDesc,"Long Desc"
+
+GunfnminimiSkillMagazine,"fn minimi Magazine"
+GunfnminimiSkillMagazineDesc,"Crafting a fn minimi.\nImproves fn minimi weapon crafting skill."
+craftinggunfnminimi,"fn minimi"
+craftinggunfnminimiName,"fn minimi"
+craftinggunfnminimiDesc,"Reading [DECEA3]fn minimi[-] enables you to craft fn minimi."
+craftinggunfnminimiLongDesc,"Long Desc"
+
+GunrpdSkillMagazine,"rpd Magazine"
+GunrpdSkillMagazineDesc,"Crafting a rpd.\nImproves rpd weapon crafting skill."
+craftinggunrpd,"rpd"
+craftinggunrpdName,"rpd"
+craftinggunrpdDesc,"Reading [DECEA3]rpd[-] enables you to craft rpd."
+craftinggunrpdLongDesc,"Long Desc"
+
+Gunm60e6SkillMagazine,"m60e6 Magazine"
+Gunm60e6SkillMagazineDesc,"Crafting a m60e6.\nImproves m60e6 weapon crafting skill."
+craftinggunm60e6,"m60e6"
+craftinggunm60e6Name,"m60e6"
+craftinggunm60e6Desc,"Reading [DECEA3]m60e6[-] enables you to craft m60e6."
+craftinggunm60e6LongDesc,"Long Desc"
+
+GunpkpSkillMagazine,"pkp Magazine"
+GunpkpSkillMagazineDesc,"Crafting a pkp.\nImproves pkp weapon crafting skill."
+craftinggunpkp,"pkp"
+craftinggunpkpName,"pkp"
+craftinggunpkpDesc,"Reading [DECEA3]pkp[-] enables you to craft pkp."
+craftinggunpkpLongDesc,"Long Desc"
+
+Gunaks74unSkillMagazine,"aks74un Magazine"
+Gunaks74unSkillMagazineDesc,"Crafting a aks74un.\nImproves aks74un weapon crafting skill."
+craftinggunaks74un,"aks74un"
+craftinggunaks74unName,"aks74un"
+craftinggunaks74unDesc,"Reading [DECEA3]aks74un[-] enables you to craft aks74un."
+craftinggunaks74unLongDesc,"Long Desc"
+
+Gunak74nSkillMagazine,"ak74n Magazine"
+Gunak74nSkillMagazineDesc,"Crafting a ak74n.\nImproves ak74n weapon crafting skill."
+craftinggunak74n,"ak74n"
+craftinggunak74nName,"ak74n"
+craftinggunak74nDesc,"Reading [DECEA3]ak74n[-] enables you to craft ak74n."
+craftinggunak74nLongDesc,"Long Desc"
+
+Gunak74mSkillMagazine,"ak74m Magazine"
+Gunak74mSkillMagazineDesc,"Crafting a ak74m.\nImproves ak74m weapon crafting skill."
+craftinggunak74m,"ak74m"
+craftinggunak74mName,"ak74m"
+craftinggunak74mDesc,"Reading [DECEA3]ak74m[-] enables you to craft ak74m."
+craftinggunak74mLongDesc,"Long Desc"
+
+Gunak12SkillMagazine,"ak12 Magazine"
+Gunak12SkillMagazineDesc,"Crafting a ak12.\nImproves ak12 weapon crafting skill."
+craftinggunak12,"ak12"
+craftinggunak12Name,"ak12"
+craftinggunak12Desc,"Reading [DECEA3]ak12[-] enables you to craft ak12."
+craftinggunak12LongDesc,"Long Desc"
+
+Gunak107SkillMagazine,"ak107 Magazine"
+Gunak107SkillMagazineDesc,"Crafting a ak107.\nImproves ak107 weapon crafting skill."
+craftinggunak107,"ak107"
+craftinggunak107Name,"ak107"
+craftinggunak107Desc,"Reading [DECEA3]ak107[-] enables you to craft ak107."
+craftinggunak107LongDesc,"Long Desc"
+
+GunsksSkillMagazine,"sks Magazine"
+GunsksSkillMagazineDesc,"Crafting a sks.\nImproves sks weapon crafting skill."
+craftinggunsks,"sks"
+craftinggunsksName,"sks"
+craftinggunsksDesc,"Reading [DECEA3]sks[-] enables you to craft sks."
+craftinggunsksLongDesc,"Long Desc"
+
+GunakmnSkillMagazine,"akmn Magazine"
+GunakmnSkillMagazineDesc,"Crafting a akmn.\nImproves akmn weapon crafting skill."
+craftinggunakmn,"akmn"
+craftinggunakmnName,"akmn"
+craftinggunakmnDesc,"Reading [DECEA3]akmn[-] enables you to craft akmn."
+craftinggunakmnLongDesc,"Long Desc"
+
+Gunak103SkillMagazine,"ak103 Magazine"
+Gunak103SkillMagazineDesc,"Crafting a ak103.\nImproves ak103 weapon crafting skill."
+craftinggunak103,"ak103"
+craftinggunak103Name,"ak103"
+craftinggunak103Desc,"Reading [DECEA3]ak103[-] enables you to craft ak103."
+craftinggunak103LongDesc,"Long Desc"
+
+Gunak109SkillMagazine,"ak109 Magazine"
+Gunak109SkillMagazineDesc,"Crafting a ak109.\nImproves ak109 weapon crafting skill."
+craftinggunak109,"ak109"
+craftinggunak109Name,"ak109"
+craftinggunak109Desc,"Reading [DECEA3]ak109[-] enables you to craft ak109."
+craftinggunak109LongDesc,"Long Desc"
+
+Gunrd704SkillMagazine,"rd704 Magazine"
+Gunrd704SkillMagazineDesc,"Crafting a rd704.\nImproves rd704 weapon crafting skill."
+craftinggunrd704,"rd704"
+craftinggunrd704Name,"rd704"
+craftinggunrd704Desc,"Reading [DECEA3]rd704[-] enables you to craft rd704."
+craftinggunrd704LongDesc,"Long Desc"
+
+Gunmk47SkillMagazine,"mk47 Magazine"
+Gunmk47SkillMagazineDesc,"Crafting a mk47.\nImproves mk47 weapon crafting skill."
+craftinggunmk47,"mk47"
+craftinggunmk47Name,"mk47"
+craftinggunmk47Desc,"Reading [DECEA3]mk47[-] enables you to craft mk47."
+craftinggunmk47LongDesc,"Long Desc"
+
+Gun9a91SkillMagazine,"9a91 Magazine"
+Gun9a91SkillMagazineDesc,"Crafting a 9a91.\nImproves 9a91 weapon crafting skill."
+craftinggun9a91,"9a91"
+craftinggun9a91Name,"9a91"
+craftinggun9a91Desc,"Reading [DECEA3]9a91[-] enables you to craft 9a91."
+craftinggun9a91LongDesc,"Long Desc"
+
+GunvssSkillMagazine,"vss Magazine"
+GunvssSkillMagazineDesc,"Crafting a vss.\nImproves vss weapon crafting skill."
+craftinggunvss,"vss"
+craftinggunvssName,"vss"
+craftinggunvssDesc,"Reading [DECEA3]vss[-] enables you to craft vss."
+craftinggunvssLongDesc,"Long Desc"
+
+GunasvalSkillMagazine,"asval Magazine"
+GunasvalSkillMagazineDesc,"Crafting a asval.\nImproves asval weapon crafting skill."
+craftinggunasval,"asval"
+craftinggunasvalName,"asval"
+craftinggunasvalDesc,"Reading [DECEA3]asval[-] enables you to craft asval."
+craftinggunasvalLongDesc,"Long Desc"
+
+GunaxmcSkillMagazine,"axmc Magazine"
+GunaxmcSkillMagazineDesc,"Crafting a axmc.\nImproves axmc weapon crafting skill."
+craftinggunaxmc,"axmc"
+craftinggunaxmcName,"axmc"
+craftinggunaxmcDesc,"Reading [DECEA3]axmc[-] enables you to craft axmc."
+craftinggunaxmcLongDesc,"Long Desc"
+
+Gunswordmk18SkillMagazine,"sword mk18 Magazine"
+Gunswordmk18SkillMagazineDesc,"Crafting a sword mk18.\nImproves sword mk18 weapon crafting skill."
+craftinggunswordmk18,"sword mk18"
+craftinggunswordmk18Name,"sword mk18"
+craftinggunswordmk18Desc,"Reading [DECEA3]sword mk18[-] enables you to craft sword mk18."
+craftinggunswordmk18LongDesc,"Long Desc"
+
+GunfamasSkillMagazine,"famas Magazine"
+GunfamasSkillMagazineDesc,"Crafting a famas.\nImproves famas weapon crafting skill."
+craftinggunfamas,"famas"
+craftinggunfamasName,"famas"
+craftinggunfamasDesc,"Reading [DECEA3]famas[-] enables you to craft famas."
+craftinggunfamasLongDesc,"Long Desc"
+
+weaponModifiersBipodsForegripsSkillMagazine,"Weapon Modifiers Bipods and Foregrips Magazine"
+weaponModifiersBipodsForegripsSkillMagazineDesc,"Bipods and grips for your guns, Learn to add bipods and foregrips to your weapons."
+craftingBipodsForegrips,"Weapon Modifiers Bipods and Foregrips"
+craftingBipodsForegripsName,"Weapon Modifiers Bipods and Foregrips"
+craftingBipodsForegripsDesc,"Reading [DECEA3]Weapon Modifier[-] enables you to craft Bipods & Grips to equip on your guns."
+craftingBipodsForegripsLongDesc,"Long Desc"
+
+weaponModifiersGrenadeLauncherAttachmentsSkillMagazine,"Weapon Modifiers Grenade Launcher Attachment"
+weaponModifiersGrenadeLauncherAttachmentsSkillMagazineDesc,"GrenadeLauncher for your guns, Learn to add a Grenade Launcher Attachment to your weapons."
+craftingGrenadeLauncherAttachments,"Weapon Modifiers Grenade Launcher Attachment"
+craftingGrenadeLauncherAttachmentsName,"Weapon Modifiers Grenade Launcher Attachment"
+craftingGrenadeLauncherAttachmentsDesc,"Reading [DECEA3]Weapon Modifier[-] enables you to craft Grenade Launcher Attachment to equip on your guns."
+craftingGrenadeLauncherAttachmentsLongDesc,"Long Desc"
+
+weaponModifiersScopesSkillMagazine,"Weapon Modifiers Scopes"
+weaponModifiersScopesSkillMagazineDesc,"Scopes for your guns, Learn to add a Scope to your weapons."
+craftingScopes,"Weapon Modifiers Scopes"
+craftingScopesName,"Weapon Modifiers Scopes"
+craftingScopesDesc,"Reading [DECEA3]Weapon Modifier[-] enables you to craft Scopes to equip on your guns."
+craftingScopesLongDesc,"Long Desc"
+
+weaponModifiersMagazinesSkillMagazine,"Weapon Modifiers Magazines"
+weaponModifiersMagazinesSkillMagazineDesc,"Magazines for your guns, Learn to add a Magazine to your weapons."
+craftingMagazines,"Weapon Modifiers Magazines"
+craftingMagazinesName,"Weapon Modifiers Magazines"
+craftingMagazinesDesc,"Reading [DECEA3]Weapon Modifier[-] enables you to craft Magazines to equip on your guns."
+craftingMagazinesLongDesc,"Long Desc"
+
+weaponModifiersSilencersSkillMagazine,"Weapon Modifiers Silencers"
+weaponModifiersSilencersSkillMagazineDesc,"Silencers for your guns, Learn to craft a a Silencer to your weapons."
+craftingSilencers,"Weapon Modifiers Silencers"
+craftingSilencersName,"Weapon Modifiers Silencers"
+craftingSilencersDesc,"Reading [DECEA3]Weapon Modifier[-] enables you to craft Silencers to equip on your guns."
+craftingSilencersLongDesc,"Long Desc"
+
+weaponModifiersStocksSkillMagazine,"Weapon Modifiers Stocks"
+weaponModifiersStocksSkillMagazineDesc,"Stocks for your guns, Learn to craft a Stocks to your weapons."
+craftingStocks,"Weapon Modifiers Stocks"
+craftingStocksName,"Weapon Modifiers Stocks"
+craftingStocksDesc,"Reading [DECEA3]Weapon Modifier[-] enables you to craft Stocks to equip on your guns."
+craftingStocksLongDesc,"Long Desc"
+
+DoctorMedicalJournalsSkillMagazine,"Doctor Medical Journals"
+DoctorMedicalJournalsSkillMagazineDesc,"Medical needs, Learn to craft Medical Items."
+craftingDoctorMedicalJournals,"crafting Doctor Medical Journals"
+craftingDoctorMedicalJournalsName,"Doctor Medical Journals"
+craftingDoctorMedicalJournalsDesc,"Reading [DECEA3]Medical Journals[-] enables you to craft Medical Items to help."
+craftingDoctorMedicalJournalsLongDesc,"Long Desc"
+
+BooksOfASurgeonSkillMagazine,"Surgeons Books"
+BooksOfASurgeonSkillMagazineDesc,"Medical needs, Learn to craft Injectors."
+craftingBooksOfASurgeon,"crafting Surgeons Books"
+craftingBooksOfASurgeonName,"Surgeons Books"
+craftingBooksOfASurgeonDesc,"Reading [DECEA3]Surgeons Books[-] enables you to craft Injectors."
+craftingBooksOfASurgeonLongDesc,"Long Desc"
+
+HeadLightsandNVGSSkillMagazine,"headLights & NVGS Magazine"
+HeadLightsandNVGSSkillMagazineDesc,"Crafting headLights.\nImproves night vision."
+craftingheadLightsandNVG,"headLights & NVGS"
+craftingheadLightsandNVGName,"headLights & NVGS"
+craftingheadLightsandNVGDesc,"Reading [DECEA3]headLights & NVGS[-] enables you to craft headLights & NVGS."
+craftingheadLightsandNVGLongDesc,"Long Desc"
+
+perkPPSH41Rank1Desc,PPSH 41 T1,,
+perkPPSH41Rank2Desc,PPSH 41 T2,,
+perkPPSH41Rank3Desc,PPSH 41 T3,,
+perkPPSH41Rank4Desc,PPSH 41 T4,,
+perkPPSH41Rank5Desc,PPSH 41 T5,,
+perkPPSH41Rank6Desc,PPSH 41 T6,,
+
+perkPP9KlinRank1Desc,PP9 Klin T1,,
+perkPP9KlinRank2Desc,PP9 Klin T2,,
+perkPP9KlinRank3Desc,PP9 Klin T3,,
+perkPP9KlinRank4Desc,PP9 Klin T4,,
+perkPP9KlinRank5Desc,PP9 Klin T5,,
+perkPP9KlinRank6Desc,PP9 Klin T6,,
+
+perkPP19BizonRank1Desc,PP19 Bizon T1,,
+perkPP19BizonRank2Desc,PP19 Bizon T2,,
+perkPP19BizonRank3Desc,PP19 Bizon T3,,
+perkPP19BizonRank4Desc,PP19 Bizon T4,,
+perkPP19BizonRank5Desc,PP19 Bizon T5,,
+perkPP19BizonRank6Desc,PP19 Bizon T6,,
+
+perkMP5KRank1Desc,MP5K T1,,
+perkMP5KRank2Desc,MP5K T2,,
+perkMP5KRank3Desc,MP5K T3,,
+perkMP5KRank4Desc,MP5K T4,,
+perkMP5KRank5Desc,MP5K T5,,
+perkMP5KRank6Desc,MP5K T6,,
+
+perkMP5Rank1Desc,MP5 T1,,
+perkMP5Rank2Desc,MP5 T2,,
+perkMP5Rank3Desc,MP5 T3,,
+perkMP5Rank4Desc,MP5 T4,,
+perkMP5Rank5Desc,MP5 T5,,
+perkMP5Rank6Desc,MP5 T6,,
+
+perkUziRank1Desc,Uzi T1,,
+perkUziRank2Desc,Uzi T2,,
+perkUziRank3Desc,Uzi T3,,
+perkUziRank4Desc,Uzi T4,,
+perkUziRank5Desc,Uzi T5,,
+perkUziRank6Desc,Uzi T6,,
+
+perkPP19VityazRank1Desc,PP19 Vityaz T1,,
+perkPP19VityazRank2Desc,PP19 Vityaz T2,,
+perkPP19VityazRank3Desc,PP19 Vityaz T3,,
+perkPP19VityazRank4Desc,PP19 Vityaz T4,,
+perkPP19VityazRank5Desc,PP19 Vityaz T5,,
+perkPP19VityazRank6Desc,PP19 Vityaz T6,,
+
+perkMP9Rank1Desc,MP9 T1,,
+perkMP9Rank2Desc,MP9 T2,,
+perkMP9Rank3Desc,MP9 T3,,
+perkMP9Rank4Desc,MP9 T4,,
+perkMP9Rank5Desc,MP9 T5,,
+perkMP9Rank6Desc,MP9 T6,,
+
+perkUziProSMGRank1Desc,Uzi Pro SMG T1,,
+perkUziProSMGRank2Desc,Uzi Pro SMG T2,,
+perkUziProSMGRank3Desc,Uzi Pro SMG T3,,
+perkUziProSMGRank4Desc,Uzi Pro SMG T4,,
+perkUziProSMGRank5Desc,Uzi Pro SMG T5,,
+perkUziProSMGRank6Desc,Uzi Pro SMG T6,,
+
+perkMP5SDRank1Desc,MP5SD T1,,
+perkMP5SDRank2Desc,MP5SD T2,,
+perkMP5SDRank3Desc,MP5SD T3,,
+perkMP5SDRank4Desc,MP5SD T4,,
+perkMP5SDRank5Desc,MP5SD T5,,
+perkMP5SDRank6Desc,MP5SD T6,,
+
+perkVector9Rank1Desc,Vector9 T1,,
+perkVector9Rank2Desc,Vector9 T2,,
+perkVector9Rank3Desc,Vector9 T3,,
+perkVector9Rank4Desc,Vector9 T4,,
+perkVector9Rank5Desc,Vector9 T5,,
+perkVector9Rank6Desc,Vector9 T6,,
+
+perkMPXRank1Desc,MPX T1,,
+perkMPXRank2Desc,MPX T2,,
+perkMPXRank3Desc,MPX T3,,
+perkMPXRank4Desc,MPX T4,,
+perkMPXRank5Desc,MPX T5,,
+perkMPXRank6Desc,MPX T6,,
+
+perkSTM9Rank1Desc,STM9 T1,,
+perkSTM9Rank2Desc,STM9 T2,,
+perkSTM9Rank3Desc,STM9 T3,,
+perkSTM9Rank4Desc,STM9 T4,,
+perkSTM9Rank5Desc,STM9 T5,,
+perkSTM9Rank6Desc,STM9 T6,,
+
+perkSR2MVereskRank1Desc,SR2M Veresk T1,,
+perkSR2MVereskRank2Desc,SR2M Veresk T2,,
+perkSR2MVereskRank3Desc,SR2M Veresk T3,,
+perkSR2MVereskRank4Desc,SR2M Veresk T4,,
+perkSR2MVereskRank5Desc,SR2M Veresk T5,,
+perkSR2MVereskRank6Desc,SR2M Veresk T6,,
+
+perkUmp45Rank1Desc,Ump 45 T1,,
+perkUmp45Rank2Desc,Ump 45 T2,,
+perkUmp45Rank3Desc,Ump 45 T3,,
+perkUmp45Rank4Desc,Ump 45 T4,,
+perkUmp45Rank5Desc,Ump 45 T5,,
+perkUmp45Rank6Desc,Ump 45 T6,,
+
+perkThompsonRank1Desc,Thompson T1,,
+perkThompsonRank2Desc,Thompson T2,,
+perkThompsonRank3Desc,Thompson T3,,
+perkThompsonRank4Desc,Thompson T4,,
+perkThompsonRank5Desc,Thompson T5,,
+perkThompsonRank6Desc,Thompson T6,,
+
+perkVector45Rank1Desc,Vector45 T1,,
+perkVector45Rank2Desc,Vector45 T2,,
+perkVector45Rank3Desc,Vector45 T3,,
+perkVector45Rank4Desc,Vector45 T4,,
+perkVector45Rank5Desc,Vector45 T5,,
+perkVector45Rank6Desc,Vector45 T6,,
+
+perkMP7Rank1Desc,MP7 T1,,
+perkMP7Rank2Desc,MP7 T2,,
+perkMP7Rank3Desc,MP7 T3,,
+perkMP7Rank4Desc,MP7 T4,,
+perkMP7Rank5Desc,MP7 T5,,
+perkMP7Rank6Desc,MP7 T6,,
+
+perkP90Rank1Desc,P90 T1,,
+perkP90Rank2Desc,P90 T2,,
+perkP90Rank3Desc,P90 T3,,
+perkP90Rank4Desc,P90 T4,,
+perkP90Rank5Desc,P90 T5,,
+perkP90Rank6Desc,P90 T6,,
+
+perkTokarevttRank1Desc,Tokarevtt T1,,
+perkTokarevttRank2Desc,Tokarevtt T2,,
+perkTokarevttRank3Desc,Tokarevtt T3,,
+perkTokarevttRank4Desc,Tokarevtt T4,,
+perkTokarevttRank5Desc,Tokarevtt T5,,
+perkTokarevttRank6Desc,Tokarevtt T6,,
+
+perkTokarevGoldRank1Desc,Tokarev Gold T1,,
+perkTokarevGoldRank2Desc,Tokarev Gold T2,,
+perkTokarevGoldRank3Desc,Tokarev Gold T3,,
+perkTokarevGoldRank4Desc,Tokarev Gold T4,,
+perkTokarevGoldRank5Desc,Tokarev Gold T5,,
+perkTokarevGoldRank6Desc,Tokarev Gold T6,,
+
+perkTokarevMachineRank1Desc,Tokarev Machine T1,,
+perkTokarevMachineRank2Desc,Tokarev Machine T2,,
+perkTokarevMachineRank3Desc,Tokarev Machine T3,,
+perkTokarevMachineRank4Desc,Tokarev Machine T4,,
+perkTokarevMachineRank5Desc,Tokarev Machine T5,,
+perkTokarevMachineRank6Desc,Tokarev Machine T6,,
+
+perkPBRank1Desc,PB T1,,
+perkPBRank2Desc,PB T2,,
+perkPBRank3Desc,PB T3,,
+perkPBRank4Desc,PB T4,,
+perkPBRank5Desc,PB T5,,
+perkPBRank6Desc,PB T6,,
+
+perkPMAlphaDogRank1Desc,PM Alpha Dog T1,,
+perkPMAlphaDogRank2Desc,PM Alpha Dog T2,,
+perkPMAlphaDogRank3Desc,PM Alpha Dog T3,,
+perkPMAlphaDogRank4Desc,PM Alpha Dog T4,,
+perkPMAlphaDogRank5Desc,PM Alpha Dog T5,,
+perkPMAlphaDogRank6Desc,PM Alpha Dog T6,,
+
+perkStechkinRank1Desc,Stechkin T1,,
+perkStechkinRank2Desc,Stechkin T2,,
+perkStechkinRank3Desc,Stechkin T3,,
+perkStechkinRank4Desc,Stechkin T4,,
+perkStechkinRank5Desc,Stechkin T5,,
+perkStechkinRank6Desc,Stechkin T6,,
+
+perkGlock17Rank1Desc,Glock17 T1,,
+perkGlock17Rank2Desc,Glock17 T2,,
+perkGlock17Rank3Desc,Glock17 T3,,
+perkGlock17Rank4Desc,Glock17 T4,,
+perkGlock17Rank5Desc,Glock17 T5,,
+perkGlock17Rank6Desc,Glock17 T6,,
+
+perkP226Rank1Desc,P226 T1,,
+perkP226Rank2Desc,P226 T2,,
+perkP226Rank3Desc,P226 T3,,
+perkP226Rank4Desc,P226 T4,,
+perkP226Rank5Desc,P226 T5,,
+perkP226Rank6Desc,P226 T6,,
+
+perkM9A3Rank1Desc,M9A3 T1,,
+perkM9A3Rank2Desc,M9A3 T2,,
+perkM9A3Rank3Desc,M9A3 T3,,
+perkM9A3Rank4Desc,M9A3 T4,,
+perkM9A3Rank5Desc,M9A3 T5,,
+perkM9A3Rank6Desc,M9A3 T6,,
+
+perkGlock18cRank1Desc,Glock18c T1,,
+perkGlock18cRank2Desc,Glock18c T2,,
+perkGlock18cRank3Desc,Glock18c T3,,
+perkGlock18cRank4Desc,Glock18c T4,,
+perkGlock18cRank5Desc,Glock18c T5,,
+perkGlock18cRank6Desc,Glock18c T6,,
+
+perkSR1MPRank1Desc,SR1MP T1,,
+perkSR1MPRank2Desc,SR1MP T2,,
+perkSR1MPRank3Desc,SR1MP T3,,
+perkSR1MPRank4Desc,SR1MP T4,,
+perkSR1MPRank5Desc,SR1MP T5,,
+perkSR1MPRank6Desc,SR1MP T6,,
+
+perkUsp45TacRank1Desc,Usp45 Tac T1,,
+perkUsp45TacRank2Desc,Usp45 Tac T2,,
+perkUsp45TacRank3Desc,Usp45 Tac T3,,
+perkUsp45TacRank4Desc,Usp45 Tac T4,,
+perkUsp45TacRank5Desc,Usp45 Tac T5,,
+perkUsp45TacRank6Desc,Usp45 Tac T6,,
+
+perkM1911Rank1Desc,M1911 T1,,
+perkM1911Rank2Desc,M1911 T2,,
+perkM1911Rank3Desc,M1911 T3,,
+perkM1911Rank4Desc,M1911 T4,,
+perkM1911Rank5Desc,M1911 T5,,
+perkM1911Rank6Desc,M1911 T6,,
+
+perkM45Rank1Desc,M45 T1,,
+perkM45Rank2Desc,M45 T2,,
+perkM45Rank3Desc,M45 T3,,
+perkM45Rank4Desc,M45 T4,,
+perkM45Rank5Desc,M45 T5,,
+perkM45Rank6Desc,M45 T6,,
+
+perkUSP45MatchRank1Desc,USP45 Match T1,,
+perkUSP45MatchRank2Desc,USP45 Match T2,,
+perkUSP45MatchRank3Desc,USP45 Match T3,,
+perkUSP45MatchRank4Desc,USP45 Match T4,,
+perkUSP45MatchRank5Desc,USP45 Match T5,,
+perkUSP45MatchRank6Desc,USP45 Match T6,,
+
+perkFiveSevenRank1Desc,Five Seven T1,,
+perkFiveSevenRank2Desc,Five Seven T2,,
+perkFiveSevenRank3Desc,Five Seven T3,,
+perkFiveSevenRank4Desc,Five Seven T4,,
+perkFiveSevenRank5Desc,Five Seven T5,,
+perkFiveSevenRank6Desc,Five Seven T6,,
+
+perkDesertEagleRank1Desc,Desert Eagle T1,,
+perkDesertEagleRank2Desc,Desert Eagle T2,,
+perkDesertEagleRank3Desc,Desert Eagle T3,,
+perkDesertEagleRank4Desc,Desert Eagle T4,,
+perkDesertEagleRank5Desc,Desert Eagle T5,,
+perkDesertEagleRank6Desc,Desert Eagle T6,,
+
+perkRSH12Rank1Desc,RSH12 T1,,
+perkRSH12Rank2Desc,RSH12 T2,,
+perkRSH12Rank3Desc,RSH12 T3,,
+perkRSH12Rank4Desc,RSH12 T4,,
+perkRSH12Rank5Desc,RSH12 T5,,
+perkRSH12Rank6Desc,RSH12 T6,,
+
+perkKS23Rank1Desc,KS23 T1,,
+perkKS23Rank2Desc,KS23 T2,,
+perkKS23Rank3Desc,KS23 T3,,
+perkKS23Rank4Desc,KS23 T4,,
+perkKS23Rank5Desc,KS23 T5,,
+perkKS23Rank6Desc,KS23 T6,,
+
+perkMP43Rank1Desc,MP43 T1,,
+perkMP43Rank2Desc,MP43 T2,,
+perkMP43Rank3Desc,MP43 T3,,
+perkMP43Rank4Desc,MP43 T4,,
+perkMP43Rank5Desc,MP43 T5,,
+perkMP43Rank6Desc,MP43 T6,,
+
+perkMTS255Rank1Desc,MTS255 T1,,
+perkMTS255Rank2Desc,MTS255 T2,,
+perkMTS255Rank3Desc,MTS255 T3,,
+perkMTS255Rank4Desc,MTS255 T4,,
+perkMTS255Rank5Desc,MTS255 T5,,
+perkMTS255Rank6Desc,MTS255 T6,,
+
+perkM590Rank1Desc,M590 T1,,
+perkM590Rank2Desc,M590 T2,,
+perkM590Rank3Desc,M590 T3,,
+perkM590Rank4Desc,M590 T4,,
+perkM590Rank5Desc,M590 T5,,
+perkM590Rank6Desc,M590 T6,,
+
+perkM870Rank1Desc,M870 T1,,
+perkM870Rank2Desc,M870 T2,,
+perkM870Rank3Desc,M870 T3,,
+perkM870Rank4Desc,M870 T4,,
+perkM870Rank5Desc,M870 T5,,
+perkM870Rank6Desc,M870 T6,,
+
+perkKSG12Rank1Desc,KSG12 T1,,
+perkKSG12Rank2Desc,KSG12 T2,,
+perkKSG12Rank3Desc,KSG12 T3,,
+perkKSG12Rank4Desc,KSG12 T4,,
+perkKSG12Rank5Desc,KSG12 T5,,
+perkKSG12Rank6Desc,KSG12 T6,,
+
+perkMP153Rank1Desc,MP153 T1,,
+perkMP153Rank2Desc,MP153 T2,,
+perkMP153Rank3Desc,MP153 T3,,
+perkMP153Rank4Desc,MP153 T4,,
+perkMP153Rank5Desc,MP153 T5,,
+perkMP153Rank6Desc,MP153 T6,,
+
+perkM3BenelliRank1Desc,M3 Benelli T1,,
+perkM3BenelliRank2Desc,M3 Benelli T2,,
+perkM3BenelliRank3Desc,M3 Benelli T3,,
+perkM3BenelliRank4Desc,M3 Benelli T4,,
+perkM3BenelliRank5Desc,M3 Benelli T5,,
+perkM3BenelliRank6Desc,M3 Benelli T6,,
+
+perkSaiga12Rank1Desc,Saiga12 T1,,
+perkSaiga12Rank2Desc,Saiga12 T2,,
+perkSaiga12Rank3Desc,Saiga12 T3,,
+perkSaiga12Rank4Desc,Saiga12 T4,,
+perkSaiga12Rank5Desc,Saiga12 T5,,
+perkSaiga12Rank6Desc,Saiga12 T6,,
+
+perkAA12Rank1Desc,AA12 T1,,
+perkAA12Rank2Desc,AA12 T2,,
+perkAA12Rank3Desc,AA12 T3,,
+perkAA12Rank4Desc,AA12 T4,,
+perkAA12Rank5Desc,AA12 T5,,
+perkAA12Rank6Desc,AA12 T6,,
+
+perkFN40GLRank1Desc,FN40GL T1,,
+perkFN40GLRank2Desc,FN40GL T2,,
+perkFN40GLRank3Desc,FN40GL T3,,
+perkFN40GLRank4Desc,FN40GL T4,,
+perkFN40GLRank5Desc,FN40GL T5,,
+perkFN40GLRank6Desc,FN40GL T6,,
+
+perkChinaLakeRank1Desc,ChinaLake T1,,
+perkChinaLakeRank2Desc,ChinaLake T2,,
+perkChinaLakeRank3Desc,ChinaLake T3,,
+perkChinaLakeRank4Desc,ChinaLake T4,,
+perkChinaLakeRank5Desc,ChinaLake T5,,
+perkChinaLakeRank6Desc,ChinaLake T6,,
+
+perkM32a1mglRank1Desc,M32a1mgl T1,,
+perkM32a1mglRank2Desc,M32a1mgl T2,,
+perkM32a1mglRank3Desc,M32a1mgl T3,,
+perkM32a1mglRank4Desc,M32a1mgl T4,,
+perkM32a1mglRank5Desc,M32a1mgl T5,,
+perkM32a1mglRank6Desc,M32a1mgl T6,,
+
+perkRPG7Rank1Desc,RPG7 T1,,
+perkRPG7Rank2Desc,RPG7 T2,,
+perkRPG7Rank3Desc,RPG7 T3,,
+perkRPG7Rank4Desc,RPG7 T4,,
+perkRPG7Rank5Desc,RPG7 T5,,
+perkRPG7Rank6Desc,RPG7 T6,,
+
+perkADARRank1Desc,ADAR T1,,
+perkADARRank2Desc,ADAR T2,,
+perkADARRank3Desc,ADAR T3,,
+perkADARRank4Desc,ADAR T4,,
+perkADARRank5Desc,ADAR T5,,
+perkADARRank6Desc,ADAR T6,,
+
+perkStar15Rank1Desc,Star15 T1,,
+perkStar15Rank2Desc,Star15 T2,,
+perkStar15Rank3Desc,Star15 T3,,
+perkStar15Rank4Desc,Star15 T4,,
+perkStar15Rank5Desc,Star15 T5,,
+perkStar15Rank6Desc,Star15 T6,,
+
+perkM700Rank1Desc,M700 T1,,
+perkM700Rank2Desc,M700 T2,,
+perkM700Rank3Desc,M700 T3,,
+perkM700Rank4Desc,M700 T4,,
+perkM700Rank5Desc,M700 T5,,
+perkM700Rank6Desc,M700 T6,,
+
+perkT5000Rank1Desc,T5000 T1,,
+perkT5000Rank2Desc,T5000 T2,,
+perkT5000Rank3Desc,T5000 T3,,
+perkT5000Rank4Desc,T5000 T4,,
+perkT5000Rank5Desc,T5000 T5,,
+perkT5000Rank6Desc,T5000 T6,,
+
+perkFalsa58DMRRank1Desc,Falsa58DMR T1,,
+perkFalsa58DMRRank2Desc,Falsa58DMR T2,,
+perkFalsa58DMRRank3Desc,Falsa58DMR T3,,
+perkFalsa58DMRRank4Desc,Falsa58DMR T4,,
+perkFalsa58DMRRank5Desc,Falsa58DMR T5,,
+perkFalsa58DMRRank6Desc,Falsa58DMR T6,,
+
+perkM1AEBRRank1Desc,M1AEBR T1,,
+perkM1AEBRRank2Desc,M1AEBR T2,,
+perkM1AEBRRank3Desc,M1AEBR T3,,
+perkM1AEBRRank4Desc,M1AEBR T4,,
+perkM1AEBRRank5Desc,M1AEBR T5,,
+perkM1AEBRRank6Desc,M1AEBR T6,,
+
+perkRFBRank1Desc,RFB T1,,
+perkRFBRank2Desc,RFB T2,,
+perkRFBRank3Desc,RFB T3,,
+perkRFBRank4Desc,RFB T4,,
+perkRFBRank5Desc,RFB T5,,
+perkRFBRank6Desc,RFB T6,,
+
+perkSR25Rank1Desc,SR25 T1,,
+perkSR25Rank2Desc,SR25 T2,,
+perkSR25Rank3Desc,SR25 T3,,
+perkSR25Rank4Desc,SR25 T4,,
+perkSR25Rank5Desc,SR25 T5,,
+perkSR25Rank6Desc,SR25 T6,,
+
+perkRSASSRank1Desc,RSASS T1,,
+perkRSASSRank2Desc,RSASS T2,,
+perkRSASSRank3Desc,RSASS T3,,
+perkRSASSRank4Desc,RSASS T4,,
+perkRSASSRank5Desc,RSASS T5,,
+perkRSASSRank6Desc,RSASS T6,,
+
+perkHKG28Rank1Desc,HKG28 T1,,
+perkHKG28Rank2Desc,HKG28 T2,,
+perkHKG28Rank3Desc,HKG28 T3,,
+perkHKG28Rank4Desc,HKG28 T4,,
+perkHKG28Rank5Desc,HKG28 T5,,
+perkHKG28Rank6Desc,HKG28 T6,,
+
+perkMP18Rank1Desc,MP18 T1,,
+perkMP18Rank2Desc,MP18 T2,,
+perkMP18Rank3Desc,MP18 T3,,
+perkMP18Rank4Desc,MP18 T4,,
+perkMP18Rank5Desc,MP18 T5,,
+perkMP18Rank6Desc,MP18 T6,,
+
+perkMosinRank1Desc,Mosin T1,,
+perkMosinRank2Desc,Mosin T2,,
+perkMosinRank3Desc,Mosin T3,,
+perkMosinRank4Desc,Mosin T4,,
+perkMosinRank5Desc,Mosin T5,,
+perkMosinRank6Desc,Mosin T6,,
+
+perkSV98Rank1Desc,SV98 T1,,
+perkSV98Rank2Desc,SV98 T2,,
+perkSV98Rank3Desc,SV98 T3,,
+perkSV98Rank4Desc,SV98 T4,,
+perkSV98Rank5Desc,SV98 T5,,
+perkSV98Rank6Desc,SV98 T6,,
+
+perkSVTRank1Desc,SVT T1,,
+perkSVTRank2Desc,SVT T2,,
+perkSVTRank3Desc,SVT T3,,
+perkSVTRank4Desc,SVT T4,,
+perkSVTRank5Desc,SVT T5,,
+perkSVTRank6Desc,SVT T6,,
+
+perkSVDRank1Desc,SVD T1,,
+perkSVDRank2Desc,SVD T2,,
+perkSVDRank3Desc,SVD T3,,
+perkSVDRank4Desc,SVD T4,,
+perkSVDRank5Desc,SVD T5,,
+perkSVDRank6Desc,SVD T6,,
+
+perkAXMCRank1Desc,AXMC T1,,
+perkAXMCRank2Desc,AXMC T2,,
+perkAXMCRank3Desc,AXMC T3,,
+perkAXMCRank4Desc,AXMC T4,,
+perkAXMCRank5Desc,AXMC T5,,
+perkAXMCRank6Desc,AXMC T6,,
+
+perkSwordMK18Rank1Desc,Sword MK18 T1,,
+perkSwordMK18Rank2Desc,Sword MK18 T2,,
+perkSwordMK18Rank3Desc,Sword MK18 T3,,
+perkSwordMK18Rank4Desc,Sword MK18 T4,,
+perkSwordMK18Rank5Desc,Sword MK18 T5,,
+perkSwordMK18Rank6Desc,Sword MK18 T6,,
+
+perkAUGA3Rank1Desc,AUGA3 T1,,
+perkAUGA3Rank2Desc,AUGA3 T2,,
+perkAUGA3Rank3Desc,AUGA3 T3,,
+perkAUGA3Rank4Desc,AUGA3 T4,,
+perkAUGA3Rank5Desc,AUGA3 T5,,
+perkAUGA3Rank6Desc,AUGA3 T6,,
+
+perkG36kv2Rank1Desc,G36kv2 T1,,
+perkG36kv2Rank2Desc,G36kv2 T2,,
+perkG36kv2Rank3Desc,G36kv2 T3,,
+perkG36kv2Rank4Desc,G36kv2 T4,,
+perkG36kv2Rank5Desc,G36kv2 T5,,
+perkG36kv2Rank6Desc,G36kv2 T6,,
+
+perkM4A1Rank1Desc,M4A1 T1,,
+perkM4A1Rank2Desc,M4A1 T2,,
+perkM4A1Rank3Desc,M4A1 T3,,
+perkM4A1Rank4Desc,M4A1 T4,,
+perkM4A1Rank5Desc,M4A1 T5,,
+perkM4A1Rank6Desc,M4A1 T6,,
+
+perkM16A4Rank1Desc,M16A4 T1,,
+perkM16A4Rank2Desc,M16A4 T2,,
+perkM16A4Rank3Desc,M16A4 T3,,
+perkM16A4Rank4Desc,M16A4 T4,,
+perkM16A4Rank5Desc,M16A4 T5,,
+perkM16A4Rank6Desc,M16A4 T6,,
+
+perkL85A2Rank1Desc,L85A2 T1,,
+perkL85A2Rank2Desc,L85A2 T2,,
+perkL85A2Rank3Desc,L85A2 T3,,
+perkL85A2Rank4Desc,L85A2 T4,,
+perkL85A2Rank5Desc,L85A2 T5,,
+perkL85A2Rank6Desc,L85A2 T6,,
+
+perkMDR556Rank1Desc,MDR556 T1,,
+perkMDR556Rank2Desc,MDR556 T2,,
+perkMDR556Rank3Desc,MDR556 T3,,
+perkMDR556Rank4Desc,MDR556 T4,,
+perkMDR556Rank5Desc,MDR556 T5,,
+perkMDR556Rank6Desc,MDR556 T6,,
+
+perkHK416Rank1Desc,HK416 T1,,
+perkHK416Rank2Desc,HK416 T2,,
+perkHK416Rank3Desc,HK416 T3,,
+perkHK416Rank4Desc,HK416 T4,,
+perkHK416Rank5Desc,HK416 T5,,
+perkHK416Rank6Desc,HK416 T6,,
+
+perkIWITavorx95Rank1Desc,IWITavorx95 T1,,
+perkIWITavorx95Rank2Desc,IWITavorx95 T2,,
+perkIWITavorx95Rank3Desc,IWITavorx95 T3,,
+perkIWITavorx95Rank4Desc,IWITavorx95 T4,,
+perkIWITavorx95Rank5Desc,IWITavorx95 T5,,
+perkIWITavorx95Rank6Desc,IWITavorx95 T6,,
+
+perkAK300VelociraptorRank1Desc,AK300 Velociraptor T1,,
+perkAK300VelociraptorRank2Desc,AK300 Velociraptor T2,,
+perkAK300VelociraptorRank3Desc,AK300 Velociraptor T3,,
+perkAK300VelociraptorRank4Desc,AK300 Velociraptor T4,,
+perkAK300VelociraptorRank5Desc,AK300 Velociraptor T5,,
+perkAK300VelociraptorRank6Desc,AK300 Velociraptor T6,,
+
+perkHoneyBadgerRank1Desc,Honey Badger T1,,
+perkHoneyBadgerRank2Desc,Honey Badger T2,,
+perkHoneyBadgerRank3Desc,Honey Badger T3,,
+perkHoneyBadgerRank4Desc,Honey Badger T4,,
+perkHoneyBadgerRank5Desc,Honey Badger T5,,
+perkHoneyBadgerRank6Desc,Honey Badger T6,,
+
+perkMCXRank1Desc,MCX T1,,
+perkMCXRank2Desc,MCX T2,,
+perkMCXRank3Desc,MCX T3,,
+perkMCXRank4Desc,MCX T4,,
+perkMCXRank5Desc,MCX T5,,
+perkMCXRank6Desc,MCX T6,,
+
+perkFALsa58brRank1Desc,FALsa 58br T1,,
+perkFALsa58brRank2Desc,FALsa 58br T2,,
+perkFALsa58brRank3Desc,FALsa 58br T3,,
+perkFALsa58brRank4Desc,FALsa 58br T4,,
+perkFALsa58brRank5Desc,FALsa 58br T5,,
+perkFALsa58brRank6Desc,FALsa 58br T6,,
+
+perkMDR762Rank1Desc,MDR762 T1,,
+perkMDR762Rank2Desc,MDR762 T2,,
+perkMDR762Rank3Desc,MDR762 T3,,
+perkMDR762Rank4Desc,MDR762 T4,,
+perkMDR762Rank5Desc,MDR762 T5,,
+perkMDR762Rank6Desc,MDR762 T6,,
+
+perkScarHRank1Desc,ScarH T1,,
+perkScarHRank2Desc,ScarH T2,,
+perkScarHRank3Desc,ScarH T3,,
+perkScarHRank4Desc,ScarH T4,,
+perkScarHRank5Desc,ScarH T5,,
+perkScarHRank6Desc,ScarH T6,,
+
+perkHK417Rank1Desc,HK417 T1,,
+perkHK417Rank2Desc,HK417 T2,,
+perkHK417Rank3Desc,HK417 T3,,
+perkHK417Rank4Desc,HK417 T4,,
+perkHK417Rank5Desc,HK417 T5,,
+perkHK417Rank6Desc,HK417 T6,,
+
+perkM14SassRank1Desc,M14 Sass T1,,
+perkM14SassRank2Desc,M14 Sass T2,,
+perkM14SassRank3Desc,M14 Sass T3,,
+perkM14SassRank4Desc,M14 Sass T4,,
+perkM14SassRank5Desc,M14 Sass T5,,
+perkM14SassRank6Desc,M14 Sass T6,,
+
+perkMCXSpearRank1Desc,MCX Spear T1,,
+perkMCXSpearRank2Desc,MCX Spear T2,,
+perkMCXSpearRank3Desc,MCX Spear T3,,
+perkMCXSpearRank4Desc,MCX Spear T4,,
+perkMCXSpearRank5Desc,MCX Spear T5,,
+perkMCXSpearRank6Desc,MCX Spear T6,,
+
+perkASH12Rank1Desc,ASH12 T1,,
+perkASH12Rank2Desc,ASH12 T2,,
+perkASH12Rank3Desc,ASH12 T3,,
+perkASH12Rank4Desc,ASH12 T4,,
+perkASH12Rank5Desc,ASH12 T5,,
+perkASH12Rank6Desc,ASH12 T6,,
+
+perkRPK16Rank1Desc,RPK16 T1,,
+perkRPK16Rank2Desc,RPK16 T2,,
+perkRPK16Rank3Desc,RPK16 T3,,
+perkRPK16Rank4Desc,RPK16 T4,,
+perkRPK16Rank5Desc,RPK16 T5,,
+perkRPK16Rank6Desc,RPK16 T6,,
+
+perkFNMinimiRank1Desc,FN Mini mi T1,,
+perkFNMinimiRank2Desc,FN Mini mi T2,,
+perkFNMinimiRank3Desc,FN Mini mi T3,,
+perkFNMinimiRank4Desc,FN Mini mi T4,,
+perkFNMinimiRank5Desc,FN Mini mi T5,,
+perkFNMinimiRank6Desc,FN Mini mi T6,,
+
+perkRPDRank1Desc,RPD T1,,
+perkRPDRank2Desc,RPD T2,,
+perkRPDRank3Desc,RPD T3,,
+perkRPDRank4Desc,RPD T4,,
+perkRPDRank5Desc,RPD T5,,
+perkRPDRank6Desc,RPD T6,,
+
+perkM60E6Rank1Desc,M60E6 T1,,
+perkM60E6Rank2Desc,M60E6 T2,,
+perkM60E6Rank3Desc,M60E6 T3,,
+perkM60E6Rank4Desc,M60E6 T4,,
+perkM60E6Rank5Desc,M60E6 T5,,
+perkM60E6Rank6Desc,M60E6 T6,,
+
+perkPKPRank1Desc,PKP T1,,
+perkPKPRank2Desc,PKP T2,,
+perkPKPRank3Desc,PKP T3,,
+perkPKPRank4Desc,PKP T4,,
+perkPKPRank5Desc,PKP T5,,
+perkPKPRank6Desc,PKP T6,,
+
+perkAKS74UNRank1Desc,AKS 74UN T1,,
+perkAKS74UNRank2Desc,AKS 74UN T2,,
+perkAKS74UNRank3Desc,AKS 74UN T3,,
+perkAKS74UNRank4Desc,AKS 74UN T4,,
+perkAKS74UNRank5Desc,AKS 74UN T5,,
+perkAKS74UNRank6Desc,AKS 74UN T6,,
+
+perkAK74NRank1Desc,AK74N T1,,
+perkAK74NRank2Desc,AK74N T2,,
+perkAK74NRank3Desc,AK74N T3,,
+perkAK74NRank4Desc,AK74N T4,,
+perkAK74NRank5Desc,AK74N T5,,
+perkAK74NRank6Desc,AK74N T6,,
+
+perkAK74MRank1Desc,AK74M T1,,
+perkAK74MRank2Desc,AK74M T2,,
+perkAK74MRank3Desc,AK74M T3,,
+perkAK74MRank4Desc,AK74M T4,,
+perkAK74MRank5Desc,AK74M T5,,
+perkAK74MRank6Desc,AK74M T6,,
+
+perkAK12Rank1Desc,AK12 T1,,
+perkAK12Rank2Desc,AK12 T2,,
+perkAK12Rank3Desc,AK12 T3,,
+perkAK12Rank4Desc,AK12 T4,,
+perkAK12Rank5Desc,AK12 T5,,
+perkAK12Rank6Desc,AK12 T6,,
+
+perkAK107Rank1Desc,AK107 T1,,
+perkAK107Rank2Desc,AK107 T2,,
+perkAK107Rank3Desc,AK107 T3,,
+perkAK107Rank4Desc,AK107 T4,,
+perkAK107Rank5Desc,AK107 T5,,
+perkAK107Rank6Desc,AK107 T6,,
+
+perkSKSRank1Desc,SKS T1,,
+perkSKSRank2Desc,SKS T2,,
+perkSKSRank3Desc,SKS T3,,
+perkSKSRank4Desc,SKS T4,,
+perkSKSRank5Desc,SKS T5,,
+perkSKSRank6Desc,SKS T6,,
+
+perkAKMNRank1Desc,AKMN T1,,
+perkAKMNRank2Desc,AKMN T2,,
+perkAKMNRank3Desc,AKMN T3,,
+perkAKMNRank4Desc,AKMN T4,,
+perkAKMNRank5Desc,AKMN T5,,
+perkAKMNRank6Desc,AKMN T6,,
+
+perkAK103Rank1Desc,AK103 T1,,
+perkAK103Rank2Desc,AK103 T2,,
+perkAK103Rank3Desc,AK103 T3,,
+perkAK103Rank4Desc,AK103 T4,,
+perkAK103Rank5Desc,AK103 T5,,
+perkAK103Rank6Desc,AK103 T6,,
+
+perkAK109Rank1Desc,AK109 T1,,
+perkAK109Rank2Desc,AK109 T2,,
+perkAK109Rank3Desc,AK109 T3,,
+perkAK109Rank4Desc,AK109 T4,,
+perkAK109Rank5Desc,AK109 T5,,
+perkAK109Rank6Desc,AK109 T6,,
+
+perkRD704Rank1Desc,RD704 T1,,
+perkRD704Rank2Desc,RD704 T2,,
+perkRD704Rank3Desc,RD704 T3,,
+perkRD704Rank4Desc,RD704 T4,,
+perkRD704Rank5Desc,RD704 T5,,
+perkRD704Rank6Desc,RD704 T6,,
+
+perkMK47Rank1Desc,MK47 T1,,
+perkMK47Rank2Desc,MK47 T2,,
+perkMK47Rank3Desc,MK47 T3,,
+perkMK47Rank4Desc,MK47 T4,,
+perkMK47Rank5Desc,MK47 T5,,
+perkMK47Rank6Desc,MK47 T6,,
+
+perk9A91Rank1Desc,9A91 T1,,
+perk9A91Rank2Desc,9A91 T2,,
+perk9A91Rank3Desc,9A91 T3,,
+perk9A91Rank4Desc,9A91 T4,,
+perk9A91Rank5Desc,9A91 T5,,
+perk9A91Rank6Desc,9A91 T6,,
+
+perkVSSRank1Desc,VSS T1,,
+perkVSSRank2Desc,VSS T2,,
+perkVSSRank3Desc,VSS T3,,
+perkVSSRank4Desc,VSS T4,,
+perkVSSRank5Desc,VSS T5,,
+perkVSSRank6Desc,VSS T6,,
+
+perkASVALRank1Desc,ASVAL T1,,
+perkASVALRank2Desc,ASVAL T2,,
+perkASVALRank3Desc,ASVAL T3,,
+perkASVALRank4Desc,ASVAL T4,,
+perkASVALRank5Desc,ASVAL T5,,
+perkASVALRank6Desc,ASVAL T6,,
+
+perkFamasRank1Desc,Famas T1,,
+perkFamasRank2Desc,Famas T2,,
+perkFamasRank3Desc,Famas T3,,
+perkFamasRank4Desc,Famas T4,,
+perkFamasRank5Desc,Famas T5,,
+perkFamasRank6Desc,Famas T6,,
+
+perkBipodsForegripsRank1Desc,Bipods and Grips,,
+perkBipodsForegripsRank2Desc,Grips and Bipods,,
+perkBipodsForegripsRank3Desc,Stand and Hold,,
+perkBipodsForegripsRank4Desc,Grabsies,,
+perkBipodsForegripsRank5Desc,Gripping,,
+
+perkLauncherRank1Desc,What does this do,,
+perkLauncherRank2Desc,OOOPS,,
+perkLauncherRank3Desc,Did I do that,,
+perkLauncherRank4Desc,Boom Boom,,
+perkLauncherRank5Desc,Uh Oh,,
+
+perkScopesRank1Desc,See far,,
+perkScopesRank2Desc,See Further,,
+perkScopesRank3Desc,Cant Hide,,
+perkScopesRank4Desc,No spot Left to run,,
+perkScopesRank5Desc,Got Ya,,
+
+perkMagazinesRank1Desc,Top up,,
+perkMagazinesRank2Desc,Fill,,
+perkMagazinesRank3Desc,Loading,,
+perkMagazinesRank4Desc,Fill her up,,
+perkMagazinesRank5Desc,Chockers,,
+
+perkSilencersRank1Desc,Quietness,,
+perkSilencersRank2Desc,Silence,,
+perkSilencersRank3Desc,Shhhhh,,
+perkSilencersRank4Desc,Deaf,,
+perkSilencersRank5Desc,You dont hear me,,
+
+perkStocksRank1Desc,Lock,,
+perkStocksRank2Desc,Stock,,
+perkStocksRank3Desc,Load,,
+perkStocksRank4Desc,Carry,,
+perkStocksRank5Desc,Rest,,
+
+perkLightsRank1Desc,Dim,,
+perkLightsRank2Desc,Lighting,,
+perkLightsRank3Desc,Spotted,,
+perkLightsRank4Desc,Lit Up,,
+perkLightsRank5Desc,City Lights,,
+
+perkDoctorJournalsRank1Desc,R.I.P,,
+perkDoctorJournalsRank2Desc,Stitch ,,
+perkDoctorJournalsRank3Desc,Prescribe,,
+perkDoctorJournalsRank4Desc,Bandage,,
+perkDoctorJournalsRank5Desc,Amputate,,
+
+perkSurgeonsBooksRank1Desc,Dead,,
+perkSurgeonsBooksRank2Desc,Clear,,
+perkSurgeonsBooksRank3Desc,Resuscitate,,
+perkSurgeonsBooksRank4Desc,Mouth To Mouth,,
+perkSurgeonsBooksRank5Desc,De Fib,,
