@@ -1,4 +1,4 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+Key,english
 alcoholicsAnonymousSkillMagazine,"Alcoholics Anonymous"
 alcoholicsAnonymousSkillMagazineDesc,"Crafting Alcoholic.\nDrink Drinks are on you."
 craftingAlcoholics,"crafting Alcoholics"
