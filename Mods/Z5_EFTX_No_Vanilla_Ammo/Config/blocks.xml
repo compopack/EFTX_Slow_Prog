@@ -1,0 +1,4 @@
+<cbp>
+	<set xpath="//block[@name='autoTurret']/property[@name='AmmoItem']/@value">ammoEft918mmPM</set>	
+	<set xpath="//block[@name='shotgunTurret']/property[@name='AmmoItem']/@value">ammoEft7mmShotgun</set>	
+</cbp>

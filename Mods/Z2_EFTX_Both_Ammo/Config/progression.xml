@@ -39,7 +39,6 @@
 		</crafting_skill>
 		<!-- LAUNCHERS AND RPG7 AMMO PERK -->
 		<perk name="perkBoomBoom" parent="skillEFTXExplosives" max_level="1"  name_key="Boom Boom" desc_key="Finding More Boom Boom Books in loot" icon="ui_game_symbol_explosion">
-			<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="1" desc_key="reqStrengthLevel01"/></level_requirements>
 			<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01"/></level_requirements>
 			<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03"/></level_requirements>
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
