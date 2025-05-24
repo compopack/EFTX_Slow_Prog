@@ -870,7 +870,7 @@
 					<item name="resourcePileOfMeds" count="1,3" loot_prob_template="veryLow"/>	
 					<item name="resourceDisposableSyringe" count="1,3" loot_prob_template="medLow"/>
 					<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>					
-					<item name="resourceCanisterWithPurifiedWater" count="1,3" loot_prob_template="medLow"/>
+					<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
 					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
 					</lootgroup>
 				<lootgroup name="groupInjectorMed" >
@@ -878,7 +878,7 @@
 					<item name="resourceDisposableSyringe" count="3,6" loot_prob_template="medLow"/>
 					<item name="resourceSalineSolution" count="3,6" loot_prob_template="medHigh"/>
 					<item name="medicalIFAK" count="1,2" loot_prob_template="veryLow" force_prob="true"/>		
-					<item name="resourceCanisterWithPurifiedWater" count="3,6" loot_prob_template="medLow"/>
+					<item name="resourceCanisterWithPurifiedWater" count="2,3" loot_prob_template="medLow"/>
 					<item name="medicalSurv12" count="1" loot_prob_template="veryLow" force_prob="true"/>
 					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
 				</lootgroup>
@@ -887,7 +887,7 @@
 					<item name="resourceDisposableSyringe" count="4,7" loot_prob_template="medLow"/>
 					<item name="resourceSalineSolution" count="4,7" loot_prob_template="medHigh"/>
 					<item name="medicalIFAK" count="1,2" loot_prob_template="veryLow" force_prob="true"/>		
-					<item name="resourceCanisterWithPurifiedWater" count="3,6" loot_prob_template="veryLow"/>
+					<item name="resourceCanisterWithPurifiedWater" count="3,4" loot_prob_template="veryLow"/>
 					<item name="medicalInjectorMULE" count="1" loot_prob_template="veryLow" force_prob="true"/>
 					<item name="medicalSalewa" count="1" loot_prob_template="veryLow" force_prob="true"/>
 					<item name="medicalCMS" count="1" loot_prob_template="veryLow" force_prob="true"/>
@@ -910,7 +910,7 @@
 					<item name="medicalCMS" count="1" loot_prob_template="veryLow" force_prob="true"/>
 					<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
 					<item name="medicalIFAK" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="resourceCanisterWithPurifiedWater" count="0,3" loot_prob_template="medLow"/>
+					<item name="resourceCanisterWithPurifiedWater" count="4,5" loot_prob_template="medLow"/>
 					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
 					<item name="BooksOfASurgeonSkillMagazine" count="1,2" loot_prob_template="low"/>
 				</lootgroup>
@@ -1386,7 +1386,7 @@
 		<item name="resourcePotassiumNitratePowder" count="15,45" loot_prob_template="veryLow"/>
 		<item name="resourceNitricAcid" count="125,375" loot_prob_template="veryLow"/>
 		<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="veryLow"/>
-		<item name="resourceCanisterWithPurifiedWater" count="1,3" loot_prob_template="veryLow"/>
+		<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
 	</append>	
 			
 		<append xpath="//lootgroup[@name='groupFoodTrashCommon']">
@@ -1487,7 +1487,7 @@
 			<item name="medicalCMS" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 			<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
 			<item name="medicalIFAK" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-			<item name="resourceCanisterWithPurifiedWater" count="1,3" loot_prob_template="medLow"/>
+			<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
 </append>
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
@@ -1635,7 +1635,7 @@
 				<item name="medicalCMS" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 				<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
 				<item name="medicalIFAK" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="resourceCanisterWithPurifiedWater" count="0,3" loot_prob_template="medLow"/>
+				<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="medLow"/>
 	</append>	
 	<append xpath="//lootgroup[@name='groupLocker01']">
 				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>	
@@ -1647,7 +1647,7 @@
 				<item name="resourceDisposableSyringe" count="1,4" loot_prob_template="medLow"/>
 				<item name="resourcePileOfMeds" count="1,2" loot_prob_template="veryLow"/>	
 				<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
-				<item name="resourceCanisterWithPurifiedWater" count="1,3" loot_prob_template="medLow"/>
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
 				<item group="groupInjectorSmall" count="1" loot_prob_template="low"/>
 				<item group="groupInjectorMed" count="1" loot_prob_template="low" force_prob="true"/>
 				<item group="groupInjectorLarge" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
@@ -1660,7 +1660,7 @@
 				<item name="medicalSalewa" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 				<item name="medicalCMS" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 				<item name="medicalIFAK" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="resourceCanisterWithPurifiedWater" count="1,3" loot_prob_template="medLow"/>
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
 				<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
 				<item group="groupInjectorSmall" count="1" loot_prob_template="low"/>
 				<item group="groupInjectorMed" count="1" loot_prob_template="low" force_prob="true"/>
@@ -1675,7 +1675,7 @@
 				<item name="medicalCMS" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 				<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
 				<item name="medicalIFAK" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="resourceCanisterWithPurifiedWater" count="1,3" loot_prob_template="medLow"/>
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
 				<item group="groupInjectorSmall" count="1" loot_prob_template="low"/>
 				<item group="groupInjectorMed" count="1" loot_prob_template="low" force_prob="true"/>
 				<item group="groupInjectorLarge" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>

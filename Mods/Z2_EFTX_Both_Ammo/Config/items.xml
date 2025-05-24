@@ -209,7 +209,7 @@
 				<property name="Create_item" value="resourcePaper"/>
 				<property name="Create_item_count" value="0"/>
 				<property name="Random_item" value="ammoEft54539,ammoEft55645NATO,ammoEft76239,ammoEft939,ammoEft300blk,ammoEft76251NATO,ammoEft76254R,ammoEft12755PS12,ammoEft12733,ammoEft7mmShotgun,ammoEft76225mmTokarev,ammoEft918mmPM,ammoEft919mm,group9x21T1,ammoEft45ACP,ammoEft5728FN,ammoEft4630mmHK"/>
-				<property name="Random_item_count" value="50-100,50-100,50-100,50-100,50-100,50-100,50-100,25-50,25-50,25-50,100-150,100-150,100-150,100-150,100-150,100-150,100-150"/>
+				<property name="Random_item_count" value="10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20,10-20"/>
 				<property name="Random_count" value="3"/>
 				<property name="Unique_random_only" value="true"/>
 			</property>
@@ -227,7 +227,7 @@
 				<property name="Create_item" value="resourcePaper"/>
 				<property name="Create_item_count" value="0"/>
 				<property name="Random_item" value="ammoEft76254R,ammoEft7mmShotgun,ammoEft76225mmTokarev,ammoEft918mmPM,ammoEft919mm,group9x21T1,ammoEft45ACP"/>
-				<property name="Random_item_count" value="25-50,25-50,100-150,100-150,100-150,100-150,100-150"/>
+				<property name="Random_item_count" value="5-25,5-25,5-25,5-25,5-10,5-25,5-25"/>
 				<property name="Random_count" value="3"/>
 				<property name="Unique_random_only" value="true"/>
 			</property>
@@ -245,7 +245,7 @@
 				<property name="Create_item" value="resourcePaper"/>
 				<property name="Create_item_count" value="0"/>
 				<property name="Random_item" value="ammoEft54539,ammoEft55645NATO,ammoEft76239,ammoEft939,ammoEft300blk,ammoEft76254R,ammoEft7mmShotgun,ammoEft919mm,ammoEft45ACP"/>
-				<property name="Random_item_count" value="50-100,50-100,50-100,50-100,50-100,50-100,25-50,100-150,100-150"/>
+				<property name="Random_item_count" value="10-30,10-30,10-30,10-30,10-30,10-30,10-30,10-30,10-30"/>
 				<property name="Random_count" value="3"/>
 				<property name="Unique_random_only" value="true"/>
 			</property>
@@ -263,7 +263,7 @@
 				<property name="Create_item" value="resourcePaper"/>
 				<property name="Create_item_count" value="0"/>
 				<property name="Random_item" value="ammoEft54539,ammoEft55645NATO,ammoEft76239,ammoEft939,ammoEft300blk,ammoEft76251NATO,ammoEft76254R,ammoEft12755PS12,ammoEft12733,ammoEft7mmShotgun,ammoEft919mm,ammoEft45ACP,ammoEft5728FN,ammoEft4630mmHK"/>
-				<property name="Random_item_count" value="50-100,50-100,50-100,50-100,50-100,50-100,50-100,25-50,25-50,25-50,100-150,100-150,100-150,100-150"/>
+				<property name="Random_item_count" value="20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50,20-50"/>
 				<property name="Random_count" value="3"/>
 				<property name="Unique_random_only" value="true"/>
 			</property>
