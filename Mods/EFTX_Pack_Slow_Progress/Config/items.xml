@@ -3654,7 +3654,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -3776,7 +3776,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -3901,7 +3901,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
                 <property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4029,7 +4029,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
                 <property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4152,7 +4152,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
                 <property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4271,6 +4271,7 @@
 			</effect_group>
 		</item>
 		
+		
 		<item name="gunuzi"> 
 			<property name="Tags" value="weapon,ranged,holdBreathAiming,eftxuzi,reloadPenalty,gun,shortRange,nom203,ammoEft919mm,cmagmp9uzi,AR15stocks,HasBufferTube,uzionly,CompactReflexSight,ShortMount,attAgility,perkGunslinger,9mmGun,attachmentsIncluded,canHaveCosmetic,handgunSkill"/>
 			<property name="DisplayType" value="rangedGun"/>
@@ -4331,7 +4332,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4452,7 +4453,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4573,7 +4574,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4635,6 +4636,7 @@
 			</effect_group>
 		</item>
 		
+		
 		<item name="gunuziprosmg">  
 			<property name="Tags" value="weapon,ranged,holdBreathAiming,eftxuziprosmg,reloadPenalty,gun,shortRange,nom203,nobipod,sideAttachments,cmagmp9uzi,AR15stocks,HasBufferTube,uziproonly,CompactReflexSight,AssaultScope,ReflexSight,attAgility,perkGunslinger,9mmGun,attachmentsIncluded,canHaveCosmetic,handgunSkill"/>
 			<property name="DisplayType" value="rangedGun"/>
@@ -4695,7 +4697,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -4820,7 +4822,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5008,7 +5010,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5189,7 +5191,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5368,7 +5370,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5548,7 +5550,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5670,7 +5672,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5849,7 +5851,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -5978,7 +5980,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6158,7 +6160,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6337,7 +6339,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.7"/>
+				<property name="ZoomInTimeBase" value="0.25"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6455,7 +6457,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6582,7 +6584,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6709,7 +6711,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6836,7 +6838,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -6965,7 +6967,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7093,7 +7095,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7222,7 +7224,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7352,7 +7354,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7471,7 +7473,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7590,7 +7592,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7709,7 +7711,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7828,7 +7830,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -7948,7 +7950,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8067,7 +8069,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0.0025,0"/>
@@ -8187,7 +8189,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8308,7 +8310,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8428,7 +8430,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8548,7 +8550,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.15"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8669,7 +8671,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8777,7 +8779,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8884,7 +8886,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -8994,7 +8996,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9104,7 +9106,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9215,7 +9217,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9329,7 +9331,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9439,7 +9441,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9549,7 +9551,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9719,7 +9721,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.3"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9827,7 +9829,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.5"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -9935,7 +9937,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.5"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -10040,7 +10042,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.5"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -10146,10 +10148,10 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
                                 <property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="Zoom_max_out" value="55"/>
+				<property name="Zoom_max_out" value="6"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.5"/>
 					<property name="zoomTriggerEffectPullDualsense" value="PistolZoom"/>
 					<property name="zoomTriggerEffectPullXb" value="PistolZoom"/>
 			</property>
@@ -10251,7 +10253,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
                                 <property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -10375,7 +10377,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -10499,7 +10501,7 @@
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
 			        <property name="ItemClassModules" value="VariableZoom,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="CrosshairOnAim" value="false"/>
 				<property name="Zoom_max_out" value="40"/>
 				<property name="Zoom_max_in" value="40"/>
@@ -10625,7 +10627,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -10746,7 +10748,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -10868,7 +10870,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11047,7 +11049,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11169,7 +11171,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11294,7 +11296,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11473,7 +11475,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11653,7 +11655,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11831,7 +11833,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -11955,7 +11957,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12076,7 +12078,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12198,7 +12200,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12320,7 +12322,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12495,7 +12497,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.35"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12619,7 +12621,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12739,7 +12741,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -12921,7 +12923,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -13105,7 +13107,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -13278,7 +13280,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -13459,7 +13461,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -13642,7 +13644,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -13832,7 +13834,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14013,7 +14015,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14138,7 +14140,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14262,7 +14264,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14390,7 +14392,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14574,7 +14576,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14756,7 +14758,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -14940,7 +14942,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -15122,7 +15124,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -15304,7 +15306,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -15487,7 +15489,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -15669,7 +15671,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -15849,7 +15851,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16026,7 +16028,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16204,7 +16206,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.85"/>
+				<property name="ZoomInTimeBase" value="0.45"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16344,7 +16346,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.85"/>
+				<property name="ZoomInTimeBase" value="0.45"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16486,7 +16488,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.85"/>
+				<property name="ZoomInTimeBase" value="0.45"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16634,7 +16636,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.45"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16778,7 +16780,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -16960,7 +16962,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -17142,7 +17144,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -17328,7 +17330,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -17516,7 +17518,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -17695,7 +17697,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -17823,7 +17825,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18011,7 +18013,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18202,7 +18204,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="55"/>
 				<property name="Zoom_max_in" value="55"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18385,7 +18387,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18567,7 +18569,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18743,7 +18745,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18867,7 +18869,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -18989,7 +18991,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>
@@ -19114,7 +19116,7 @@
 			<property class="Action1">
 				<property name="Class" value="Zoom"/>
 				<property name="ItemActionModules" value="ErgoAffected,KFCommonUtilityLib;ProceduralAiming,KFCommonUtilityLib;VariableZoom,KFCommonUtilityLib;Tagged,KFCommonUtilityLib;DynamicSensitivity,KFCommonUtilityLib"/>
-				<property name="ZoomInTimeBase" value="0.8"/>
+				<property name="ZoomInTimeBase" value="0.4"/>
 				<property name="Zoom_max_out" value="50"/>
 				<property name="Zoom_max_in" value="50"/>
 				<property name="SightsCameraOffset" value="0,0,0"/>

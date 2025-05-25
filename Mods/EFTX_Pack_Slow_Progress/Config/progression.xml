@@ -1650,10 +1650,11 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxppsh41"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxppsh41"/>
+			<!--<passive_effect name="ZoomInTimeBase" operation="perc_add" level="1,6" value="1,6" tags="eftxppsh41"/>-->
 
 			<passive_effect name="RoundsPerMinute" operation="perc_add" level="0,5" value="0,0.25" tags="eftxppsh41"/>
 			<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="0,5" value="0,0.30" tags="eftxppsh41"/>
@@ -1687,7 +1688,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxpp91"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxpp91"/>
@@ -1724,7 +1725,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxpp19bizon"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxpp19bizon"/>
@@ -1761,7 +1762,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxmp5k"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxmp5k"/>
@@ -1798,7 +1799,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="EFTXmp5"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="EFTXmp5"/>
@@ -1835,7 +1836,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxuzi"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxuzi"/>
@@ -1872,7 +1873,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftx19vityaz"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftx19vityaz"/>
@@ -1909,7 +1910,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxmp9"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxmp9"/>
@@ -1946,7 +1947,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxuziprosmg"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxuziprosmg"/>
@@ -1983,7 +1984,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxmp5sd"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxmp5sd"/>
@@ -2020,7 +2021,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxvector9"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxvector9"/>
@@ -2057,7 +2058,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxmpx"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxmpx"/>
@@ -2094,7 +2095,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxstm9"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxstm9"/>
@@ -2131,7 +2132,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxsr2mveresk"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxsr2mveresk"/>
@@ -2168,7 +2169,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxump45"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxump45"/>
@@ -2205,7 +2206,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxthompson"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxthompson"/>
@@ -2242,7 +2243,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxvector45"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxvector45"/>
@@ -2279,7 +2280,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxmp7"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxmp7"/>
@@ -2316,7 +2317,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 		<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxp90"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxp90"/>
@@ -2355,7 +2356,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxtokarevtt"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxtokarevtt"/>
@@ -2390,7 +2391,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxtokarevgold"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxtokarevgold"/>
@@ -2425,7 +2426,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxtokarevmachine"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxtokarevmachine"/>
@@ -2460,7 +2461,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxpb"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxpb"/>
@@ -2495,7 +2496,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxpmalphadog"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxpmalphadog"/>
@@ -2530,7 +2531,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxstechkin"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxstechkin"/>
@@ -2565,7 +2566,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxglock17"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxglock17"/>
@@ -2600,7 +2601,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxp226"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxp226"/>
@@ -2635,7 +2636,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxm9a3"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxm9a3"/>
@@ -2670,7 +2671,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxglock18c"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxglock18c"/>
@@ -2705,7 +2706,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxsr1mp"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxsr1mp"/>
@@ -2740,7 +2741,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxusp45tac"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxusp45tac"/>
@@ -2775,7 +2776,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxm1911"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxm1911"/>
@@ -2810,7 +2811,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxm45"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxm45"/>
@@ -2845,7 +2846,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxusp45match"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxusp45match"/>
@@ -2880,7 +2881,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxfiveseven"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxfiveseven"/>
@@ -2915,7 +2916,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxdeserteagle"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxdeserteagle"/>
@@ -2950,7 +2951,7 @@
 		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="5" desc_key="reqAgilityLevel05"/></level_requirements>
 		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="7" desc_key="reqAgilityLevel07"/></level_requirements>
 		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="9" desc_key="reqAgilityLevel09"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="11" desc_key="reqAgilityLevel10"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attAgility" operation="GTE" value="10" desc_key="reqAgilityLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftxrsh12"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxrsh12"/>
