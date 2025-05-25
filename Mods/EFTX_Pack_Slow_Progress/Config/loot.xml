@@ -1345,7 +1345,7 @@
 		<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
 		<item name="resourceCanOfWhiteSalt" count="1,2" loot_prob_template="low"/>
 		<item name="resourceBottleOfHydrogenPeroxide" count="1,3" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
 		<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
 		<item name="schematicsChemician" count="1" loot_prob_template="low"/>
 		<item name="resourceSmokedChimneyDrainCleaner" count="0,2" loot_prob_template="medLow"/>
@@ -1359,7 +1359,7 @@
 		<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
 		<item name="resourceMultitool" count="1,2" loot_prob_template="med"/>
 		<item name="resourceToolset" count="0,1" loot_prob_template="med"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="medLow"/>
 		<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
 		<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
 		<item name="resourceNitricAcid" count="125,375" loot_prob_template="low"/>
@@ -1405,7 +1405,7 @@
 			<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
 			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
 			<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="medLow"/>
 			<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
 			<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
 			<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="veryLow"/>
@@ -1479,7 +1479,7 @@
 			<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
 			<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
 			<item name="resourceToiletPaper" count="1,2"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
 			<item name="resourceDisposableSyringe" count="1,3" loot_prob_template="medLow"/>
 			<item name="medicalSurv12" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 			<item name="resourcePileOfMeds" count="0,1" loot_prob_template="veryLow"/>	
@@ -1497,7 +1497,7 @@
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medLow"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
 			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>
 	<insertBefore xpath="//lootgroup[@name='groupGunSafeSecure']">
 	<lootgroup name="groupGunSafeSecure_01" quality="1" loot_quality_template="QLTemplateT1">
@@ -1505,7 +1505,7 @@
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
 			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</lootgroup>
 	</insertBefore>
 	<append xpath="//lootgroup[@name='groupGunSafeSecure']">
@@ -1514,44 +1514,44 @@
 	<!-- T1 Chest -->
 	<append xpath="//lootgroup[@name='groupAmmoPileSmall']">
 			<item group="groupModEftSkillMagazinesAll" count="1,2" loot_prob_template="low"/>	
-			<item name="resourceWeaponParts" count="1,3" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupAmmoPileMed']">
 			<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>			
+			<item name="resourceWeaponParts" count="1,3" loot_prob_template="low"/>			
 	</append>
 	<append xpath="//lootgroup[@name='groupAmmoPileLarge']">
 			<item group="groupModEftSkillMagazinesAll" count="1,4" loot_prob_template="low" />
-			<item name="resourceWeaponParts" count="1,9" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,4" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupReinforcedChestT1_01']">
 		<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>
 	<!-- T2 Chest -->
 	<append xpath="//lootgroup[@name='groupReinforcedChestT2_01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>		
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>		
 	<!-- T3 Chest -->	
 	<append xpath="//lootgroup[@name='groupReinforcedChestT3_01']">
 				<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 				<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-				<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+				<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>	
 	<!-- T4 Chest -->
 	<append xpath="//lootgroup[@name='groupHardenedChestT4_01']">		
 		<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>	
 	<!-- T5 Chest -->
 	<append xpath="//lootgroup[@name='groupHardenedChestT5_01']">
 		<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>	
 	<!-- Small Weapon Bag -->
 	<append xpath="//lootgroup[@name='groupWeaponsHighMedLow']">		
@@ -1579,20 +1579,20 @@
 			<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
 			<item group="groupPistolsT1" count="0,1" quality="1"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>		
 	<!-- Police Car Bonus -->
 	<append xpath="//lootgroup[@name='groupPoliceCarBonus01']"> <!-- Lockpicked -->
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 			<item group="groupPistolsT1" count="0,1" quality="1"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>			
 	<!-- Foot Locker Military -->
 	<append xpath="//lootgroup[@name='groupMilitaryFootlocker01']"> 
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="medLow"/>
 	</append>	
 	<append xpath="//lootgroup[@name='groupMilitaryFootlocker02']"> 
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
@@ -1601,7 +1601,7 @@
 	<append xpath="//lootgroup[@name='groupShotgunMessiahCrate01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>		
 				
 	<!-- Hidden Stash / Buried Weapon Chest -->
@@ -1609,19 +1609,19 @@
 		<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>
 		<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupBuriedWeaponChest01']">
 		<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>			
 		<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupBackpacks01']">
 				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>						
 				<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>	
 				<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-				<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+				<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
 				<item name="medicalSurv12" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
 				<item name="resourcePileOfMeds" count="0,1" loot_prob_template="veryLow"/>	
 				<item name="medicalSalewa" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
@@ -1713,7 +1713,7 @@
 				<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
 				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="low"/>	
 				<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-				<item name="resourceWeaponParts" count="1,6" loot_prob_template="low"/>
+				<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
 	</append>		
 	<!-- Zombie-Loot -->
 	<append xpath="//lootgroup[@name='groupZpackReg01']">

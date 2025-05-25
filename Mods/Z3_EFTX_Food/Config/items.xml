@@ -597,7 +597,7 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="50"/>
-			<property name="EconomicValue" value="69.9"/>
+			<property name="EconomicValue" value="70"/>
 			<property name="CraftingIngredientTime" value="15"/>
 			<property name="SoundPickup" value="puremineralwater_grab"/>
 			<property name="SoundPlace" value="puremineralwater_place"/>
@@ -631,7 +631,7 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="50"/>
-			<property name="EconomicValue" value="69.9"/>
+			<property name="EconomicValue" value="70"/>
 			<property name="CraftingIngredientTime" value="15"/>
 			<property name="SoundPickup" value="puremineralwater_grab"/>
 			<property name="SoundPlace" value="puremineralwater_place"/>
@@ -665,7 +665,7 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="50"/>
-			<property name="EconomicValue" value="69.9"/>
+			<property name="EconomicValue" value="70"/>
 			<property name="CraftingIngredientTime" value="15"/>
 			<property name="SoundPickup" value="puremineralwater_grab"/>
 			<property name="SoundPlace" value="puremineralwater_place"/>
@@ -902,7 +902,7 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="10"/>
-			<property name="EconomicValue" value="25000"/>
+			<property name="EconomicValue" value="500"/>
 			<property name="UnlockedBy" value="craftingAlcoholics"/>
 			<!--property name="DisplayType" value="liquorMoonshine"/-->
 			<property name="Group" value="Food/Cooking,CFDrink/Cooking,Medical"/>
