@@ -8,10 +8,7 @@
 	<set xpath="//recipe[@name='ammoRocketHE']/ingredient[@name='resourceDuctTape']/@count">1</set>
 	<set xpath="//recipe[@name='ammoRocketHE']/ingredient[@name='ammoGasCan']/@count">100</set>
 	<append xpath="/recipes">
-	<!--Craftable Crosshair on Aim Mod -->
-		<recipe name="modCrosshairOnAim" count="1">
-			<ingredient name="resourcePaper" count="1"/>
-	</recipe>
+	
 			
 	<!-- ### Guns -->
 		<!-- *** Unlocked Pistols -->

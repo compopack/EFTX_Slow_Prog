@@ -38,7 +38,7 @@
 			<remove xpath="//item[@name='ammoRocketHE']"/>
 			<remove xpath="//item[@name='ammoRocketFrag']"/>
 			
-			<remove xpath="//item[@name='ammoArrowSteelAP']"/>
+			<!--<remove xpath="//item[@name='ammoArrowSteelAP']"/>
 			<remove xpath="//item[@name='ammoArrowFlaming']"/>
 			<remove xpath="//item[@name='ammoArrowExploding']"/>
 			
@@ -58,7 +58,7 @@
 			<remove xpath="//item[@name='ammoBundleCrossbowBoltIron']"/>
 			<remove xpath="//item[@name='ammoBundleCrossbowBoltSteelAP']"/>
 			<remove xpath="//item[@name='ammoBundleCrossbowBoltFlaming']"/>			
-			<remove xpath="//item[@name='ammoBundleCrossbowBoltExploding']"/>
+			<remove xpath="//item[@name='ammoBundleCrossbowBoltExploding']"/>-->
 <!-- Z2_EFTX_EFT_ONLY_AMMO -->
 	<remove xpath="//item[@name='bundleGrenadebox']"/>
 	<insertAfter xpath="//item[@name='resourceUZRGMGrenadeFuze']">

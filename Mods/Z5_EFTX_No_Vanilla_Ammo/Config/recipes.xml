@@ -1,9 +1,9 @@
 <Extraction>	
 	
-	<remove xpath="//recipe[@name='ammoArrowExploding']"/>
+	<!--<remove xpath="//recipe[@name='ammoArrowExploding']"/>
 	<remove xpath="//recipe[@name='ammoBundleArrowExploding']"/>	
 	<remove xpath="//recipe[@name='ammoCrossbowBoltExploding']"/>
-	<remove xpath="//recipe[@name='ammoBundleCrossbowBoltExploding']"/>
+	<remove xpath="//recipe[@name='ammoBundleCrossbowBoltExploding']"/>-->
 	
 		
 	<remove xpath="//recipe[@name='ammo9mmBulletBall']"/>
@@ -30,13 +30,12 @@
 	<remove xpath="//recipe[@name='ammoBundleShotgunSlug']"/>
 	<remove xpath="//recipe[@name='ammoShotgunBreachingSlug']"/>
 	<remove xpath="//recipe[@name='ammoBundleShotgunBreachingSlug']"/>
-	<remove xpath="//recipe[@name='ammoArrowFlaming']"/>
+	<!--<remove xpath="//recipe[@name='ammoArrowFlaming']"/>
 	<remove xpath="//recipe[@name='ammoBundleArrowFlaming']"/>	
 	<remove xpath="//recipe[@name='ammoArrowIron']"/>
 	<remove xpath="//recipe[@name='ammoBundleArrowIron']"/>
 	<remove xpath="//recipe[@name='ammoArrowSteelAP']"/>
 	<remove xpath="//recipe[@name='ammoBundleArrowSteelAP']"/>
-	<remove xpath="//recipe[@name='ammoArrowStone']"/>
 	<remove xpath="//recipe[@name='ammoBundleArrowStone']"/>	
 	<remove xpath="//recipe[@name='ammoCrossbowBoltFlaming']"/>
 	<remove xpath="//recipe[@name='ammoBundleCrossbowBoltFlaming']"/>	
@@ -45,7 +44,7 @@
 	<remove xpath="//recipe[@name='ammoCrossbowBoltSteelAP']"/>
 	<remove xpath="//recipe[@name='ammoBundleCrossbowBoltSteelAP']"/>
 	<remove xpath="//recipe[@name='ammoCrossbowBoltStone']"/>
-	<remove xpath="//recipe[@name='ammoBundleCrossbowBoltStone']"/>
+	<remove xpath="//recipe[@name='ammoBundleCrossbowBoltStone']"/>-->
 	<remove xpath="//recipe[@name='thrownGrenade']"/>
 	<remove xpath="//recipe[@name='thrownGrenadeContact']"/>
 	<remove xpath="//recipe[@name='ammoRocketFrag']"/>
