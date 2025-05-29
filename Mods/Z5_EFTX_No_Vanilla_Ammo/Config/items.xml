@@ -1,64 +1,92 @@
 <Extraction>
-			<remove xpath="items/item[@name='thrownGrenadeContact']"></remove>
-			<remove xpath="items/item[@name='thrownGrenade']"></remove>
-			<remove xpath="//item[@name='thrownGrenadeNukeAdmin']"/>
+			<append xpath="/items/item[@name='thrownGrenadeContact']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='thrownGrenade']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='thrownGrenadeNukeAdmin']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo9mmBulletBall']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo9mmBulletHP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo9mmBulletAP']">
+				<property name="CreativeMode" value="None"/>
+			</append>			
+			<append xpath="/items/item[@name='ammoBundle9mmBulletBall']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle9mmBulletHP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle9mmBulletAP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo44MagnumBulletBall']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo44MagnumBulletHP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo44MagnumBulletAP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle44MagnumBulletBall']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle44MagnumBulletHP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle44MagnumBulletAP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo762mmBulletBall']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo762mmBulletHP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammo762mmBulletAP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle762mmBulletBall']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle762mmBulletHP']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundle762mmBulletAP']">
+				<property name="CreativeMode" value="None"/>
+			</append>			
+			<append xpath="/items/item[@name='ammoShotgunShell']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoShotgunSlug']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoShotgunBreachingSlug']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundleShotgunShell']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundleShotgunSlug']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoBundleShotgunBreachingSlug']">
+				<property name="CreativeMode" value="None"/>
+			</append>			
+			<append xpath="/items/item[@name='ammoRocketHE']">
+				<property name="CreativeMode" value="None"/>
+			</append>
+			<append xpath="/items/item[@name='ammoRocketFrag']">
+				<property name="CreativeMode" value="None"/>
+			</append>			
 			
-			<remove xpath="//item[@name='ammo9mmBulletBall']"/>
-			<remove xpath="//item[@name='ammo9mmBulletHP']"/>
-			<remove xpath="//item[@name='ammo9mmBulletAP']"/>
-			
-			<remove xpath="//item[@name='ammoBundle9mmBulletBall']"/>
-			<remove xpath="//item[@name='ammoBundle9mmBulletHP']"/>
-			<remove xpath="//item[@name='ammoBundle9mmBulletAP']"/>
-						
-			<remove xpath="//item[@name='ammo44MagnumBulletBall']"/>
-			<remove xpath="//item[@name='ammo44MagnumBulletHP']"/>
-			<remove xpath="//item[@name='ammo44MagnumBulletAP']"/>
-			
-			<remove xpath="//item[@name='ammo762mmBulletBall']"/>
-			<remove xpath="//item[@name='ammo762mmBulletHP']"/>
-			<remove xpath="//item[@name='ammo762mmBulletAP']"/>
-			
-			<remove xpath="//item[@name='ammoBundle762mmBulletBall']"/>
-			<remove xpath="//item[@name='ammoBundle762mmBulletHP']"/>
-			<remove xpath="//item[@name='ammoBundle762mmBulletAP']"/>
-						
-			<remove xpath="//item[@name='ammoBundle44MagnumBulletBall']"/>
-			<remove xpath="//item[@name='ammoBundle44MagnumBulletHP']"/>
-			<remove xpath="//item[@name='ammoBundle44MagnumBulletAP']"/>
-			
-			<remove xpath="//item[@name='ammoShotgunShell']"/>
-			<remove xpath="//item[@name='ammoShotgunSlug']"/>
-			<remove xpath="//item[@name='ammoShotgunBreachingSlug']"/>
-			
-			<remove xpath="//item[@name='ammoBundleShotgunShell']"/>
-			<remove xpath="//item[@name='ammoBundleShotgunSlug']"/>
-			<remove xpath="//item[@name='ammoBundleShotgunBreachingSlug']"/>
-			
-			<remove xpath="//item[@name='ammoRocketHE']"/>
-			<remove xpath="//item[@name='ammoRocketFrag']"/>
-			
-			<!--<remove xpath="//item[@name='ammoArrowSteelAP']"/>
-			<remove xpath="//item[@name='ammoArrowFlaming']"/>
-			<remove xpath="//item[@name='ammoArrowExploding']"/>
-			
-			<remove xpath="//item[@name='ammoCrossbowBoltStone']"/>
-			<remove xpath="//item[@name='ammoCrossbowBoltIron']"/>			
-			<remove xpath="//item[@name='ammoCrossbowBoltSteelAP']"/>
-			<remove xpath="//item[@name='ammoCrossbowBoltFlaming']"/>
-			<remove xpath="//item[@name='ammoCrossbowBoltExploding']"/>
-			
-			<remove xpath="//item[@name='ammoBundleArrowStone']"/>
-			<remove xpath="//item[@name='ammoBundleArrowIron']"/>
-			<remove xpath="//item[@name='ammoBundleArrowSteelAP']"/>			
-			<remove xpath="//item[@name='ammoBundleArrowFlaming']"/>
-			<remove xpath="//item[@name='ammoBundleArrowExploding']"/>
-			
-			<remove xpath="//item[@name='ammoBundleCrossbowBoltStone']"/>
-			<remove xpath="//item[@name='ammoBundleCrossbowBoltIron']"/>
-			<remove xpath="//item[@name='ammoBundleCrossbowBoltSteelAP']"/>
-			<remove xpath="//item[@name='ammoBundleCrossbowBoltFlaming']"/>			
-			<remove xpath="//item[@name='ammoBundleCrossbowBoltExploding']"/>-->
 <!-- Z2_EFTX_EFT_ONLY_AMMO -->
 	<remove xpath="//item[@name='bundleGrenadebox']"/>
 	<insertAfter xpath="//item[@name='resourceUZRGMGrenadeFuze']">

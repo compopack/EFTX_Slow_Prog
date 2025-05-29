@@ -2474,10 +2474,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="66" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="5" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="40"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="40"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="40"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="28"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="28"/></passive_effect><display_value name="dEftPenetration" value="28"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2512,10 +2508,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="52" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="5" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="57"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="57"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="57"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="54"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="54"/></passive_effect><display_value name="dEftPenetration" value="54"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2552,10 +2544,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="83" tags="perkDeadEye,perkMachineGunner,perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="5" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="7"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="7"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="7"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="9"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="9"/></passive_effect><display_value name="dEftPenetration" value="9"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2589,10 +2577,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="68" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="5" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="37"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="37"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="37"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="31"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="31"/></passive_effect><display_value name="dEftPenetration" value="31"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2627,10 +2611,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="54" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="5" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="58"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="58"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="58"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="57"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="57"/></passive_effect><display_value name="dEftPenetration" value="57"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2667,10 +2647,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="85" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="5" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="11"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="11"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="11"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="7"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="7"/></passive_effect><display_value name="dEftPenetration" value="7"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2704,10 +2680,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="65" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="36"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="36"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="36"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="30"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="30"/></passive_effect><display_value name="dEftPenetration" value="30"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2742,10 +2714,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="59" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="65"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="65"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="65"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="48"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="48"/></passive_effect><display_value name="dEftPenetration" value="48"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2782,10 +2750,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="99" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="9"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="9"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="9"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="14"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="14"/></passive_effect><display_value name="dEftPenetration" value="14"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2819,10 +2783,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="75" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="33"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="33"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="33"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="26"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="26"/></passive_effect><display_value name="dEftPenetration" value="26"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2857,10 +2817,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="66" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="76"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="76"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="76"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="58"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="58"/></passive_effect><display_value name="dEftPenetration" value="58"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2897,10 +2853,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="100" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="10"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="10"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="10"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="15"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="15"/></passive_effect><display_value name="dEftPenetration" value="15"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2934,10 +2886,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="70" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="39"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="39"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="39"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="28"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="28"/></passive_effect><display_value name="dEftPenetration" value="28"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -2972,10 +2920,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="62" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="69"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="69"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="69"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="54"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="54"/></passive_effect><display_value name="dEftPenetration" value="54"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3012,10 +2956,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="112" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="6" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="14"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="14"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="14"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="17"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="17"/></passive_effect><display_value name="dEftPenetration" value="17"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3049,10 +2989,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="125" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="56"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="56"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="56"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="37"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="37"/></passive_effect><display_value name="dEftPenetration" value="37"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3087,10 +3023,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="110" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="85"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="85"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="85"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="65"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="65"/></passive_effect><display_value name="dEftPenetration" value="65"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="3" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="3"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3127,10 +3059,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="174" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="20"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="20"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="20"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="15"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="15"/></passive_effect><display_value name="dEftPenetration" value="15"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3164,10 +3092,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="121" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="63"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="63"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="63"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="33"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="33"/></passive_effect><display_value name="dEftPenetration" value="33"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3202,10 +3126,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="111" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="88"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="88"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="88"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="70"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="70"/></passive_effect><display_value name="dEftPenetration" value="70"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="3" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="3"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3242,10 +3162,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="159" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="19"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="19"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="19"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="23"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="23"/></passive_effect><display_value name="dEftPenetration" value="23"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3279,10 +3195,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="160" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/> <!-- 115 -->
 				<passive_effect name="BlockDamage" operation="base_set" value="10" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="60"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="60"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="60"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="28"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="28"/></passive_effect><display_value name="dEftPenetration" value="28"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3319,10 +3231,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="236" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/> <!-- 165 -->
 				<passive_effect name="BlockDamage" operation="base_set" value="10" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="11"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="11"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="11"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="10"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="10"/></passive_effect><display_value name="dEftPenetration" value="10"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3357,10 +3265,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="127" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="10" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="57"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="57"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="57"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="46"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="46"/></passive_effect><display_value name="dEftPenetration" value="46"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkGunslinger,perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3396,10 +3300,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="189" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="83"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="83"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="83"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="47"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="47"/></passive_effect><display_value name="dEftPenetration" value="47"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3436,10 +3336,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="163" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="89"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="89"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="89"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="79"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="79"/></passive_effect><display_value name="dEftPenetration" value="79"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="3" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="3"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3476,10 +3372,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="366" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="28"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="28"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="28"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="18"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="18"/></passive_effect><display_value name="dEftPenetration" value="18"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3516,10 +3408,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="2" tags="perkGunslinger"><requirement name="HoldingItemHasTags" tags="LBDttg"/></passive_effect> <!-- Golden TT Double Tap -->
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="36"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="36"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="36"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="20"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="20"/></passive_effect><display_value name="dEftPenetration" value="20"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3550,10 +3438,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="36" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="30"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="30"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="30"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="18"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="18"/></passive_effect><display_value name="dEftPenetration" value="18"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3584,10 +3468,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="39" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="33"><requirement name="HitLocation" body_parts="Head"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="33"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect><display_value name="dEftArmorDamage" value="33"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="20"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="20"/></passive_effect><display_value name="dEftPenetration" value="20"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3619,10 +3499,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="32" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="48"><requirement name="HitLocation" body_parts="Head"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="48"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect><display_value name="dEftArmorDamage" value="48"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="30"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="30"/></passive_effect><display_value name="dEftPenetration" value="30"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3656,10 +3532,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="69" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="6"><requirement name="HitLocation" body_parts="Head"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="6"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect><display_value name="dEftArmorDamage" value="6"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="2"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="2"/></passive_effect><display_value name="dEftPenetration" value="2"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3690,10 +3562,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="41" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="39"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="39"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="39"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="22"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="22"/></passive_effect><display_value name="dEftPenetration" value="22"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3725,10 +3593,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="33" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="47"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="47"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="47"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="38"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="38"/></passive_effect><display_value name="dEftPenetration" value="38"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3762,10 +3626,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="68" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="32"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="32"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="32"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="15"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="15"/></passive_effect><display_value name="dEftPenetration" value="15"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3796,10 +3656,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="45" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="4" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="36"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="36"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="36"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="25"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="25"/></passive_effect><display_value name="dEftPenetration" value="25"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3831,10 +3687,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="40" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="4" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="48"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="48"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="48"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="38"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="38"/></passive_effect><display_value name="dEftPenetration" value="38"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3868,10 +3720,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="75" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="4" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="6"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="6"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="6"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="3"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="3"/></passive_effect><display_value name="dEftPenetration" value="3"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3902,10 +3750,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="40" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="41"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="41"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="41"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="40"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="40"/></passive_effect><display_value name="dEftPenetration" value="40"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3937,10 +3781,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="35" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="46"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="46"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="46"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="53"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="53"/></passive_effect><display_value name="dEftPenetration" value="53"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -3974,10 +3814,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="65" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="14"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="14"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="14"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="18"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="18"/></passive_effect><display_value name="dEftPenetration" value="18"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -4008,10 +3844,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="44" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="37"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="37"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="37"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="27"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="27"/></passive_effect><display_value name="dEftPenetration" value="27"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -4043,10 +3875,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="38" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="43"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="43"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="43"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="37"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="37"/></passive_effect><display_value name="dEftPenetration" value="37"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -4080,10 +3908,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="74" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="4"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="4"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="4"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="8"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="8"/></passive_effect><display_value name="dEftPenetration" value="8"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -4114,10 +3938,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="126" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="50"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="50"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="50"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="39"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="39"/></passive_effect><display_value name="dEftPenetration" value="39"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -4151,10 +3971,6 @@
 				<passive_effect name="EntityDamage" operation="base_set" value="232" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkGunslinger"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="12"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="12"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="12"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="12"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="12"/></passive_effect><display_value name="dEftPenetration" value="17"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkGunslinger"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
@@ -4190,10 +4006,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="8" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="2" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="4"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="4"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="4"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="3"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="3"/></passive_effect><display_value name="dEftPenetration" value="3"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkBoomstick"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="3" tags="wood"/>
@@ -4237,10 +4049,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="8" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="2" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="26"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="26"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="26"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="31"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="31"/></passive_effect><display_value name="dEftPenetration" value="31"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkBoomstick"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="3" tags="wood"/>
@@ -4283,10 +4091,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="1" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="18" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="130"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="130"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="130"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="37"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="37"/></passive_effect><display_value name="dEftPenetration" value="37"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkBoomstick"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="3" tags="wood"/>
@@ -4333,10 +4137,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="8" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="10"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="10"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="10"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="10"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="10"/></passive_effect><display_value name="dEftPenetration" value="10"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkBoomstick"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="3" tags="wood"/>
@@ -4378,10 +4178,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="1" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="26" tags="perkBoomstick"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="150"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="150"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="150"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="39"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="39"/></passive_effect><display_value name="dEftPenetration" value="39"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkBoomstick"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="3" tags="wood"/>
@@ -4503,12 +4299,6 @@
 				<passive_effect name="RoundRayCount" operation="base_set" value="15" tags="perkDemolitionsExpert"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="3" tags="perkDemolitionsExpert"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieBodyArmorDamage" operation="add" value="950"><requirement name="HitLocation" body_parts="Torso"/></triggered_effect>
-				<triggered_effect trigger="onSelfAttackedOther" target="other" action="ModifyCVar" cvar="eftZombieHelmetDamage" operation="add" value="950"><requirement name="HitLocation" body_parts="Head"/></triggered_effect><display_value name="dEftArmorDamage" value="950"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-.2" tags="torso"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-.2" tags="head"/>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="torso"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelTorso" operation="LTE" value="5"/></passive_effect>
-				<passive_effect name="TargetArmor" operation="perc_add" value="-1" tags="head"><requirement name="CVarCompare" target="other" cvar="eftArmorLevelHead" operation="LTE" value="5"/></passive_effect><display_value name="dEftPenetration" value="5"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="0" tags="perkDemolitionsExpert"/><display_value name="dTargetPenetration" value="0"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="6" tags="wood"/>
