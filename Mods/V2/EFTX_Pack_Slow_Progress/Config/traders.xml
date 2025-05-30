@@ -1,0 +1,186 @@
+<configs>
+	<set xpath="//traders/@currency_item">casinoCoin</set>
+	<!-- *** New Traderstage For T4 and T5 -->
+	<insertAfter xpath="//traderstage_template[@name='baseTier3']">
+		<traderstage_template name="baseTier4">
+			<entry min="1" max="999999" quality="0"/>
+			<entry min="150" max="999999" quality="1"/>
+			<entry min="150" max="999999" quality="2"/>
+			<entry min="150" max="999999" quality="3"/>
+			<entry min="150" max="999999" quality="4"/>
+			<entry min="150" max="999999" quality="5"/>
+		</traderstage_template>
+		<traderstage_template name="modsTier4">
+			<entry min="150" max="999999" quality="0"/>
+		</traderstage_template>
+		
+		<traderstage_template name="baseTier5">
+			<entry min="1" max="999999" quality="0"/>
+			<entry min="200" max="999999" quality="1"/>
+			<entry min="200" max="999999" quality="2"/>
+			<entry min="200" max="999999" quality="3"/>
+			<entry min="200" max="999999" quality="4"/>
+			<entry min="200" max="999999" quality="5"/>
+		</traderstage_template>
+		<traderstage_template name="modsTier5">
+			<entry min="200" max="999999" quality="0"/>
+		</traderstage_template>
+		
+	</insertAfter>		
+				
+		<append xpath="//trader_item_group[@name='generalResources']">
+			<item name="resourceCellulosePowder" count="50,150"/>
+			<item name="resourceNitricAcid" count="300,900"/>
+			<item name="resourceSulfuricAcid" count="300,900"/>			
+			<item name="resourceWeaponRepairKit" count="1,5"/>			
+			<item name="resourceWeaponParts" count="1,4"/>
+			<item name="resourceBottleOfHydrogenPeroxide" count="1,3"/>
+			<item name="resourceCanisterWithPurifiedWater"/>
+			<item name="resourceCanOfWhiteSalt" count="1,3"/>
+			<item name="resourceOxBbleach" count="1,2"/>
+			<item name="resourceSmokedChimneyDrainCleaner" count="1,2"/>
+			<item name="resourcePrinterPaper" count="1,3"/>
+			<item name="resourceClassicMatches" count="1,3"/>
+			<item name="resourceWD40" count="1,2"/>
+		</append>
+		<append xpath="//trader_item_group[@name='skillMagazines']">
+			<item name="Gunppsh41SkillMagazine" count="1,2"/>
+			<item name="Gunpp9klinSkillMagazine" count="1,2"/>
+			<item name="Gunpp19bizonSkillMagazine" count="1,2"/>
+			<item name="Gunmp5kSkillMagazine" count="1,2"/>
+			<item name="Gunmp5SkillMagazine" count="1,2"/>
+			<item name="GunuziSkillMagazine" count="1,2"/>
+			<item name="Gunpp19vityazSkillMagazine" count="1,2"/>
+			<item name="Gunmp9SkillMagazine" count="1,2"/>
+			<item name="GunuziprosmgSkillMagazine" count="1,2"/>
+			<item name="Gunmp5sdSkillMagazine" count="1,2"/>
+			<item name="Gunvector9SkillMagazine" count="1,2"/>
+			<item name="GunmpxSkillMagazine" count="1,2"/>
+			<item name="Gunstm9SkillMagazine" count="1,2"/>				
+			<item name="Gunsr2mvereskSkillMagazine" count="1,2"/>
+			<item name="Gunump45SkillMagazine" count="1,2"/>
+			<item name="GunthompsonSkillMagazine" count="1,2"/>
+			<item name="Gunvector45SkillMagazine" count="1,2"/>
+			<item name="Gunmp7SkillMagazine" count="1,2"/>
+			<item name="Gunp90SkillMagazine" count="1,2"/>
+			<item name="GuntokarevttSkillMagazine" count="1,2"/>
+			<item name="GuntokarevgoldSkillMagazine" count="1,2"/>
+			<item name="GuntokarevmachineSkillMagazine" count="1,2"/>
+			<item name="GunpbSkillMagazine" count="1,2"/>
+			<item name="GunpmalphadogSkillMagazine" count="1,2"/>
+			<item name="GunstechkinSkillMagazine" count="1,2"/>
+			<item name="Gunglock17SkillMagazine" count="1,2"/>
+			<item name="Gunp226SkillMagazine" count="1,2"/>
+			<item name="Gunm9a3SkillMagazine" count="1,2"/>
+			<item name="Gunglock18cSkillMagazine" count="1,2"/>
+			<item name="Gunsr1mpSkillMagazine" count="1,2"/>
+			<item name="Gunusp45tacSkillMagazine" count="1,2"/>
+			<item name="Gunm1911SkillMagazine" count="1,2"/>
+			<item name="Gunm45SkillMagazine" count="1,2"/>
+			<item name="Gunusp45matchSkillMagazine" count="1,2"/>
+			<item name="GunfivesevenSkillMagazine" count="1,2"/>
+			<item name="GundeserteagleSkillMagazine" count="1,2"/>
+			<item name="Gunrsh12SkillMagazine" count="1,2"/>
+			<item name="Gunks23SkillMagazine" count="1,2"/>
+			<item name="Gunmp43SkillMagazine" count="1,2"/>
+			<item name="Gunmts255SkillMagazine" count="1,2"/>
+			<item name="Gunm590SkillMagazine" count="1,2"/>
+			<item name="Gunm870SkillMagazine" count="1,2"/>
+			<item name="Gunksg12SkillMagazine" count="1,2"/>
+			<item name="Gunmp153SkillMagazine" count="1,2"/>
+			<item name="Gunm3benelliSkillMagazine" count="1,2"/>
+			<item name="Gunsaiga12SkillMagazine" count="1,2"/>				
+			<item name="GunAA12SkillMagazine" count="1,2"/>
+			<item name="Gunfn40glSkillMagazine" count="1,2"/>
+			<item name="GunchinalakeSkillMagazine" count="1,2"/>
+			<item name="Gunm32a1mglSkillMagazine" count="1,2"/>
+			<item name="Gunrpg7SkillMagazine" count="1,2"/>	
+			<item name="GunadarSkillMagazine" count="1,2"/>
+			<item name="Gunauga3SkillMagazine" count="1,2"/>
+			<item name="Gung36kv2SkillMagazine" count="1,2"/>
+			<item name="Gunm4a1SkillMagazine" count="1,2"/>
+			<item name="Gunm16a4SkillMagazine" count="1,2"/>
+			<item name="Gunl85a2SkillMagazine" count="1,2"/>
+			<item name="Gunmdr556SkillMagazine" count="1,2"/>
+			<item name="Gunhk416SkillMagazine" count="1,2"/>
+			<item name="GunIWItavorx95SkillMagazine" count="1,2"/>
+			<item name="GunIWIcarmelSkillMagazine" count="1,2"/>
+			<item name="Gunak300velociraptorSkillMagazine" count="1,2"/>
+			<item name="Gunstar15SkillMagazine" count="1,2"/>
+			<item name="GunhoneybadgerSkillMagazine" count="1,2"/>
+			<item name="GunmcxSkillMagazine" count="1,2"/>
+			<item name="Gunm700SkillMagazine" count="1,2"/>
+			<item name="Gundvl10SkillMagazine" count="1,2"/>
+			<item name="Gunt5000SkillMagazine" count="1,2"/>
+			<item name="GunFALsa58dmrSkillMagazine" count="1,2"/>
+			<item name="Gunm1aEBRSkillMagazine" count="1,2"/>
+			<item name="GunrfbSkillMagazine" count="1,2"/>
+			<item name="Gunsr25SkillMagazine" count="1,2"/>
+			<item name="GunrsassSkillMagazine" count="1,2"/>
+			<item name="Gunhkg28SkillMagazine" count="1,2"/>
+			<item name="GunFALsa58brSkillMagazine" count="1,2"/>
+			<item name="Gunmdr762SkillMagazine" count="1,2"/>
+			<item name="GunscarhSkillMagazine" count="1,2"/>
+			<item name="Gunhk417SkillMagazine" count="1,2"/>
+			<item name="Gunm14sassSkillMagazine" count="1,2"/>
+			<item name="GunmcxspearSkillMagazine" count="1,2"/>
+			<item name="Gunmp18SkillMagazine" count="1,2"/>
+			<item name="GunmosinSkillMagazine" count="1,2"/>
+			<item name="Gunsv98SkillMagazine" count="1,2"/>
+			<item name="GunsvtSkillMagazine" count="1,2"/>
+			<item name="GunsvdSkillMagazine" count="1,2"/>
+			<item name="Gunash12SkillMagazine" count="1,2"/>
+			<item name="Gunrpk16SkillMagazine" count="1,2"/>
+			<item name="GunfnminimiSkillMagazine" count="1,2"/>
+			<item name="GunrpdSkillMagazine" count="1,2"/>
+			<item name="Gunm60e6SkillMagazine" count="1,2"/>
+			<item name="GunpkpSkillMagazine" count="1,2"/>
+			<item name="Gunaks74unSkillMagazine" count="1,2"/>
+			<item name="Gunak74nSkillMagazine" count="1,2"/>
+			<item name="Gunak74mSkillMagazine" count="1,2"/>
+			<item name="Gunak12SkillMagazine" count="1,2"/>
+			<item name="Gunak107SkillMagazine" count="1,2"/>
+			<item name="GunsksSkillMagazine" count="1,2"/>
+			<item name="GunakmnSkillMagazine" count="1,2"/>					
+			<item name="Gunak103SkillMagazine" count="1,2"/>
+			<item name="Gunak109SkillMagazine" count="1,2"/>
+			<item name="Gunrd704SkillMagazine" count="1,2"/>
+			<item name="Gunmk47SkillMagazine" count="1,2"/>
+			<item name="Gun9a91SkillMagazine" count="1,2"/>
+			<item name="GunvssSkillMagazine" count="1,2"/>
+			<item name="GunasvalSkillMagazine" count="1,2"/>
+			<item name="GunaxmcSkillMagazine" count="1,2"/>
+			<item name="Gunswordmk18SkillMagazine" count="1,2"/>
+			<item name="GunfamasSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersScopesSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersBipodsForegripsSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersMagazinesSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersSilencersSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersStocksSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersGrenadeLauncherAttachmentsSkillMagazine" count="1,2"/>
+			<item name="HeadLightsandNVGSSkillMagazine" count="1"/>
+		</append>
+	
+	<append xpath="//trader_item_group[@name='rareMedicine']">
+		<item name="medicalIFAK"/>
+		<item name="medicalSalewa"/>
+		<item name="medicalInjectorMULE"/>
+		<item name="medicalCMS"/>
+		<item name="medicalSurv12"/>
+		<item name="medicalInjectorAdrenaline" prob="0.5"/>
+		<item name="medicalInjectorMorphine" prob="0.5"/>
+		<item name="medicalInjectorPerfortran" prob="0.5"/>
+		<item name="medicalInjectorPropitalRegenerativeStim" prob="0.5"/>
+		<item name="medicalInjectorSJ12" prob="0.4"/>
+		<item name="medicalInjector2A2" prob="0.4"/>
+		<item name="BooksOfASurgeonSkillMagazine" count="1,2"/>
+	</append>
+	<append xpath="//trader_item_group[@name='medicine']">
+		<item name="resourceDisposableSyringe" count="1,4"/>
+		<item name="resourcePileOfMeds" count="1,4"/>
+		<item name="resourceSalineSolution" count="1,2"/>		
+		<item name="DoctorMedicalJournalsSkillMagazine" count="1,2"/>				
+	</append>	
+
+	
+</configs>

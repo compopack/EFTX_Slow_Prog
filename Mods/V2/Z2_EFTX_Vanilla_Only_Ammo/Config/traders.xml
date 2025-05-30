@@ -1,0 +1,20 @@
+<configs>				
+		<append xpath="//trader_item_group[@name='generalResources']">
+			<item name="resource_item_other_powder" count="250,750"/>
+			<item name="resource_item_other_powder_green" count="250,750"/>
+			<item name="resource_item_other_powder_red" count="250,750"/>
+			<item name="resourceTP200TNTBrick" count="1,4"/>			
+		</append>		
+		<append xpath="/traders/trader_info[@id='1']/trader_items[1][@count='all']"> <!-- JOEL -->
+				<item name="93x40mmRPG7Warhead" count="1,2"/>
+				<item name="ammoEft4046381" count="1,2"/>
+				<item name="ammoEft4053vog25" count="1,2"/>
+				<item name="ammoEft4046576" count="1,2"/>
+			</append>
+			<append xpath="/traders/trader_info[@id='7']/trader_items[1][@count='all']"> <!-- HUGH -->
+				<item name="93x40mmRPG7Warhead" count="1,2"/>
+				<item name="ammoEft4046381" count="1,2"/>
+				<item name="ammoEft4053vog25" count="1,2"/>
+				<item name="ammoEft4046576" count="1,2"/>
+			</append>
+</configs>

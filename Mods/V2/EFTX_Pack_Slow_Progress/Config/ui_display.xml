@@ -1,0 +1,103 @@
+<configs>
+	<!-- Ammo changes -->
+	<append xpath="//item_display">		
+		<item_display_info display_type="eftFirearmDisplay" display_group="groupRanged">
+			<display_entry name="EntityDamage" display_type="Decimal1" title_key="statEntityDamageRanged" tags="perkGunslinger,revolver,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+			<display_entry name="MagazineSize" title_key="statMagazineSize" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+			<display_entry name="RoundsPerMinute" title_key="statRoundsPerMinute" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+			<display_entry name="DegradationMax" title_key="statDegradationMax" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+		</item_display_info>
+		<item_display_info display_type="meleeRepair" display_group="groupMelee">
+			<display_entry name="EntityDamage" display_type="Decimal1" title_key="statEntityDamageMelee" tags="perkMiner69r,perkSalvageOperations,perkElectrocutioner,perkJavelinMaster,perkPummelPete,perkSkullCrusher,perkDeepCuts,perkBrawler,admin"/>
+			<display_entry name="dBlockRepairAmount" title_key="statBlockRepairAmount"/>
+			<display_entry name="BlockDamage" display_type="Decimal1" title_key="statBlockDamage" tags="perkMiner69r,perkSalvageOperations,perkElectrocutioner,perkJavelinMaster,perkPummelPete,perkSkullCrusher,perkDeepCuts,perkBrawler,admin"/>
+			<display_entry name="StaminaLoss" display_type="Decimal1" title_key="statStaminaLoss" negative_preferred="true"/>
+			<display_entry name="AttacksPerMinute" title_key="statAttacksPerMinute" tags="perkFlurryOfBlows,perkMiner69r,perkSalvageOperations,perkElectrocutioner,perkJavelinMaster,perkPummelPete,perkSkullCrusher,perkDeepCuts,perkBrawler,admin"/>
+			<display_entry name="DegradationMax" title_key="statDegradationMax" tags="perkMiner69r,perkSalvageOperations,perkElectrocutioner,perkJavelinMaster,perkPummelPete,perkSkullCrusher,perkDeepCuts,perkBrawler,admin"/>
+		</item_display_info>		
+		<item_display_info display_type="injectorAdrenaline" display_group="groupConsumables">
+			<display_entry name="dRunSpeed" title_key="Run Speed" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dAttPerMin" title_key="Attacks Per Minute" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dStaminaEff" title_key="Stamina Efficiency" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dReloadSpeed" title_key="Reload Speed" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="brokenLimbMovement" title_key="Allows Movement With Broken Limbs" display_type="Bool"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>
+		<item_display_info display_type="injectorMorphine" display_group="groupConsumables">
+			<display_entry name="dInstantHealth" title_key="Instant Health" display_type="Decimal1" display_leading_plus="true"/>
+			<display_entry name="dDamageResist" title_key="Damage Resistance" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dBuffResistance" title_key="Buff Restistance" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="healthBlockRemoval" title_key="Removes Health Block" display_type="Bool"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>
+		<item_display_info display_type="injectorPerfotoran" display_group="groupConsumables">
+			<display_entry name="dMaxHealth" title_key="Max Health" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dHealthRegenS" title_key="Health Regeneration (hp/s)" display_type="Decimal1" display_leading_plus="true"/>
+			<display_entry name="dBleedResistance" title_key="Bleeding Resistance" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dStaminaUsage" title_key="Stamina Usage" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>
+		<item_display_info display_type="injectorPropital" display_group="groupConsumables">
+			<display_entry name="dMaxHealth" title_key="Max Health" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dHealthRegenS" title_key="Health Regeneration (hp/s)" display_type="Decimal1" display_leading_plus="true"/>
+			<display_entry name="dInstantHealth" title_key="Instant Health" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>
+		<item_display_info display_type="injectorTrimadol" display_group="groupConsumables">
+			<display_entry name="dMeleeDamage" title_key="Melee Damage" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dDamageResist" title_key="Damage Resistance" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dMaxStamina" title_key="Max Stamina" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dStaminaRegen" title_key="Stamina Regeneration" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dBuffResistance" title_key="Buff Restistance" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dCarryCapacity" title_key="Carry Capacity" display_type="Decimal1" display_leading_plus="true"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>
+		<item_display_info display_type="injector2A2" display_group="groupConsumables">
+			<display_entry name="dRangedDamage" title_key="Ranged Damage" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dRecoilControl" title_key="Recoil Reduction" display_type="Percent"/>
+			<!--display_entry name="dChakingHands" title_key="Shaking Hands" display_type="Percent"/-->
+			<display_entry name="dCarryCapacity" title_key="Carry Capacity" display_type="Decimal1" display_leading_plus="true"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>
+		<item_display_info display_type="injectorMULE" display_group="groupConsumables">
+			<display_entry name="dCarryCapacity" title_key="Carry Capacity" display_type="Decimal1" display_leading_plus="true"/>
+			<display_entry name="dStaminaEff" title_key="Stamina Efficiency" display_type="Percent" display_leading_plus="true"/>
+			<display_entry name="dDuration" title_key="Duration" display_type="Time"/>
+		</item_display_info>		
+		<item_display_info display_type="medicalFirstAidKitSalewa" display_group="groupConsumables">
+			<display_entry name="foodHealthAmount" title_key="statHealthAmount"/>
+			<display_entry name="dhealAbrasionMult" title_key="statHealAbrasionMult" display_type="Percent"/>
+			<display_entry name="dStopsBleeding" title_key="statStopsBleeding" display_type="Percent"/>
+			<display_entry name="dStopsLaceration" title_key="statStopsLaceration" display_type="Percent"/>
+			<display_entry name="dCureInfection" title_key="statCureInfection" display_type="Percent"/>
+		</item_display_info>
+		<item_display_info display_type="medicalCMSSURV12" display_group="groupConsumables">
+			<display_entry name="dHealthGain" title_key="Death Penalty Health Regain" display_type="Decimal1" display_leading_plus="true"/>
+		</item_display_info>
+	</append>
+	
+	<insertAfter xpath="//item_display_info[@display_type='rangedGun']/display_entry[@name='DegradationMax']">
+			<display_entry name="DamageModifier" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="hipfireAccuracyDisplay,admin"/>
+			<display_entry name="DamageModifier" title_key="Accuracy (Aimed)" display_type="Decimal2" negative_preferred="true" tags="aimedAccuracyDisplay,admin"/>
+			<display_entry name="DamageModifier" title_key="Max Recoil (Vertical)" display_type="Decimal2" negative_preferred="true" tags="recoilDisplay,admin"/>
+	</insertAfter>
+	
+	<insertAfter xpath="//item_display_info[@display_type='rangedGunNoMag']/display_entry[@name='DegradationMax']">
+			<!--display_entry name="DamageModifier" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="hipAccuracyDisplay,admin"/-->
+			<display_entry name="SpreadDegreesVertical" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+			<display_entry name="DamageModifier" title_key="Accuracy (Aimed)" display_type="Decimal2" negative_preferred="true" tags="aimedAccuracyDisplay,admin"/>
+	</insertAfter>
+	
+	<insertAfter xpath="//item_display_info[@display_type='rangedShotgun']/display_entry[@name='DegradationMax']">
+			<!--display_entry name="DamageModifier" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="hipAccuracyDisplay,admin"/-->
+			<display_entry name="SpreadDegreesVertical" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+	</insertAfter>
+	
+	<insertAfter xpath="//item_display_info[@display_type='rangedShotgunNoMag']/display_entry[@name='DegradationMax']">
+			<!--display_entry name="DamageModifier" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="hipAccuracyDisplay,admin"/-->
+			<display_entry name="SpreadDegreesVertical" title_key="Accuracy (Hip)" display_type="Decimal2" negative_preferred="true" tags="perkGunslinger,perkBoomstick,perkDeadEye,perkMachineGunner,perkBookAutoWeapons,perkTurrets,perkArchery,admin"/>
+	</insertAfter>
+	
+	
+	
+</configs>
