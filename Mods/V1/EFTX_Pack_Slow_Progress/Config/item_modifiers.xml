@@ -12,12 +12,12 @@
 	</insertBefore>
 	
 	<!-- ### Side-equipped Laser -->
-	<set xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/item_property_overrides[@name='*']/property[@name='CrosshairOnAim']/@value">false</set>
-	<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/effect_group[@name='mod effects']"></remove>
-	<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/effect_group/triggered_effect[(@trigger='onSelfItemActivate') or (@trigger='onSelfItemDeactivate')]"></remove>
+	<set xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/item_property_overrides[@name='*']/property[@name='CrosshairOnAim']/@value">true</set>
+	<!--<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/effect_group[@name='mod effects']"></remove>
+	<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/effect_group/triggered_effect[(@trigger='onSelfItemActivate') or (@trigger='onSelfItemDeactivate')]"></remove>-->
 	<append xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']">
 		<effect_group tiered="false" name="mod effects">
-			<!--requirement name="IsItemActive"/--> <!-- Works Fine But M14 Sadly Didn't Want Off-Animations -->
+			<requirement name="IsItemActive"/> <!-- Works Fine But M14 Sadly Didn't Want Off-Animations -->
 			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="gunEftWeightKg" operation="add" value="0.12"/>
 			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="$gunEftHipAccFactor" operation="add" value="-.12">
 				<requirement name="!HoldingItemHasTags" tags="shotgunSkill"/>
