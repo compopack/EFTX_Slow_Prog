@@ -227,7 +227,7 @@
 			<item name="schematicsAlcoholics" count="1" loot_prob_template="low"/>
 			<item group="groupExtractionMilitaryConsumables" count="1" loot_prob_template="low"/>	
 		</append>
-		<append xpath="//lootgroup[@name='EFTXMilitaryPallet']">
+		<append xpath="//lootcontainer[@name='EFTXMilitaryPallet']">
 			<item group="groupExtractionMilitaryFood" count="1" loot_prob_template="low"/>
 			<item group="groupExtractionMilitaryDrink" count="1" loot_prob_template="low"/>	
 		</append>
