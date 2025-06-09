@@ -1,11 +1,4 @@
 Key,english
-alcoholicsAnonymousSkillMagazine,"Alcoholics Anonymous"
-alcoholicsAnonymousSkillMagazineDesc,"Crafting Alcoholic.\nDrink Drinks are on you."
-craftingAlcoholics,"crafting Alcoholics"
-craftingAlcoholicsName,"crafting Alcoholics"
-craftingAlcoholicsDesc,"Reading [DECEA3]crafting Alcoholics[-] enables you to craft Alcohols."
-craftingAlcoholicsLongDesc,"Long Desc"
-
 foodWheatFlour,"Pack of Wheat Flour"
 foodWheatFlourDesc,"Wheat has been used for hundreds of years to make bread."
 foodBread,"Bread Loaf"
@@ -76,3 +69,8 @@ drinkMilk,"Pack of Milk"
 drinkPineappleJuice,"Pack of Pineapple Juice"
 drinkRatCola,"Can of RatCola"
 
+resourceCanOfWhiteSalt,"Can Of White Salt"
+resourceCanOfWhiteSaltDesc,"Salt has been used for hundreds of years. Can be useful for food and crafting chemical items."
+
+resourceSmokedChimneyDrainCleaner,"Drain Cleaner"
+resourceSmokedChimneyDrainCleanerDesc,"Is an useful ingredient for crafting chemicals."

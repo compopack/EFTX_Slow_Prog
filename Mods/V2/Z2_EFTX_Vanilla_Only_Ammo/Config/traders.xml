@@ -3,7 +3,13 @@
 			<item name="resource_item_other_powder" count="250,750"/>
 			<item name="resource_item_other_powder_green" count="250,750"/>
 			<item name="resource_item_other_powder_red" count="250,750"/>
-			<item name="resourceTP200TNTBrick" count="1,4"/>			
+			<item name="resourceTP200TNTBrick" count="1,4"/>	
+			<item name="resourceCellulosePowder" count="50,150"/>
+			<item name="resourceNitricAcid" count="300,900"/>
+			<item name="resourceSulfuricAcid" count="300,900"/>			
+			<item name="resourceCanisterWithPurifiedWater"/>
+			<item name="resourceOxBbleach" count="1,2"/>			
+			<item name="resourceClassicMatches" count="1,3"/>
 		</append>		
 		<append xpath="/traders/trader_info[@id='1']/trader_items[1][@count='all']"> <!-- JOEL -->
 				<item name="93x40mmRPG7Warhead" count="1,2"/>

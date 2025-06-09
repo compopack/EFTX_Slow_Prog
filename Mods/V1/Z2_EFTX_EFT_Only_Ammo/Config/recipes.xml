@@ -60,6 +60,28 @@
 			<ingredient name="resourceClassicMatches" count="1"/>
 		</recipe>
 		
+		<!-- *** Chemicals -->
+		<recipe name="bundleEftResourceNitricAcid" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="resourceOxBbleach" count="1"/>
+			<ingredient name="foodRottingFlesh" count="25"/>
+			<ingredient name="resourcePotassiumNitratePowder" count="375"/>
+		</recipe>
+		<recipe name="bundleEftResourceNitricAcid_2" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="drinkJarRiverWater" count="1"/>
+			<ingredient name="resourceCellulosePowder" count="1"/>
+			<ingredient name="resourceOxBbleach" count="1"/>
+			<ingredient name="resourceClayLump" count="50"/>
+		</recipe>
+		<recipe name="bundleEftResourceSulfuricAcid" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="carBattery" count="1"/>
+			<ingredient name="resourceCanisterWithPurifiedWater" count="1"/>
+			<ingredient name="resourceScrapLead" count="250"/>
+		</recipe>
+		<recipe name="bundleEftResourceSulfuricAcid_2" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="resourceOxBbleach" count="1"/>
+			<ingredient name="resourceClassicMatches" count="2"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
 	<!-- ### Ammo -->
 	
 		<!-- *** 5.45x39 -->

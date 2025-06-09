@@ -1,4 +1,83 @@
-<configs>			
+<configs>	
+			<conditional>
+    <if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
+		<append xpath="//lootgroup[@name='groupInjectorSmall']">
+		<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="medLow"/>		
+		</append>
+		<append xpath="//lootgroup[@name='groupInjectorMed']">
+		<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>	
+		</append>
+		<append xpath="//lootgroup[@name='groupInjectorLarge']">
+		<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>	
+		</append>
+		<append xpath="//lootgroup[@name='groupInjectorExtraLarge']">
+		<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>		
+		</append>
+		</if>
+    </conditional>
+	<append xpath="//lootgroup[@name='groupChemistryStationLoot02']">
+				<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+				<item name="resourceNitricAcid" count="2,10" loot_prob_template="medLow"/>
+				<item name="resourceSulfuricAcid" count="2,7" loot_prob_template="medLow"/>
+				<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
+				<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>			
+			</append>
+			<append xpath="//lootgroup[@name='groupChem01']">
+				<item name="resourceNitricAcid" count="0,5" loot_prob_template="medLow"/>
+				<item name="resourceSulfuricAcid" count="0,5" loot_prob_template="medLow"/>
+				<item name="resourceCellulosePowder" count="10,25" loot_prob_template="low"/>
+				<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupChemPileSmall']">
+				<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupChemPileMed']">
+						<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupChemPileLarge']">
+						<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupScrapCommon']">
+				<item name="resourceClassicMatches" count="1,2" loot_prob_template="low"/>
+				<item name="resourceNitricAcid" count="125,375" loot_prob_template="medLow"/>
+				<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="medLow"/>
+				<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
+				<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
+				<item name="schematicsChemician" count="1" loot_prob_template="low"/>
+		</append>
+		<append xpath="//lootgroup[@name='groupCraftingUncommon']">
+				<item name="resourceClassicMatches" count="1,2" loot_prob_template="low"/>
+				<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
+				<item name="resourceNitricAcid" count="5,75" loot_prob_template="low"/>
+				<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="low"/>
+				<item name="resourceOxBbleach" count="1,2" loot_prob_template="low"/>
+		</append>	
+		<append xpath="//lootgroup[@name='groupFoodTrashUncommon']">
+				<item name="resourceOxBbleach" count="1,2" loot_prob_template="veryLow"/>
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
+				<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="veryLow"/>
+				<item name="resourceNitricAcid" count="5,75" loot_prob_template="veryLow"/>		
+		</append>	
+		<append xpath="//lootgroup[@name='groupMedicalCommon']">	
+			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+		</append>
+		<append xpath="//lootgroup[@name='groupMedicalUncommon']">	
+			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+		</append>
+		<append xpath="//lootgroup[@name='groupMedicalRare']">	
+			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+		</append>
+		<append xpath="//lootgroup[@name='groupCars01']">
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
+		</append>
+		<append xpath="//lootgroup[@name='groupBackpacks01']">
+					<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+	</append>
+	<append xpath="//lootgroup[@name='groupBackpacks02']">
+					<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="medLow"/>
+	</append>	
+	
 		<append xpath="//lootgroup[@name='groupguntokarevtt']">
 			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
@@ -55,7 +134,7 @@
 		<!-- *** Explosives -->	
 		<lootgroup name="groupExplosives_01" >
 			<item name="resourceTP200TNTBrick" count="1,2"/>
-			<item name="BigBoomBoomSkillMagazine" count="1,2" loot_prob_template="med"/>
+			<item name="BigBoomBoomSkillMagazine" count="1" loot_prob_template="med"/>
 		</lootgroup>
 		<lootgroup name="groupExplosives_02" >
 			<item name="bundleGrenadebox" count="0,1"/>
@@ -154,10 +233,10 @@
 			<item group="groupAmmoMunitions_01" count="1"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupModEftSkillMagazinesSpecials']">
-			<item name="BigBoomBoomSkillMagazine" count="1,2" loot_prob_template="med"/>
+			<item name="BigBoomBoomSkillMagazine" count="1" loot_prob_template="med"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupModEftSkillMagazinesAll']">
-			<item name="BigBoomBoomSkillMagazine" count="1,2" loot_prob_template="med"/>
+			<item name="BigBoomBoomSkillMagazine" count="1" loot_prob_template="med"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupDemolition']">
 			<item name="BigBoomBoomSkillMagazine" count="1" loot_prob_template="med" force_prob="true"/>

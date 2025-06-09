@@ -1,11 +1,4 @@
 <Extraction>
-	<append xpath="/traders" >
-
-			
-	</append>
-	<append xpath="//trader_item_group[@name='skillMagazines']">
-		<item name="alcoholicsAnonymousSkillMagazine" count="1,3"/>
-	</append>
 	<append xpath="//trader_item_group[@name='cannedfood']">
 		<item name="foodBeefstew" count="1,2"/>
 		<item name="foodBeefstew2" count="1,2"/>
@@ -20,6 +13,8 @@
 		<item name="foodWheatFlour" count="1,4"/>
 		<item name="foodBread" count="1,6"/>
 		<item name="foodSugar" count="1,3"/>
+		<item name="resourceCanOfWhiteSalt" count="1,3"/>
+		<item name="resourceSmokedChimneyDrainCleaner" count="1,2"/>
 	</append>
 	<append xpath="//trader_item_group[@name='preparedFood']">
 		<item name="foodAlyonka" count="1,2"/>

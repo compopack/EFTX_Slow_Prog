@@ -38,7 +38,7 @@
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="50"/>
 			<property name="EconomicValue" value="12"/>
-			<property name="UnlockedBy" value="craftingFood"/>
+			<!--<property name="UnlockedBy" value="craftingFood"/>-->
 			<property name="SoundPickup" value="cornbread_grab"/>
 			<property name="SoundPlace" value="cornbread_place"/>
 			<property class="Action0">
@@ -794,7 +794,7 @@
 			</effect_group>
 		</item>
 		
-		<!-- *** Liquor & Injectors -->
+		<!-- *** Liquor -->
 		<item name="liquorPevkoBeer">
 			<property name="Tags" value="drinks,foodSkill,fitness"/>
 			<property name="HoldType" value="3"/>
@@ -958,7 +958,62 @@
 					<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffExtinguishFire"/>
 			</effect_group>
 		</item>
+		</append>
 		<!-- *** Food/Medics (lootable) -->
+		<conditional>
+    <if cond="mod_loaded('zz_REBIRTH__Core') and not mod_loaded('EFTX_Pack_Slow_Progress') or mod_loaded('EFTX_Pack_Standard') ">
+	<append xpath="/items">
+	<item name="disassembleAmmoMasterBundle">
+			<property name="CreativeMode" value="None"/>
+			<property name="ItemTypeIcon" value="computer"/>
+			<property name="CustomIcon" value="resourcePaper"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mmetal"/>
+			<property name="Stacknumber" value="1000"/>
+			<property name="Weight" value="0"/>
+			<property name="SellableToTrader" value="false"/>
+			<property name="Group" value="Special Items"/>
+			<property name="DescriptionKey" value=""/>
+			<property class="Action0">
+				<property name="Class" value="OpenBundle"/>
+				<property name="Delay" value="0"/>
+			</property>
+		</item>
+		</append>
+		 </if>
+    </conditional>
+		<append xpath="/items">
+		<item name="resourceCanOfWhiteSalt">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceScrapIron"/>
+			<property name="Stacknumber" value="500"/>
+			<property name="EconomicValue" value="30"/>
+			<property name="EconomicBundleSize" value="1"/>
+			<property name="Group" value="Resources"/>
+			<property name="CraftingIngredientTime" value="10"/>
+			<property name="SoundPickup" value="crucible_grab"/>
+			<property name="SoundPlace" value="crucible_place"/>
+		</item>
+		<item name="resourceSmokedChimneyDrainCleaner">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceScrapIron"/>
+			<property name="Stacknumber" value="500"/>
+			<property name="EconomicValue" value="150"/>
+			<property name="EconomicBundleSize" value="1"/>
+			<property name="Group" value="Resources"/>
+			<property name="CraftingIngredientTime" value="25"/>
+			<property name="SoundPickup" value="puremineralwater_grab"/>
+			<property name="SoundPlace" value="puremineralwater_place"/>
+		</item>
+		
 		<item name="bundleFoodContainer">
 			<property name="Extends" value="disassembleAmmoMasterBundle"/>
 			<property name="CreativeMode" value="Player"/>
@@ -976,29 +1031,33 @@
 				<property name="Unique_random_only" value="true"/>
 			</property>
 		</item>
-			<item name="alcoholicsAnonymousSkillMagazine">
-			<property name="Extends" value="masterSkillMagazine"/>
-			<property name="Tags" value="alcoholicsAnonymousCSM,csm"/>
-			<property name="CustomIcon" value="alcoholicsAnonymousSkillMagazine"/>
-			<property name="DescriptionKey" value="alcoholicsAnonymousSkillMagazineDesc"/>
-			<property name="Unlocks" value="craftingAlcoholics"/>
+		<item name="schematicsAlcoholics">
+			<property name="Extends" value="schematicNoQualityMaster"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="schematicsAlcoholics"/>
+			<property name="Tags" value="schematicsAlcoholics"/>
+			<property name="EconomicValue" value="1000"/>
+			<property name="DescriptionKey" value="schematicsAlcoholicsDesc"/>
+			<property name="Unlocks" value="$schematicsAlcoholics_helper"/>
 			<effect_group tiered="false">
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingAlcoholics" level="1"/>
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
-			</effect_group>
-			<effect_group tiered="false">
-				<requirement name="HasBuff" buff="buffNerdOutfit"/>
-				<requirement name="RandomRoll" seed_type="Random" min_max="0,100" operation="LTE" value="@$nerdOutfitSkillPointChance"/>
-					<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingAlcoholics" level="1"/>
-					<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="nerd_outfit_perk"/>
-					<!-- <triggered_effect trigger="onSelfPrimaryActionEnd" action="ShowToolbeltMessage" message="Extra Point!"/> -->
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="liquorPevkoBeer" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="liquorVodka" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="liquorDanJackiel" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="liquorMoonshine" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="drinkKvass" operation="set" value="1"/>
+				
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$schematicsAlcoholics_helper" operation="set" value="1"/>
 			</effect_group>
 		</item>
 </append>
 <!-- ### Consumables -->
+<conditional>
+    <if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
 <set xpath="/items/item[starts-with(@name, 'medicalInjector')]/property[@class='Action0']/property[@name='Delay']/@value">2.25</set>
-
-
+</if>
+</conditional>
+<conditional>
+	<if cond="mod_loaded('Z2_EFTX_Both_Ammo') or mod_loaded('Z2_EFTX_EFT_Only_Ammo')">
 	<set xpath="/items/item[@name='resourceCanisterWithPurifiedWater']/property[@name='Group']/@value">Science,Medical,TCMedical,Food/Cooking,CFDrink/Cooking</set>
     <append xpath="/items/item[@name='resourceCanisterWithPurifiedWater']">
 		<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/EFTconsumables.unity3d?itemtarkovdrinkSuperWater.prefab"/>
@@ -1021,6 +1080,8 @@
 					<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffExtinguishFire"/>
 			</effect_group>
     </append>
+	</if>
+    </conditional>
 <remove xpath="/items/item[@name='drinkJarBoiledWater']/property[@class='Action0']"></remove>
     <append xpath="/items/item[@name='drinkJarBoiledWater']">
 		<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/EFTconsumables.unity3d?itemtarkovdrinkFilteredWater.prefab"/>
@@ -1042,7 +1103,8 @@
 				<property name="Sound_start" value=""/>
 			</property>	
     </append>
-
+<conditional>
+    <if cond="mod_loaded('EFTX_Pack_Slow_Progress') or mod_loaded('EFTX_Pack_Standard') and not mod_loaded('not_zz_REBIRTH__Core')">
 <remove xpath="/items/item[@name='drugPainkillers']/property[@class='Action0']"></remove>
 <remove xpath="/items/item[@name='drugPainkillers']/property[@name='Meshfile']"></remove>
     <append xpath="/items/item[@name='drugPainkillers']">
@@ -1054,7 +1116,8 @@
 				<property name="Sound_start" value=""/>
 			</property>	
     </append>
-
+ </if>
+    </conditional>
 <remove xpath="/items/item[@name='drugAntibiotics']/property[@class='Action0']"></remove>
 <remove xpath="/items/item[@name='drugAntibiotics']/property[@name='Meshfile']"></remove>
     <append xpath="/items/item[@name='drugAntibiotics']">
@@ -1228,9 +1291,8 @@
 			</effect_group>
 		</item>
     </append>
-	<remove xpath="/items/item[@name='medicalSplint']"></remove>
-	<remove xpath="/items/item[@name='medicalPlasterCast']"></remove>
 
+	<remove xpath="/items/item[@name='medicalSplint']"></remove>
 	<insertAfter xpath="//item[@name='medicalFirstAidKit']">
 <item name="medicalSplint">
 	<property name="Tags" value="medical"/>
@@ -1271,10 +1333,12 @@
 		<requirement name="HasBuff" buff="buffArmBroken"/>
 			<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffArmSplinted"/>
 	</effect_group>
-
-
 </item>
-
+</insertAfter>
+<conditional>
+    <if cond="mod_loaded('EFTX_Pack_Slow_Progress') or mod_loaded('EFTX_Pack_Standard') and not mod_loaded('not_zz_REBIRTH__Core') and not mod_loaded('zzz_EFTX_Pack_Rebirth')">
+	<remove xpath="/items/item[@name='medicalPlasterCast']"></remove>
+	<insertBefore xpath="//item[@name='medicalBloodBag']">
 <item name="medicalPlasterCast">
 	<property name="Extends" value="medicalSplint"/>
 	<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/EFTconsumables.unity3d?itemtarkovSplint.prefab"/>
@@ -1325,5 +1389,8 @@
 		</triggered_effect>
 	</effect_group>
 </item>
-</insertAfter>
+</insertBefore>
+</if>
+    </conditional>
+
 </Extraction>

@@ -1,5 +1,5 @@
 <configs>	
-	<insertAfter xpath="//crafting_skill[@name='craftingMachineGuns']">	
+	<append xpath="/progression/crafting_skills">	
 	<crafting_skill name="craftingBigBoomBoom" max_level="100" parent="attCrafting" name_key="craftingBigBoomBoomName" desc_key="craftingBigBoomBoomDesc" long_desc_key="craftingBigBoomBoomLongDesc" icon="ui_game_symbol_tool_smithing">
 			<display_entry icon="ammoEft4046381" name_key="ammoEft4046381" has_quality="false" unlock_level="25">
 				<unlock_entry item="ammoEft4046381" unlock_tier="1" />
@@ -20,7 +20,8 @@
 				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="100,100" value="1" tags="93x40mmRPG7Warhead"/> 
 				</effect_group>		
 		</crafting_skill>
-		
+		</append>
+		<append xpath="/progression/perks">
 		<!-- LAUNCHERS AND RPG7 AMMO PERK -->
 		<perk name="perkBoomBoom" parent="skillEFTXExplosives" max_level="5"  name_key="Boom Boom" desc_key="Finding More Boom Boom Books in loot" icon="ui_game_symbol_explosion">
 			<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01"/></level_requirements>
@@ -30,12 +31,15 @@
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			
 			<effect_group>
+			<passive_effect name="BlockDamage" operation="perc_add" level="0,5" value="0,1" tags="eftBOOM"/>
+			<passive_effect name="EntityDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftBOOM"/>
+			
 			<!-- Increase the chance to find Launcher crafting skill magazines with each perk rank up to crafting skill 100 -->
-			<passive_effect name="LootProb" operation="perc_add" level="1,6" value="2,10" tags="BigBoomBoomCSM">
+			<passive_effect name="LootProb" operation="perc_add" level="1,5" value="2,10" tags="BigBoomBoomCSM">
 				<requirement name="ProgressionLevel" progression_name="BigBoomBoomSkillMagazine" operation="LT" value="100"/>
 			</passive_effect>
 			<!-- Once Launcher crafting skill reaches 100, set the probability bonus of finding Launcher crafting skill magazines to 0 -->
-			<passive_effect name="LootProb" operation="base_set" level="1,6" value="1,1" tags="BigBoomBoomCSM">
+			<passive_effect name="LootProb" operation="base_set" level="1,5" value="1,1" tags="BigBoomBoomCSM">
 				<requirement name="ProgressionLevel" progression_name="BigBoomBoomSkillMagazine" operation="Equals" value="100"/>
 			</passive_effect>
 			<effect_description level="1" desc_key="perkBoomBoomRank1Desc" long_desc_key="Find Boom Boom books"/>
@@ -46,5 +50,5 @@
 			</effect_group>
 		</perk>
 		<!-- LAUNCHERS AND RPG7 AMMO PERK -->
-		</insertAfter>	
+		</append>	
 </configs>

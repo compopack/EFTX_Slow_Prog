@@ -1,5 +1,10 @@
 <Extraction>	
 <append xpath="/recipes">
+		<recipe name="resourceSmokedChimneyDrainCleaner" count="1" craft_area="chemistryStation" tags="chemStationCrafting">
+			<ingredient name="resourceAcid" count="1"/>
+			<ingredient name="resourceCoal" count="1"/>
+			<ingredient name="resourceAcid" count="250"/>
+		</recipe>
 	<!-- *** Food/Drink -->
 		<recipe name="foodBread" count="1" craft_area="campfire" craft_tool="toolCookingGrill">
 			<ingredient name="foodWheatFlour" count="1"/>

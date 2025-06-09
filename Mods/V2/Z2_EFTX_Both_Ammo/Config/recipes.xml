@@ -22,7 +22,16 @@
 			<ingredient name="resourceScrapPolymers" count="1"/>
 			<ingredient name="resourceScrapBrass" count="2"/>
 		</recipe>
-		
+		<recipe name="resourceOxBbleach" count="1" craft_area="chemistryStation" tags="chemStationCrafting">
+			<ingredient name="resourceAcid" count="1"/>
+			<ingredient name="resourceGlue" count="2"/>
+			<ingredient name="resourceNitricAcid" count="350"/>
+		</recipe>
+		<recipe name="resourceCanisterWithPurifiedWater" count="1" craft_area="chemistryStation" tags="chemStationCrafting">
+			<ingredient name="resourceScrapPolymers" count="100"/>
+			<ingredient name="drinkJarPureMineralWater" count="5"/>
+			<ingredient name="resourceSilverNugget" count="1"/>
+		</recipe>
 		<!-- Bullet Tips -->
 		<recipe name="resourceLowCaliberBulletTip" count="1" material_based="true" craft_area="forge" is_trackable="false">
 			<ingredient name="unit_lead" count="2"/>
@@ -59,7 +68,28 @@
 		<recipe name="resourceGunPowder" count="10" craft_time="50">
 			<ingredient name="resourceClassicMatches" count="1"/>
 		</recipe>
-		
+		<!-- *** Chemicals -->
+		<recipe name="bundleEftResourceNitricAcid" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="resourceOxBbleach" count="1"/>
+			<ingredient name="foodRottingFlesh" count="25"/>
+			<ingredient name="resourcePotassiumNitratePowder" count="375"/>
+		</recipe>
+		<recipe name="bundleEftResourceNitricAcid_2" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="drinkJarRiverWater" count="1"/>
+			<ingredient name="resourceCellulosePowder" count="1"/>
+			<ingredient name="resourceOxBbleach" count="1"/>
+			<ingredient name="resourceClayLump" count="50"/>
+		</recipe>
+		<recipe name="bundleEftResourceSulfuricAcid" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="carBattery" count="1"/>
+			<ingredient name="resourceCanisterWithPurifiedWater" count="1"/>
+			<ingredient name="resourceScrapLead" count="250"/>
+		</recipe>
+		<recipe name="bundleEftResourceSulfuricAcid_2" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="resourceOxBbleach" count="1"/>
+			<ingredient name="resourceClassicMatches" count="2"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
 	<!-- ### Ammo -->
 	
 		<!-- *** 5.45x39 -->

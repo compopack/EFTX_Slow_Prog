@@ -1,77 +1,140 @@
-<configs>			
+<configs>	
+			<conditional>
+			<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
+				<append xpath="//lootgroup[@name='groupInjectorSmall']">
+				<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="medLow"/>		
+				</append>
+				<append xpath="//lootgroup[@name='groupInjectorMed']">
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>	
+				</append>
+				<append xpath="//lootgroup[@name='groupInjectorLarge']">
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>	
+				</append>
+				<append xpath="//lootgroup[@name='groupInjectorExtraLarge']">
+				<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>		
+				</append>
+				</if>
+			</conditional>
+				<append xpath="//lootgroup[@name='groupChemistryStationLoot02']">
+					<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+					<item name="resourceNitricAcid" count="2,10" loot_prob_template="medLow"/>
+					<item name="resourceSulfuricAcid" count="2,7" loot_prob_template="medLow"/>
+					<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
+					<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>			
+				</append>
+				<append xpath="//lootgroup[@name='groupChem01']">
+					<item name="resourceNitricAcid" count="0,5" loot_prob_template="medLow"/>
+					<item name="resourceSulfuricAcid" count="0,5" loot_prob_template="medLow"/>
+					<item name="resourceCellulosePowder" count="10,25" loot_prob_template="low"/>
+					<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
+					<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="veryLow"/>
+				</append>
+				<append xpath="//lootgroup[@name='groupChemPileSmall']">
+					<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+				</append>
+				<append xpath="//lootgroup[@name='groupChemPileMed']">
+							<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+				</append>
+				<append xpath="//lootgroup[@name='groupChemPileLarge']">
+							<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+				</append>
+				<append xpath="//lootgroup[@name='groupScrapCommon']">
+					<item name="resourceClassicMatches" count="1,2" loot_prob_template="low"/>
+					<item name="resourceNitricAcid" count="5,75" loot_prob_template="medLow"/>
+					<item name="resourceSulfuricAcid" count="5,75" loot_prob_template="medLow"/>
+					<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
+					<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
+					<item name="schematicsChemician" count="1" loot_prob_template="low"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupCraftingUncommon']">
+					<item name="resourceClassicMatches" count="1,2" loot_prob_template="low"/>
+					<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
+					<item name="resourceNitricAcid" count="15,10" loot_prob_template="low"/>
+					<item name="resourceSulfuricAcid" count="15,100" loot_prob_template="low"/>
+					<item name="resourceOxBbleach" count="1,2" loot_prob_template="low"/>
+			</append>	
+			<append xpath="//lootgroup[@name='groupFoodTrashUncommon']">
+					<item name="resourceOxBbleach" count="1,2" loot_prob_template="veryLow"/>
+					<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="veryLow"/>
+					<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="veryLow"/>
+					<item name="resourceNitricAcid" count="5,75" loot_prob_template="veryLow"/>		
+			</append>	
+			<append xpath="//lootgroup[@name='groupMedicalCommon']">	
+				<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupMedicalUncommon']">	
+				<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupMedicalRare']">	
+				<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupCars01']">
+					<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
+			</append>
+			<append xpath="//lootgroup[@name='groupBackpacks01']">
+						<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+		</append>
+		<append xpath="//lootgroup[@name='groupBackpacks02']">
+						<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="medLow"/>
+		</append>			
+		
 		<append xpath="//lootgroup[@name='groupguntokarevtt']">
 			<item name="ammoEft76225mmTokarev" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupguntokarevgold']">
 			<item name="ammoEft76225mmTokarev" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupguntokarevmachine']">
 			<item name="ammoEft76225mmTokarev" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunpb']">
 			<item name="ammoEft918mmPM" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunpmalphadog']">
 			<item name="ammoEft918mmPM" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunstechkin']">
 			<item name="ammoEft918mmPM" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunglock17']">
 			<item name="ammoEft919mm" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunp226']">
 			<item name="ammoEft919mm" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunm9a3']">
 			<item name="ammoEft919mm" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunsr1mp']">
 			<item name="ammoEft921mm" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunusp45tac']">
 			<item name="ammoEft45ACP" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunm1911']">
 			<item name="ammoEft45ACP" count="10,20"/>
-			<item name="ammo44MagnumBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunm45']">
 			<item name="ammoEft45ACP" count="10,20"/>
-			<item name="ammo44MagnumBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunusp45match']">
 			<item name="ammoEft45ACP" count="10,20"/>
-			<item name="ammo44MagnumBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunfiveseven']">
 			<item name="ammoEft5728FN" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunglock18c']">
 			<item name="ammoEft919mm" count="10,20"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunrsh12']">
 			<item name="ammoEft12755PS12" count="3,6"/>
 			<item name="ammoEft12755PS12" count="3,6"/>
-			<item name="ammo9mmBulletBall" count="10,20"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupgunks23']">
 			<item name="modAmmoShrap25Schematic" count="1"/>
 			<item name="modAmmoBarricSchematic" count="1"/>
 		</append>
+		
 	<!-- *** Ammo -->		
 	<insertBefore xpath="//lootgroup[@name='groupWeapons_RangedParts']">	
 		<lootgroup name="groupEftAmmoSmallT1">
@@ -474,11 +537,11 @@
 		<lootgroup name="groupEftAmmoExplosivesIngreds">
 			<item name="resourceTP200TNTBrick" count="1,2"/>
 			<item name="resourceUZRGMGrenadeFuze" count="1,2"/>
-			<item name="resourceOFZ30x165mmShell" loot_prob_template="veryLow"/>
+			<item name="resourceOFZ30x165mmShell" count="1,10" loot_prob_template="veryLow"/>
 			<item name="BigBoomBoomSkillMagazine" count="1,2" loot_prob_template="med"/>
 		</lootgroup>
 		<lootgroup name="groupEftWeaponryPartsAndIngredients">
-			<item group="groupEftAmmoExplosivesIngreds" loot_prob_template="veryLow"/>
+			<item group="groupEftAmmoExplosivesIngreds" count="1" loot_prob_template="veryLow"/>
 		</lootgroup>	
 		</insertAfter>
 		<append xpath="//lootgroup[@name='groupModEftSkillMagazinesAll']">
@@ -648,9 +711,9 @@
 		<!-- Small Weapon Bag -->
 		<insertBefore xpath="//lootgroup[@name='groupSmallWeaponBag']">
 			<lootgroup name="groupSmallWeaponBag01">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1"  count="1" />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 		</insertBefore>
 		<append xpath="//lootgroup[@name='groupSmallWeaponBag']">		
@@ -659,10 +722,10 @@
 		<!-- Large Weapon Bag -->
 		<insertBefore xpath="//lootgroup[@name='groupLargeWeaponBag']">
 			<lootgroup name="groupLargeWeaponBag01">
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 		</lootgroup>
 		</insertBefore>		
 		<append xpath="//lootgroup[@name='groupLargeWeaponBag']">
@@ -671,9 +734,9 @@
 		<!-- Small Ammo Pile -->
 		<insertAfter xpath="//lootgroup[@name='groupPigTrough']">
 			<lootgroup name="groupEftAmmoSmall01" >
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1" count="1" />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 			</lootgroup>
 		</insertAfter>
 			<append xpath="//lootgroup[@name='groupAmmoPileSmall']">
@@ -682,10 +745,10 @@
 		<insertAfter xpath="//lootgroup[@name='groupAmmoPileSmall']">
 			<lootgroup name="groupAmmoPileMed01" >		
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="med" force_prob="true"/>
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 			</lootgroup>
 			</insertAfter>
 		<append xpath="//lootgroup[@name='groupAmmoPileMed']">
@@ -695,10 +758,10 @@
 		<insertAfter xpath="//lootgroup[@name='groupAmmoPileMed']">
 			<lootgroup name="groupEftAmmoLarge01" >	
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="medHigh" force_prob="true"/>
-			<item group="groupEftAmmoLargeT0" />
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT0" count="1" />
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
 		</lootgroup>
 		</insertAfter>
 		<append xpath="//lootgroup[@name='groupAmmoPileLarge']">			
@@ -706,49 +769,42 @@
 		</append>
 		<!-- Army Truck -->
 		<append xpath="//lootgroup[@name='groupArmyTruck02']">
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 		</append>
 		<!-- Police Car Bonus -->
 		<append xpath="//lootgroup[@name='groupPoliceCarBonus01']"> <!-- Lockpicked -->			
-			<item group="groupEftAmmoLargeT0" />
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoLargeT0" count="1" />
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
 		</append>
 		<!-- Foot Locker Military -->
 		<append xpath="//lootgroup[@name='groupMilitaryFootlocker02']"> 
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
 		</append>
 		<!-- Big Ammo Crate -->
 		<append xpath="//lootgroup[@name='groupAmmoLarge']">
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="med" force_prob="true"/>
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
-			<item group="groupEftAmmoLargeT0" />
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
-			<item name="bundleAmmoBoxT1Ammo" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item name="bundleAmmoBoxT2Ammo" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item name="bundleAmmoBoxT3Ammo" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
+			<item group="groupEftAmmoLargeT0" count="1" />
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item name="bundleAmmoBoxT1Ammo" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item name="bundleAmmoBoxT2Ammo" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item name="bundleAmmoBoxT3Ammo" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
 		</append>
 		<!-- Infested T1 -->
 		<insertAfter xpath="//lootgroup[@name='groupInfestedT5MeleeRanged']">
 			<lootgroup name="groupInfestedT1_01" >
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 			<item name="bundleAmmoBoxT1Ammo" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>			
 			</lootgroup>
 		</insertAfter>
@@ -758,9 +814,9 @@
 		<!-- Infested T2 -->
 		<insertAfter xpath="//lootgroup[@name='groupInfestedT1']">
 		<lootgroup name="groupInfestedT2_01" >
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
 			<item name="bundleAmmoBoxT2Ammo" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>		
 		</lootgroup>
 		</insertAfter>
@@ -804,33 +860,33 @@
 		</append>
 		
 		<append xpath="//lootgroup[@name='groupSmallSafeLoot01']">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1" count="1" />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupSmallSafeLoot02']">
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 		</append>
 		<append xpath="//lootgroup[@name='groupSmallSafeLoot03']">
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
 		</append>		
 		<append xpath="//lootgroup[@name='groupGunRack_01']">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>		
+			<item group="groupEftAmmoSmallT1" count="1" />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>		
 		</append>
 		<append xpath="//lootgroup[@name='groupGunRack']">
 			<item group="groupGunRack_01" count="1"/>
 		</append>
 		<insertAfter xpath="//lootgroup[@name='groupGunRack']">
 		<lootgroup name="groupAmmoRackDisplay_01" >
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>		
+			<item group="groupEftAmmoSmallT1" count="1"  />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>		
 		</lootgroup>
 		</insertAfter>
 		<append xpath="//lootgroup[@name='groupAmmoRackDisplay']">
@@ -839,9 +895,9 @@
 		
 		<insertAfter xpath="//lootgroup[@name='groupSafeBooks']">
 		<lootgroup name="groupGunSafeSecure_02" >
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>		
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>		
 		</lootgroup>
 		</insertAfter>
 		<append xpath="//lootgroup[@name='groupGunSafeSecure']">
@@ -850,98 +906,80 @@
 		
 		<!-- Shotgun Messiah Crate -->
 		<append xpath="//lootgroup[@name='groupShotgunMessiahCrate01']">
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2"/>	
 		</append>
 		<!-- Hidden Stash / Buried Weapon Chest -->
 		<append xpath="//lootgroup[@name='groupHiddenStash01']">
-			<item group="groupEftAmmoLargeT0" />
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoLargeT0" count="1" />
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="low"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupBuriedWeaponChest02']">
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="low"/>	
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>		
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>		
 		</append>			
 		<!-- Coffins, Motical Drawer, Random Chests -->
 		<append xpath="//lootgroup[@name='groupCoffins01']">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1" count="1" />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupCaskets02']">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 		</append>
 		<append xpath="//lootgroup[@name='groupOldWestChest01']">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
 		</append>	
 		<!-- Zombie-Loot -->
 		<append xpath="//lootgroup[@name='groupZpackReg04']">
-			<item group="groupEftAmmoSmallT1"  />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1" count="1"  />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupZpackStrong02']">
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="low"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupZpackBoss02']">
-			<item group="groupEftAmmoLargeT0" />
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoLargeT0" count="1" />
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
 			<item group="groupEftWeaponryPartsAndIngredients" count="1,2" loot_prob_template="med"/>	
 			<item name="BigBoomBoomSkillMagazine" count="1" loot_prob_template="med" force_prob="true"/>
 		</append>		
 		<append xpath="//lootgroup[@name='groupCars01']">
-			<item group="groupEftAmmoSmallT1" />
-			<item group="groupEftAmmoSmallT2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoSmallT3" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoSmallT1" count="1" />
+			<item group="groupEftAmmoSmallT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoSmallT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupCars02']">
-			<item group="groupEftAmmoMediumT0" />
-			<item group="groupEftAmmoMediumT1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupEftAmmoMediumT2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupEftAmmoMediumT3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
+			<item group="groupEftAmmoMediumT0" count="1" />
+			<item group="groupEftAmmoMediumT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupEftAmmoMediumT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftAmmoMediumT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>	
 		</append>
 		<append xpath="//lootgroup[@name='groupCars03']">
-			<item group="groupEftAmmoLargeT0" />
-			<item group="groupEftAmmoLargeT1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupEftAmmoLargeT2" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupEftAmmoLargeT3" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+			<item group="groupEftAmmoLargeT0" count="1" />
+			<item group="groupEftAmmoLargeT1" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftAmmoLargeT2" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftAmmoLargeT3" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
 		</append>
 		<append xpath="//lootgroup[@name='groupModEftSkillMagazinesSpecials']">
 			<item name="BigBoomBoomSkillMagazine" count="1,2" loot_prob_template="med"/>

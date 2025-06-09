@@ -1,4 +1,5 @@
-<configs>		
+<configs>	
+	
 		<insertAfter xpath="//trader_item_group[@name='ammoAll']">
 		<trader_item_group name="ammoGroup1">
 			<item name="ammoEft54539" count="225,450"/>
@@ -79,7 +80,13 @@
 			<item name="resourceEmptyShotgunShell" count="25,200"/>
 			<item name="resourceOFZ30x165mmShell" count="1"/>
 			<item name="resourceTP200TNTBrick" count="1,4"/>
-			<item name="resourceUZRGMGrenadeFuze" count="1,4"/>			
+			<item name="resourceUZRGMGrenadeFuze" count="1,4"/>	
+			<item name="resourceCellulosePowder" count="50,150"/>
+			<item name="resourceNitricAcid" count="300,900"/>
+			<item name="resourceSulfuricAcid" count="300,900"/>			
+			<item name="resourceCanisterWithPurifiedWater"/>
+			<item name="resourceOxBbleach" count="1,2"/>			
+			<item name="resourceClassicMatches" count="1,3"/>
 		</append>
 		
 		<append xpath="/traders/trader_info[@id='1']/trader_items[1][@count='all']"> <!-- JOEL -->

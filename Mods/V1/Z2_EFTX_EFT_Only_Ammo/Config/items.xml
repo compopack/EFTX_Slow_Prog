@@ -2,6 +2,49 @@
 	
 	<append xpath="/items">
 		<!-- *** Ammo Crafting Items -->
+		<item name="resourceCellulosePowder">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourcePaper"/>
+			<property name="Weight" value="0"/>
+			<property name="Stacknumber" value="6000"/>
+			<property name="EconomicValue" value="1"/>
+			<property name="EconomicBundleSize" value="10"/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="CraftingIngredientTime" value=".2"/>
+			<property name="SoundPickup" value="cornmeal_grab"/>
+			<property name="SoundPlace" value="cornmeal_place"/>
+		</item>
+		<item name="resourceNitricAcid">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceAcid"/>
+			<property name="Stacknumber" value="10000"/>
+			<property name="EconomicValue" value="1.15"/>
+			<property name="EconomicBundleSize" value="10"/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="CraftingIngredientTime" value=".15"/>
+			<property name="SoundPickup" value="grandpas_awesome_grab"/>
+			<property name="SoundPlace" value="grandpas_awesome_place"/>
+		</item>
+		<item name="resourceSulfuricAcid">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceAcid"/>
+			<property name="Stacknumber" value="10000"/>
+			<property name="EconomicValue" value="1.12"/>
+			<property name="EconomicBundleSize" value="10"/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="CraftingIngredientTime" value=".15"/>
+			<property name="SoundPickup" value="grandpas_awesome_grab"/>
+			<property name="SoundPlace" value="grandpas_awesome_place"/>
+		</item>
 		<item name="resource_item_other_powder"> <!-- Gunpowder "Kite" -->
 			<property name="Tags" value="chemicalEftItems,ammo9mm"/>
 			<property name="HoldType" value="45"/>
@@ -43,7 +86,133 @@
 			<property name="CraftingIngredientTime" value=".5"/>
 			<property name="SoundPickup" value="cement_grab"/>
 			<property name="SoundPlace" value="cement_place"/>
+		</item>	
+		<item name="resourceClassicMatches">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mdirt"/>
+			<property name="Stacknumber" value="500"/>
+			<property name="EconomicValue" value="10"/>
+			<property name="EconomicBundleSize" value="1"/>
+			<property name="Group" value="Resources"/>
+			<property name="CraftingIngredientTime" value="10"/>
+			<property name="SoundPickup" value="schematics_grab"/>
+			<property name="SoundPlace" value="schematics_place"/>
+		</item>
+		
+		<item name="resourceCanisterWithPurifiedWater">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceScrapIron"/>
+			<property name="Stacknumber" value="500"/>
+			<property name="EconomicValue" value="750"/>
+			<property name="EconomicBundleSize" value="1"/>
+			<property name="Group" value="Resources"/>
+			<property name="CraftingIngredientTime" value="600"/>
+			<property name="SoundPickup" value="bottle_acid_grab"/>
+			<property name="SoundPlace" value="bottle_acid_place"/>
+		</item>
+		
+		<item name="resourceOxBbleach">
+			<property name="Tags" value="chemicalEftItems"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceScrapIron"/>
+			<property name="Stacknumber" value="500"/>
+			<property name="EconomicValue" value="300"/>
+			<property name="EconomicBundleSize" value="1"/>
+			<property name="Group" value="Resources"/>
+			<property name="CraftingIngredientTime" value="10"/>
+			<property name="SoundPickup" value="puremineralwater_grab"/>
+			<property name="SoundPlace" value="puremineralwater_place"/>
+		</item>
+		<!-- *** Crafting Bundles -->
+		<item name="bundleEftResourceNitricAcid">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="resourceNitricAcid"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="DescriptionKey" value=""/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="SoundPickup" value="grandpas_awesome_grab"/>
+			<property name="SoundPlace" value="grandpas_awesome_place"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceNitricAcid"/>
+				<property name="Create_item_count" value="1950"/>
+			</property>
+		</item>
+		<item name="bundleEftResourceNitricAcid_2">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="resourceNitricAcid"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="DescriptionKey" value=""/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="SoundPickup" value="grandpas_awesome_grab"/>
+			<property name="SoundPlace" value="grandpas_awesome_place"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceNitricAcid"/>
+				<property name="Create_item_count" value="780"/>
+			</property>
+		</item>
+		<item name="bundleEftResourceSulfuricAcid">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="resourceSulfuricAcid"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="DescriptionKey" value=""/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="SoundPickup" value="grandpas_awesome_grab"/>
+			<property name="SoundPlace" value="grandpas_awesome_place"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceSulfuricAcid"/>
+				<property name="Create_item_count" value="10000"/>
+			</property>
+		</item>
+		<item name="bundleEftResourceSulfuricAcid_2">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="resourceSulfuricAcid"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="DescriptionKey" value=""/>
+			<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+			<property name="SoundPickup" value="grandpas_awesome_grab"/>
+			<property name="SoundPlace" value="grandpas_awesome_place"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceSulfuricAcid"/>
+				<property name="Create_item_count" value="1250"/>
+			</property>
 		</item>		
+		
+		<item name="schematicsChemician">
+			<property name="Extends" value="schematicNoQualityMaster"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="schematicsChemician"/>
+			<property name="Tags" value="schematicsChemician"/>
+			<property name="EconomicValue" value="1000"/>
+			<property name="DescriptionKey" value="schematicsChemicianDesc"/>
+			<property name="Unlocks" value="$schematicsChemician_helper"/>
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="bundleEftResourceNitricAcid" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="bundleEftResourceNitricAcid_2" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="bundleEftResourceSulfuricAcid" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="bundleEftResourceSulfuricAcid_2" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="resourceCellulosePowder" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+				
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$schematicsChemician_helper" operation="set" value="1"/>
+			</effect_group>
+		</item>
+		
 		<item name="resourceLowCaliberCasing">
 			<property name="Tags" value="ammo9mm"/>
 			<property name="HoldType" value="45"/>
@@ -4178,7 +4347,7 @@
 		
 		<!-- ### 40x46 & 40x53 -->
 		<item name="ammoEft4046381">
-			<property name="Tags" value="ammo,perkDemolitionsExpert"/>
+			<property name="Tags" value="ammo,perkDemolitionsExpert,eftBOOM"/>
 			<property name="DisplayType" value="ammoLauncher"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/grenades.unity3d?patron_40x46_m381.prefab"/>
@@ -4238,7 +4407,7 @@
 			</effect_group>
 		</item>
 		<item name="ammoEft4046576">
-			<property name="Tags" value="ammo,perkDemolitionsExpert"/>
+			<property name="Tags" value="ammo,perkDemolitionsExpert,eftBOOM"/>
 			<property name="DisplayType" value="ammoShotgunEft"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/grenades.unity3d?patron_40x46_m576.prefab"/>
@@ -4300,7 +4469,7 @@
 			</effect_group>
 		</item>
 		<item name="ammoEft4053vog25">
-			<property name="Tags" value="ammo,perkDemolitionsExpert"/>
+			<property name="Tags" value="ammo,perkDemolitionsExpert,eftBOOM"/>
 			<property name="DisplayType" value="ammoLauncher"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/grenades.unity3d?patron_vog25_40mm.prefab"/>
@@ -4356,7 +4525,7 @@
 		</item>
 		<!-- ### RPG7 Warhead -->
 		<item name="93x40mmRPG7Warhead">
-			<property name="Tags" value="ammo,perkDemolitionsExpert"/>
+			<property name="Tags" value="ammo,perkDemolitionsExpert,eftBOOM"/>
 			<property name="DisplayType" value="ammoLauncher"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="#@modfolder(EFTX_Pack_Core):Resources/RPG7Warhead.unity3d?patron_rpg7_pg7vl_93x40mm.prefab"/>
@@ -4406,7 +4575,7 @@
 		
 		<!-- EFT3 DVS AMMO -->				
 		<item name="GrenadeImpactRGN">
-			<property name="Tags" value="ammo,weapon,attPerception,perkDemolitionsExpert,explosivesSkill"/>
+			<property name="Tags" value="ammo,weapon,attPerception,perkDemolitionsExpert,explosivesSkill,eftBOOM"/>
 			<property name="ItemTypeIcon" value="explosion"/>
 			<property name="DisplayType" value="ammoGrenadeContact"/>
 			<property name="Class" value="ItemClassTimeBomb"/>
@@ -4467,7 +4636,7 @@
 		</item>
 		
 		<item name="GrenadeM67">
-	<property name="Tags" value="ammo,weapon,attPerception,perkDemolitionsExpert,explosivesSkill"/>
+	<property name="Tags" value="ammo,weapon,attPerception,perkDemolitionsExpert,explosivesSkill,eftBOOM"/>
 	<property name="ItemTypeIcon" value="explosion"/>
 	<property name="DescriptionKey" value="GrenadeM67Desc"/>
 	<property name="DisplayType" value="ammoGrenadeContact"/>
@@ -4652,55 +4821,55 @@
 		<append xpath="/items/item[@name='bundleWeaponsCaseT2_2']/property[@class='Action0']/property[@name='Create_item_count']/@value">,30</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseGoldenTT']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft76225mmTokarev</append>
-		<append xpath="/items/item[@name='bundlePistolCaseGoldenTT']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseGoldenTT']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseTT']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft76225mmTokarev</append>
-		<append xpath="/items/item[@name='bundlePistolCaseTT']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseTT']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseTTM']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft76225mmTokarev</append>
-		<append xpath="/items/item[@name='bundlePistolCaseTTM']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseTTM']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCasePB']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft918mmPM</append>
-		<append xpath="/items/item[@name='bundlePistolCasePB']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCasePB']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCasePM']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft918mmPM</append>
-		<append xpath="/items/item[@name='bundlePistolCasePM']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCasePM']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseAPS']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft918mmPM</append>
-		<append xpath="/items/item[@name='bundlePistolCaseAPS']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseAPS']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseG17']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft919mm</append>
-		<append xpath="/items/item[@name='bundlePistolCaseG17']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseG17']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseP226']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft919mm</append>
-		<append xpath="/items/item[@name='bundlePistolCaseP226']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseP226']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseM9A3']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft919mm</append>
-		<append xpath="/items/item[@name='bundlePistolCaseM9A3']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseM9A3']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseG18C']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft919mm</append>
-		<append xpath="/items/item[@name='bundlePistolCaseG18C']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseG18C']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseSR1MP']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft921mm</append>
-		<append xpath="/items/item[@name='bundlePistolCaseSR1MP']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseSR1MP']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseUSP45T']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft45ACP</append>	
-		<append xpath="/items/item[@name='bundlePistolCaseUSP45T']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseUSP45T']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCase1911']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft45ACP</append>
-		<append xpath="/items/item[@name='bundlePistolCase1911']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCase1911']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseM45']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft45ACP</append>
-		<append xpath="/items/item[@name='bundlePistolCaseM45']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseM45']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseUSP45M']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft45ACP</append>
-		<append xpath="/items/item[@name='bundlePistolCaseUSP45M']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseUSP45M']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseFS']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft5728FN</append>
-		<append xpath="/items/item[@name='bundlePistolCaseFS']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseFS']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<append xpath="/items/item[@name='bundlePistolCaseRSH']/property[@class='Action0']/property[@name='Create_item']/@value">,ammoEft12755PS12</append>
-		<append xpath="/items/item[@name='bundlePistolCaseRSH']/property[@class='Action0']/property[@name='Create_item_count']/@value">,75-150</append>
+		<append xpath="/items/item[@name='bundlePistolCaseRSH']/property[@class='Action0']/property[@name='Create_item_count']/@value">,25-50</append>
 		
 		<!-- SMG -->
 		<set xpath="/items/item[@name='gunppsh41']/property[@class='Action0']/property[@name='Magazine_items']/@value">ammoEft76225mmTokarev</set>
@@ -4957,7 +5126,18 @@
 		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftAP20Slug" operation="set" value="1"/>
 		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftBarricadeSlug" operation="set" value="1"/>		
     </append>
-	
+	<append xpath="//item[starts-with(@name,'ammo9mmBullet')]/effect_group">
+                <passive_effect name="MaxRange" operation="base_set" value="100" tags="perkGunslinger"/>
+    </append>
+    <append xpath="//item[starts-with(@name,'ammo762mmBullet')]/effect_group">
+                <passive_effect name="MaxRange" operation="base_set" value="500" tags="perkDeadEye,perkMachineGunner"/>
+    </append>
+    <append xpath="//item[starts-with(@name,'ammo44MagnumBullet')]/effect_group">
+                <passive_effect name="MaxRange" operation="base_set" value="100" tags="perkGunslinger"/>
+    </append>
+    <append xpath="//item[starts-with(@name,'ammoShotgun')]/effect_group">
+                <passive_effect name="MaxRange" operation="base_set" value="50" tags="perkBoomstick"/>
+    </append>
 	
 	
 </configs>

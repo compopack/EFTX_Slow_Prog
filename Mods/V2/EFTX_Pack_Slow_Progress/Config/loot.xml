@@ -716,208 +716,240 @@
 			<item name="modstockpmmulss" count="1"/>
 		</lootgroup>
 <!-- STOCKS ATTACHMENTS -->
-<!-- SKILL MAGAZINES -->
-		<lootgroup name="groupModEftSkillMagazinesMedical" >
-			<item name="DoctorMedicalJournalsSkillMagazine" count="1,2"/>
-			<item name="BooksOfASurgeonSkillMagazine" count="1,2"/>
-		</lootgroup>				
+<!-- SKILL MAGAZINES -->					
 		<lootgroup name="groupModEftSkillMagazinesSmg" >
-			<item name="Gunppsh41SkillMagazine" count="1,2"/>
-			<item name="Gunpp9klinSkillMagazine" count="1,2"/>
-			<item name="Gunpp19bizonSkillMagazine" count="1,2"/>
-			<item name="Gunmp5kSkillMagazine" count="1,2"/>
-			<item name="Gunmp5SkillMagazine" count="1,2"/>
-			<item name="GunuziSkillMagazine" count="1,2"/>
-			<item name="Gunpp19vityazSkillMagazine" count="1,2"/>
-			<item name="Gunmp9SkillMagazine" count="1,2"/>
-			<item name="GunuziprosmgSkillMagazine" count="1,2"/>
-			<item name="Gunmp5sdSkillMagazine" count="1,2"/>
-			<item name="Gunvector9SkillMagazine" count="1,2"/>
-			<item name="GunmpxSkillMagazine" count="1,2"/>
-			<item name="Gunstm9SkillMagazine" count="1,2"/>				
-			<item name="Gunsr2mvereskSkillMagazine" count="1,2"/>
-			<item name="Gunump45SkillMagazine" count="1,2"/>
-			<item name="GunthompsonSkillMagazine" count="1,2"/>
-			<item name="Gunvector45SkillMagazine" count="1,2"/>
-			<item name="Gunmp7SkillMagazine" count="1,2"/>
-			<item name="Gunp90SkillMagazine" count="1,2"/>
+			<item name="Gunppsh41SkillMagazine" count="1"/>
+			<item name="Gunpp9klinSkillMagazine" count="1"/>
+			<item name="Gunpp19bizonSkillMagazine" count="1"/>
+			<item name="Gunmp5kSkillMagazine" count="1"/>
+			<item name="Gunmp5SkillMagazine" count="1"/>
+			<item name="GunuziSkillMagazine" count="1"/>
+			<item name="Gunpp19vityazSkillMagazine" count="1"/>
+			<item name="Gunmp9SkillMagazine" count="1"/>
+			<item name="GunuziprosmgSkillMagazine" count="1"/>
+			<item name="Gunmp5sdSkillMagazine" count="1"/>
+			<item name="Gunvector9SkillMagazine" count="1"/>
+			<item name="GunmpxSkillMagazine" count="1"/>
+			<item name="Gunstm9SkillMagazine" count="1"/>				
+			<item name="Gunsr2mvereskSkillMagazine" count="1"/>
+			<item name="Gunump45SkillMagazine" count="1"/>
+			<item name="GunthompsonSkillMagazine" count="1"/>
+			<item name="Gunvector45SkillMagazine" count="1"/>
+			<item name="Gunmp7SkillMagazine" count="1"/>
+			<item name="Gunp90SkillMagazine" count="1"/>
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesPistols" >
-			<item name="GuntokarevttSkillMagazine" count="1,2"/>
-			<item name="GuntokarevgoldSkillMagazine" count="1,2"/>
-			<item name="GuntokarevmachineSkillMagazine" count="1,2"/>
-			<item name="GunpbSkillMagazine" count="1,2"/>
-			<item name="GunpmalphadogSkillMagazine" count="1,2"/>
-			<item name="GunstechkinSkillMagazine" count="1,2"/>
-			<item name="Gunglock17SkillMagazine" count="1,2"/>
-			<item name="Gunp226SkillMagazine" count="1,2"/>
-			<item name="Gunm9a3SkillMagazine" count="1,2"/>
-			<item name="Gunglock18cSkillMagazine" count="1,2"/>
-			<item name="Gunsr1mpSkillMagazine" count="1,2"/>
-			<item name="Gunusp45tacSkillMagazine" count="1,2"/>
-			<item name="Gunm1911SkillMagazine" count="1,2"/>
-			<item name="Gunm45SkillMagazine" count="1,2"/>
-			<item name="Gunusp45matchSkillMagazine" count="1,2"/>
-			<item name="GunfivesevenSkillMagazine" count="1,2"/>
-			<item name="GundeserteagleSkillMagazine" count="1,2"/>
-			<item name="Gunrsh12SkillMagazine" count="1,2"/>
+			<item name="GuntokarevttSkillMagazine" count="1"/>
+			<item name="GuntokarevgoldSkillMagazine" count="1"/>
+			<item name="GuntokarevmachineSkillMagazine" count="1"/>
+			<item name="GunpbSkillMagazine" count="1"/>
+			<item name="GunpmalphadogSkillMagazine" count="1"/>
+			<item name="GunstechkinSkillMagazine" count="1"/>
+			<item name="Gunglock17SkillMagazine" count="1"/>
+			<item name="Gunp226SkillMagazine" count="1"/>
+			<item name="Gunm9a3SkillMagazine" count="1"/>
+			<item name="Gunglock18cSkillMagazine" count="1"/>
+			<item name="Gunsr1mpSkillMagazine" count="1"/>
+			<item name="Gunusp45tacSkillMagazine" count="1"/>
+			<item name="Gunm1911SkillMagazine" count="1"/>
+			<item name="Gunm45SkillMagazine" count="1"/>
+			<item name="Gunusp45matchSkillMagazine" count="1"/>
+			<item name="GunfivesevenSkillMagazine" count="1"/>
+			<item name="GundeserteagleSkillMagazine" count="1"/>
+			<item name="Gunrsh12SkillMagazine" count="1"/>
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesShotguns" >							
-			<item name="Gunks23SkillMagazine" count="1,2"/>
-			<item name="Gunmp43SkillMagazine" count="1,2"/>
-			<item name="Gunmts255SkillMagazine" count="1,2"/>
-			<item name="Gunm590SkillMagazine" count="1,2"/>
-			<item name="Gunm870SkillMagazine" count="1,2"/>
-			<item name="Gunksg12SkillMagazine" count="1,2"/>
-			<item name="Gunmp153SkillMagazine" count="1,2"/>
-			<item name="Gunm3benelliSkillMagazine" count="1,2"/>
-			<item name="Gunsaiga12SkillMagazine" count="1,2"/>				
-			<item name="GunAA12SkillMagazine" count="1,2"/>								
+			<item name="Gunks23SkillMagazine" count="1"/>
+			<item name="Gunmp43SkillMagazine" count="1"/>
+			<item name="Gunmts255SkillMagazine" count="1"/>
+			<item name="Gunm590SkillMagazine" count="1"/>
+			<item name="Gunm870SkillMagazine" count="1"/>
+			<item name="Gunksg12SkillMagazine" count="1"/>
+			<item name="Gunmp153SkillMagazine" count="1"/>
+			<item name="Gunm3benelliSkillMagazine" count="1"/>
+			<item name="Gunsaiga12SkillMagazine" count="1"/>				
+			<item name="GunAA12SkillMagazine" count="1"/>								
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesGlaunchers" >							
-			<item name="Gunfn40glSkillMagazine" count="1,2"/>
-			<item name="GunchinalakeSkillMagazine" count="1,2"/>
-			<item name="Gunm32a1mglSkillMagazine" count="1,2"/>
-			<item name="Gunrpg7SkillMagazine" count="1,2"/>							
+			<item name="Gunfn40glSkillMagazine" count="1"/>
+			<item name="GunchinalakeSkillMagazine" count="1"/>
+			<item name="Gunm32a1mglSkillMagazine" count="1"/>
+			<item name="Gunrpg7SkillMagazine" count="1"/>							
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesRifles" >
-			<item name="GunadarSkillMagazine" count="1,2"/>
-			<item name="Gunstar15SkillMagazine" count="1,2"/>
-			<item name="Gunm700SkillMagazine" count="1,2"/>
-			<item name="Gundvl10SkillMagazine" count="1,2"/>
-			<item name="Gunt5000SkillMagazine" count="1,2"/>
-			<item name="GunFALsa58dmrSkillMagazine" count="1,2"/>
-			<item name="Gunm1aEBRSkillMagazine" count="1,2"/>
-			<item name="GunrfbSkillMagazine" count="1,2"/>
-			<item name="Gunsr25SkillMagazine" count="1,2"/>
-			<item name="GunrsassSkillMagazine" count="1,2"/>
-			<item name="Gunhkg28SkillMagazine" count="1,2"/>
-			<item name="Gunmp18SkillMagazine" count="1,2"/>
-			<item name="GunmosinSkillMagazine" count="1,2"/>
-			<item name="Gunsv98SkillMagazine" count="1,2"/>
-			<item name="GunsvtSkillMagazine" count="1,2"/>
-			<item name="GunsvdSkillMagazine" count="1,2"/>
-			<item name="GunaxmcSkillMagazine" count="1,2"/>
-			<item name="Gunswordmk18SkillMagazine" count="1,2"/>
+			<item name="GunadarSkillMagazine" count="1"/>
+			<item name="Gunstar15SkillMagazine" count="1"/>
+			<item name="Gunm700SkillMagazine" count="1"/>
+			<item name="Gundvl10SkillMagazine" count="1"/>
+			<item name="Gunt5000SkillMagazine" count="1"/>
+			<item name="GunFALsa58dmrSkillMagazine" count="1"/>
+			<item name="Gunm1aEBRSkillMagazine" count="1"/>
+			<item name="GunrfbSkillMagazine" count="1"/>
+			<item name="Gunsr25SkillMagazine" count="1"/>
+			<item name="GunrsassSkillMagazine" count="1"/>
+			<item name="Gunhkg28SkillMagazine" count="1"/>
+			<item name="Gunmp18SkillMagazine" count="1"/>
+			<item name="GunmosinSkillMagazine" count="1"/>
+			<item name="Gunsv98SkillMagazine" count="1"/>
+			<item name="GunsvtSkillMagazine" count="1"/>
+			<item name="GunsvdSkillMagazine" count="1"/>
+			<item name="GunaxmcSkillMagazine" count="1"/>
+			<item name="Gunswordmk18SkillMagazine" count="1"/>
 			</lootgroup>
 <lootgroup name="groupModEftSkillMagazinesMachineGuns" >			
-			<item name="Gunauga3SkillMagazine" count="1,2"/>
-			<item name="Gung36kv2SkillMagazine" count="1,2"/>
-			<item name="Gunm4a1SkillMagazine" count="1,2"/>
-			<item name="Gunm16a4SkillMagazine" count="1,2"/>
-			<item name="Gunl85a2SkillMagazine" count="1,2"/>
-			<item name="Gunmdr556SkillMagazine" count="1,2"/>
-			<item name="Gunhk416SkillMagazine" count="1,2"/>
-			<item name="GunIWItavorx95SkillMagazine" count="1,2"/>
-			<item name="GunIWIcarmelSkillMagazine" count="1,2"/>
-			<item name="Gunak300velociraptorSkillMagazine" count="1,2"/>			
-			<item name="GunhoneybadgerSkillMagazine" count="1,2"/>
-			<item name="GunmcxSkillMagazine" count="1,2"/>				
-			<item name="GunFALsa58brSkillMagazine" count="1,2"/>
-			<item name="Gunmdr762SkillMagazine" count="1,2"/>
-			<item name="GunscarhSkillMagazine" count="1,2"/>
-			<item name="Gunhk417SkillMagazine" count="1,2"/>
-			<item name="Gunm14sassSkillMagazine" count="1,2"/>
-			<item name="GunmcxspearSkillMagazine" count="1,2"/>			
-			<item name="Gunash12SkillMagazine" count="1,2"/>
-			<item name="Gunrpk16SkillMagazine" count="1,2"/>
-			<item name="GunfnminimiSkillMagazine" count="1,2"/>
-			<item name="GunrpdSkillMagazine" count="1,2"/>
-			<item name="Gunm60e6SkillMagazine" count="1,2"/>
-			<item name="GunpkpSkillMagazine" count="1,2"/>
-			<item name="Gunaks74unSkillMagazine" count="1,2"/>
-			<item name="Gunak74nSkillMagazine" count="1,2"/>
-			<item name="Gunak74mSkillMagazine" count="1,2"/>
-			<item name="Gunak12SkillMagazine" count="1,2"/>
-			<item name="Gunak107SkillMagazine" count="1,2"/>
-			<item name="GunsksSkillMagazine" count="1,2"/>
-			<item name="GunakmnSkillMagazine" count="1,2"/>					
-			<item name="Gunak103SkillMagazine" count="1,2"/>
-			<item name="Gunak109SkillMagazine" count="1,2"/>
-			<item name="Gunrd704SkillMagazine" count="1,2"/>
-			<item name="Gunmk47SkillMagazine" count="1,2"/>
-			<item name="Gun9a91SkillMagazine" count="1,2"/>
-			<item name="GunvssSkillMagazine" count="1,2"/>
-			<item name="GunasvalSkillMagazine" count="1,2"/>			
-			<item name="GunfamasSkillMagazine" count="1,2"/>
+			<item name="Gunauga3SkillMagazine" count="1"/>
+			<item name="Gung36kv2SkillMagazine" count="1"/>
+			<item name="Gunm4a1SkillMagazine" count="1"/>
+			<item name="Gunm16a4SkillMagazine" count="1"/>
+			<item name="Gunl85a2SkillMagazine" count="1"/>
+			<item name="Gunmdr556SkillMagazine" count="1"/>
+			<item name="Gunhk416SkillMagazine" count="1"/>
+			<item name="GunIWItavorx95SkillMagazine" count="1"/>
+			<item name="GunIWIcarmelSkillMagazine" count="1"/>
+			<item name="Gunak300velociraptorSkillMagazine" count="1"/>			
+			<item name="GunhoneybadgerSkillMagazine" count="1"/>
+			<item name="GunmcxSkillMagazine" count="1"/>				
+			<item name="GunFALsa58brSkillMagazine" count="1"/>
+			<item name="Gunmdr762SkillMagazine" count="1"/>
+			<item name="GunscarhSkillMagazine" count="1"/>
+			<item name="Gunhk417SkillMagazine" count="1"/>
+			<item name="Gunm14sassSkillMagazine" count="1"/>
+			<item name="GunmcxspearSkillMagazine" count="1"/>			
+			<item name="Gunash12SkillMagazine" count="1"/>
+			<item name="Gunrpk16SkillMagazine" count="1"/>
+			<item name="GunfnminimiSkillMagazine" count="1"/>
+			<item name="GunrpdSkillMagazine" count="1"/>
+			<item name="Gunm60e6SkillMagazine" count="1"/>
+			<item name="GunpkpSkillMagazine" count="1"/>
+			<item name="Gunaks74unSkillMagazine" count="1"/>
+			<item name="Gunak74nSkillMagazine" count="1"/>
+			<item name="Gunak74mSkillMagazine" count="1"/>
+			<item name="Gunak12SkillMagazine" count="1"/>
+			<item name="Gunak107SkillMagazine" count="1"/>
+			<item name="GunsksSkillMagazine" count="1"/>
+			<item name="GunakmnSkillMagazine" count="1"/>					
+			<item name="Gunak103SkillMagazine" count="1"/>
+			<item name="Gunak109SkillMagazine" count="1"/>
+			<item name="Gunrd704SkillMagazine" count="1"/>
+			<item name="Gunmk47SkillMagazine" count="1"/>
+			<item name="Gun9a91SkillMagazine" count="1"/>
+			<item name="GunvssSkillMagazine" count="1"/>
+			<item name="GunasvalSkillMagazine" count="1"/>			
+			<item name="GunfamasSkillMagazine" count="1"/>
 		</lootgroup>							
 		<lootgroup name="groupModEftSkillMagazinesScopes" >
-			<item name="weaponModifiersScopesSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersScopesSkillMagazine" count="1"/>
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesGripBipods" >
-			<item name="weaponModifiersBipodsForegripsSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersBipodsForegripsSkillMagazine" count="1"/>
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesMags" >
-			<item name="weaponModifiersMagazinesSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersMagazinesSkillMagazine" count="1"/>
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesSilencers" >
-			<item name="weaponModifiersSilencersSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersSilencersSkillMagazine" count="1"/>
 		</lootgroup>
 		<lootgroup name="groupModEftSkillMagazinesStocks" >
-			<item name="weaponModifiersStocksSkillMagazine" count="1,2"/>
+			<item name="weaponModifiersStocksSkillMagazine" count="1"/>
 		</lootgroup>	
 		<lootgroup name="groupModEftSkillMagazinesSpecials" >
-				<item name="weaponModifiersGrenadeLauncherAttachmentsSkillMagazine" count="1,2"/>
+				<item name="weaponModifiersGrenadeLauncherAttachmentsSkillMagazine" count="1"/>
 		</lootgroup>				
 <!-- MAGAZINES EXCEPT LIGHTS-->
 <!-- MAGAZINES LIGHTS-->
 		<lootgroup name="groupModEftSkillMagazinesLights" >
 			<item name="HeadLightsandNVGSSkillMagazine" count="1"/>							
 			</lootgroup>			
-<!-- MAGAZINES LIGHTS-->
-<!-- MEDICAL -->
-				<lootgroup name="groupInjectorSmall" >
-					<item name="resourcePileOfMeds" count="1,3" loot_prob_template="veryLow"/>	
-					<item name="resourceDisposableSyringe" count="1,3" loot_prob_template="medLow"/>
-					<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>					
-					<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
-					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
-					</lootgroup>
-				<lootgroup name="groupInjectorMed" >
-					<item name="resourcePileOfMeds" count="3,6" loot_prob_template="veryLow"/>	 
-					<item name="resourceDisposableSyringe" count="3,6" loot_prob_template="medLow"/>
-					<item name="resourceSalineSolution" count="3,6" loot_prob_template="medHigh"/>
-					<item name="medicalIFAK" count="1,2" loot_prob_template="veryLow" force_prob="true"/>		
-					<item name="resourceCanisterWithPurifiedWater" count="2,3" loot_prob_template="medLow"/>
-					<item name="medicalSurv12" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
+<!-- MAGAZINES LIGHTS-->		
+<!-- ************************************************************************************ -->
+				<lootgroup name="groupModAttachmentsMagazinesAll" >
+					<item group="groupModEftSkillMagazinesScopes" count="1" loot_prob_template="veryLow"/>	
+					<item group="groupModEftSkillMagazinesGripBipods" count="1" loot_prob_template="medLow"/>
+					<item group="groupModEftSkillMagazinesMags" count="1" loot_prob_template="medHigh"/>					
+					<item group="groupModEftSkillMagazinesSilencers" count="1" loot_prob_template="medLow"/>
+					<item group="groupModEftSkillMagazinesStocks" count="1" loot_prob_template="low"/>
 				</lootgroup>
-				<lootgroup name="groupInjectorLarge" >
-					<item name="resourcePileOfMeds" count="4,7" loot_prob_template="veryLow"/>	
-					<item name="resourceDisposableSyringe" count="4,7" loot_prob_template="medLow"/>
-					<item name="resourceSalineSolution" count="4,7" loot_prob_template="medHigh"/>
-					<item name="medicalIFAK" count="1,2" loot_prob_template="veryLow" force_prob="true"/>		
-					<item name="resourceCanisterWithPurifiedWater" count="3,4" loot_prob_template="veryLow"/>
-					<item name="medicalInjectorMULE" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalSalewa" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalCMS" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalSurv12" count="1" loot_prob_template="veryLow" force_prob="true"/>	
-					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
-					<item name="BooksOfASurgeonSkillMagazine" count="1,2" loot_prob_template="low"/>
-				</lootgroup>
-				<lootgroup name="groupInjectorExtraLarge">
-					<item name="resourceDisposableSyringe" count="1,3" loot_prob_template="medLow"/>
-					<item name="medicalInjectorAdrenaline" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalInjectorMorphine" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalInjectorPerfortran" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalInjectorPropitalRegenerativeStim" count="1" loot_prob_template="veryLow"/>
-					<item name="medicalInjectorMULE" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalSurv12" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalInjectorSJ12" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalInjector2A2" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="resourcePileOfMeds" count="1" loot_prob_template="veryLow"/>	
-					<item name="medicalSalewa" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="medicalCMS" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
-					<item name="medicalIFAK" count="1" loot_prob_template="veryLow" force_prob="true"/>
-					<item name="resourceCanisterWithPurifiedWater" count="4,5" loot_prob_template="medLow"/>
-					<item name="DoctorMedicalJournalsSkillMagazine" count="1,2" loot_prob_template="low"/>
-					<item name="BooksOfASurgeonSkillMagazine" count="1,2" loot_prob_template="low"/>
-				</lootgroup>
-<!-- MEDICAL -->
-		
+<!-- ************************************************************************************ -->
+<!-- ************************************************************************************ -->
+<!-- ************************************************************************************ -->
+<!-- PISTOL CASES -->	
+		<lootgroup name="groupEftPistolsCases" loot_quality_template="QLTemplateT1">
+			<item group="groupEftPistolsCasesT1" count="1"/>
+			<item group="groupEftPistolsCasesT2" count="1"/>
+			<item group="groupEftPistolsCasesT3" count="1"/>
+			<item group="groupEftPistolsCasesT4" count="1"/>
+			<item group="groupEftPistolsCasesT5"  count="1"/>
+		</lootgroup>
+	<!-- PISTOL CASES -->	
+	<!-- CASES -->
+		<lootgroup name="groupEftCases" loot_quality_template="QLTemplateT1">
+				<item group="groupgunks23" count="1"/>
+				<item group="groupgunrpk16guaranteedmag" count="1"/>
+				<item group="groupgunmpxwithmag" count="1"/>
+				<item group="groupgunvector45withmag" count="1"/>
+			</lootgroup>
+	<!-- CASES -->	
+	<!-- MODS ALL -->
+	<lootgroup name="groupEftModsT1" loot_quality_template="QLTemplateT1">
+			<item group="groupModEftGunScopesT1" count="1"/>
+			<item group="groupModEftGunScopeCanted" count="1"/>
+			<item group="groupModEftGunExtMagazinesT1" count="1"/>
+			<item group="groupModEftGunBarrelAttT1" count="1"/>
+			<item group="groupModEftGunStocksT1"  count="1"/>
+	</lootgroup>
+	<lootgroup name="groupEftModsT2" loot_quality_template="QLTemplateT2">
+			<item group="groupModEftGunScopesT2" count="1"/>
+			<item group="groupModEftGunExtMagazinesT2" count="1"/>
+			<item group="groupModEftGunBarrelAttT2" count="1"/>
+			<item group="groupModEftGunStocksT2" count="1"/>
+	</lootgroup>
+	<lootgroup name="groupEftModsT3" loot_quality_template="QLTemplateT3">
+			<item group="groupModEftGunScopesT3" count="1"/>
+			<item group="groupModEftGunExtMagazinesT3" count="1"/>
+			<item group="groupModEftGunBarrelAttT3" count="1"/>
+			<item group="groupModEftGunStocksT3" count="1"/>
+	</lootgroup>
+	<lootgroup name="groupEftModsT4" loot_quality_template="QLTemplateT4">
+			<item group="groupModEftGunScopesT4" count="1"/>
+			<item group="groupModEftGunExtMagazinesT4" count="1"/>
+			<item group="groupModEftGunBarrelAttT4" count="1"/>
+			<item group="groupModEftGunStocksT4" count="1"/>
+	</lootgroup>
+	<lootgroup name="groupEftModsT5" loot_quality_template="QLTemplateT5">
+			<item group="groupModEftGunExtMagazinesT5" count="1"/>
+			<item group="groupModEftGunBarrelAttT5" count="1"/>
+			<item group="groupModEftGunStocksT5" count="1"/>
+	</lootgroup>	
+	<!-- MODS ALL -->
+		<!-- MAGAZINES-->
+		<lootgroup name="groupModEftSkillMagazinesAll">
+				<item group="groupModEftSkillMagazinesPistols" count="1"/>				
+				<item group="groupModEftSkillMagazinesStocks" count="1"/>
+				<item group="groupModEftSkillMagazinesScopes" count="1"/>				
+				<item group="groupModEftSkillMagazinesGripBipods" count="1"/>				
+				<item group="groupModEftSkillMagazinesMags" count="1"/>					
+				<item group="groupModEftSkillMagazinesSmg" count="1"/>								
+				<item group="groupModEftSkillMagazinesShotguns" count="1"/>				
+				<item group="groupModEftSkillMagazinesRifles" count="1"/>
+				<item group="groupModEftSkillMagazinesMachineGuns" count="1"/>					
+				<item group="groupModEftSkillMagazinesSilencers" count="1"/>
+				<item group="groupModEftSkillMagazinesLights" count="1"/>	
+				<item group="groupModEftSkillMagazinesSpecials" count="1"/>				
+		</lootgroup>
+<!-- MAGAZINES-->
+</insertBefore>
+<insertAfter xpath="//lootgroup[@name='groupCaskets']">
 <!-- ZOMBIE LOOT GROUPS -->
 <!-- COPS -->
+		<lootgroup name="groupCopAmmoT1" >
+				<item group="group9mmSmall" count="1" />
+		</lootgroup>
+		<lootgroup name="groupCopAmmoT2" >
+				<item group="group9mmMedium" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupCopAmmoT3" >
+				<item group="group9mmLarge" count="1"/>
+		</lootgroup>
 		<lootgroup name="groupCopPistolsT1" loot_quality_template="QLTemplateT1">
 			<item group="groupgunstechkin" count="1" quality="1"/>			
 			<item group="groupgunm9a3" count="1" quality="1"/>			
@@ -937,6 +969,24 @@
 		</lootgroup>
 <!-- COPS -->
 <!-- SOLDIERS -->
+		<lootgroup name="groupSoldierAmmoT1" >
+				<item group="group762mmSmall" count="1" />
+		</lootgroup>
+		<lootgroup name="groupSoldierAmmoT2" >
+				<item group="group762mmMedium" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupSoldierAmmoT3" >
+				<item group="group762mmLarge" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupSoldierBonusT1" >
+				<item group="groupAmmoResourcesSmall" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupSoldierBonusT2" >
+				<item group="groupAmmoResourcesMedium" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupSoldierBonusT3" >
+				<item group="groupAmmoResourcesLarge" count="1"/>
+		</lootgroup>
 		<lootgroup name="groupSoldierMGT1" loot_quality_template="QLTemplateT1">
 			<item name="gunauga3" count="1" quality="1"/>			
 			<item name="gung36kv2" count="1" quality="1"/>
@@ -969,6 +1019,15 @@
 
 <!-- SOLDIERS -->
 <!-- BIKER -->
+		<lootgroup name="groupBikerAmmoT1" >
+				<item group="groupShotgunShellSmall" count="1" />
+		</lootgroup>
+		<lootgroup name="groupBikerAmmoT2" >
+				<item group="groupShotgunShellMedium" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupBikerAmmoT3" >
+				<item group="groupShotgunShellLarge" count="1"/>
+		</lootgroup>
 		<lootgroup name="groupBikerShotgunsT1" loot_quality_template="QLTemplateT1">
 			<item name="gunmp43" count="1" quality="1"/>
 			<item name="gunmts255" count="1" quality="1"/>
@@ -985,6 +1044,15 @@
 		</lootgroup>
 <!-- BIKER -->
 <!-- PARTYGIRL/THUG  -->
+		<lootgroup name="groupPartyThugAmmoT1" >
+				<item group="group9mmSmall" count="1" />
+		</lootgroup>
+		<lootgroup name="groupPartyThugAmmoT2" >
+				<item group="group9mmMedium" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupPartyThugAmmoT3" >
+				<item group="group9mmLarge" count="1"/>
+		</lootgroup>
 		<lootgroup name="groupDrugs" >
 			<item name="drugAtomJunkies"/>
 			<item name="drugCovertCats"/>
@@ -1036,209 +1104,354 @@
 		</lootgroup>
 
 <!-- PARTYGIRL/THUG  -->
+<!-- FATMOMMA/LUMBERJACK  -->
+		<lootgroup name="groupMommaLJAmmoT1" >
+				<item group="group762mmSmall" count="1" />
+		</lootgroup>
+		<lootgroup name="groupMommaLJAmmoT2" >
+				<item group="group762mmMedium" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupMommaLJAmmoT3" >
+				<item group="group762mmLarge" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupMommaFoods">
+			<item name="foodRottingFlesh" count="1,3" loot_prob_template="high"/>
+			<item name="resourceBone" count="1,3" loot_prob_template="med"/>
+			<item name="resourceCoal" count="1,2" loot_prob_template="med"/>
+			<item name="foodCharredMeat" count="1,2" loot_prob_template="low"/>
+			<item name="foodGrilledMeat" count="1,2" loot_prob_template="veryLow"/>
+			<item name="meleeWpnBladeT1HuntingKnife" loot_prob_template="veryLow"/>
+			<item name="toolCookingGrill" loot_prob_template="veryLow"/>
+		</lootgroup>
+		<lootgroup name="groupMommasTable">
+			<item name="foodCanBeef" count="1,2"/>
+			<item name="foodCanCatfood" count="1,2"/>
+			<item name="foodCanChicken" count="1,2"/>
+			<item name="foodCanChili" count="1,2"/>
+			<item name="foodCanDogfood" count="1,2"/>
+			<item name="foodCanSham" count="1,2"/>
+			<item name="foodCanLamb" count="1,2"/>
+			<item name="foodCanMiso" count="1,2"/>
+			<item name="foodCanPasta" count="1,2"/>
+			<item name="foodCanPeas" count="1,2"/>
+			<item name="foodCanSalmon" count="1,2"/>
+			<item name="foodCanSoup" count="1,2"/>
+			<item name="foodCanStock" count="1,2"/>
+			<item name="foodCanTuna" count="1,2"/>
+			<item name="foodCanPears" count="1,2"/>
+			<item name="foodRawMeat" count="1,5"/>
+			<item name="foodEgg" count="1,2"/>
+			<item name="drinkJarRiverWater" count="1,2"/>
+		</lootgroup>
+		<lootgroup name="groupMommasBuffet">
+			<item name="drinkJarGrandpasAwesomeSauce" count="1"/>
+			<item name="drinkJarGrandpasLearningElixir" count="1"/>
+			<item name="drinkJarGrandpasMoonshine" count="1"/>
+			<item name="foodShamChowder" count="1"/>
+			<item name="foodHoboStew" count="1"/>
+			<item name="drinkJarBlackStrapCoffee" count="1"/>
+			<item name="drinkCanMegaCrush" count="1"/>
+		</lootgroup>		
+		<lootgroup name="groupLJsReward">
+			<item name="resourceWood" count="500"/>
+			<item name="resourceCobblestones" count="250"/>
+			<item name="resourceCoal" count="200"/>
+			<item name="resourceGunPowder" count="100"/>
+			<item name="resourceGlue" count="5"/>
+			<item name="resourceLockPick" count="5"/>
+		</lootgroup>
+		<lootgroup name="groupLJsProduce">
+			<item name="plantedPotato1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedCoffee1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedCorn1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedBlueberry1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedGoldenrod1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedAloe1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedMushroom1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedYucca1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedHop1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedChrysanthemum1" count="1,2" loot_prob_template="low"/>
+			<item name="plantedPumpkin1" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWood" count="2,20" loot_prob_template="low"/>
+			<item name="foodRottingFlesh" count="1,3" loot_prob_template="low"/>
+		</lootgroup>
+		<lootgroup name="groupLJsBonus">
+			<item name="resourceCement" count="50,500"/>
+			<item name="resourceConcreteMix" count="50,250"/>
+			<item name="resourceGunPowder" count="50,200"/>
+			<item name="resourceGlue" count="1,5"/>
+			<item name="resourceDuctTape" count="1,5"/>
+			<item name="resourceMechanicalParts" count="1,5"/>
+			<item name="resourceRepairKit" count="1,5"/>
+			<item name="meleeToolAxeT3ChainsawParts" count="1,4"/>
+		</lootgroup>
+		<lootgroup name="groupMommaJackRiflesT1" loot_quality_template="QLTemplateT1">
+			<item name="gunadar" count="1" quality="1"/>
+			<item name="gunFALsa58dmr" count="1" quality="1"/>
+			<item name="gunmp18" count="1" quality="1"/>
+		</lootgroup>
+		<lootgroup name="groupMommaJackRiflesT2" loot_quality_template="QLTemplateT2">
+			<item name="gunstar15" count="1" quality="2"/>
+			<item name="gunm700" count="1" quality="2"/>
+			<item name="gundvl10" count="1" quality="2"/>
+		</lootgroup>
+		<lootgroup name="groupMommaJackRiflesT3" loot_quality_template="QLTemplateT3">
+			<item name="gunm1aEBR" count="1" quality="3"/>
+			<item name="gunsvt" count="1" quality="3"/>
+			<item name="gunmosin" count="1" quality="3"/>
+		</lootgroup>
+
+<!-- FATMOMMA/LUMBERJACK  -->
+<!-- MECHANIC  -->
+	<lootgroup name="groupMechanicsWarezT1">
+	<item name="drinkJarRiverWater" count="1" loot_prob_template="high"/>
+	<item name="resourceElectricParts" count="1,2" loot_prob_template="med"/>
+	<item name="resourceMechanicalParts" count="1,2" loot_prob_template="med"/>
+	<item name="resourceHeadlight" count="1,2" loot_prob_template="med"/>
+	<item name="carBattery" loot_prob_template="medLow"/>
+	<item name="meleeToolSalvageT1Wrench" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+	<item name="vehiclesSkillMagazine" loot_prob_template="med"/>	
+	<item name="toolAnvil" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+	</lootgroup>
+	<lootgroup name="groupMechanicsWarezT2">
+	<item name="drinkJarRiverWater" count="1,2" loot_prob_template="high"/>
+	<item name="drinkJarBeer" count="1" loot_prob_template="low"/>
+	<item name="resourceElectricParts" count="1,2" loot_prob_template="med"/>
+	<item name="resourceMechanicalParts" count="1,2" loot_prob_template="med"/>
+	<item name="resourceHeadlight" count="1,2" loot_prob_template="med"/>
+	<item name="carBattery" loot_prob_template="medLow"/>
+	<item name="vehiclesSkillMagazine" loot_prob_template="med"/>
+	<item name="electricwirerelay" count="5,15" loot_prob_template="med"/>
+	<item name="electrictimerrelay" count="1,3" loot_prob_template="med"/>
+	<item name="ceilingLight01_player" count="1,6" loot_prob_template="med"/>
+	<item name="switch" count="1,3" loot_prob_template="med"/>
+	<item name="speaker" count="1" loot_prob_template="low"/>
+	<item name="motionsensor" count="1,2" loot_prob_template="low"/>
+	<item name="pressureplate" count="1,5" loot_prob_template="low"/>
+	<item name="batterybank" loot_prob_template="veryLow"/>
+	<item name="generatorbank" loot_prob_template="veryLow"/>
+	<item name="electricianSkillMagazine" loot_prob_template="high"/>
+	<item name="trapsSkillMagazine" count="1" loot_prob_template="med"/>
+	<item name="toolBellows" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+	<item name="meleeToolSalvageT2Ratchet" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+	</lootgroup>
+	<lootgroup name="groupMechanicsWarezT3">
+	<item name="drinkJarRiverWater" count="1,2" loot_prob_template="high"/>
+	<item name="drinkJarBeer" count="1" loot_prob_template="med"/>
+	<item name="resourceElectricParts" count="1,2" loot_prob_template="med"/>
+	<item name="resourceMechanicalParts" count="1,2" loot_prob_template="med"/>
+	<item name="resourceHeadlight" count="1,2" loot_prob_template="med"/>
+	<item name="carBattery" loot_prob_template="medLow"/>
+	<item name="meleeToolSalvageT1Wrench" loot_prob_template="med"/>
+	<item name="vehiclesSkillMagazine" loot_prob_template="med"/>
+	<item name="electricwirerelay" count="5,15" loot_prob_template="med"/>
+	<item name="electrictimerrelay" count="1,3" loot_prob_template="med"/>
+	<item name="ceilingLight01_player" count="1,6" loot_prob_template="med"/>
+	<item name="switch" count="1,3" loot_prob_template="med"/>
+	<item name="speaker" count="1" loot_prob_template="low"/>
+	<item name="motionsensor" count="1,2" loot_prob_template="low"/>
+	<item name="pressureplate" count="1,5" loot_prob_template="low"/>
+	<item name="batterybank" loot_prob_template="veryLow"/>
+	<item name="generatorbank" loot_prob_template="veryLow"/>
+	<item name="electricianSkillMagazine" loot_prob_template="high"/>
+	<item name="trapsSkillMagazine" count="1" loot_prob_template="med"/>
+	<item name="toolForgeCrucible" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+	<item name="meleeToolAllSteelParts" count="1,4"/>	
+	<item name="meleeWpnSledgeT3SteelSledgehammerParts" count="1,4" loot_prob_template="medLow"/>
+	<item name="meleeToolSalvageT3ImpactDriver" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+	</lootgroup>
+<!-- MECHANIC  -->
 <!-- ZOMBIE LOOT GROUPS -->
-<!-- ************************************************************************************ -->
-				<lootgroup name="groupModAttachmentsMagazinesAll" count="1,2">
-					<item group="groupModEftSkillMagazinesScopes" count="1,3" loot_prob_template="veryLow"/>	
-					<item group="groupModEftSkillMagazinesGripBipods" count="1,3" loot_prob_template="medLow"/>
-					<item group="groupModEftSkillMagazinesMags" count="1,3" loot_prob_template="medHigh"/>					
-					<item group="groupModEftSkillMagazinesSilencers" count="1,3" loot_prob_template="medLow"/>
-					<item group="groupModEftSkillMagazinesStocks" count="1,2" loot_prob_template="low"/>
-				</lootgroup>
-<!-- ************************************************************************************ -->
 <!-- Zombie Loot -->
 <!-- COP -->
 		<lootgroup name="groupCops" quality="1">
 			<item group="groupCopPistolsT1" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesPistols" count="1,2" />
+			<item group="groupModEftSkillMagazinesPistols" count="1" />
+			<item group="groupFoodTrashCommon" count="1" />
+			<item group="groupCopAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
 		</lootgroup>
 		<lootgroup name="groupCopsFeral" quality="1">
 			<item group="groupCopPistolsT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesPistols" count="2,4" />
+			<item group="groupModEftSkillMagazinesPistols" count="1" />
+			<item group="groupFoodTrashUncommon" count="1" />
+			<item group="groupCopAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupCopsRadiated" quality="1">
 			<item group="groupCopPistolsT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesPistols" count="4,6" />
+			<item group="groupModEftSkillMagazinesPistols" count="1" />
+			<item group="groupFoodCommon" count="1" />
+			<item group="groupCopAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 		</lootgroup>
 <!-- COP -->
 <!-- SOLDIER -->
 		<lootgroup name="groupSoldier" quality="1">
 			<item group="groupSoldierMGT1" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesMachineGuns" count="1,2"/>	
-			<item group="groupModEftSkillMagazinesLights" count="1,2"/>
+			<item group="groupModEftSkillMagazinesMachineGuns" count="1"/>	
+			<item group="groupModEftSkillMagazinesLights" count="1"/>
+			<item group="groupSoldierBonusT1" count="1"/>
+			<item group="groupSoldierAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
 		</lootgroup>
 		<lootgroup name="groupSoldierFeral" quality="1">
 			<item group="groupSoldierMGT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesMachineGuns" count="2,4"/>	
-			<item group="groupModEftSkillMagazinesLights" count="2,4"/>
+			<item group="groupModEftSkillMagazinesMachineGuns" count="1"/>	
+			<item group="groupModEftSkillMagazinesLights" count="1"/>
+			<item group="groupSoldierBonusT2" count="1"/>
+			<item group="groupSoldierAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupSoldierRadiated" quality="1">
 			<item group="groupSoldierMGT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesMachineGuns" count="4,6"/>	
-			<item group="groupModEftSkillMagazinesLights" count="4,6"/>
+			<item group="groupModEftSkillMagazinesMachineGuns" count="1"/>	
+			<item group="groupModEftSkillMagazinesLights" count="1"/>
+			<item group="groupSoldierBonusT3" count="1"/>
+			<item group="groupSoldierAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 		</lootgroup>
 <!-- SOLDIER -->
-<!-- NURSE -->
-		<lootgroup name="groupNurse" quality="1">
-			<item group="groupInjectorSmall" count="1" />
-			<item group="groupModEftSkillMagazinesMedical" count="1,2" />						
-		</lootgroup>
-		<lootgroup name="groupNurseFeral" quality="1">
-			<item group="groupModEftSkillMagazinesMedical" count="2,4" />
-			<item group="groupInjectorMed" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>					
-		</lootgroup>
-		<lootgroup name="groupNurseRadiated" quality="1">
-			<item group="groupModEftSkillMagazinesMedical" count="4,6" />
-			<item group="groupInjectorLarge" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupInjectorExtraLarge" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>			
-		</lootgroup>
-<!-- NURSE -->
 <!-- BIKER -->
 		<lootgroup name="groupBiker" quality="1">
 			<item group="groupBikerShotgunsT1" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesShotguns" count="1,2"/>			
+			<item group="groupModEftSkillMagazinesShotguns" count="1"/>
+			<item group="groupFoodPileCommon" count="1"/>
+			<item group="groupBikerAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
 		</lootgroup>
 		<lootgroup name="groupBikerFeral" quality="1">
 			<item group="groupBikerShotgunsT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesShotguns" count="2,4"/>			
+			<item group="groupModEftSkillMagazinesShotguns" count="1"/>	
+			<item group="groupFoodPileCommon" count="1"/>
+			<item group="groupBikerAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupBikerRadiated" quality="1">
 			<item group="groupBikerShotgunsT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesShotguns" count="4,6"/>			
+			<item group="groupModEftSkillMagazinesShotguns" count="1"/>
+			<item group="groupFoodUncommon" count="1"/>
+			<item group="groupBikerAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 		</lootgroup>
 <!-- BIKER -->
 <!-- BUSINESSMAN -->
 		<lootgroup name="groupBusinessMan" quality="1">
-			<item group="groupModAttachmentsMagazinesAll" count="1,2" loot_prob_template="veryLowDelayedEft" force_prob="true"/>	
+			<item group="groupModAttachmentsMagazinesAll" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>	
 			<item name="oldCash" count="5,100" />
+			<item group="groupValuablesSmall" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+			<item group="groupModAllT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupBusinessManFeral" quality="1">
-			<item group="groupModAttachmentsMagazinesAll" count="2,4" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupModAttachmentsMagazinesAll" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 			<item name="oldCash" count="25,150" />
+			<item group="groupValuablesMed" count="0,1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupModAllT2" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupBusinessManRadiated" quality="1">
-			<item group="groupModAttachmentsMagazinesAll" count="4,6" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupModAttachmentsMagazinesAll" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 			<item name="oldCash" count="50,500" />
+			<item group="groupValuablesExtraLarge" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupModAllT3" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 <!-- BUSINESSMAN -->
 <!-- DEMOLITION -->
 		<lootgroup name="groupDemolition" quality="1">
 			<item group="groupSpecialGuns" count="0,1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesSpecials" count="1,5"/>
-			<item group="groupModEftSkillMagazinesGlaunchers" count="1,2"/>
+			<item group="groupModEftSkillMagazinesSpecials" count="1"/>
+			<item group="groupModEftSkillMagazinesGlaunchers" count="1"/>
 		</lootgroup>
 <!-- DEMOLITION -->
 <!-- PARTYGIRL -->
 		<lootgroup name="groupPartyGirl" quality="1">
 			<item group="groupDrugGunsT1" count="0,1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupDrugs" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>				
-			<item group="groupModEftSkillMagazinesSmg" count="1,2"/>
+			<item group="groupDrugs" count="1" />				
+			<item group="groupModEftSkillMagazinesSmg" count="1"/>
+			<item group="groupPartyThugAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
 		</lootgroup>
 		<lootgroup name="groupPartyGirlFeral" quality="1">
 			<item group="groupDrugGunsT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupDrugs" count="1,2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesSmg" count="2,4"/>
+			<item group="groupDrugs" count="1" />
+			<item group="groupModEftSkillMagazinesSmg" count="1"/>
+			<item group="groupPartyThugAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupPartyGirlRadiated" quality="1">
 			<item group="groupDrugGunsT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupDrugs" count="1,3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
-			<item group="groupModEftSkillMagazinesSmg" count="4,6"/>
+			<item group="groupDrugs" count="1" />			
+			<item group="groupModEftSkillMagazinesSmg" count="1"/>
+			<item group="groupPartyThugAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 		</lootgroup>
 <!-- PARTYGIRL -->
 <!-- THUG/SKATEBOARDER -->
 		<lootgroup name="groupThug" quality="1">
 			<item group="groupDrugGunsT1" count="0,1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupDrugs" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>					
-			<item group="groupModEftSkillMagazinesSmg" count="1,2"/>			
+			<item group="groupDrugs" count="1" />					
+			<item group="groupModEftSkillMagazinesSmg" count="1"/>	
+			<item group="groupPartyThugAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
 		</lootgroup>
 		<lootgroup name="groupThugFeral" quality="1">
 			<item group="groupDrugGunsT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
-			<item group="groupDrugs" count="1,2" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item group="groupModEftSkillMagazinesSmg" count="2,4"/>			
+			<item group="groupDrugs" count="1"/>
+			<item group="groupModEftSkillMagazinesSmg" count="1"/>	
+			<item group="groupPartyThugAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
 		<lootgroup name="groupThugRadiated" quality="1">
 			<item group="groupDrugGunsT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-			<item group="groupDrugs" count="1,3" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
-			<item group="groupModEftSkillMagazinesSmg" count="4,6"/>			
+			<item group="groupDrugs" count="1" />			
+			<item group="groupModEftSkillMagazinesSmg" count="1"/>
+			<item group="groupPartyThugAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>			
 		</lootgroup>
 <!-- THUG/SKATEBOARDER -->
-<!-- ************************************************************************************ -->
-<!-- ************************************************************************************ -->
-<!-- PISTOL CASES -->	
-		<lootgroup name="groupEftPistolsCases" loot_quality_template="QLTemplateT1">
-			<item group="groupEftPistolsCasesT1" count="1"/>
-			<item group="groupEftPistolsCasesT2" count="1"/>
-			<item group="groupEftPistolsCasesT3" count="1"/>
-			<item group="groupEftPistolsCasesT4" count="1"/>
-			<item group="groupEftPistolsCasesT5"  count="1"/>
+<!-- FATMOMMA -->		
+		<lootgroup name="groupMomma" quality="1">
+			<item group="groupMommaJackRiflesT1" count="0,1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupMommaFoods" count="1" />				
+			<item group="groupModEftSkillMagazinesRifles" count="1"/>
+			<item group="groupMommaLJAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
 		</lootgroup>
-	<!-- PISTOL CASES -->	
-	<!-- CASES -->
-		<lootgroup name="groupEftCases" loot_quality_template="QLTemplateT1">
-				<item group="groupgunks23" count="1" quality="1"/>
-				<item group="groupgunrpk16guaranteedmag" count="1" quality="1"/>
-				<item group="groupgunmpxwithmag" count="1" quality="1"/>
-				<item group="groupgunvector45withmag" count="1" quality="1"/>
-			</lootgroup>
-	<!-- CASES -->	
-	<!-- MODS ALL -->
-	<lootgroup name="groupEftModsT1">
-			<item group="groupModEftGunScopesT1" count="1"/>
-			<item group="groupModEftGunScopeCanted" count="1"/>
-			<item group="groupModEftGunExtMagazinesT1" count="1"/>
-			<item group="groupModEftGunBarrelAttT1" count="1"/>
-			<item group="groupModEftGunStocksT1"  count="1"/>
-	</lootgroup>
-	<lootgroup name="groupEftModsT2">
-			<item group="groupModEftGunScopesT2" count="1"/>
-			<item group="groupModEftGunExtMagazinesT2" count="1"/>
-			<item group="groupModEftGunBarrelAttT2" count="1"/>
-			<item group="groupModEftGunStocksT2" count="1"/>
-	</lootgroup>
-	<lootgroup name="groupEftModsT3">
-			<item group="groupModEftGunScopesT3" count="1"/>
-			<item group="groupModEftGunExtMagazinesT3" count="1"/>
-			<item group="groupModEftGunBarrelAttT3" count="1"/>
-			<item group="groupModEftGunStocksT3" count="1"/>
-	</lootgroup>
-	<lootgroup name="groupEftModsT4">
-			<item group="groupModEftGunScopesT4" count="1"/>
-			<item group="groupModEftGunExtMagazinesT4" count="1"/>
-			<item group="groupModEftGunBarrelAttT4" count="1"/>
-			<item group="groupModEftGunStocksT4" count="1"/>
-	</lootgroup>
-	<lootgroup name="groupEftModsT5">
-			<item group="groupModEftGunExtMagazinesT5" count="1"/>
-			<item group="groupModEftGunBarrelAttT5" count="1"/>
-			<item group="groupModEftGunStocksT5" count="1"/>
-	</lootgroup>	
-	<!-- MODS ALL -->
-		<!-- MAGAZINES-->
-		<lootgroup name="groupModEftSkillMagazinesAll">
-				<item group="groupModEftSkillMagazinesMedical" count="1"/>
-				<item group="groupModEftSkillMagazinesPistols" count="1"/>				
-				<item group="groupModEftSkillMagazinesStocks" count="1"/>
-				<item group="groupModEftSkillMagazinesScopes" count="1"/>				
-				<item group="groupModEftSkillMagazinesGripBipods" count="1"/>				
-				<item group="groupModEftSkillMagazinesMags" count="1"/>					
-				<item group="groupModEftSkillMagazinesSmg" count="1"/>								
-				<item group="groupModEftSkillMagazinesShotguns" count="1"/>				
-				<item group="groupModEftSkillMagazinesRifles" count="1"/>
-				<item group="groupModEftSkillMagazinesMachineGuns" count="1"/>
-				<item group="groupModEftSkillMagazinesSilencers" count="1"/>
-				<item group="groupModEftSkillMagazinesLights" count="1"/>	
-				<item group="groupModEftSkillMagazinesSpecials" count="1"/>				
+		<lootgroup name="groupMommaFeral" quality="1">
+			<item group="groupMommaJackRiflesT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupMommasTable" count="1"/>
+			<item group="groupModEftSkillMagazinesRifles" count="1"/>
+			<item group="groupMommaLJAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 		</lootgroup>
-<!-- MAGAZINES-->
-<!-- MEDICAL -->
-				<lootgroup name="groupInjectors">		
-					<item group="groupInjectorSmall" count="1"/>
-					<item group="groupInjectorMed" count="1"/>
-					<item group="groupInjectorLarge" count="1"/>
-					<item group="groupInjectorExtraLarge" count="1"/>
-				</lootgroup>
-<!-- MEDICAL -->
-</insertBefore>	
+		<lootgroup name="groupMommaRadiated" quality="1">
+			<item group="groupMommaJackRiflesT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupMommasBuffet" count="1" />			
+			<item group="groupModEftSkillMagazinesRifles" count="1"/>
+			<item group="groupMommaLJAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+		</lootgroup>
+<!-- FATMOMMA -->
+<!-- LUMBERJACK -->
+		<lootgroup name="groupLumberjack" quality="1">
+			<item group="groupMommaJackRiflesT1" count="0,1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupLJsReward" count="1" />				
+			<item group="groupModEftSkillMagazinesRifles" count="1"/>
+			<item group="groupMommaLJAmmoT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true" />
+			<item group="groupToolsT1" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true" />	
+			<item name="modMeleeFiremansAxeMod" count="0,1" />
+		</lootgroup>
+		<lootgroup name="groupLumberjackFeral" quality="1">
+			<item group="groupMommaJackRiflesT2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupLJsProduce" count="1"/>
+			<item group="groupModEftSkillMagazinesRifles" count="1"/>
+			<item group="groupMommaLJAmmoT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupToolsT2" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true" />
+			<item name="modMeleeFiremansAxeMod" count="0,1" />			
+		</lootgroup>
+		<lootgroup name="groupLumberjackRadiated" quality="1">
+			<item group="groupMommaJackRiflesT3" count="0,1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupLJsBonus" count="1" />			
+			<item group="groupModEftSkillMagazinesRifles" count="1"/>
+			<item group="groupMommaLJAmmoT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupToolsT3" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true" />	
+			<item name="modMeleeFiremansAxeMod" count="0,1" />
+		</lootgroup>
+<!-- LUMBERJACK -->
+<!-- JANITOR -->
+		<lootgroup name="groupMechanic" quality="1">
+			<item group="groupMechanicsWarezT1" count="1" />	
+		</lootgroup>
+		<lootgroup name="groupMechanicFeral" quality="1">
+			<item group="groupMechanicsWarezT2" count="1"/>
+		</lootgroup>
+		<lootgroup name="groupMechanicRadiated" quality="1">
+			<item group="groupMechanicsWarezT3" count="1"/>
+		</lootgroup>
+<!-- JANITOR -->
+<!-- ZOMBIE LOOT -->
+</insertAfter>	
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
@@ -1260,7 +1473,7 @@
 </append>
 <insertAfter xpath="//lootgroup[@name='groupLargeWeaponBag']">			
 <lootgroup name="groupGunRack_01" quality="1" loot_quality_template="QLTemplateT1">
-			<item group="groupPistolsT1" count="0,1" quality="1"/>
+			<item group="groupPistolsT1" count="0,1" quality="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
 </lootgroup>			
 </insertAfter>	
@@ -1286,7 +1499,7 @@
 		</lootgroup>
 </insertAfter>
 <append xpath="//lootgroup[@name='schematicsModsAndGeneralRare']">
-			<item group="schematicsEFTModsAndGeneralT3"/>			
+			<item group="schematicsEFTModsAndGeneralT3" count="1"/>			
 </append>
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
@@ -1298,162 +1511,40 @@
 	</append>
 	<append xpath="//lootgroup[@name='booksAllScaled']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
-	</append>	
-	<append xpath="//lootgroup[@name='schematicsModsAndGeneralT1']">
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-	</append>
-	<append xpath="//lootgroup[@name='groupChemistryStationLoot02']">
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-			<item name="resourceNitricAcid" count="2,10" loot_prob_template="medLow"/>
-			<item name="resourceSulfuricAcid" count="2,7" loot_prob_template="medLow"/>
-			<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
-			<item name="resourceCanOfWhiteSalt" count="1,2" loot_prob_template="low"/>
-			<item name="resourceBottleOfHydrogenPeroxide" count="1,3" loot_prob_template="low"/>
-			<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
-			<item name="resourceSmokedChimneyDrainCleaner" count="0,2" loot_prob_template="medLow"/>
-	</append>
-	<append xpath="//lootgroup[@name='groupChem01']">
-			<item name="resourceNitricAcid" count="0,5" loot_prob_template="medLow"/>
-			<item name="resourceSulfuricAcid" count="0,5" loot_prob_template="medLow"/>
-			<item name="resourceCellulosePowder" count="10,25" loot_prob_template="low"/>
-			<item name="resourceCanOfWhiteSalt" count="1,2" loot_prob_template="low"/>
-			<item name="resourceBottleOfHydrogenPeroxide" count="1,2" loot_prob_template="low"/>
-			<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
-			<item name="resourceSmokedChimneyDrainCleaner" count="0,1" loot_prob_template="medLow"/>
-	</append>	
-	<append xpath="//lootgroup[@name='groupChemPileSmall']">
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-	</append>
-	<append xpath="//lootgroup[@name='groupChemPileMed']">
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-	</append>
-	<append xpath="//lootgroup[@name='groupChemPileLarge']">
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-	</append>		
+	</append>			
+	
 	<append xpath="//lootgroup[@name='groupScrapCommon']">
-		<item name="resourceClassicMatches" count="1,2" loot_prob_template="low"/>
-		<item name="resourceDisposableSyringe" count="1,2" loot_prob_template="low"/>
-		<item name="resourceWD40" count="1,2" loot_prob_template="low"/>
+		<item name="resourceWD40" count="0,1" loot_prob_template="low"/>
 		<item name="resourceMultitool" count="0,1" loot_prob_template="med"/>
 		<item name="resourceToolset" count="0,1" loot_prob_template="med"/>
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceNitricAcid" count="125,375" loot_prob_template="medLow"/>
-		<item name="resourceNewspaper" count="1,1" loot_prob_template="low"/>
-		<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-		<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-		<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="medLow"/>
-		<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
-		<item name="resourceCanOfWhiteSalt" count="1,2" loot_prob_template="low"/>
-		<item name="resourceBottleOfHydrogenPeroxide" count="1,3" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
-		<item name="resourceOxBbleach" count="1,2" loot_prob_template="medLow"/>
-		<item name="schematicsChemician" count="1" loot_prob_template="low"/>
-		<item name="resourceSmokedChimneyDrainCleaner" count="0,2" loot_prob_template="medLow"/>
-	</append>
-	
+	</append>	
 	
 	<append xpath="//lootgroup[@name='groupCraftingUncommon']">
-		<item name="resourceClassicMatches" count="1,2" loot_prob_template="low"/>
-		<item name="resourceDisposableSyringe" count="1,2" loot_prob_template="low"/>
-		<item name="resourceWD40" count="1,2" loot_prob_template="low"/>
-		<item name="resourceCellulosePowder" count="15,45" loot_prob_template="low"/>
-		<item name="resourceMultitool" count="1,2" loot_prob_template="med"/>
-		<item name="resourceToolset" count="0,1" loot_prob_template="med"/>
-		<item name="resourceWeaponParts" count="1,2" loot_prob_template="medLow"/>
-		<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-		<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-		<item name="resourceNitricAcid" count="125,375" loot_prob_template="low"/>
-		<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="low"/>
-		<item name="resourceCanOfWhiteSalt" count="1,4" loot_prob_template="low"/>
-		<item name="resourceBottleOfHydrogenPeroxide" count="1,3" loot_prob_template="low"/>
-		<item name="resourceOxBbleach" count="1,2" loot_prob_template="low"/>
-		<item name="resourceSmokedChimneyDrainCleaner" count="1,2" loot_prob_template="low"/>
+		<item name="resourceWD40" count="0,1" loot_prob_template="low"/>
+		<item name="resourceMultitool" count="0,1" loot_prob_template="med"/>
+		<item name="resourceToolset" count="0,1" loot_prob_template="med"/>	
 	</append>
 	
 	<append xpath="//lootgroup[@name='groupChem01']">
-		<item name="resourceClassicMatches" count="1,2" loot_prob_template="veryLow"/>
-		<item name="resourceDisposableSyringe" count="1,2" loot_prob_template="veryLow"/>
-		<item name="resourceWD40" count="1,2" loot_prob_template="veryLow"/>
-		<item name="resourceMultitool" count="0,2" loot_prob_template="med"/>
-		<item name="resourceToolset" count="0,2" loot_prob_template="med"/>
-		<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-		<item name="resourceCellulosePowder" count="15,45" loot_prob_template="veryLow"/>
-		<item name="resourceCanOfWhiteSalt" count="1,2" loot_prob_template="veryLow"/>
-		<item name="resourceBottleOfHydrogenPeroxide" count="1,3" loot_prob_template="veryLow"/>
-		<item name="resourceOxBbleach" count="1,2" loot_prob_template="low"/>
-		<item name="resourceSmokedChimneyDrainCleaner" count="1,2" loot_prob_template="low"/>
-		<item name="resourceScrapPolymers" count="5,15" loot_prob_template="veryLow"/>
-		<item name="resourcePotassiumNitratePowder" count="15,45" loot_prob_template="veryLow"/>
-		<item name="resourceNitricAcid" count="125,375" loot_prob_template="veryLow"/>
-		<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="veryLow"/>
-		<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
+		<item name="resourceWD40" count="0,1" loot_prob_template="veryLow"/>
+		<item name="resourceMultitool" count="0,1" loot_prob_template="med"/>
+		<item name="resourceToolset" count="0,1" loot_prob_template="med"/>		
 	</append>	
 			
 		<append xpath="//lootgroup[@name='groupFoodTrashCommon']">
-			<item name="resourceCanOfWhiteSalt" count="2,4" loot_prob_template="veryLow"/>
-			<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
 			<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
-			<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-			<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
 		</append>		
 		
 		<append xpath="//lootgroup[@name='groupFoodTrashUncommon']">
-			<item name="resourceCanOfWhiteSalt" count="3,6" loot_prob_template="veryLow"/>
-			<item name="resourceBottleOfHydrogenPeroxide" count="1,2" loot_prob_template="veryLow"/>
-			<item name="resourceOxBbleach" count="1,2" loot_prob_template="veryLow"/>
-			<item name="resourceSmokedChimneyDrainCleaner" count="1,2" loot_prob_template="veryLow"/>
-			<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="veryLow"/>
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-			<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="medLow"/>
-			<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-			<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-			<item name="resourceSulfuricAcid" count="25,75" loot_prob_template="veryLow"/>
-			<item name="resourceNitricAcid" count="125,375" loot_prob_template="veryLow"/>
 			<item name="modArmorHelmetLight2" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="low"/>
 		</append>
 		
 		<append xpath="//lootgroup[@name='groupToilet01']">	
-			<item name="resourceToiletPaper" count="0,2"/>
-			<item name="resourceDisposableSyringe" count="1,2" loot_prob_template="veryLow"/>
 			<item group="groupPistolsT1" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true" quality="1"/>
 		</append>
-		<append xpath="//lootgroup[@name='groupToilet02']">				
-			<item name="resourcePileOfMeds" count="1,4" loot_prob_template="veryLow"/>
-			<item name="resourceSmokedChimneyDrainCleaner" count="1,2"  loot_prob_template="veryLow"/>
-			<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-			<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-		</append>			
-		<append xpath="//lootgroup[@name='groupMedicalCommon']">	
-			<item name="resourceDisposableSyringe" count="1,2" loot_prob_template="veryLow"/>	
-			<item group="groupInjectorSmall" count="1" loot_prob_template="veryLow"/>
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-		</append>
-		<append xpath="//lootgroup[@name='groupMedicalUncommon']">	
-			<item group="groupInjectorMed" count="1" loot_prob_template="veryLow"/>
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-		</append>
-		<append xpath="//lootgroup[@name='groupMedicalRare']">	
-			<item group="groupInjectorLarge" count="1"  loot_prob_template="veryLow"/>
-			<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
-		</append>		
-		<append xpath="//lootgroup[@name='groupAmbulance']">	
-			<item group="groupInjectorExtraLarge" count="1"  loot_prob_template="veryLow"/>
-		</append>	
-		<append xpath="//lootgroup[@name='groupValuablesSmall']">	
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-		</append>		
-		<append xpath="//lootgroup[@name='groupValuablesMed']">	
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-		</append>
-		<append xpath="//lootgroup[@name='groupValuablesLarge']">	
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-		</append>
-		<append xpath="//lootgroup[@name='groupValuablesExtraLarge']">	
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-			<item name="bundleMoneyCase" count="1" loot_prob_template="veryLow"/>			
-		</append>	
+		
 		<append xpath="//lootgroup[@name='modGunT1']">					
 			<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
 		</append>		
@@ -1463,7 +1554,6 @@
 <!-- ************************************************************************************ -->
 <append xpath="//lootgroup[@name='groupPurse01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medLow"/>
-			<item name="bundleWallet" count="0,1" loot_prob_template="veryLow"/>
 </append>
 <append xpath="//lootgroup[@name='groupPurse02']">
 			<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
@@ -1478,19 +1568,7 @@
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
 <append xpath="//lootgroup[@name='groupCars01']">
-			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="low"/>
-			<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-			<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-			<item name="resourceToiletPaper" count="1,2"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
-			<item name="resourceDisposableSyringe" count="1,3" loot_prob_template="medLow"/>
-			<item name="medicalSurv12" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-			<item name="resourcePileOfMeds" count="0,1" loot_prob_template="veryLow"/>	
-			<item name="medicalSalewa" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-			<item name="medicalCMS" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-			<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
-			<item name="medicalIFAK" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-			<item name="resourceCanisterWithPurifiedWater" count="1,2" loot_prob_template="medLow"/>
+			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="low"/>	
 </append>
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
@@ -1499,16 +1577,14 @@
 	<append xpath="//lootgroup[@name='groupSmallSafeLoot01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medLow"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>
 	<insertBefore xpath="//lootgroup[@name='groupGunSafeSecure']">
 	<lootgroup name="groupGunSafeSecure_01" quality="1" loot_quality_template="QLTemplateT1">
 			<item group="groupPistolsT1" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true" quality="1"/>
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>			
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</lootgroup>
 	</insertBefore>
 	<append xpath="//lootgroup[@name='groupGunSafeSecure']">
@@ -1517,43 +1593,43 @@
 	<!-- T1 Chest -->
 	<append xpath="//lootgroup[@name='groupAmmoPileSmall']">
 			<item group="groupModEftSkillMagazinesAll" count="1,2" loot_prob_template="low"/>	
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupAmmoPileMed']">
 			<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,3" loot_prob_template="low"/>			
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>			
 	</append>
 	<append xpath="//lootgroup[@name='groupAmmoPileLarge']">
 			<item group="groupModEftSkillMagazinesAll" count="1,4" loot_prob_template="low" />
-			<item name="resourceWeaponParts" count="1,4" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupReinforcedChestT1_01']">
 		<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>
 	<!-- T2 Chest -->
 	<append xpath="//lootgroup[@name='groupReinforcedChestT2_01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>		
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>		
 	<!-- T3 Chest -->	
 	<append xpath="//lootgroup[@name='groupReinforcedChestT3_01']">
 				<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 				<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-				<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+				<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>	
 	<!-- T4 Chest -->
 	<append xpath="//lootgroup[@name='groupHardenedChestT4_01']">		
 		<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
-		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
+		<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
 		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>	
 	<!-- T5 Chest -->
 	<append xpath="//lootgroup[@name='groupHardenedChestT5_01']">
 		<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
-		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
+		<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
 		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
 	</append>	
 	<!-- Small Weapon Bag -->
@@ -1581,21 +1657,21 @@
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 			<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
 			<item group="groupPistolsT1" count="0,1" quality="1"/>
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>		
 	<!-- Police Car Bonus -->
 	<append xpath="//lootgroup[@name='groupPoliceCarBonus01']"> <!-- Lockpicked -->
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 			<item group="groupPistolsT1" count="0,1" quality="1"/>
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>			
 	<!-- Foot Locker Military -->
 	<append xpath="//lootgroup[@name='groupMilitaryFootlocker01']"> 
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="medLow"/>
+			<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="medLow"/>
 	</append>	
 	<append xpath="//lootgroup[@name='groupMilitaryFootlocker02']"> 
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
@@ -1603,69 +1679,38 @@
 	<!-- Shotgun Messiah Crate -->
 	<append xpath="//lootgroup[@name='groupShotgunMessiahCrate01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-			<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+			<item name="resourceWeaponRepairKit" count="1" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>		
 				
 	<!-- Hidden Stash / Buried Weapon Chest -->
 	<append xpath="//lootgroup[@name='groupHiddenStash01']">
 		<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>
 		<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
-		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+		<item name="resourceWeaponRepairKit" count="1" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="1" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupBuriedWeaponChest01']">
 		<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>			
 		<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
 		<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-		<item name="resourceWeaponParts" count="1,2" loot_prob_template="low"/>
+		<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupBackpacks01']">
 				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>						
-				<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>	
-				<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-				<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
-				<item name="medicalSurv12" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="resourcePileOfMeds" count="0,1" loot_prob_template="veryLow"/>	
-				<item name="medicalSalewa" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="schematicsChemician" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+				<item name="modArmorHelmetLight" count="0,1" loot_prob_template="low"/>	
+				<item name="resourceWeaponParts" count="0,1" loot_prob_template="veryLow"/>				
 	</append>
 	<append xpath="//lootgroup[@name='groupBackpacks02']">
 				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>	
-				<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
-				<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-				<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
-				<item name="medicalCMS" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="resourceSalineSolution" count="1,3" loot_prob_template="medHigh"/>
-				<item name="medicalIFAK" count="0,1" loot_prob_template="veryLow" force_prob="true"/>
-				<item name="resourceCanisterWithPurifiedWater" count="0,1" loot_prob_template="medLow"/>
+				<item name="modArmorHelmetLight" count="0,1" loot_prob_template="low"/>				
 	</append>	
 	<append xpath="//lootgroup[@name='groupLocker01']">
-				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>	
-				<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-				<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-				<item name="resourceOldBook" count="1,2" loot_prob_template="low"/>
+				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>
 				</append>					
-	<append xpath="//lootgroup[@name='groupMedicalPileSmall']">
-				<item group="groupInjectorSmall" count="1" loot_prob_template="low"/>				
-	</append>
-	<append xpath="//lootgroup[@name='groupMedicalPileMed']">
-				<item group="groupInjectorMed" count="1" loot_prob_template="low" force_prob="true"/>				
-	</append>
-	<append xpath="//lootgroup[@name='groupMedicalPileLarge']"> <!-- BCase -->
-				<item group="groupInjectorLarge" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>				
-	</append>
-	<append xpath="//lootgroup[@name='groupMedicineCabinet']"> <!-- Small Bathroom one -->
-				<item group="groupInjectorExtraLarge" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-	</append>
-	<append xpath="//lootgroup[@name='groupPopNPillsCrate']">
-				<item group="groupInjectorExtraLarge" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
-	</append>	
+	
 	<append xpath="//lootgroup[@name='groupDesks01']">
-				<item name="resourcePrinterPaper" count="1,3" loot_prob_template="medLow"/>
-				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="low"/>	
-				<item name="resourceNewspaper" count="1,2" loot_prob_template="low"/>
-				<item name="resourceWeaponParts" count="1,2" loot_prob_template="veryLow"/>
+				<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="low"/>
 	</append>		
 	<!-- Zombie-Loot -->
 	<append xpath="//lootgroup[@name='groupZpackReg01']">
@@ -1674,14 +1719,13 @@
 	<append xpath="//lootgroup[@name='groupZpackStrong01']">
 			<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>
 			<item group="groupModEftSkillMagazinesLights" count="1" loot_prob_template="med"/>	
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
+			<item name="resourceWeaponParts" count="1" loot_prob_template="low"/>
 	</append>
 	<append xpath="//lootgroup[@name='groupZpackBoss01']">
 			<item group="groupModEftSkillMagazinesAll" count="1,3" loot_prob_template="med"/>
-			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
-	</append>
-	<!-- *** LootContainer -->			
-		
+			<item name="resourceWeaponRepairKit" count="1" loot_prob_template="low"/>
+	</append>		
+	<!-- *** LootContainer -->	
 	<append xpath="//lootgroup[@name='groupQuestRewardSkillMagazinesAll01']">
 		<item group="groupModEftSkillMagazinesAll" count="2"/>	
 	</append>
@@ -1802,14 +1846,6 @@
 	</append>	
 	 <append xpath="//lootgroup[@name='groupQuestMedical']">
 		<item group="groupModEftSkillMagazinesAll" count="1,3" />
-		<item name="medicalInjectorAdrenaline" count="1" loot_prob_template="QuestT1Prob"/>
-		<item name="medicalInjectorMorphine" count="1" loot_prob_template="QuestT1Prob"/>
-		<item name="medicalIFAK" count="1" loot_prob_template="QuestT2Prob"/>
-		<item name="medicalInjectorPerfortran" count="1" loot_prob_template="QuestT2Prob"/>
-		<item name="medicalInjectorPropitalRegenerativeStim" count="1" loot_prob_template="QuestT2Prob"/>
-		<item name="medicalSalewa" count="1" loot_prob_template="QuestT3Prob"/>
-		<item name="medicalInjectorSJ12" count="1" loot_prob_template="QuestT3Prob"/>
-		<item name="medicalInjector2A2" count="1" loot_prob_template="QuestT3Prob"/>
 	</append>	
 	<append xpath="//lootgroup[@name='groupQuestMods']">		
 		<item group="groupEftModsT1" count="1" loot_prob_template="QuestT1Prob"/>
@@ -1863,24 +1899,10 @@
 		<item group="groupEftPistolCase5" count="1" loot_prob_template="QuestT5Prob"/>
 	</append>
 	
-	<append xpath="//lootcontainer[@name='atmLoot']">
-		<item name="bundleMoneyCase" count="1" loot_prob_template="moreLow"/>
-		<item name="bundleWallet" count="1" loot_prob_template="veryLow"/>
-	</append>	
-	
+		
 	<append xpath="/lootcontainers">
 	
-		<!-- Nurse -->
-		<lootcontainer name="groupZombieNurse" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
-			<item group="groupNurse" count="1" loot_prob_template="veryLow" />			
-		</lootcontainer>
-		<lootcontainer name="groupZombieNurseFeral" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
-			<item group="groupNurseFeral" count="1" loot_prob_template="veryLow" />
-		</lootcontainer>
-		<lootcontainer name="groupZombieNurseRadiated" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
-			<item group="groupNurseRadiated" count="1" loot_prob_template="veryLow" />
-		</lootcontainer>
-		<!-- Nurse -->
+		
 		<!-- COPS -->
 		<lootcontainer name="groupZombiesCops" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
 			<item group="groupCops" count="1" loot_prob_template="veryLow" />
@@ -1952,5 +1974,72 @@
 			<item group="groupThugRadiated" count="1" loot_prob_template="veryLow" />
 		</lootcontainer>
 		<!-- THUG/SKATEBOARDER -->
+		<!-- FATMOMMA -->
+		<lootcontainer name="groupZombieFemaleFat" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupMomma" count="1" loot_prob_template="veryLow" />			
+		</lootcontainer>
+		<lootcontainer name="groupZombieFemaleFatFeral" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupMommaFeral" count="1" loot_prob_template="veryLow" />
+		</lootcontainer>
+		<lootcontainer name="groupZombieFemaleFatRadiated" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupMommaRadiated" count="1" loot_prob_template="veryLow" />
+		</lootcontainer>
+		<!-- FATMOMMA -->
+		<!-- LUMBERJACK -->
+		<lootcontainer name="groupZombieLumberjack" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupLumberjack" count="1" loot_prob_template="veryLow" />			
+		</lootcontainer>
+		<lootcontainer name="groupZombieLumberjackFeral" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupLumberjackFeral" count="1" loot_prob_template="veryLow" />
+		</lootcontainer>
+		<lootcontainer name="groupZombieLumberjackRadiated" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupLumberjackRadiated" count="1" loot_prob_template="veryLow" />
+		</lootcontainer>
+		<!-- LUMBERJACK -->
+		<!-- JANITOR -->
+		<lootcontainer name="groupZombieMechanic" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupMechanic" count="1" loot_prob_template="veryLow" />			
+		</lootcontainer>
+		<lootcontainer name="groupZombieMechanicFeral" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupMechanicFeral" count="1" loot_prob_template="veryLow" />
+		</lootcontainer>
+		<lootcontainer name="groupZombieMechanicRadiated" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="groupMechanicRadiated" count="1" loot_prob_template="veryLow" />
+		</lootcontainer>
+		<!-- JANITOR -->
 </append>
+<conditional>
+	<if cond="not mod_loaded('FNS_Loot_All_the_Things_Persistent_Containers_Variant')">
+	<insertAfter xpath="//lootgroup[@name='groupMechanicRadiated']">
+	<lootgroup name="EFTXArmyPallets">
+	<item group="groupModAllScaled" count="1" loot_prob_template="low"/>
+	<item group="groupWeaponModsScaled" count="1" loot_prob_template="low"/>
+	<item group="groupArmorModsScaled" count="1" loot_prob_template="low"/>
+	<item group="groupMilitaryBooks" count="1" loot_prob_template="low"/>
+	<item group="groupMilitaryFootlocker" count="1" loot_prob_template="low"/>
+	</lootgroup>	
+	</insertAfter>
+	<append xpath="/lootcontainers">
+	<lootcontainer name="EFTXMilitaryPallet" count="1" size="6,3" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   open_time="1" loot_quality_template="qualBaseTemplate">
+			<item group="EFTXArmyPallets" count="1" />
+			<item group="groupEftModsT1" count="1" loot_prob_template="veryLowDelayedEft"/>
+			<item group="groupEftModsT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+			<item group="groupEftModsT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item group="groupEftModsT4" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+			<item group="groupEftModsT5" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>
+	</lootcontainer>
+	</append>	
+	</if>
+</conditional>
+<conditional>
+	<if cond="mod_loaded('FNS_Loot_All_the_Things_Persistent_Containers_Variant')">
+	<append xpath="//lootgroup[@name='groupAmmoMunitions']">
+	<item group="groupEftModsT1" count="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
+	<item group="groupEftModsT2" count="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
+	<item group="groupEftModsT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+	<item group="groupEftModsT4" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
+	<item group="groupEftModsT5" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>	
+	</append>		
+	</if>
+</conditional>
 </configs>
