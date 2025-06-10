@@ -115,9 +115,13 @@
 				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftRecoilReduction" operation="set" value=".10"> <!-- Prevent Negative Kick and caps the max bonus at -87% -->
 					<requirement name="CVarCompare" cvar="$gunEftRecoilReduction" operation="LT" value=".10"/>
 				</triggered_effect>
-				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftRecoilReduction" operation="set" value=".10"> <!-- 2A2 Injector -->
-					<requirement name="HasBuff" buff="buff2A2Injector"/>
-				</triggered_effect>
+				<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">		
+							<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftRecoilReduction" operation="set" value=".10"> <!-- 2A2 Injector -->
+								<requirement name="HasBuff" buff="buff2A2Injector"/>
+							</triggered_effect>
+							</if>
+				</conditional>
 				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftRecoilReduction" operation="set" value=".05"> <!-- Bipod -->
 					<requirement name="HasBuff" buff="buffEftModifierBipod"/>
 				</triggered_effect>
@@ -139,12 +143,20 @@
 				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftBaseRecoilHor" operation="divide" value="@$gunEftRecoilControlVert"> <!-- Counter -->
 					<requirement name="HasBuff" buff="buffEftRecoilControl"/>
 					<requirement name="!HasBuff" buff="buffEftModifierBipod"/>
+					<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">	
 					<requirement name="!HasBuff" buff="buff2A2Injector"/>
+					</if>
+				</conditional>
 				</triggered_effect>
 				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftBaseRecoilHor" operation="multiply" value="@$gunEftRecoilControlHor"> <!-- Add Recoil Control Buff (Horizontal Value) -->
 					<requirement name="HasBuff" buff="buffEftRecoilControl"/>
 					<requirement name="!HasBuff" buff="buffEftModifierBipod"/>
+					<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">	
 					<requirement name="!HasBuff" buff="buff2A2Injector"/>
+					</if>
+				</conditional>
 				</triggered_effect>
 				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftBaseRecoilHorNeg" operation="set" value="@$gunEftBaseRecoilHor"/>
 				<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar="$gunEftBaseRecoilHorNeg" operation="multiply" value="-1"/>
@@ -438,6 +450,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.17"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeAmpTarget" operation="set" value="3.0"/>
 			</effect_group>
+			<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
 			<effect_group>
 				<!-- when 2A2 buff exist, amp is not set for simplicity, you can also set them based on stamina -->
 				<requirement name="HoldingItemHasTags" tags="perkGunslinger"/>
@@ -451,6 +465,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedBase" operation="set" value="0.68"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.68"/>
 			</effect_group>
+			</if>
+				</conditional>
 			<!-- shotguns -->
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="perkBoomstick"/>
@@ -486,6 +502,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.17"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeAmpTarget" operation="set" value="6"/>
 			</effect_group>
+			<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="perkBoomstick"/>
 				<requirement name="HasBuff" buff="buff2A2Injector"/>
@@ -498,6 +516,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedBase" operation="set" value="0.68"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.68"/>
 			</effect_group>
+			</if>
+				</conditional>
 			<!-- assault rifles -->
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="perkMachineGunner"/>
@@ -535,7 +555,9 @@
 
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.17"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeAmpTarget" operation="set" value="4.8"/>
-			</effect_group>
+			</effect_group>			
+			<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="perkMachineGunner"/>
 				<requirement name="!HoldingItemHasTags" tags="fnminimionly,rpdonly,pkponly"/>
@@ -549,6 +571,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.68"/>
 					<!-- <triggered_effect trigger="onSelfBuffStack" action="ModifyCVar" cvar=".aimShakeAmpTarget" operation="set" value="2.64"/> -->
 			</effect_group>
+			</if>
+				</conditional>
 			<!-- sniper rifles -->
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
@@ -611,6 +635,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.07"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeAmpTarget" operation="set" value="6"/>
 			</effect_group>
+			<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
 				<requirement name="HasBuff" buff="buff2A2Injector"/>
@@ -623,6 +649,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedBase" operation="set" value="0.6"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.6"/>
 			</effect_group>
+			</if>
+				</conditional>
 			<!-- machine guns -->
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="fnminimionly,rpdonly,pkponly"/>
@@ -658,6 +686,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.17"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeAmpTarget" operation="set" value="7.2"/>
 			</effect_group>
+			<conditional>
+				<if cond="mod_loaded('Z1_EFTX_Meds_Plus')">
 			<effect_group>
 				<requirement name="HoldingItemHasTags" tags="fnminimionly,rpdonly,pkponly"/>
 				<requirement name="HasBuff" buff="buff2A2Injector"/>
@@ -670,6 +700,8 @@
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedBase" operation="set" value="0.68"/>
 					<triggered_effect trigger="onSelfBuffUpdate" action="ModifyCVar" cvar=".aimShakeSpeedTarget" operation="set" value="0.68"/>
 			</effect_group>
+			</if>
+				</conditional>
 			<!-- 2A2 should stack this buff when used, so that even if it's added during aiming, the shake is properly interpolated -->
 			<effect_group>
 				<triggered_effect trigger="onSelfBuffStack" action="ModifyCVar" cvar=".aimShakeSpeedBase" operation="set" value="@.aimShakeSpeed"/>

@@ -4902,7 +4902,7 @@
 		<set xpath="/items/item[@name='gunump45']/property[@class='Action0']/property[@name='Magazine_items']/@value">ammo45ACPBulletBall,ammo45ACPHighpower,ammo45ACPArmorpiecing,ammoEft45ACP,ammoEft45ACPAP,ammoEft45ACPRIP</set>
 		<set xpath="/items/item[@name='gunump45']/property[@class='Action3']/property[@name='Magazine_items']/@value">ammoEft4046381</set>
 		
-		<set xpath="/items/item[@name='gunthompson']/property[@class='Action0']/property[@name='Magazine_items']/@value">ammo44MagnumBulletBall,ammo44MagnumBulletHP,ammo44MagnumBulletAP,ammoEft45ACP,ammoEft45ACPAP,ammoEft45ACPRIP</set>
+		<set xpath="/items/item[@name='gunthompson']/property[@class='Action0']/property[@name='Magazine_items']/@value">ammo45ACPBulletBall,ammo45ACPHighpower,ammo45ACPArmorpiecing,ammoEft45ACP,ammoEft45ACPAP,ammoEft45ACPRIP</set>
 		
 		<set xpath="/items/item[@name='gunvector45']/property[@class='Action0']/property[@name='Magazine_items']/@value">ammo45ACPBulletBall,ammo45ACPHighpower,ammo45ACPArmorpiecing,ammoEft45ACP,ammoEft45ACPAP,ammoEft45ACPRIP</set>
 		<set xpath="/items/item[@name='gunvector45']/property[@class='Action3']/property[@name='Magazine_items']/@value">ammoEft4046381</set>

@@ -1,4 +1,5 @@
 <configs>
+	<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']"></remove>
 	<!-- ### Crosshair on Aim Mod -->
 	<insertBefore xpath="/item_modifiers/item_modifier[@name='modGunBarrelExtender']">
 		<item_modifier name="modCrosshairOnAim" installable_tags="gun,shotgun,turretRanged" modifier_tags="health" blocked_tags="noMods" type="attachment">
@@ -11,13 +12,156 @@
 		</item_modifier>
 	</insertBefore>
 	
-	<!-- ### Side-equipped Laser -->
-	<set xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/item_property_overrides[@name='*']/property[@name='CrosshairOnAim']/@value">true</set>
-	<!--<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/effect_group[@name='mod effects']"></remove>
-	<remove xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/effect_group/triggered_effect[(@trigger='onSelfItemActivate') or (@trigger='onSelfItemDeactivate')]"></remove>-->
-	<append xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']">
+	<append xpath="/item_modifiers">
+	<item_modifier name="modGunEFTXLaserSight" installable_tags="modGunEFTXLaserSight" modifier_tags="modGunEFTXLaserSight" blocked_tags="noMods,modGunNoEFTXLaser" type="attachment">
+		<property name="Extends" value="modGeneralMaster" param1="CustomIcon"/>		
+		<property name="UnlockedBy" value="modGunEFTXLaserSightSchematic"/>
+		<property name="TraderStageTemplate" value="modsTier2"/>
+		<property name="CustomIcon" value="modGunLaserSight"/>
+		
+		<item_property_overrides name="*">
+			<property name="CrosshairOnAim" value="false"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunglock17">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunfiveseven">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunm9a3">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunp226">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunusp45match">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunusp45tac">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunm1911">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunm45">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunpmalphadog">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunrsh12">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gundeserteagle">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gundvl10">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunm700">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight,nobipod"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gun9a91">
+			<property name="CrosshairOnAim" value="false"/>
+                        <property name="ItemTagsAppend" value="noflashlight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunak12">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunak74m">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunak74n">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunak103">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunak107">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunak109">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunakmn">
+                        <property name="ItemTagsAppend" value="noCantedSight"/>
+		</item_property_overrides>
+		
+		<!-- visible attachment: gunlaser -->
+		<effect_group tiered="false" name="external attachment prefab (old way)">
+			<requirement name="!HoldingItemHasTags" tags="attachmentsIncluded"/>
+				<triggered_effect trigger="onSelfHoldingItemCreated" action="AttachPrefabToHeldItem" prefab="@:Other/Items/Mods/Sides/side_attachment_laserPrefab.prefab" parent_transform="Attachments/Side" local_rotation="0,0,0"/>
+				<triggered_effect trigger="onSelfItemActivate" action="SetTransformChildrenActive" active="true" parent_transform="Side" transform_path="gun_laser"/>
+				<triggered_effect trigger="onSelfItemDeactivate" action="SetTransformChildrenActive" active="false" parent_transform="Side" transform_path="gun_laser"/>
+				<triggered_effect trigger="onSelfEquipStop" action="SetTransformChildrenActive" active="false" parent_transform="Side" transform_path="gun_laser"/>
+		</effect_group>
+		<effect_group tiered="false" name="internal attachment prefab (A19)">
+			<requirement name="HoldingItemHasTags" tags="attachmentsIncluded"/>
+				<triggered_effect trigger="onSelfHoldingItemCreated" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="gunlaser"/>
+
+				<triggered_effect trigger="onSelfItemActivate" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="gunlaser/gunlaser"/>
+				<triggered_effect trigger="onSelfItemDeactivate" action="SetTransformActive" active="false" parent_transform="#HeldItemRoot" transform_path="gunlaser/gunlaser"/>
+				<triggered_effect trigger="onSelfEquipStop" action="SetTransformActive" active="false" parent_transform="#HeldItemRoot" transform_path="gunlaser/gunlaser"/>
+				<triggered_effect trigger="onSelfItemActivate" action="PlaySound" silent_on_equip="true" target="self" sound="flashlight_toggle" play_in_head="false"/>
+				<triggered_effect trigger="onSelfItemDeactivate" action="PlaySound" silent_on_equip="true" target="self" sound="flashlight_toggle" play_in_head="false"/>
+		</effect_group>
+
 		<effect_group tiered="false" name="mod effects">
-			<requirement name="IsItemActive"/> <!-- Works Fine But M14 Sadly Didn't Want Off-Animations -->
+			<!--<requirement name="IsItemActive"/>--> 
+			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="gunEftWeightKg" operation="add" value="0.12"/>
+			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="$gunEftHipAccFactor" operation="add" value="-.12">
+				<requirement name="!HoldingItemHasTags" tags="eftShotties"/>
+			</triggered_effect>
+			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="$gunEftHipAccFactor" operation="add" value="-.10">
+				<requirement name="HoldingItemHasTags" tags="eftShotties"/>
+			</triggered_effect>
+		</effect_group>
+		<effect_group tiered="false" name="internal attachment prefab (A19)">
+			<requirement name="HoldingItemHasTags" tags="mp5only,m4a1only,l85a2only,aks74unonly,ak74nonly,ak74monly,akmnonly,ak103only,rpdonly,mosinagonly,svds,sa58faonly,saiga12konly"/>
+			<triggered_effect trigger="onSelfHoldingItemCreated" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="handguard"/>
+		</effect_group>		
+	</item_modifier>	
+	</append>
+	<set xpath="/item_modifiers/item_modifier[@name='modGunEFTXLaserSight']/item_property_overrides[@name='*']/property[@name='CrosshairOnAim']/@value">false</set>
+	<remove xpath="/item_modifiers/item_modifier[@name='modGunEFTXLaserSight']/effect_group[@name='mod effects']"></remove>
+	<remove xpath="/item_modifiers/item_modifier[@name='modGunEFTXLaserSight']/effect_group/triggered_effect[(@trigger='onSelfItemActivate') or (@trigger='onSelfItemDeactivate')]"></remove>
+	<append xpath="/item_modifiers/item_modifier[@name='modGunEFTXLaserSight']">
+		<effect_group tiered="false" name="mod effects">
+			<!--requirement name="IsItemActive"/--> 
 			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="gunEftWeightKg" operation="add" value="0.12"/>
 			<triggered_effect trigger="onSelfEquipStart" action="ModifyCVar" cvar="$gunEftHipAccFactor" operation="add" value="-.12">
 				<requirement name="!HoldingItemHasTags" tags="shotgunSkill"/>
@@ -27,28 +171,134 @@
 			</triggered_effect>
 		</effect_group>
 		<effect_group tiered="false" name="internal attachment prefab (A19)">
-			<requirement name="HoldingItemHasTags" tags="mp5only,m4a1only,l85a2only,aks74unonly,ak74nonly,ak74monly,akmnonly,ak103only,rpdonly,mosinagonly,svds,sa58faonly,saiga12konly"/>
+			<requirement name="HoldingItemHasTags" tags="LBDmp5,LBDm4a1,LBDl85a2,LBDaks74un,LBDak74n,LBDak74m,LBDakmn,LBDak103,LBDrpd,LBDmosinag,LBDsvds,LBDsa58fa,LBDsaiga12k"/>
 			<triggered_effect trigger="onSelfHoldingItemCreated" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="handguard"/>
 		</effect_group>
 	</append>
 	<append xpath="/item_modifiers/item_modifier[@name='modGunFlashlight']">
 		<effect_group tiered="false" name="internal attachment prefab (A19)">
-			<requirement name="HoldingItemHasTags" tags="mp5only,m4a1only,l85a2only,aks74unonly,ak74nonly,ak74monly,akmnonly,ak103only,rpdonly,mosinagonly,svds,sa58faonly,saiga12konly"/>
+			<requirement name="HoldingItemHasTags" tags="LBDmp5,LBDm4a1,LBDl85a2,LBDaks74un,LBDak74n,LBDak74m,LBDakmn,LBDak103,LBDrpd,LBDmosinag,LBDsvds,LBDsa58fa,LBDsaiga12k"/>
 			<triggered_effect trigger="onSelfHoldingItemCreated" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="handguard"/>
 		</effect_group>
 	</append>
 	
-
 	<!-- Enabling laser+flashlight combo,no laser crosshair,configs etc. -->
-	<set xpath="//item_modifier[@name='modGunLaserSight']/@modifier_tags">lasersight</set>
+	<set xpath="//item_modifier[@name='modGunEFTXLaserSight']/@modifier_tags">modGunEFTXLaserSight</set>
 	<set xpath="//item_modifier[@name='modGunFlashlight']/@modifier_tags">flashlight</set>
-	<set xpath="//item_modifier[@name='modGunLaserSight']/@blocked_tags">nolasersight</set>
+	<set xpath="//item_modifier[@name='modGunEFTXLaserSight']/@blocked_tags">nolasersight</set>
 	<set xpath="//item_modifier[@name='modGunFlashlight']/@blocked_tags">noflashlight</set>
 	<set xpath="//item_modifier[@name='modGunReflexSight']/@blocked_tags">noreflexsight</set>
 	<set xpath="//item_modifier[@name='modGunScopeSmall']/@blocked_tags">no2xscope</set>
 	<set xpath="//item_modifier[@name='modGunBarrelExtender']/@blocked_tags">noextendedbarrel</set>
 	<set xpath="//item_modifier[@name='modGunForegrip']/@blocked_tags">nogrip</set>
 	<set xpath="//item_modifier[@name='modGunBipod']/@blocked_tags">nobipod</set>
+	
+	
+	<!--<append xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/@installable_tags">,modGunNoEFTXLaser</append>
+	<append xpath="/item_modifiers/item_modifier[@name='modGunLaserSight']/@blocked_tags">,modGunEFTXLaserSight</append>-->
+	
+	<insertAfter xpath="//item_modifier[@name='modGunSoundSuppressorSilencer']">
+	<item_modifier name="modGunLaserSight" installable_tags="sideAttachments,modGunNoEFTXLaser" modifier_tags="sideAttachment" blocked_tags="noMods,modGunEFTXLaserSight" type="attachment">
+		<property name="Extends" value="modGeneralMaster" param1="CustomIcon"/>
+		<property name="UnlockedBy" value="modGunLaserSightSchematic"/>
+		<property name="TraderStageTemplate" value="modsTier2"/>
+
+		<item_property_overrides name="*">
+			<property name="CrosshairOnAim" value="true"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunHandgunT1Pistol">
+			<property name="SideOffset" value="0,.0148,.0479"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunRifleT0PipeRifle">
+			<property name="SideOffset" value="0,.0148,.0479"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunShotgunT2PumpShotgun">
+			<property name="SideOffset" value="0,0,.41"/>
+			<property name="SideScale" value="1.12,1.12,1.12"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunShotgunT1DoubleBarrel">
+			<property name="SideOffset" value="0,-.055,.07"/>
+			<property name="SideScale" value=".4,.4,.4"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunMGT1AK47">
+			<property name="SideOffset" value="0,0,.31"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunMGT2TacticalAR">
+			<property name="SideOffset" value="0,0.021,0.258"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunMGT3M60">
+			<property name="SideOffset" value="-.0386,.0382,.3735"/>
+			<property name="SideRotation" value="0,0,-90"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunHandgunT2Magnum44">
+			<property name="SideOffset" value="0,.065,.14"/>
+			<property name="SideScale" value=".75,.75,.75"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunHandgunT3SMG5">
+			<property name="SideOffset" value="0,.0108,.0148"/>
+			<property name="SideScale" value="1.25,1.25,1.25"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunRifleT2LeverActionRifle">
+			<property name="SideOffset" value="0,.003,.1674"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunExplosivesT3RocketLauncher">
+			<property name="SideOffset" value=".037,-.1,.19"/>
+			<property name="SideScale" value="1,1,1"/>
+			<property name="SideRotation" value="0,0,20"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="gunBowT1IronCrossbow">
+			<property name="SideOffset" value="0,-.038,.32"/>
+			<property name="SideScale" value="1,1,1"/>
+			<property name="SideRotation" value="0,0,0"/>
+		</item_property_overrides>
+		<item_property_overrides name="gunHandgunT3DesertVulture ">
+			<property name="SideOffset" value="0,0,.32"/>
+			<property name="SideScale" value="1,1,1"/>
+		</item_property_overrides>
+
+		<!-- visible attachment: gunlaser -->
+		<effect_group tiered="false" name="external attachment prefab (old way)">
+			<requirement name="!HoldingItemHasTags" tags="attachmentsIncluded"/>
+				<triggered_effect trigger="onSelfHoldingItemCreated" action="AttachPrefabToHeldItem" prefab="@:Other/Items/Mods/Sides/side_attachment_laserPrefab.prefab" parent_transform="Attachments/Side" local_rotation="0,0,0"/>
+				<triggered_effect trigger="onSelfItemActivate" action="SetTransformChildrenActive" active="true" parent_transform="Side" transform_path="gun_laser"/>
+				<triggered_effect trigger="onSelfItemDeactivate" action="SetTransformChildrenActive" active="false" parent_transform="Side" transform_path="gun_laser"/>
+				<triggered_effect trigger="onSelfEquipStop" action="SetTransformChildrenActive" active="false" parent_transform="Side" transform_path="gun_laser"/>
+		</effect_group>
+		<effect_group tiered="false" name="internal attachment prefab (A19)">
+			<requirement name="HoldingItemHasTags" tags="attachmentsIncluded"/>
+				<triggered_effect trigger="onSelfHoldingItemCreated" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="gunlaser"/>
+
+				<triggered_effect trigger="onSelfItemActivate" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="gunlaser/gunlaser"/>
+				<triggered_effect trigger="onSelfItemDeactivate" action="SetTransformActive" active="false" parent_transform="#HeldItemRoot" transform_path="gunlaser/gunlaser"/>
+				<triggered_effect trigger="onSelfEquipStop" action="SetTransformActive" active="false" parent_transform="#HeldItemRoot" transform_path="gunlaser/gunlaser"/>
+				<triggered_effect trigger="onSelfItemActivate" action="PlaySound" silent_on_equip="true" target="self" sound="flashlight_toggle" play_in_head="false"/>
+				<triggered_effect trigger="onSelfItemDeactivate" action="PlaySound" silent_on_equip="true" target="self" sound="flashlight_toggle" play_in_head="false"/>
+		</effect_group>
+
+		<effect_group tiered="false" name="mod effects">
+			<passive_effect name="SpreadMultiplierHip" operation="perc_add" value="-.2"/>
+			<passive_effect name="WeaponHandling" operation="perc_add" value=".2"/>
+		</effect_group>
+	</item_modifier>
+	</insertAfter>
 	
 	<!-- *** Helmet Lights -->
 	<remove xpath="//item_modifier[@name='modArmorHelmetLight']" />

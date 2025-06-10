@@ -1457,19 +1457,24 @@
 <!-- ************************************************************************************ -->
 <!-- ************************************************************************************ -->
 <append xpath="//lootgroup[@name='groupMailbox01']">
-			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medHigh"/>					
+			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medHigh"/>		
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 </append>
 <append xpath="//lootgroup[@name='groupMilitaryBooks']">
-			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medHigh"/>					
+			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medHigh"/>	
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 </append>
 <append xpath="//lootgroup[@name='groupBookPile01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 </append>		
 <append xpath="//lootgroup[@name='groupCrackabookShelves01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 </append>			
 			<append xpath="//lootgroup[@name='groupBookcase01']">
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 </append>
 <insertAfter xpath="//lootgroup[@name='groupLargeWeaponBag']">			
 <lootgroup name="groupGunRack_01" quality="1" loot_quality_template="QLTemplateT1">
@@ -1495,7 +1500,8 @@
 			<item name="weaponModifiersScopesSkillMagazine" count="1" loot_prob_template="low"/>
 			<item name="weaponModifiersMagazinesSkillMagazine" count="1" loot_prob_template="low"/>				
 			<item name="weaponModifiersSilencersSkillMagazine" count="1" loot_prob_template="low"/>				
-			<item name="weaponModifiersStocksSkillMagazine" count="1" loot_prob_template="low"/>	
+			<item name="weaponModifiersStocksSkillMagazine" count="1" loot_prob_template="low"/>
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 		</lootgroup>
 </insertAfter>
 <append xpath="//lootgroup[@name='schematicsModsAndGeneralRare']">
@@ -1578,6 +1584,7 @@
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="medLow"/>
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>
 			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 	</append>
 	<insertBefore xpath="//lootgroup[@name='groupGunSafeSecure']">
 	<lootgroup name="groupGunSafeSecure_01" quality="1" loot_quality_template="QLTemplateT1">
@@ -1585,6 +1592,7 @@
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>			
 			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 	</lootgroup>
 	</insertBefore>
 	<append xpath="//lootgroup[@name='groupGunSafeSecure']">
@@ -1659,6 +1667,7 @@
 			<item group="groupPistolsT1" count="0,1" quality="1"/>
 			<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
 			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 	</append>		
 	<!-- Police Car Bonus -->
 	<append xpath="//lootgroup[@name='groupPoliceCarBonus01']"> <!-- Lockpicked -->
@@ -1672,6 +1681,7 @@
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
 			<item name="resourceWeaponRepairKit" count="1,2" loot_prob_template="low"/>
 			<item name="resourceWeaponParts" count="0,1" loot_prob_template="medLow"/>
+			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 	</append>	
 	<append xpath="//lootgroup[@name='groupMilitaryFootlocker02']"> 
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>
@@ -2017,6 +2027,7 @@
 	<item group="groupArmorModsScaled" count="1" loot_prob_template="low"/>
 	<item group="groupMilitaryBooks" count="1" loot_prob_template="low"/>
 	<item group="groupMilitaryFootlocker" count="1" loot_prob_template="low"/>
+	<item name="modGunEFTXLaserSightSchematic" count="1" loot_prob_template="low"/>
 	</lootgroup>	
 	</insertAfter>
 	<append xpath="/lootcontainers">
@@ -2039,6 +2050,7 @@
 	<item group="groupEftModsT3" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 	<item group="groupEftModsT4" count="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
 	<item group="groupEftModsT5" count="1" loot_prob_template="veryLowDelayedEft4" force_prob="true"/>	
+	<item name="modGunEFTXLaserSightSchematic" count="1" loot_prob_template="low"/>
 	</append>		
 	</if>
 </conditional>
