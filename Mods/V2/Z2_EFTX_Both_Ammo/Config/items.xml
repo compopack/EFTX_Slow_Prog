@@ -842,612 +842,6 @@
 				<property name="Create_item_count" value="24,312,36"/>
 			</property>
 		</item>
-		<item name="disassembleAmmo1">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft54539"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,16,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo2">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft54539AP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,17,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo3">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft54539HP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="2,15,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo4">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft55645NATO"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,16,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo5">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft55645NATOAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,17,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo6">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft55645NATOHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="2,15,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo7">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft300blk"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,13,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo8">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft300BblkAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,13,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo9">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft300blkHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="2,12,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo10">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76239"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,18,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo11">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76239AP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,19,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo12">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76239HP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,17,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo13">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft939"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,11,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo14">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft939AP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="1,12,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo15">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft939HP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,10,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo16">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76251NATO"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="1,30,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo17">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76251NATOAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="1,32,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo18">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76251NATOHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,29,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo19">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76254R"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="1,31,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo20">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76254RAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="1,33,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo21">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76254RHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,30,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo22">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft12755PS12"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,55,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo23">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft12755PS12A"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="3,52,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo24">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft12755PS12B"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,58,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo25">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft338"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="1,54,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo26">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft338AP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="1,57,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo27">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft338HP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,51,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo28">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft76225mmTokarev"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,5,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo29">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft918mmPM"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,3,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo30">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft919mm"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo31">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft919mmAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo32">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft919mmHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="2,3,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo33">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft921mm"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo34">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft921mmAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo35">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft921mmHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="2,3,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo36">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft45ACP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="2,6,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo37">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft45ACPAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="2,6,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo38">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft45ACPRIP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="3,5,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo39">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft4630mmHK"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,3,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo40">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft4630mmHKAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,3,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo41">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft4630mmHKHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="2,3,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo42">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft5728FN"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo43">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft5728FNAP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="1,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo44">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft5728FNHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="2,4,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo45">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft50ae"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="2,18,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo46">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft50aeHP"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="3,17,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo47">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft7mmShotgun"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBuckshot,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="8,26,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo48">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEftFlechetteShotgun"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoDartIron,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="8,25,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo49">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEftAP20Slug"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceScrapLead,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="24,27,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo50">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEftShrapnel25Shotgun"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBuckshot,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="8,86,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo51">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEftBarricadeSlug"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceScrapLead,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="24,89,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo52">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft4046381"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMechanicalParts,resourceTP200TNTBrick,resourceForgedSteel"/>
-				<property name="Create_item_count" value="2,2,2"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo53">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEft4053vog25"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMechanicalParts,resourceTP200TNTBrick,resourceForgedSteel"/>
-				<property name="Create_item_count" value="2,2,2"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo54">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="thrownGrenade"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceUZRGMGrenadeFuze,resourceTP200TNTBrick,resourceForgedSteel"/>
-				<property name="Create_item_count" value="1,1,1"/>
-			</property>
-		</item>
-		<item name="disassembleAmmo55">
-			<property name="Extends" value="disassembleAmmoMasterBundle"/>
-			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="thrownGrenadeContact"/>
-			<property name="ItemTypeIcon" value="bundle"/>
-			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownGrenade,resourceMechanicalParts"/>
-				<property name="Create_item_count" value="1,5"/>
-			</property>
-		</item>
-	
 		<item name="disassembleAmmo1_x10">
 			<property name="Extends" value="disassembleAmmoMasterBundle"/>
 			<property name="CreativeMode" value="Player"/>
@@ -1456,7 +850,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,160,10"/>
+				<property name="Create_item_count" value="8,128,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo2_x10">
@@ -1467,7 +861,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,170,10"/>
+				<property name="Create_item_count" value="8,136,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo3_x10">
@@ -1478,7 +872,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="20,150,10"/>
+				<property name="Create_item_count" value="16,120,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo4_x10">
@@ -1489,7 +883,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,160,10"/>
+				<property name="Create_item_count" value="8,128,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo5_x10">
@@ -1500,7 +894,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,170,10"/>
+				<property name="Create_item_count" value="8,136,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo6_x10">
@@ -1511,7 +905,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="20,150,10"/>
+				<property name="Create_item_count" value="16,120,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo7_x10">
@@ -1522,7 +916,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,130,10"/>
+				<property name="Create_item_count" value="8,104,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo8_x10">
@@ -1533,7 +927,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,130,10"/>
+				<property name="Create_item_count" value="8,104,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo9_x10">
@@ -1544,7 +938,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="20,120,10"/>
+				<property name="Create_item_count" value="16,96,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo10_x10">
@@ -1555,7 +949,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,180,10"/>
+				<property name="Create_item_count" value="8,144,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo11_x10">
@@ -1566,7 +960,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,190,10"/>
+				<property name="Create_item_count" value="8,152,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo12_x10">
@@ -1577,7 +971,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,170,10"/>
+				<property name="Create_item_count" value="16,136,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo13_x10">
@@ -1588,7 +982,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,110,10"/>
+				<property name="Create_item_count" value="8,88,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo14_x10">
@@ -1599,7 +993,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="10,120,10"/>
+				<property name="Create_item_count" value="8,96,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo15_x10">
@@ -1610,7 +1004,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,100,10"/>
+				<property name="Create_item_count" value="16,80,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo16_x10">
@@ -1621,7 +1015,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="10,300,10"/>
+				<property name="Create_item_count" value="8,240,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo17_x10">
@@ -1632,7 +1026,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="10,320,10"/>
+				<property name="Create_item_count" value="8,256,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo18_x10">
@@ -1643,7 +1037,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,290,10"/>
+				<property name="Create_item_count" value="16,232,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo19_x10">
@@ -1654,7 +1048,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="10,310,10"/>
+				<property name="Create_item_count" value="8,248,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo20_x10">
@@ -1665,7 +1059,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="10,330,10"/>
+				<property name="Create_item_count" value="8,264,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo21_x10">
@@ -1676,7 +1070,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,300,10"/>
+				<property name="Create_item_count" value="16,240,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo22_x10">
@@ -1687,7 +1081,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,550,10"/>
+				<property name="Create_item_count" value="16,416,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo23_x10">
@@ -1698,7 +1092,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="30,520,10"/>
+				<property name="Create_item_count" value="24,416,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo24_x10">
@@ -1709,7 +1103,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,580,10"/>
+				<property name="Create_item_count" value="16,464,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo25_x10">
@@ -1720,7 +1114,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="10,540,10"/>
+				<property name="Create_item_count" value="8,432,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo26_x10">
@@ -1731,7 +1125,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="10,570,10"/>
+				<property name="Create_item_count" value="8,456,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo27_x10">
@@ -1742,7 +1136,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,510,10"/>
+				<property name="Create_item_count" value="16,408,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo28_x10">
@@ -1753,7 +1147,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,50,10"/>
+				<property name="Create_item_count" value="8,40,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo29_x10">
@@ -1764,7 +1158,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,30,10"/>
+				<property name="Create_item_count" value="8,24,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo30_x10">
@@ -1775,7 +1169,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,40,10"/>
+				<property name="Create_item_count" value="8,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo31_x10">
@@ -1786,7 +1180,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,40,10"/>
+				<property name="Create_item_count" value="8,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo32_x10">
@@ -1797,7 +1191,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="20,30,10"/>
+				<property name="Create_item_count" value="16,24,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo33_x10">
@@ -1808,7 +1202,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,40,10"/>
+				<property name="Create_item_count" value="8,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo34_x10">
@@ -1819,7 +1213,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,40,10"/>
+				<property name="Create_item_count" value="8,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo35_x10">
@@ -1830,7 +1224,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="20,30,10"/>
+				<property name="Create_item_count" value="16,24,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo36_x10">
@@ -1841,7 +1235,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="20,60,10"/>
+				<property name="Create_item_count" value="16,48,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo37_x10">
@@ -1852,7 +1246,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="20,60,10"/>
+				<property name="Create_item_count" value="16,48,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo38_x10">
@@ -1863,7 +1257,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="30,50,10"/>
+				<property name="Create_item_count" value="24,40,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo39_x10">
@@ -1874,7 +1268,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,30,10"/>
+				<property name="Create_item_count" value="8,24,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo40_x10">
@@ -1885,7 +1279,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,30,10"/>
+				<property name="Create_item_count" value="8,24,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo41_x10">
@@ -1896,7 +1290,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="20,30,10"/>
+				<property name="Create_item_count" value="16,24,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo42_x10">
@@ -1907,7 +1301,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,40,10"/>
+				<property name="Create_item_count" value="8,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo43_x10">
@@ -1918,7 +1312,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="10,40,10"/>
+				<property name="Create_item_count" value="8,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo44_x10">
@@ -1929,7 +1323,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="20,40,10"/>
+				<property name="Create_item_count" value="16,32,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo45_x10">
@@ -1940,7 +1334,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="20,180,10"/>
+				<property name="Create_item_count" value="16,144,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo46_x10">
@@ -1951,7 +1345,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="30,170,10"/>
+				<property name="Create_item_count" value="24,136,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo47_x10">
@@ -1962,7 +1356,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceBuckshot,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="80,260,10"/>
+				<property name="Create_item_count" value="64,208,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo48_x10">
@@ -1973,7 +1367,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoDartIron,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="80,250,10"/>
+				<property name="Create_item_count" value="64,200,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo49_x10">
@@ -1984,7 +1378,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceScrapLead,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="240,270,10"/>
+				<property name="Create_item_count" value="192,216,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo50_x10">
@@ -1995,7 +1389,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceBuckshot,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="80,860,10"/>
+				<property name="Create_item_count" value="64,688,8"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo51_x10">
@@ -2006,7 +1400,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceScrapLead,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="240,890,10"/>
+				<property name="Create_item_count" value="200,712,8"/>
 			</property>
 		</item>
 	
@@ -2018,7 +1412,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1600,100"/>
+				<property name="Create_item_count" value="80,1280,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo2_x100">
@@ -2029,7 +1423,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1700,100"/>
+				<property name="Create_item_count" value="80,1360,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo3_x100">
@@ -2040,7 +1434,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="200,1500,100"/>
+				<property name="Create_item_count" value="160,1200,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo4_x100">
@@ -2051,7 +1445,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1600,100"/>
+				<property name="Create_item_count" value="80,1280,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo5_x100">
@@ -2062,7 +1456,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1700,100"/>
+				<property name="Create_item_count" value="80,1360,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo6_x100">
@@ -2073,7 +1467,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="200,1500,100"/>
+				<property name="Create_item_count" value="160,1200,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo7_x100">
@@ -2084,7 +1478,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1300,100"/>
+				<property name="Create_item_count" value="80,1040,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo8_x100">
@@ -2095,7 +1489,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1300,100"/>
+				<property name="Create_item_count" value="80,1040,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo9_x100">
@@ -2106,7 +1500,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="200,1200,100"/>
+				<property name="Create_item_count" value="160,960,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo10_x100">
@@ -2117,7 +1511,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1800,100"/>
+				<property name="Create_item_count" value="80,1440,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo11_x100">
@@ -2128,7 +1522,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1900,100"/>
+				<property name="Create_item_count" value="80,1520,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo12_x100">
@@ -2139,7 +1533,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceMedCaliberBulletTip,resource_item_other_powder_green,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,1700,100"/>
+				<property name="Create_item_count" value="160,1360,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo13_x100">
@@ -2150,7 +1544,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1100,100"/>
+				<property name="Create_item_count" value="80,880,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo14_x100">
@@ -2161,7 +1555,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_green,resourceMedCaliberCasing"/>
-				<property name="Create_item_count" value="100,1200,100"/>
+				<property name="Create_item_count" value="80,960,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo15_x100">
@@ -2172,7 +1566,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,1000,100"/>
+				<property name="Create_item_count" value="160,800,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo16_x100">
@@ -2183,7 +1577,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="100,3000,100"/>
+				<property name="Create_item_count" value="80,2400,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo17_x100">
@@ -2194,7 +1588,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="100,3200,100"/>
+				<property name="Create_item_count" value="80,2560,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo18_x100">
@@ -2205,7 +1599,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,2900,100"/>
+				<property name="Create_item_count" value="160,2320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo19_x100">
@@ -2216,7 +1610,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="100,3100,100"/>
+				<property name="Create_item_count" value="80,2480,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo20_x100">
@@ -2227,7 +1621,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="100,3300,100"/>
+				<property name="Create_item_count" value="80,2640,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo21_x100">
@@ -2238,7 +1632,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,3000,100"/>
+				<property name="Create_item_count" value="160,2400,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo22_x100">
@@ -2249,7 +1643,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,5500,100"/>
+				<property name="Create_item_count" value="160,4400,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo23_x100">
@@ -2260,7 +1654,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="300,5200,100"/>
+				<property name="Create_item_count" value="240,4160,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo24_x100">
@@ -2271,7 +1665,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,5800,100"/>
+				<property name="Create_item_count" value="160,4640,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo25_x100">
@@ -2282,7 +1676,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="100,5400,100"/>
+				<property name="Create_item_count" value="80,4320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo26_x100">
@@ -2293,7 +1687,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="100,5700,100"/>
+				<property name="Create_item_count" value="80,4560,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo27_x100">
@@ -2304,7 +1698,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,5100,100"/>
+				<property name="Create_item_count" value="160,4080,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo28_x100">
@@ -2315,7 +1709,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,500,100"/>
+				<property name="Create_item_count" value="80,400,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo29_x100">
@@ -2326,7 +1720,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,300,100"/>
+				<property name="Create_item_count" value="80,240,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo30_x100">
@@ -2337,7 +1731,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,400,100"/>
+				<property name="Create_item_count" value="80,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo31_x100">
@@ -2348,7 +1742,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,400,100"/>
+				<property name="Create_item_count" value="80,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo32_x100">
@@ -2359,7 +1753,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="200,300,100"/>
+				<property name="Create_item_count" value="160,240,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo33_x100">
@@ -2370,7 +1764,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,400,100"/>
+				<property name="Create_item_count" value="80,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo34_x100">
@@ -2381,7 +1775,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,400,100"/>
+				<property name="Create_item_count" value="80,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo35_x100">
@@ -2392,7 +1786,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="200,300,100"/>
+				<property name="Create_item_count" value="160,240,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo36_x100">
@@ -2403,7 +1797,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="200,600,100"/>
+				<property name="Create_item_count" value="160,480,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo37_x100">
@@ -2414,7 +1808,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="200,600,100"/>
+				<property name="Create_item_count" value="160,480,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo38_x100">
@@ -2425,7 +1819,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="300,500,100"/>
+				<property name="Create_item_count" value="240,400,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo39_x100">
@@ -2436,7 +1830,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,300,100"/>
+				<property name="Create_item_count" value="80,240,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo40_x100">
@@ -2447,7 +1841,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,300,100"/>
+				<property name="Create_item_count" value="80,240,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo41_x100">
@@ -2458,7 +1852,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="200,300,100"/>
+				<property name="Create_item_count" value="160,240,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo42_x100">
@@ -2469,7 +1863,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,400,100"/>
+				<property name="Create_item_count" value="80,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo43_x100">
@@ -2480,7 +1874,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="100,400,100"/>
+				<property name="Create_item_count" value="80,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo44_x100">
@@ -2491,7 +1885,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceLowCaliberBulletTip,resource_item_other_powder,resourceLowCaliberCasing"/>
-				<property name="Create_item_count" value="200,400,100"/>
+				<property name="Create_item_count" value="160,320,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo45_x100">
@@ -2502,7 +1896,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="200,1800,100"/>
+				<property name="Create_item_count" value="160,1440,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo46_x100">
@@ -2513,7 +1907,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceHighCaliberBulletTip,resource_item_other_powder_red,resourceHighCaliberCasing"/>
-				<property name="Create_item_count" value="300,1700,100"/>
+				<property name="Create_item_count" value="240,1360,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo47_x100">
@@ -2524,7 +1918,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceBuckshot,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="800,2600,100"/>
+				<property name="Create_item_count" value="640,2080,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo48_x100">
@@ -2535,7 +1929,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoDartIron,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="800,2500,100"/>
+				<property name="Create_item_count" value="640,2000,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo49_x100">
@@ -2546,7 +1940,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceScrapLead,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="2400,2700,100"/>
+				<property name="Create_item_count" value="2000,2160,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo50_x100">
@@ -2557,7 +1951,7 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceBuckshot,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="800,8600,100"/>
+				<property name="Create_item_count" value="640,6880,80"/>
 			</property>
 		</item>
 		<item name="disassembleAmmo51_x100">
@@ -2568,31 +1962,99 @@
 			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceScrapLead,resource_item_other_powder_red,resourceEmptyShotgunShell"/>
-				<property name="Create_item_count" value="2400,8900,100"/>
+				<property name="Create_item_count" value="2000,7120,80"/>
 			</property>
 		</item>
-				
-		<!-- ### KS-23 Ammo Schematic -->
-		<item name="modAmmoShrap25Schematic">
-			<property name="Extends" value="schematicNoQualityMaster"/>
+		
+		<item name="disassembleAmmo52_x5">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
 			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEftShrapnel25Shotgun"/>
-			<property name="Unlocks" value="ammoEftShrapnel25Shotgun"/>
-			<effect_group tiered="false">
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftShrapnel25Shotgun" operation="set" value="1"/>
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
-			</effect_group>
-		</item>
-		<item name="modAmmoBarricSchematic">
-			<property name="Extends" value="schematicNoQualityMaster"/>
+			<property name="CustomIcon" value="ammoEft4046381"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="resourceMechanicalParts,resourceTP200TNTBrick,resourceForgedSteel"/>
+			<property name="Create_item_count" value="8,8,8"/>
+			</property>
+			</item>
+			<item name="disassembleAmmo53_x5">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
 			<property name="CreativeMode" value="Player"/>
-			<property name="CustomIcon" value="ammoEftBarricadeSlug"/>
-			<property name="Unlocks" value="ammoEftBarricadeSlug"/>
-			<effect_group tiered="false">
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftBarricadeSlug" operation="set" value="1"/>
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
-			</effect_group>
-		</item>
+			<property name="CustomIcon" value="ammoEft4053vog25"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="resourceMechanicalParts,resourceTP200TNTBrick,resourceForgedSteel"/>
+			<property name="Create_item_count" value="8,8,8"/>
+			</property>
+			</item>
+			<item name="disassembleAmmo54_x5">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="thrownGrenade"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="resourceUZRGMGrenadeFuze,resourceTP200TNTBrick,resourceForgedSteel"/>
+			<property name="Create_item_count" value="4,4,4"/>
+			</property>
+			</item>
+			<item name="disassembleAmmo55_x5">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="thrownGrenadeContact"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="thrownGrenade,resourceMechanicalParts"/>
+			<property name="Create_item_count" value="4,20"/>
+			</property>
+			</item>
+
+			<item name="disassembleAmmo52_x20">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="ammoEft4046381"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="resourceMechanicalParts,resourceTP200TNTBrick,resourceForgedSteel"/>
+			<property name="Create_item_count" value="32,32,32"/>
+			</property>
+			</item>
+			<item name="disassembleAmmo53_x20">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="ammoEft4053vog25"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="resourceMechanicalParts,resourceTP200TNTBrick,resourceForgedSteel"/>
+			<property name="Create_item_count" value="32,32,32"/>
+			</property>
+			</item>
+			<item name="disassembleAmmo54_x25">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="thrownGrenade"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="resourceUZRGMGrenadeFuze,resourceTP200TNTBrick,resourceForgedSteel"/>
+			<property name="Create_item_count" value="20,20,20"/>
+			</property>
+			</item>
+			<item name="disassembleAmmo55_x25">
+			<property name="Extends" value="disassembleAmmoMasterBundle"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="thrownGrenadeContact"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="disassembleAmmoGroupDesc"/>
+			<property class="Action0">
+			<property name="Create_item" value="thrownGrenade,resourceMechanicalParts"/>
+			<property name="Create_item_count" value="20,100"/>
+			</property>
+			</item>
 	</append>
 	
 	<!-- *** Quest Reward: ammo crafting bundles -->
@@ -2648,7 +2110,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft54539AP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft54539AP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft54539APDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="525" tags="perkDeadEye,perkMachineGunner"/>
@@ -2684,7 +2146,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft54539HP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft54539HP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft54539HPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="450" tags="perkDeadEye,perkMachineGunner"/>
@@ -2751,7 +2213,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft55645NATOAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft55645NATOAP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft55645NATOAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="525" tags="perkDeadEye,perkMachineGunner"/>
@@ -2787,7 +2249,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft55645NATOHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft55645NATOHP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft55645NATOHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="450" tags="perkDeadEye,perkMachineGunner"/>
@@ -2854,7 +2316,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft300BblkAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft300BblkAP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft300BblkAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="450" tags="perkDeadEye,perkMachineGunner"/>
@@ -2890,7 +2352,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft300blkHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft300blkHP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft300blkHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="350" tags="perkDeadEye,perkMachineGunner"/>
@@ -2957,7 +2419,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft76239AP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft76239AP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft76239APDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="450" tags="perkDeadEye,perkMachineGunner"/>
@@ -2993,7 +2455,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft76239HP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft76239HP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft76239HPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="350" tags="perkDeadEye,perkMachineGunner"/>
@@ -3060,7 +2522,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft939AP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft939AP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft939APDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="450" tags="perkDeadEye,perkMachineGunner"/>
@@ -3096,7 +2558,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft939HP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft939HP,perkAutoWeaponsDrumMag"/>
 			<property name="DescriptionKey" value="ammoEft939HPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="350" tags="perkDeadEye,perkMachineGunner"/>
@@ -3163,7 +2625,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft76251NATOAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft76251NATOAP,perkSniperAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft76251NATOAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="750" tags="perkDeadEye,perkMachineGunner"/>
@@ -3199,7 +2661,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft76251NATOHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft76251NATOHP,perkSniperHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft76251NATOHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="640" tags="perkDeadEye,perkMachineGunner"/>
@@ -3266,7 +2728,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft76254RAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft76254RAP,perkSniperAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft76254RAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="850" tags="perkDeadEye,perkMachineGunner"/>
@@ -3302,7 +2764,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft76254RHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft76254RHP,perkSniperHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft76254RHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="720" tags="perkDeadEye,perkMachineGunner"/>
@@ -3370,7 +2832,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft12755PS12A"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft12755PS12A,bookEnforcerHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft12755PS12ADesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="950" tags="perkDeadEye,perkMachineGunner"/>
@@ -3404,7 +2866,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft12755PS12B"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft12755PS12B,bookEnforcerAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft12755PS12BDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1100" tags="perkDeadEye,perkMachineGunner"/>
@@ -3428,109 +2890,120 @@
 		
 		<!-- ### .338 Lapua Magnum (8.6x70) -->
 		<item name="ammoEft338">
-			<property name="Tags" value="ammo,ammo762mmHC,ammo338"/>
-			<property name="DisplayType" value="ammoBulletEft"/>
+			<property name="Tags" value="ammo,ammo762mmHC"/>
+			<property name="DisplayType" value="ammoBullet_2"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>  
 			<property name="Stacknumber" value="150"/>
 			<property name="Material" value="Mbrass"/>
 			<property name="MeltTimePerUnit" value=".4"/>
-			<property name="EconomicValue" value="16.1"/>
+			<property name="EconomicValue" value="24"/>
 			<property name="TraderStageTemplate" value="ammoTier1"/>
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="DescriptionKey" value="ammoEft338Desc"/>
+			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1200" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="DamageFalloffRange" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/>
+				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="EntityDamage" operation="base_set" value="189" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
+				<display_value name="dTargetArmorDMG" value="83"/>
+				<display_value name="dTargetArmorPEN" value="47"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
-				<passive_effect name="DegradationPerUse" operation="perc_add" value=".2"/>
-				<display_value name="dDegradationPerUse" value=".2"/>
 				<passive_effect name="BlockPenetrationFactor" operation="base_set" value="750" tags="perkDeadEye,perkMachineGunner"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="$gunEftPropellantAmount" operation="set" value="5.4"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="$eftBulletWeightKg" operation="set" value="0.047"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="gunEftPropellantAmount" operation="set" value="5.4"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="eftBulletWeightKg" operation="set" value="0.047"/>
 				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="arm"/>
 				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="leg"/>
+				<passive_effect name="DamageModifier" operation="base_add" value="96" tags="head"> <!-- Headshot-Bonus For Snipers -->
+					<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
+				</passive_effect>
 			</effect_group>
 		</item>
 
 		<item name="ammoEft338AP">
-			<property name="Tags" value="ammo,ammo762mmHC,ammo338"/>
-			<property name="DisplayType" value="ammoBulletEft"/>
+			<property name="Tags" value="ammo,ammo762mmHC"/>
+			<property name="DisplayType" value="ammoBulletAP_2"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>  
 			<property name="Stacknumber" value="150"/>
 			<property name="Material" value="Mbrass"/>
 			<property name="MeltTimePerUnit" value=".4"/>
-			<property name="EconomicValue" value="16.7"/>
-			<property name="TraderStageTemplate" value="ammoTier1"/>
+			<property name="EconomicValue" value="32"/>
+			<property name="TraderStageTemplate" value="ammoTier3"/>
 			<property name="DescriptionKey" value="ammoEftAPGroupDesc"/>
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft338AP"/>
-			<property name="DescriptionKey" value="ammoEft338APDesc"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft338AP,perkSniperAPAmmo"/>
+			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1250" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="DamageFalloffRange" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/>
+				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="EntityDamage" operation="base_set" value="163" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
+				<display_value name="dTargetArmorDMG" value="89"/>
+				<display_value name="dTargetArmorPEN" value="79"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="3" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="3"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
-				<passive_effect name="DegradationPerUse" operation="perc_add" value=".4"/>
-				<display_value name="dDegradationPerUse" value=".4"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" value=".25"/>
+				<display_value name="dDegradationPerUse" value=".25"/>
 				<passive_effect name="BlockPenetrationFactor" operation="base_set" value="1500" tags="perkDeadEye,perkMachineGunner"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="$gunEftPropellantAmount" operation="set" value="5.67"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="$eftBulletWeightKg" operation="set" value="0.049"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="gunEftPropellantAmount" operation="set" value="5.67"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="eftBulletWeightKg" operation="set" value="0.049"/>
 				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="arm"/>
 				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="leg"/>
+				<passive_effect name="DamageModifier" operation="base_add" value="96" tags="head"> <!-- Headshot-Bonus For Snipers -->
+					<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
+				</passive_effect>
 			</effect_group>
 		</item>
 
 		<item name="ammoEft338HP">
-			<property name="Tags" value="ammo,ammo762mmHC,ammo338"/>
-			<property name="DisplayType" value="ammoBulletEft"/>
+			<property name="Tags" value="ammo,ammo762mmHC"/>
+			<property name="DisplayType" value="ammoBullet_2"/>
 			<property name="HoldType" value="45"/>
 			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>  
 			<property name="Stacknumber" value="150"/>
 			<property name="Material" value="Mbrass"/>
 			<property name="MeltTimePerUnit" value=".4"/>
-			<property name="EconomicValue" value="18.6"/>
-			<property name="TraderStageTemplate" value="ammoTier1"/>
+			<property name="EconomicValue" value="32"/>
+			<property name="TraderStageTemplate" value="ammoTier3"/>
 			<property name="DescriptionKey" value="ammoEftHPGroupDesc"/>
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft338HP"/>
-			<property name="DescriptionKey" value="ammoEft338HPDesc"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft338HP,perkSniperHPAmmo"/>
+			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1100" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="DamageFalloffRange" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/>
+				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="EntityDamage" operation="base_set" value="366" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
+				<display_value name="dTargetArmorDMG" value="55"/>
+				<display_value name="dTargetArmorPEN" value="18"/>
 				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
 				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="$gunEftPropellantAmount" operation="set" value="5.13"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="$eftBulletWeightKg" operation="set" value="0.044"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="gunEftPropellantAmount" operation="set" value="5.13"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="eftBulletWeightKg" operation="set" value="0.044"/>
 				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="arm"/>
 				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="leg"/>
-				<!--passive_effect name="InternalDamageModifier" operation="perc_add" value=".25" tags="arms,legs"/--> <!-- Experimental HP Bonus (Might be too OP) -->
+				<passive_effect name="DamageModifier" operation="base_add" value="96" tags="head"> <!-- Headshot-Bonus For Snipers -->
+					<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
+				</passive_effect>
 			</effect_group>
-		</item>
-		
+		</item>	
 		
 		<!-- ### 7.62x25 -->
 		<item name="ammoEft76225mmTokarev">
@@ -3638,7 +3111,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft919mmAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft919mmAP,perkPistolPeteAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft919mmAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="325" tags="perkGunslinger"/>
@@ -3671,7 +3144,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft919mmHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft919mmHP,perkPistolPeteHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft919mmHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="250" tags="perkGunslinger"/>
@@ -3732,7 +3205,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft921mmAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft921mmAP,perkPistolPeteAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft921mmAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="325" tags="perkGunslinger"/>
@@ -3765,7 +3238,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft921mmHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft921mmHP,perkPistolPeteHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft921mmHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="250" tags="perkGunslinger"/>
@@ -3826,7 +3299,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft45ACPAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft45ACPAP,perkPistolPeteAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft45ACPAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="275" tags="perkGunslinger"/>
@@ -3859,7 +3332,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft45ACPRIP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft45ACPRIP,perkPistolPeteHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft45ACPRIPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="200" tags="perkGunslinger"/>
@@ -3920,7 +3393,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft4630mmHKAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft4630mmHKAP,perkPistolPeteAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft4630mmHKAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="425" tags="perkGunslinger"/>
@@ -3953,7 +3426,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft4630mmHKHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft4630mmHKHP,perkPistolPeteHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft4630mmHKHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="380" tags="perkGunslinger"/>
@@ -4014,7 +3487,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft5728FNAP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft5728FNAP,perkPistolPeteAPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft5728FNAPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="375" tags="perkGunslinger"/>
@@ -4047,7 +3520,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEft5728FNHP"/>
+			<property name="UnlockedBy" value="schematicsAmmoEft5728FNHP,perkPistolPeteHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft5728FNHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="330" tags="perkGunslinger"/>
@@ -4110,7 +3583,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="schematicsammoEft50aeHP"/>
+			<property name="UnlockedBy" value="schematicsammoEft50aeHP,bookEnforcerHPAmmo"/>
 			<property name="DescriptionKey" value="ammoEft50aeHPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="330" tags="perkGunslinger"/>
@@ -4186,7 +3659,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="shotgunshells_grab"/>
 			<property name="SoundPlace" value="shotgunshells_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEftFlechetteShotgun"/>
+			<property name="UnlockedBy" value="schematicsAmmoEftFlechetteShotgun,perkShotgunMessiahBreachingSlugs"/>
 			<property name="DescriptionKey" value="ammoEftFlechetteShotgunDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="DegradationPerUse" operation="perc_add" value="1"/>
@@ -4228,7 +3701,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="shotgunshells_grab"/>
 			<property name="SoundPlace" value="shotgunshells_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEftAP20Slug"/>
+			<property name="UnlockedBy" value="schematicsAmmoEftAP20Slug,perkShotgunMessiahSlugs"/>
 			<property name="DescriptionKey" value="ammoEftAP20SlugDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="DegradationPerUse" operation="perc_add" value="1"/>
@@ -4311,7 +3784,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="shotgunshells_grab"/>
 			<property name="SoundPlace" value="shotgunshells_place"/>
-			<property name="UnlockedBy" value="schematicsAmmoEftBarricadeSlug"/>
+			<property name="UnlockedBy" value="schematicsAmmoEftBarricadeSlug,perkShotgunMessiahSlugs"/>
 			<property name="DescriptionKey" value="ammoEftBarricadeSlugDesc"/>
 			<effect_group tiered="false" name="internal attachment prefab (A19)">
 				<requirement name="HoldingItemHasTags" tags="ks23only"/>
@@ -4689,124 +4162,7 @@
 		<display_value name="dExBlockDamage" value="10"/>
 		<display_value name="dExEntityDamage" value="1000"/>
 	</effect_group>
-</item>
-		
-		<!-- ### .338 Lapua Magnum (8.6x70) -->
-		<item name="ammoEft338">
-			<property name="Tags" value="ammo,ammo762mmHC"/>
-			<property name="DisplayType" value="ammoBullet_2"/>
-			<property name="HoldType" value="45"/>
-			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
-			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>  
-			<property name="Stacknumber" value="150"/>
-			<property name="Material" value="Mbrass"/>
-			<property name="MeltTimePerUnit" value=".4"/>
-			<property name="EconomicValue" value="24"/>
-			<property name="TraderStageTemplate" value="ammoTier1"/>
-			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
-			<property name="SoundPickup" value="bullets_grab"/>
-			<property name="SoundPlace" value="bullets_place"/>
-			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumDesc"/>
-			<effect_group name="ammo" tiered="false">
-				<passive_effect name="MaxRange" operation="base_set" value="1200" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="EntityDamage" operation="base_set" value="189" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<display_value name="dTargetArmorDMG" value="83"/>
-				<display_value name="dTargetArmorPEN" value="47"/>
-				<passive_effect name="EntityPenetrationCount" operation="base_set" value="2" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="2"/>
-				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
-				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
-				<passive_effect name="BlockPenetrationFactor" operation="base_set" value="750" tags="perkDeadEye,perkMachineGunner"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="gunEftPropellantAmount" operation="set" value="5.4"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="eftBulletWeightKg" operation="set" value="0.047"/>
-				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="arm"/>
-				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="leg"/>
-				<passive_effect name="DamageModifier" operation="base_add" value="96" tags="head"> <!-- Headshot-Bonus For Snipers -->
-					<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
-				</passive_effect>
-			</effect_group>
-		</item>
-
-		<item name="ammoEft338AP">
-			<property name="Tags" value="ammo,ammo762mmHC"/>
-			<property name="DisplayType" value="ammoBulletAP_2"/>
-			<property name="HoldType" value="45"/>
-			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
-			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>  
-			<property name="Stacknumber" value="150"/>
-			<property name="Material" value="Mbrass"/>
-			<property name="MeltTimePerUnit" value=".4"/>
-			<property name="EconomicValue" value="32"/>
-			<property name="TraderStageTemplate" value="ammoTier3"/>
-			<property name="DescriptionKey" value="ammoEftAPGroupDesc"/>
-			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
-			<property name="SoundPickup" value="bullets_grab"/>
-			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="perkSniperAPAmmo"/>
-			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumAPDesc"/>
-			<effect_group name="ammo" tiered="false">
-				<passive_effect name="MaxRange" operation="base_set" value="1250" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="EntityDamage" operation="base_set" value="163" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<display_value name="dTargetArmorDMG" value="89"/>
-				<display_value name="dTargetArmorPEN" value="79"/>
-				<passive_effect name="EntityPenetrationCount" operation="base_set" value="3" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="3"/>
-				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
-				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
-				<passive_effect name="DegradationPerUse" operation="perc_add" value=".25"/>
-				<display_value name="dDegradationPerUse" value=".25"/>
-				<passive_effect name="BlockPenetrationFactor" operation="base_set" value="1500" tags="perkDeadEye,perkMachineGunner"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="gunEftPropellantAmount" operation="set" value="5.67"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="eftBulletWeightKg" operation="set" value="0.049"/>
-				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="arm"/>
-				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="leg"/>
-				<passive_effect name="DamageModifier" operation="base_add" value="96" tags="head"> <!-- Headshot-Bonus For Snipers -->
-					<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
-				</passive_effect>
-			</effect_group>
-		</item>
-
-		<item name="ammoEft338HP">
-			<property name="Tags" value="ammo,ammo762mmHC"/>
-			<property name="DisplayType" value="ammoBullet_2"/>
-			<property name="HoldType" value="45"/>
-			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
-			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>  
-			<property name="Stacknumber" value="150"/>
-			<property name="Material" value="Mbrass"/>
-			<property name="MeltTimePerUnit" value=".4"/>
-			<property name="EconomicValue" value="32"/>
-			<property name="TraderStageTemplate" value="ammoTier3"/>
-			<property name="DescriptionKey" value="ammoEftHPGroupDesc"/>
-			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
-			<property name="SoundPickup" value="bullets_grab"/>
-			<property name="SoundPlace" value="bullets_place"/>
-			<property name="UnlockedBy" value="perkSniperHPAmmo"/>
-			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumHPDesc"/>
-			<effect_group name="ammo" tiered="false">
-				<passive_effect name="MaxRange" operation="base_set" value="1100" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="EntityDamage" operation="base_set" value="366" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="BlockDamage" operation="base_set" value="8" tags="perkDeadEye,perkMachineGunner"/>
-				<passive_effect name="BlockDamage" operation="base_add" value="60" tags="barrelExplosive"/>
-				<display_value name="dTargetArmorDMG" value="55"/>
-				<display_value name="dTargetArmorPEN" value="18"/>
-				<passive_effect name="EntityPenetrationCount" operation="base_set" value="1" tags="perkDeadEye,perkMachineGunner"/><display_value name="dTargetPenetration" value="1"/>
-				<passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="earth"/>
-				<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="gunEftPropellantAmount" operation="set" value="5.13"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="ModifyCVar" cvar="eftBulletWeightKg" operation="set" value="0.044"/>
-				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="arm"/>
-				<passive_effect name="DismemberChance" operation="base_set" value="1" tags="leg"/>
-				<passive_effect name="DamageModifier" operation="base_add" value="96" tags="head"> <!-- Headshot-Bonus For Snipers -->
-					<requirement name="HoldingItemHasTags" tags="perkDeadEye"/>
-				</passive_effect>
-			</effect_group>
-		</item>			
+</item>				
 		</append>
 		
 		<append xpath="/items/item[@name='bundleWeaponsCaseT2_1']/property[@class='Action0']/property[@name='Create_item']/@value">,ammo762mmBulletBall,ammoEft54539</append>

@@ -1881,6 +1881,48 @@ craftingheadLightsandNVGName,"headLights & NVGS"
 craftingheadLightsandNVGDesc,"Reading [DECEA3]headLights & NVGS[-] enables you to craft headLights & NVGS."
 craftingheadLightsandNVGLongDesc,"Long Desc"
 
+SMGSSkillMagazine,"SMGS Magazine"
+SMGSSkillMagazineDesc,"Crafting SMGS.\nImproves SMGS weapon crafting skill."
+craftingSMGS,"SMGS"
+craftingSMGSName,"SMGS"
+craftingSMGSDesc,"Reading [DECEA3]SMGS[-] enables you to craft SMGS."
+craftingSMGSLongDesc,"Long Desc"
+
+PistolsSkillMagazine,"Pistols Magazine"
+PistolsSkillMagazineDesc,"Crafting a Pistol.\nImproves Pistols weapon crafting skill."
+craftingPistols,"Pistols"
+craftingPistolsName,"Pistols"
+craftingPistolsDesc,"Reading [DECEA3]Pistols[-] enables you to craft Pistols."
+craftingPistolsLongDesc,"Long Desc"
+
+ShotgunsSkillMagazine,"Shotguns Magazine"
+ShotgunsSkillMagazineDesc,"Crafting a Shotguns.\nImproves Shotguns weapon crafting skill."
+craftingEFTShotguns,"Shotguns"
+craftingEFTShotgunsName,"Shotguns"
+craftingEFTShotgunsDesc,"Reading [DECEA3]Shotguns[-] enables you to craft Shotguns."
+craftingEFTShotgunsLongDesc,"Long Desc"
+
+RiflesSkillMagazine,"Rifles Magazine"
+RiflesSkillMagazineDesc,"Crafting a Rifles.\nImproves Rifles weapon crafting skill."
+craftingEFTRifles,"Rifles"
+craftingEFTRiflesName,"Rifles"
+craftingEFTRiflesDesc,"Reading [DECEA3]Rifles[-] enables you to craft Rifles."
+craftingEFTRiflesLongDesc,"Long Desc"
+
+MachinegunsSkillMagazine,"Machine Guns Magazine"
+MachinegunsSkillMagazineDesc,"Crafting a Machine Gun.\nImproves Machine Gun weapon crafting skill."
+craftingEFTMachineguns,"Machine Guns"
+craftingEFTMachinegunsName,"Machine Guns"
+craftingEFTMachinegunsDesc,"Reading [DECEA3]Machine Guns[-] enables you to craft Machine guns."
+craftingEFTMachinegunsLongDesc,"Long Desc"
+
+RocketsandLaunchersSkillMagazine,"Rockets and Launchers Magazine"
+RocketsandLaunchersSkillMagazineDesc,"Crafting Rockets and Launchers.\nImproves Rockets and Launchers crafting skill."
+craftingRocketsandLaunchers,"Rockets and Launchers"
+craftingRocketsandLaunchersName,"Rockets and Launchers"
+craftingRocketsandLaunchersDesc,"Reading [DECEA3]Rockets and Launchers[-] enables you to craft Rockets and Launchers."
+craftingRocketsandLaunchersLongDesc,"Long Desc"
+
 perkPPSH41Rank1Desc,PPSH 41 T1,,
 perkPPSH41Rank2Desc,PPSH 41 T2,,
 perkPPSH41Rank3Desc,PPSH 41 T3,,
@@ -2665,3 +2707,92 @@ perkLightsRank3Desc,Spotted,,
 perkLightsRank4Desc,Lit Up,,
 perkLightsRank5Desc,City Lights,,
 
+perkEFTXSMGSRank1Desc,Bloody Galah,,
+perkEFTXSMGSRank2Desc,Stupid Peacock,,
+perkEFTXSMGSRank3Desc,Noisy Cockatoo,,
+perkEFTXSMGSRank4Desc,The Emu Wars,,
+perkEFTXSMGSRank5Desc,Swooping Magpies,,
+
+perkEFTXPistolsRank1Desc,Finding Nemo,,
+perkEFTXPistolsRank2Desc,Thats not a knife,,
+perkEFTXPistolsRank3Desc,Dingoes ate my baby,,
+perkEFTXPistolsRank4Desc,Shrimp on the barbie,,
+perkEFTXPistolsRank5Desc,Crocodile Dundee,,
+
+perkEFTXShotgunsRank1Desc,Dingoes,,
+perkEFTXShotgunsRank2Desc,Koalafications,,
+perkEFTXShotgunsRank3Desc,Wallabies,,
+perkEFTXShotgunsRank4Desc,Kangaroos,,
+perkEFTXShotgunsRank5Desc,Drop Bears,,
+
+perkEFTXBoomBoomRank1Desc,Boom,,
+perkEFTXBoomBoomRank2Desc,Big Boom,,
+perkEFTXBoomBoomRank3Desc,Dropping Bombs,,
+perkEFTXBoomBoomRank4Desc,Boom Boom Boom lets destroy that room,,
+perkEFTXBoomBoomRank5Desc,Biggest of the biggest Boom Booms,,
+
+perkEFTXRiflesRank1Desc,Antechinus,,
+perkEFTXRiflesRank2Desc,Monjon,,
+perkEFTXRiflesRank3Desc,Australian Bustard,,
+perkEFTXRiflesRank4Desc,Wunderpus,,
+perkEFTXRiflesRank5Desc,Western Gobbleguts,,
+
+perkEFTXMGSRank1Desc,Mate,,
+perkEFTXMGSRank2Desc,She'll be right,,
+perkEFTXMGSRank3Desc,Pull Ya head in,,
+perkEFTXMGSRank4Desc,Banger,,
+perkEFTXMGSRank5Desc,As mad as a cut snake,,
+
+perkEFTXBipodsForegripsRank1Desc,Fair dinkum,,
+perkEFTXBipodsForegripsRank2Desc,Dog's breakfast,,
+perkEFTXBipodsForegripsRank3Desc,Woop Woop,,
+perkEFTXBipodsForegripsRank4Desc,Yeah, nah,,
+perkEFTXBipodsForegripsRank5Desc,Bludger,,
+
+perkEFTXLauncherRank1Desc,Accadacca,,
+perkEFTXLauncherRank2Desc,Ankle Biter,,
+perkEFTXLauncherRank3Desc,Beauty,,
+perkEFTXLauncherRank4Desc,Budgie Smugglers,,
+perkEFTXLauncherRank5Desc,Cobber,,
+
+perkEFTXScopesRank1Desc,You beauty,,
+perkEFTXScopesRank2Desc,Gone troppo,,
+perkEFTXScopesRank3Desc,Drongo,,
+perkEFTXScopesRank4Desc,Corker,,
+perkEFTXScopesRank5Desc,Rip Snorters,,
+
+perkEFTXMagazinesRank1Desc,Bugger off,,
+perkEFTXMagazinesRank2Desc,Strewth,,
+perkEFTXMagazinesRank3Desc,Wombat,,
+perkEFTXMagazinesRank4Desc,Bollocks,,
+perkEFTXMagazinesRank5Desc,G'day,,
+
+perkEFTXSilencersRank1Desc,Flat out,,
+perkEFTXSilencersRank2Desc,Crikey,,
+perkEFTXSilencersRank3Desc,Hunting wabbits,,
+perkEFTXSilencersRank4Desc,No Wucka’s,,
+perkEFTXSilencersRank5Desc,Brolly,,
+
+perkEFTXStocksRank1Desc,Chook,,
+perkEFTXStocksRank2Desc,Dag,,
+perkEFTXStocksRank3Desc,Deadset,,
+perkEFTXStocksRank4Desc,Durry,,
+perkEFTXStocksRank5Desc,Gnarly,,
+
+perkEFTXDoctorJournalsRank1Desc,Croaker,,
+perkEFTXDoctorJournalsRank2Desc,Sawbones ,,
+perkEFTXDoctorJournalsRank3Desc,Doc,,
+perkEFTXDoctorJournalsRank4Desc,Crack a fat,,
+perkEFTXDoctorJournalsRank5Desc,Medico,,
+
+perkEFTXSurgeonsBooksRank1Desc,Sickie,,
+perkEFTXSurgeonsBooksRank2Desc,Snag,,
+perkEFTXSurgeonsBooksRank3Desc,Straya,,
+perkEFTXSurgeonsBooksRank4Desc,Swag,,
+perkEFTXSurgeonsBooksRank5Desc,True Blue,,
+
+perkEFTXLightsRank1Desc,Good On Ya,,
+perkEFTXLightsRank2Desc,Hard Yakka,,
+perkEFTXLightsRank3Desc,Larrikin,,
+perkEFTXLightsRank4Desc,Rooted,,
+perkEFTXLightsRank5Desc,Pork Chop,,

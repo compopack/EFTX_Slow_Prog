@@ -2,13 +2,15 @@
 	<conditional>
 	<if cond="mod_loaded('IZY_FPV_GLOVES') and mod_loaded('IZY_MMVMV2') and mod_loaded('IZY_RMP_Miscpack') and mod_loaded('IZY_RMP_9mmVAL') and mod_loaded('IZY_RMP_45ACP') and mod_loaded('IZY_RMP_556pack') and mod_loaded('IZY_RMP_762pack') and mod_loaded('IZY_RMP_Demopack') and mod_loaded('IZY_RMP_SG') and mod_loaded('IZY_RMP_Tech') and mod_loaded('IZY_melee') and mod_loaded('EFTX_Pack_Core') or mod_loaded('EFTX_Pack_Standard') or mod_loaded('EFTX_Pack_Slow_Progress') and mod_loaded('IZY_melee') and not mod_loaded('Z2_EFTX_Both_Ammo') and not mod_loaded('Z2_EFTX_EFT_Only_Ammo') and not mod_loaded('Z2_EFTX_Vanilla_Only_Ammo')">
 	
-	<append xpath="/progression/perks/book[@name='perkAutoWeaponsDrumMag']/effect_group/passive_effect[@name='RecipeTagUnlocked' and contains(@tags, 'modGunDrumMagazineExtender')]/@tags">,ammoEft54539AP,ammoEft55645NATOAP,ammoEft300BblkAP,ammoEft76239AP,ammoEft939AP,ammoEft76251NATOAP,ammoEft76254RAP,ammoEft12755PS12B</append>	
-	<append xpath="//book[@name='perkPistolPeteHPAmmo']/effect_group/passive_effect[@tags='ammo9mmBulletHP']/@tags">,ammoEft919mmHP,ammoEft9x21mmHP,ammoEft45ACPRIP,ammoEft4630mmHKHP,ammoEft5728FNHP</append>
-	<append xpath="//book[@name='perkPistolPeteAPAmmo']/effect_group/passive_effect[@tags='ammo9mmBulletAP']/@tags">,ammoEft919mmAP,ammoEft9x21mmAP,ammoEft45ACPAP,ammoEft4630mmHKAP,ammoEft5728FNAP</append>	
+	<append xpath="/progression/perks/book[@name='perkAutoWeaponsDrumMag']/effect_group/passive_effect[@name='RecipeTagUnlocked' and contains(@tags, 'modGunDrumMagazineExtender')]/@tags">,ammoEft54539AP,ammoEft55645NATOAP,ammoEft300BblkAP,ammoEft76239AP,ammoEft939AP,ammoEft54539HP,ammoEft55645NATOHP,ammoEft300blkHP,ammoEft76239HP,ammoEft939HP,ammoEft921mmAP</append>	
+	<append xpath="//book[@name='perkPistolPeteAPAmmo']/effect_group/passive_effect[@tags='ammo9mmBulletAP']/@tags">,ammoEft919mmAP,ammoEft921mmAP,ammoEft45ACPAP,ammoEft4630mmHKAP,ammoEft5728FNAP</append>	
+	<append xpath="//book[@name='perkPistolPeteHPAmmo']/effect_group/passive_effect[@tags='ammo9mmBulletHP']/@tags">,ammoEft919mmHP,ammoEft921mmHP,ammoEft45ACPRIP,ammoEft4630mmHKHP,ammoEft5728FNHP</append>	
 	<append xpath="//book[@name='perkShotgunMessiahBreachingSlugs']/effect_group/passive_effect[@tags='ammoShotgunBreachingSlug']/@tags">,ammoEftFlechetteShotgun</append>
-	<append xpath="//book[@name='perkShotgunMessiahSlugs']/effect_group/passive_effect[@tags='ammoShotgunSlug']/@tags">,ammoEftAP20Slug</append>	
-	<append xpath="/progression/perks/book[@name='perkSniperAPAmmo']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,ammoEft54539AP,ammoEft55645NATOAP,ammoEft300BblkAP,ammoEft76239AP,ammoEft939AP,ammoEft76251NATOAP,ammoEft76254RAP,ammoEft12755PS12B,ammoEft338AP,ammoEft939AP</append>
-	<append xpath="/progression/perks/book[@name='perkSniperHPAmmo']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,ammoEft54539HP,ammoEft55645NATOHP,ammoEft300blkHP,ammoEft76239HP,ammoEft76251NATOHP,ammoEft76254RHP,ammoEft12755PS12A,ammoEft338HP</append>
+	<append xpath="//book[@name='perkShotgunMessiahSlugs']/effect_group/passive_effect[@tags='ammoShotgunSlug']/@tags">,ammoEftAP20Slug,ammoEftBarricadeSlug</append>	
+	<append xpath="/progression/perks/book[@name='perkSniperAPAmmo']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">, ammoEft76251NATOAP,ammoEft76254RAP,ammoEft338AP</append>
+	<append xpath="/progression/perks/book[@name='perkSniperHPAmmo']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,ammoEft76251NATOHP,ammoEft76254RHP,ammoEft338HP</append>
+	<append xpath="//book[@name='perkEnforcerAPAmmo']/effect_group/passive_effect[@tags='ammo44MagnumBulletAP']/@tags">,ammoEft12755PS12B </append>
+	<append xpath="//book[@name='perkEnforcerHPAmmo']/effect_group/passive_effect[@tags='ammo44MagnumBulletHP']/@tags">,ammoEft12755PS12A,ammoEft50aeHP </append>
 	
 	<append xpath="/progression/crafting_skills">
 	<crafting_skill name="craftingBigBoomBoom" max_level="100" parent="attCrafting" name_key="craftingBigBoomBoomName" desc_key="craftingBigBoomBoomDesc" long_desc_key="craftingBigBoomBoomLongDesc" icon="ui_game_symbol_tool_smithing">

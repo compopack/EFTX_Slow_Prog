@@ -1539,11 +1539,11 @@
 	</append>	
 			
 		<append xpath="//lootgroup[@name='groupFoodTrashCommon']">
-			<item name="modArmorHelmetLight" count="1" loot_prob_template="low"/>
+			<item name="modArmorHelmetLight" count="0,1" loot_prob_template="low"/>
 		</append>		
 		
 		<append xpath="//lootgroup[@name='groupFoodTrashUncommon']">
-			<item name="modArmorHelmetLight2" count="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
+			<item name="modArmorHelmetLight2" count="0,1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="low"/>
 		</append>
 		
@@ -1591,7 +1591,6 @@
 			<item group="groupPistolsT1" count="0,1" loot_prob_template="veryLowDelayedEft" force_prob="true" quality="1"/>
 			<item group="groupModEftSkillMagazinesAll" count="1" loot_prob_template="med"/>	
 			<item name="resourceWeaponRepairKit" count="0,1" loot_prob_template="low"/>			
-			<item name="resourceWeaponParts" count="0,1" loot_prob_template="low"/>
 			<item name="modGunEFTXLaserSightSchematic" count="0,1" loot_prob_template="low"/>
 	</lootgroup>
 	</insertBefore>

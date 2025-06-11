@@ -2736,7 +2736,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxks23"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxks23"/>
@@ -2768,7 +2768,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmp43"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmp43"/>
@@ -2800,7 +2800,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmts255"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmts255"/>
@@ -2832,7 +2832,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxm590"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm590"/>
@@ -2864,7 +2864,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxm870"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm870"/>
@@ -2896,7 +2896,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxksg12"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxksg12"/>
@@ -2928,7 +2928,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmp153"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmp153"/>
@@ -2960,7 +2960,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxm3benelli"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm3benelli"/>
@@ -2992,7 +2992,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXsaiga12k"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXsaiga12k"/>
@@ -3024,7 +3024,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="9" desc_key="reqStrengthLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="11" desc_key="reqStrengthLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxaa12"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxaa12"/>
@@ -3059,7 +3059,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="DismemberChance" operation="base_add" level="1,2,3,4,5" value=".05,.1,.2,.3,.45" tags="eftxfn40gl"/>
 			<passive_effect name="ExplosionBlockDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxfn40gl"/>
@@ -3093,7 +3093,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="DismemberChance" operation="base_add" level="1,2,3,4,5" value=".05,.1,.2,.3,.45" tags="eftxchinalake"/>
 			<passive_effect name="ExplosionBlockDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxchinalake"/>
@@ -3127,7 +3127,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="DismemberChance" operation="base_add" level="1,2,3,4,5" value=".05,.1,.2,.3,.45" tags="eftcm32a1mgl"/>
 			<passive_effect name="ExplosionBlockDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftcm32a1mgl"/>
@@ -3161,7 +3161,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="DismemberChance" operation="base_add" level="1,2,3,4,5" value=".05,.1,.2,.3,.45" tags="eftxrpg7"/>
 			<passive_effect name="ExplosionBlockDamage" operation="perc_add" level="0,5" value="0,.5" tags="eftxrpg7"/>
@@ -3196,7 +3196,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxadar"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxadar"/>
@@ -3227,7 +3227,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxstar15"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxstar15"/>
@@ -3258,7 +3258,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm700"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxm700"/>
@@ -3289,7 +3289,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxdvl10"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxdvl10"/>
@@ -3320,7 +3320,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxt5000"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxt5000"/>
@@ -3351,7 +3351,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxfalsa58dmr"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxfalsa58dmr"/>
@@ -3382,7 +3382,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm1aEBR"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxm1aEBR"/>
@@ -3413,7 +3413,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxrfb"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxrfb"/>
@@ -3444,7 +3444,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxsr25"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxsr25"/>
@@ -3475,7 +3475,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxrsass"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxrsass"/>
@@ -3506,7 +3506,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxhkg28"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxhkg28"/>
@@ -3537,7 +3537,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmp18"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxmp18"/>
@@ -3568,7 +3568,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXmosinag"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="EFTXmosinag"/>
@@ -3599,7 +3599,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxsv98"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxsv98"/>
@@ -3630,7 +3630,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxsvt"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxsvt"/>
@@ -3661,7 +3661,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXsvds"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="EFTXsvds"/>
@@ -3692,7 +3692,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxaxmc"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxaxmc"/>
@@ -3723,7 +3723,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="09" desc_key="reqPerceptionLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="11" desc_key="reqPerceptionLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxswordmk18"/>
 			<passive_effect name="WeaponHandling" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.32,.45,.60" tags="eftxswordmk18"/>
@@ -3756,7 +3756,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxauga3"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxauga3"/>
@@ -3796,7 +3796,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxg36kv2"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxg36kv2"/>
@@ -3836,7 +3836,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXm4a1"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXm4a1"/>
@@ -3876,7 +3876,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxm16a4"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm16a4"/>
@@ -3916,7 +3916,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXl85a2"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXl85a2"/>
@@ -3956,7 +3956,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmdr556"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmdr556"/>
@@ -3996,7 +3996,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxhk416"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxhk416"/>
@@ -4036,7 +4036,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxiwitavorx95"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxiwitavorx95"/>
@@ -4076,7 +4076,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxiwicarmel"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxiwicarmel"/>
@@ -4116,7 +4116,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxak300velociraptor"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxak300velociraptor"/>
@@ -4156,7 +4156,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxhoneybadger"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxhoneybadger"/>
@@ -4196,7 +4196,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmcx"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmcx"/>
@@ -4236,7 +4236,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXsa58fa"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXsa58fa"/>
@@ -4276,7 +4276,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmdr762"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmdr762"/>
@@ -4316,7 +4316,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxscarh"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxscarh"/>
@@ -4356,7 +4356,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxhk417"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxhk417"/>
@@ -4396,7 +4396,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxm14sass"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm14sass"/>
@@ -4436,7 +4436,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmcxspear"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmcxspear"/>
@@ -4476,7 +4476,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxash12"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxash12"/>
@@ -4516,7 +4516,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxrpk16"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxrpk16"/>
@@ -4556,7 +4556,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxfnminimi"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxfnminimi"/>
@@ -4596,7 +4596,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXrpd"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXrpd"/>
@@ -4636,7 +4636,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxm60e6"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxm60e6"/>
@@ -4676,7 +4676,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxpkp"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxpkp"/>
@@ -4716,7 +4716,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXaks74unm203"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXaks74unm203"/>
@@ -4756,7 +4756,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXak74n"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXak74n"/>
@@ -4796,7 +4796,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXak74m"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXak74m"/>
@@ -4836,7 +4836,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxak12"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxak12"/>
@@ -4876,7 +4876,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxak107"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxak107"/>
@@ -4916,7 +4916,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxsks"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxsks"/>
@@ -4956,7 +4956,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXakmn"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXakmn"/>
@@ -4996,7 +4996,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="EFTXak103"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="EFTXak103"/>
@@ -5036,7 +5036,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxak109"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxak109"/>
@@ -5076,7 +5076,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxrd704"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxrd704"/>
@@ -5116,7 +5116,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxmk47"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxmk47"/>
@@ -5156,7 +5156,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftx9a91"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftx9a91"/>
@@ -5196,7 +5196,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxvss"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxvss"/>
@@ -5236,7 +5236,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxasval"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxasval"/>
@@ -5276,7 +5276,7 @@
 			<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
 			<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
 			<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="09" desc_key="reqFortitudeLevel09"/></level_requirements>
-			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="11" desc_key="reqFortitudeLevel10"/></level_requirements>
+			<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 			<effect_group>
 			<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".2,1" tags="eftxfamas"/>
 			<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".1,.5" tags="eftxfamas"/>

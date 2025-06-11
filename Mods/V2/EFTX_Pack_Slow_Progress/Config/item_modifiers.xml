@@ -679,7 +679,7 @@
 					</triggered_effect>
             </effect_group>
 			<effect_group tiered="false" name="internal attachment prefab (A19)">
-				<requirement name="HoldingItemHasTags" tags="EFTXm4a1,EFTXl85a2,EFTXaks74un,EFTXak74n,EFTXak74m,EFTXakmn,EFTXak103,EFTXrpd,EFTXmosinag,EFTXsvds,EFTXsa58fa,EFTXsaiga12k"/>
+				<requirement name="HoldingItemHasTags" tags="EFTXmp5,EFTXm4a1,EFTXl85a2,EFTXaks74un,EFTXak74n,EFTXak74m,EFTXakmn,EFTXak103,EFTXrpd,EFTXmosinag,EFTXsvds,EFTXsa58fa,EFTXsaiga12k"/>
 				<triggered_effect trigger="onSelfHoldingItemCreated" action="SetTransformActive" active="true" parent_transform="#HeldItemRoot" transform_path="handguard"/>
 			</effect_group>
 			<effect_group tiered="false" name="mod effects">

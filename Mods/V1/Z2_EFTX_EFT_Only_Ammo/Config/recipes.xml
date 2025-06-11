@@ -425,173 +425,7 @@
 		<!-- ### Ammo Disassembly -->
 		<recipe name="disassembleAmmo0" count="1">
 			<ingredient name="resourceOFZ30x165mmShell" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo1" count="1">
-			<ingredient name="ammoEft54539" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo2" count="1">
-			<ingredient name="ammoEft54539AP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo3" count="1">
-			<ingredient name="ammoEft54539HP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo4" count="1">
-			<ingredient name="ammoEft55645NATO" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo5" count="1">
-			<ingredient name="ammoEft55645NATOAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo6" count="1">
-			<ingredient name="ammoEft55645NATOHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo7" count="1">
-			<ingredient name="ammoEft300blk" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo8" count="1">
-			<ingredient name="ammoEft300BblkAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo9" count="1">
-			<ingredient name="ammoEft300blkHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo10" count="1">
-			<ingredient name="ammoEft76239" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo11" count="1">
-			<ingredient name="ammoEft76239AP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo12" count="1">
-			<ingredient name="ammoEft76239HP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo13" count="1">
-			<ingredient name="ammoEft939" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo14" count="1">
-			<ingredient name="ammoEft939AP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo15" count="1">
-			<ingredient name="ammoEft939HP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo16" count="1">
-			<ingredient name="ammoEft76251NATO" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo17" count="1">
-			<ingredient name="ammoEft76251NATOAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo18" count="1">
-			<ingredient name="ammoEft76251NATOHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo19" count="1">
-			<ingredient name="ammoEft76254R" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo20" count="1">
-			<ingredient name="ammoEft76254RAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo21" count="1">
-			<ingredient name="ammoEft76254RHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo22" count="1">
-			<ingredient name="ammoEft12755PS12" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo23" count="1">
-			<ingredient name="ammoEft12755PS12A" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo24" count="1">
-			<ingredient name="ammoEft12755PS12B" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo25" count="1">
-			<ingredient name="ammoEft338" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo26" count="1">
-			<ingredient name="ammoEft338AP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo27" count="1">
-			<ingredient name="ammoEft338HP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo28" count="1">
-			<ingredient name="ammoEft76225mmTokarev" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo29" count="1">
-			<ingredient name="ammoEft918mmPM" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo30" count="1">
-			<ingredient name="ammoEft919mm" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo31" count="1">
-			<ingredient name="ammoEft919mmAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo32" count="1">
-			<ingredient name="ammoEft919mmHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo33" count="1">
-			<ingredient name="ammoEft921mm" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo34" count="1">
-			<ingredient name="ammoEft921mmAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo35" count="1">
-			<ingredient name="ammoEft921mmHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo36" count="1">
-			<ingredient name="ammoEft45ACP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo37" count="1">
-			<ingredient name="ammoEft45ACPAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo38" count="1">
-			<ingredient name="ammoEft45ACPRIP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo39" count="1">
-			<ingredient name="ammoEft4630mmHK" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo40" count="1">
-			<ingredient name="ammoEft4630mmHKAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo41" count="1">
-			<ingredient name="ammoEft4630mmHKHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo42" count="1">
-			<ingredient name="ammoEft5728FN" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo43" count="1">
-			<ingredient name="ammoEft5728FNAP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo44" count="1">
-			<ingredient name="ammoEft5728FNHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo45" count="1">
-			<ingredient name="ammoEft50ae" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo46" count="1">
-			<ingredient name="ammoEft50aeHP" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo47" count="1">
-			<ingredient name="ammoEft7mmShotgun" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo48" count="1">
-			<ingredient name="ammoEftFlechetteShotgun" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo49" count="1">
-			<ingredient name="ammoEftAP20Slug" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo50" count="1">
-			<ingredient name="ammoEftShrapnel25Shotgun" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo51" count="1">
-			<ingredient name="ammoEftBarricadeSlug" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo52" count="1">
-			<ingredient name="ammoEft4046381" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo53" count="1">
-			<ingredient name="ammoEft4053vog25" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo54" count="1">
-			<ingredient name="thrownGrenade" count="1"/>
-		</recipe>
-		<recipe name="disassembleAmmo55" count="1">
-			<ingredient name="thrownGrenadeContact" count="1"/>
-		</recipe>
-		
+		</recipe>		
 		<recipe name="disassembleAmmo1_x10" count="1">
 			<ingredient name="ammoEft54539" count="10"/>
 		</recipe>
@@ -898,6 +732,30 @@
 		</recipe>
 		<recipe name="disassembleAmmo51_x100" count="1">
 			<ingredient name="ammoEftBarricadeSlug" count="100"/>
+		</recipe>
+		<recipe name="disassembleAmmo52_x5" count="1">
+            <ingredient name="ammoEft4046381" count="5"/>
+        </recipe>
+        <recipe name="disassembleAmmo53_x5" count="1">
+            <ingredient name="ammoEft4053vog25" count="5"/>
+        </recipe>
+        <recipe name="disassembleAmmo54_x5" count="1">
+            <ingredient name="thrownGrenade" count="5"/>
+        </recipe>
+        <recipe name="disassembleAmmo55_x5" count="1">
+            <ingredient name="thrownGrenadeContact" count="5"/>
+        </recipe>
+        <recipe name="disassembleAmmo52_x20" count="1">
+            <ingredient name="ammoEft4046381" count="20"/>
+        </recipe>
+        <recipe name="disassembleAmmo53_x20" count="1">
+            <ingredient name="ammoEft4053vog25" count="20"/>
+        </recipe>
+        <recipe name="disassembleAmmo54_x25" count="1">
+            <ingredient name="thrownGrenade" count="25"/>
+        </recipe>
+        <recipe name="disassembleAmmo55_x25" count="1">
+            <ingredient name="thrownGrenadeContact" count="25"/>
 		</recipe>
 	</append>
 	<!-- ### Vanilla Recipe Changes -->	

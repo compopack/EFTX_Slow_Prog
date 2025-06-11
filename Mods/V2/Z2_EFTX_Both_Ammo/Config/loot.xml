@@ -146,11 +146,7 @@
 			<item name="ammoEft12755PS12" count="3,6"/>
 			<item name="ammoEft12755PS12" count="3,6"/>
 			<item name="ammo9mmBulletBall" count="10,20"/>
-		</append>
-		<append xpath="//lootgroup[@name='groupgunks23']">
-			<item name="modAmmoShrap25Schematic" count="1"/>
-			<item name="modAmmoBarricSchematic" count="1"/>
-		</append>
+		</append>	
 	<!-- *** Ammo -->		
 	<insertBefore xpath="//lootgroup[@name='groupWeapons_RangedParts']">	
 		<lootgroup name="groupEftAmmoSmallT1">
