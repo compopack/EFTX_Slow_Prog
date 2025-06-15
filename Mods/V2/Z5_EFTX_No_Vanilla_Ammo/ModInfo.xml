@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
   <Name value="Z5_EFTX_No_Vanilla_Ammo" />
-  <Author value="Stallionsden" />
   <Description value="Removes Vanilla Ammo" />
   <DisplayName value="No Vanilla Ammo" />
-  <Version value="1.4.1.7" />
+  <Author value="Stallionsden" />
+  <Version value="2.0.2.0" />
   <Website value="" />
 </xml>

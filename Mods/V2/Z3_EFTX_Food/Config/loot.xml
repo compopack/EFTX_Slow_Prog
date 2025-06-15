@@ -227,12 +227,12 @@
 			<item name="schematicsAlcoholics" count="1" loot_prob_template="low"/>
 			<item group="groupExtractionMilitaryConsumables" count="1" loot_prob_template="low"/>	
 		</append>
+		<conditional>
+		<if cond="mod_loaded('EFTX_Pack_Slow_Progress') or mod_loaded('EFTX_Pack_Standard') and not mod_loaded('zz_REBIRTH__Core') and not mod_loaded('zzz_EFTX_Pack_Rebirth')">
 		<append xpath="//lootcontainer[@name='EFTXMilitaryPallet']">
 			<item group="groupExtractionMilitaryFood" count="1" loot_prob_template="low"/>
 			<item group="groupExtractionMilitaryDrink" count="1" loot_prob_template="low"/>	
-		</append>
-		<conditional>
-		<if cond="mod_loaded('EFTX_Pack_Slow_Progress') or mod_loaded('EFTX_Pack_Standard') and not mod_loaded('zz_REBIRTH__Core') and not mod_loaded('zzz_EFTX_Pack_Rebirth')">
+		</append>		
 		<append xpath="//lootgroup[@name='groupSoldier']">
 			<item name="schematicsAlcoholics" count="1" loot_prob_template="low"/>
 			<item group="groupExtractionMilitaryConsumables" count="1" loot_prob_template="low"/>	

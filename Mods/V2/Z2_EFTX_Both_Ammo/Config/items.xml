@@ -388,7 +388,7 @@
 			<property name="CustomIcon" value="bundleAmmoBox"/>
 			<property name="ItemTypeIcon" value="bundle"/>
 			<property name="Stacknumber" value="1"/>
-			<property name="DescriptionKey" value="bundleAmmoBoxGroupDesc"/>
+			<property name="DescriptionKey" value="bundleAmmoBoxT1AmmoDesc"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
 			<property class="Action0">
@@ -406,7 +406,7 @@
 			<property name="CustomIcon" value="bundleAmmoBox"/>
 			<property name="ItemTypeIcon" value="bundle"/>
 			<property name="Stacknumber" value="1"/>
-			<property name="DescriptionKey" value="bundleAmmoBoxGroupDesc"/>
+			<property name="DescriptionKey" value="bundleAmmoBoxT2AmmoDesc"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
 			<property class="Action0">
@@ -424,7 +424,7 @@
 			<property name="CustomIcon" value="bundleAmmoBox"/>
 			<property name="ItemTypeIcon" value="bundle"/>
 			<property name="Stacknumber" value="1"/>
-			<property name="DescriptionKey" value="bundleAmmoBoxGroupDesc"/>
+			<property name="DescriptionKey" value="bundleAmmoBoxT3AmmoDesc"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
 			<property class="Action0">
@@ -481,7 +481,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft54539AP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft54539APDesc"/>
 			<property name="Unlocks" value="ammoEft54539AP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft54539AP" operation="set" value="1"/>
@@ -492,7 +492,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft54539HP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft54539HPDesc"/>
 			<property name="Unlocks" value="ammoEft54539HP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft54539HP" operation="set" value="1"/>
@@ -503,7 +503,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft55645NATOAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft55645NATOAPDesc"/>
 			<property name="Unlocks" value="ammoEft55645NATOAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft55645NATOAP" operation="set" value="1"/>
@@ -514,7 +514,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft55645NATOHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft55645NATOHPDesc"/>
 			<property name="Unlocks" value="ammoEft55645NATOHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft55645NATOHP" operation="set" value="1"/>
@@ -525,7 +525,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft300BblkAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft300BblkAPDesc"/>
 			<property name="Unlocks" value="ammoEft300BblkAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft300BblkAP" operation="set" value="1"/>
@@ -536,7 +536,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft300blkHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft300blkHPDesc"/>
 			<property name="Unlocks" value="ammoEft300blkHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft300blkHP" operation="set" value="1"/>
@@ -547,7 +547,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft76239AP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft76239APDesc"/>
 			<property name="Unlocks" value="ammoEft76239AP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft76239AP" operation="set" value="1"/>
@@ -558,7 +558,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft76239HP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft76239HPDesc"/>
 			<property name="Unlocks" value="ammoEft76239HP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft76239HP" operation="set" value="1"/>
@@ -569,7 +569,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft939AP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft939APDesc"/>
 			<property name="Unlocks" value="ammoEft939AP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft939AP" operation="set" value="1"/>
@@ -580,7 +580,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft939HP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft939HPDesc"/>
 			<property name="Unlocks" value="ammoEft939HP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft939HP" operation="set" value="1"/>
@@ -591,7 +591,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft76251NATOAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft76251NATOAPDesc"/>
 			<property name="Unlocks" value="ammoEft76251NATOAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft76251NATOAP" operation="set" value="1"/>
@@ -602,7 +602,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft76251NATOHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft76251NATOHPDesc"/>
 			<property name="Unlocks" value="ammoEft76251NATOHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft76251NATOHP" operation="set" value="1"/>
@@ -613,7 +613,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft76254RAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft76254RAPDesc"/>
 			<property name="Unlocks" value="ammoEft76254RAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft76254RAP" operation="set" value="1"/>
@@ -624,7 +624,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft76254RHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft76254RHPDesc"/>
 			<property name="Unlocks" value="ammoEft76254RHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft76254RHP" operation="set" value="1"/>
@@ -635,7 +635,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft12755PS12A"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft12755PS12ADesc"/>
 			<property name="Unlocks" value="ammoEft12755PS12A"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft12755PS12A" operation="set" value="1"/>
@@ -646,7 +646,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft12755PS12B"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft12755PS12BDesc"/>
 			<property name="Unlocks" value="ammoEft12755PS12B"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft12755PS12B" operation="set" value="1"/>
@@ -657,7 +657,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft338AP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft338APDesc"/>
 			<property name="Unlocks" value="ammoEft338AP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft338AP" operation="set" value="1"/>
@@ -668,7 +668,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft338HP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft338HPDesc"/>
 			<property name="Unlocks" value="ammoEft338HP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft338HP" operation="set" value="1"/>
@@ -679,7 +679,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft919mmAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft919mmAPDesc"/>
 			<property name="Unlocks" value="ammoEft919mmAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft919mmAP" operation="set" value="1"/>
@@ -690,7 +690,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft919mmHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft919mmHPDesc"/>
 			<property name="Unlocks" value="ammoEft919mmHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft919mmHP" operation="set" value="1"/>
@@ -701,7 +701,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft921mmAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft921mmAPDesc"/>
 			<property name="Unlocks" value="ammoEft921mmAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft921mmAP" operation="set" value="1"/>
@@ -712,7 +712,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft921mmHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft921mmHPDesc"/>
 			<property name="Unlocks" value="ammoEft921mmHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft921mmHP" operation="set" value="1"/>
@@ -723,7 +723,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft45ACPAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft45ACPAPDesc"/>
 			<property name="Unlocks" value="ammoEft45ACPAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft45ACPAP" operation="set" value="1"/>
@@ -734,7 +734,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft45ACPRIP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft45ACPRIPDesc"/>
 			<property name="Unlocks" value="ammoEft45ACPRIP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft45ACPRIP" operation="set" value="1"/>
@@ -745,7 +745,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft4630mmHKAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft4630mmHKAPDesc"/>
 			<property name="Unlocks" value="ammoEft4630mmHKAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft4630mmHKAP" operation="set" value="1"/>
@@ -756,7 +756,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft4630mmHKHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft4630mmHKHPDesc"/>
 			<property name="Unlocks" value="ammoEft4630mmHKHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft4630mmHKHP" operation="set" value="1"/>
@@ -767,7 +767,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft5728FNAP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft5728FNAPDesc"/>
 			<property name="Unlocks" value="ammoEft5728FNAP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft5728FNAP" operation="set" value="1"/>
@@ -778,10 +778,21 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft5728FNHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEft5728FNHPDesc"/>
 			<property name="Unlocks" value="ammoEft5728FNHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft5728FNHP" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+			</effect_group>
+		</item>
+		<item name="schematicsammoEft50ae">
+			<property name="Extends" value="schematicNoQualityMaster"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="ammoEft50ae"/>
+			<property name="DescriptionKey" value="schematicsammoEft50aeDesc"/>
+			<property name="Unlocks" value="ammoEft50ae"/>
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft50ae" operation="set" value="1"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
 			</effect_group>
 		</item>
@@ -789,7 +800,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEft50aeHP"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsammoEft50aeHPDesc"/>
 			<property name="Unlocks" value="ammoEft50aeHP"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEft50aeHP" operation="set" value="1"/>
@@ -800,7 +811,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEftFlechetteShotgun"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEftFlechetteShotgunDesc"/>
 			<property name="Unlocks" value="ammoEftFlechetteShotgun"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftFlechetteShotgun" operation="set" value="1"/>
@@ -811,7 +822,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEftAP20Slug"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEftAP20SlugDesc"/>
 			<property name="Unlocks" value="ammoEftAP20Slug"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftAP20Slug" operation="set" value="1"/>
@@ -822,7 +833,7 @@
 			<property name="Extends" value="schematicNoQualityMaster"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="ammoEftBarricadeSlug"/>
-			<property name="DescriptionKey" value="schematicsEftGunGeneralDesc"/>
+			<property name="DescriptionKey" value="schematicsAmmoEftBarricadeSlugDesc"/>
 			<property name="Unlocks" value="ammoEftBarricadeSlug"/>
 			<effect_group tiered="false">
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="ammoEftBarricadeSlug" operation="set" value="1"/>
@@ -2903,7 +2914,7 @@
 			<property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons"/>
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
-			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumDesc"/>
+			<property name="DescriptionKey" value="ammoEft338Desc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1200" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
@@ -2942,7 +2953,7 @@
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
 			<property name="UnlockedBy" value="schematicsAmmoEft338AP,perkSniperAPAmmo"/>
-			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumAPDesc"/>
+			<property name="DescriptionKey" value="ammoEft338APDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1250" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>
@@ -2983,7 +2994,7 @@
 			<property name="SoundPickup" value="bullets_grab"/>
 			<property name="SoundPlace" value="bullets_place"/>
 			<property name="UnlockedBy" value="schematicsAmmoEft338HP,perkSniperHPAmmo"/>
-			<property name="DescriptionKey" value="ammoEft338LAPUAmagnumHPDesc"/>
+			<property name="DescriptionKey" value="ammoEft338HPDesc"/>
 			<effect_group name="ammo" tiered="false">
 				<passive_effect name="MaxRange" operation="base_set" value="1100" tags="perkDeadEye,perkMachineGunner"/>
 				<passive_effect name="DamageFalloffRange" operation="base_set" value="0" tags="perkDeadEye,perkMachineGunner"/>

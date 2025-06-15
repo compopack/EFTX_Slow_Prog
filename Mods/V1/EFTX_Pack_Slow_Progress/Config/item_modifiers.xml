@@ -1188,7 +1188,7 @@
 		</item_modifier>
 		<item_modifier name="modscopeleupolddeltapointcanted" installable_tags="CantedSight" modifier_tags="CantedScope" blocked_tags="noCantedSight" type="attachment">
 			<property name="Extends" value="modGeneralMaster" param1="CustomIcon"/>
-			<property name="CustomIcon" value="modscopeleupolddeltapoint"/>
+			<property name="CustomIcon" value="modscopeleupolddeltapointcanted"/>
 			<property name="TraderStageTemplate" value="modsTier2"/>
 			<property name="EconomicValue" value="390"/>
 			<property name="UnlockedBy" value="craftingScopes"/>						
@@ -5030,18 +5030,13 @@
 			<property name="Extends" value="modGeneralMaster" param1="CustomIcon"/>
 			<property name="TraderStageTemplate" value="modsTier4"/>
 			<property name="EconomicValue" value="5950"/>
-			<property name="UnlockedBy" value="craftingSilencers"/>
+			<!--property name="UnlockedBy" value="craftingWeaponModifier"/-->
 			<effect_group tiered="false" name="internal attachment prefab (A19)">
 				<triggered_effect trigger="onSelfHoldingItemAssemble" action="AttachPrefabToHeldItem" prefab="#@modfolder(EFTX_Pack_Core):Resources/EFTMuzzleDevices.unity3d?silencer_hexagon_ak_762x39and545x39.prefab" parent_transform="mod_muzzle2" local_rotation="90,0,0"/>
-					<requirement name="HoldingItemHasTags" tags="akmnonly,ak103only"/>
-			</effect_group>
-			<effect_group tiered="false" name="internal attachment prefab (A19)">
-				<triggered_effect trigger="onSelfHoldingItemAssemble" action="AttachPrefabToHeldItem" prefab="#@modfolder(EFTX_Pack_Core):Resources/EFTMuzzleDevices.unity3d?silencer_hexagon_ak_762x39and545x39.prefab" parent_transform="mod_muzzle" local_rotation="90,0,0"/>
-					<requirement name="!HoldingItemHasTags" tags="akmnonly,ak103only"/>
 					<requirement name="!HoldingItemHasTags" tags="sksonly"/>
 			</effect_group>
 			<effect_group tiered="false" name="internal attachment prefab (A19)">
-				<triggered_effect trigger="onSelfHoldingItemAssemble" action="AttachPrefabToHeldItem" prefab="#@modfolder(EFTX_Pack_Core):Resources/EFTMuzzleDevices.unity3d?silencer_hexagon_sks_762x39.prefab" parent_transform="mod_muzzle" local_rotation="90,0,0"/>
+				<triggered_effect trigger="onSelfHoldingItemAssemble" action="AttachPrefabToHeldItem" prefab="#@modfolder(EFTX_Pack_Core):Resources/EFTMuzzleDevices.unity3d?silencer_hexagon_sks_762x39.prefab" parent_transform="mod_muzzle_sks" local_rotation="90,0,0"/>
 					<requirement name="HoldingItemHasTags" tags="sksonly"/>
 			</effect_group>
 			<effect_group tiered="false" name="internal attachment prefab (A19)">
@@ -5104,7 +5099,6 @@
 				<passive_effect name="DegradationPerUse" operation="perc_add" value=".25"/>
 			</effect_group>
 		</item_modifier>
-
 		<!-- *** 5.45x39 (AK12) -->
 		<item_modifier name="modsilencerak12std" installable_tags="ak12only" modifier_tags="barrelAttachment" blocked_tags="noMods" type="attachment"> <!-- T4 -->
 			<property name="Extends" value="modGeneralMaster" param1="CustomIcon"/>

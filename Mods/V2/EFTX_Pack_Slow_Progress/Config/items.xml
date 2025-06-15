@@ -14,7 +14,7 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Msteel"/>
 			<property name="Stacknumber" value="25"/>
-			<property name="EconomicValue" value="250"/>
+			<property name="EconomicValue" value="400"/>
 			<property name="RepairTime" value="100"/>
 			<property name="RepairAmount" value="5000"/>
 			<property name="RepairExpMultiplier" value="10"/>
@@ -30,8 +30,8 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="ItemTypeIcon" value="gunsmithing"/>
 			<property name="Material" value="MMachineGunParts"/>
-			<property name="Stacknumber" value="500"/>
-			<property name="EconomicValue" value="750"/>
+			<property name="Stacknumber" value="50"/>
+			<property name="EconomicValue" value="500"/>
 			<property name="EconomicBundleSize" value="1"/>
 			<property name="Group" value="Resources"/>
 			<property name="CraftingIngredientTime" value="50"/>
@@ -44,8 +44,8 @@
 			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="MresourceScrapIron"/>
-			<property name="Stacknumber" value="500"/>
-			<property name="EconomicValue" value="500"/>
+			<property name="Stacknumber" value="50"/>
+			<property name="EconomicValue" value="250"/>
 			<property name="EconomicBundleSize" value="1"/>
 			<property name="Group" value="Resources"/>
 			<property name="CraftingIngredientTime" value="60"/>
@@ -74,7 +74,7 @@
 			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="MresourceScrapIron"/>
 			<property name="Stacknumber" value="25"/>
-			<property name="EconomicValue" value="2500"/>
+			<property name="EconomicValue" value="750"/>
 			<property name="EconomicBundleSize" value="1"/>
 			<property name="Group" value="Resources"/>
 			<property name="CraftingIngredientTime" value="60"/>

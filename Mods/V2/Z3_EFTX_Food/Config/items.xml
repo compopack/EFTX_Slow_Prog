@@ -803,7 +803,7 @@
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="10"/>
 			<property name="EconomicValue" value="119"/>
-			<property name="UnlockedBy" value="craftingAlcoholics"/>
+			<property name="UnlockedBy" value="schematicsAlcoholics"/>
 			<property name="DisplayType" value="liquorPevkoBeer"/>
 			<property name="Group" value="Food/Cooking,CFDrink/Cooking,Medical"/>
 			<property name="SoundPickup" value="jars_grab"/>
@@ -837,7 +837,7 @@
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="10"/>
 			<property name="EconomicValue" value="288"/>
-			<property name="UnlockedBy" value="craftingAlcoholics"/>
+			<property name="UnlockedBy" value="schematicsAlcoholics"/>
 			<property name="DisplayType" value="liquorVodka"/>
 			<property name="Group" value="Food/Cooking,CFDrink/Cooking,Medical"/>
 			<property name="SoundPickup" value="grandpas_awesome_grab"/>
@@ -870,7 +870,7 @@
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="10"/>
 			<property name="EconomicValue" value="286"/>
-			<property name="UnlockedBy" value="craftingAlcoholics"/>
+			<property name="UnlockedBy" value="schematicsAlcoholics"/>
 			<property name="DisplayType" value="liquorVodka"/>
 			<property name="Group" value="Food/Cooking,CFDrink/Cooking,Medical"/>
 			<property name="SoundPickup" value="grandpas_fergitn_grab"/>
@@ -903,7 +903,7 @@
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="10"/>
 			<property name="EconomicValue" value="500"/>
-			<property name="UnlockedBy" value="craftingAlcoholics"/>
+			<property name="UnlockedBy" value="schematicsAlcoholics"/>
 			<!--property name="DisplayType" value="liquorMoonshine"/-->
 			<property name="Group" value="Food/Cooking,CFDrink/Cooking,Medical"/>
 			<property name="SoundPickup" value="grandpas_moonshine_grab"/>
@@ -927,7 +927,7 @@
 			<property name="Material" value="Mglass"/>
 			<property name="Stacknumber" value="50"/>
 			<property name="EconomicValue" value="199"/>
-			<property name="UnlockedBy" value="craftingAlcoholics"/>
+			<property name="UnlockedBy" value="schematicsAlcoholics"/>
 			<property name="DisplayType" value="waterGoldenrodRedTea"/>
 			<property name="Group" value="Food/Cooking,CFDrink/Cooking,Medical"/>
 			<property name="SoundPickup" value="jars_grab"/>
