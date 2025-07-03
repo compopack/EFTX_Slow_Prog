@@ -1,0 +1,16 @@
+<configs>
+<!-- NURSE -->
+	<append xpath="/entity_classes/entity_class[@name='zombieNurse']" >
+		<property name="LootListOnDeath" value="groupZombieNurse"/>
+		<property name="TimeStayAfterDeath" value="90"/>
+	</append>
+	<append xpath="/entity_classes/entity_class[@name='zombieNurseFeral']" >
+		<property name="LootListOnDeath" value="groupZombieNurseFeral"/>
+		<property name="TimeStayAfterDeath" value="90"/>
+	</append>
+	<append xpath="/entity_classes/entity_class[@name='zombieNurseRadiated']" >
+		<property name="LootListOnDeath" value="groupZombieNurseRadiated"/>
+		<property name="TimeStayAfterDeath" value="90"/>
+	</append>
+<!-- NURSE -->
+</configs>
