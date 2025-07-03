@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Extraction>
-<set xpath="//reward[@id='groupQuestAmmoCraftingBundle']/@id">groupAmmoBox</set>
-
-<setattribute xpath="//quest[@id='quest_reward_lumberjack_zombie_slayer']/reward[@type='Item' and @id='thrownGrenade']" name="id">GrenadeM67</setattribute>
-<setattribute xpath="//quest[@id='quest_reward_lumberjack_zombie_slayer']/reward[@type='Item' and @id='thrownGrenadeContact']" name="id">GrenadeImpactRGN</setattribute>
-</Extraction>
